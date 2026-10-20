@@ -9,7 +9,7 @@ Claude Code에게: 체크 안 된 첫 단계부터 **한 단계씩** 진행하�
 ## Phase 1 — 저장소 만들기
 - [x] GitHub에 `ten-infosec/knowledge-daily` 저장소 생성 (Public)
 - [x] 이 폴더를 연결하고 첫 커밋·push
-- [ ] `.gitignore` (`.env`, `__pycache__/`, `.venv/`)
+- [x] `.gitignore` (`.env`, `__pycache__/`, `.venv/`)
 - [ ] 파이썬 가상환경(.venv) + `requirements.txt` (requests, feedparser)
 
 ## Phase 2 — 수집기 1개로 시작 (arXiv)
