@@ -1,0 +1,9 @@
+# ===== Secrets =====
+# API 키를 담는 로컬 환경변수 파일 (GitHub에는 Secrets로만 저장)
+.env
+
+# ===== Python =====
+# 파이썬이 실행할 때 자동으로 만드는 캐시 폴더
+__pycache__/
+# 로컬 가상환경 폴더 (requirements.txt로 언제든 다시 만들 수 있음)
+.venv/
