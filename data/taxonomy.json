@@ -1,0 +1,3089 @@
+[
+ {
+  "id": "KOR-01",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "공통국어1",
+  "keywords": "Korean language basics",
+  "tags": [
+   "공통"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-02",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "공통국어2",
+  "keywords": "Korean language basics",
+  "tags": [
+   "공통"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-03",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "화법과 언어",
+  "keywords": "speech and grammar",
+  "tags": [
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-04",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "독서와 작문",
+  "keywords": "reading and writing",
+  "tags": [
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-05",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "문학",
+  "keywords": "Korean literature",
+  "tags": [
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-06",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "주제 탐구 독서",
+  "keywords": "inquiry reading",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-07",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "문학과 영상",
+  "keywords": "literature and film",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-08",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "직무 의사소통",
+  "keywords": "workplace communication",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-09",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "독서 토론과 글쓰기",
+  "keywords": "reading debate writing",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-10",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "매체 의사소통",
+  "keywords": "media literacy",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KOR-11",
+  "tier": "고교 교과",
+  "area": "국어",
+  "topic": "언어생활 탐구",
+  "keywords": "language life inquiry",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-01",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "공통수학1",
+  "keywords": "polynomials equations",
+  "tags": [
+   "공통"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-02",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "공통수학2",
+  "keywords": "functions sets",
+  "tags": [
+   "공통"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-03",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "대수",
+  "keywords": "exponential logarithm sequences",
+  "tags": [
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-04",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "미적분Ⅰ",
+  "keywords": "differential integral calculus",
+  "tags": [
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-05",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "확률과 통계",
+  "keywords": "probability statistics",
+  "tags": [
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-06",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "미적분Ⅱ",
+  "keywords": "advanced calculus",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-07",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "기하",
+  "keywords": "vectors conic sections",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-08",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "경제 수학",
+  "keywords": "mathematical economics",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-09",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "인공지능 수학",
+  "keywords": "mathematics for AI",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": true
+ },
+ {
+  "id": "MTH-10",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "직무 수학",
+  "keywords": "applied mathematics work",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-11",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "수학과 문화",
+  "keywords": "mathematics culture",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-12",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "실용 통계",
+  "keywords": "practical statistics",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "MTH-13",
+  "tier": "고교 교과",
+  "area": "수학",
+  "topic": "수학과제 탐구",
+  "keywords": "math research project",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-01",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "공통영어1",
+  "keywords": "",
+  "tags": [
+   "공통"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-02",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "공통영어2",
+  "keywords": "",
+  "tags": [
+   "공통"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-03",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "영어Ⅰ",
+  "keywords": "",
+  "tags": [
+   "수능"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-04",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "영어Ⅱ",
+  "keywords": "",
+  "tags": [
+   "수능"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-05",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "영어 독해와 작문",
+  "keywords": "",
+  "tags": [
+   "일반"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-06",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "영미 문학 읽기",
+  "keywords": "English literature",
+  "tags": [
+   "진로"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-07",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "영어 발표와 토론",
+  "keywords": "presentation debate",
+  "tags": [
+   "진로"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-08",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "심화 영어",
+  "keywords": "",
+  "tags": [
+   "진로"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-09",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "심화 영어 독해와 작문",
+  "keywords": "",
+  "tags": [
+   "진로"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-10",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "직무 영어",
+  "keywords": "business English",
+  "tags": [
+   "진로"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-11",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "실생활 영어 회화",
+  "keywords": "",
+  "tags": [
+   "융합"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-12",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "미디어 영어",
+  "keywords": "media English",
+  "tags": [
+   "융합"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ENG-13",
+  "tier": "고교 교과",
+  "area": "영어",
+  "topic": "세계 문화와 영어",
+  "keywords": "",
+  "tags": [
+   "융합"
+  ],
+  "source": "영어 원서 · 해외 기사(영어 공부 겸용)",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-01",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "통합사회1",
+  "keywords": "integrated social studies",
+  "tags": [
+   "공통",
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-02",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "통합사회2",
+  "keywords": "integrated social studies",
+  "tags": [
+   "공통",
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-03",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "한국사1",
+  "keywords": "Korean history",
+  "tags": [
+   "공통",
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-04",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "한국사2",
+  "keywords": "Korean history",
+  "tags": [
+   "공통",
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-05",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "세계시민과 지리",
+  "keywords": "world geography citizenship",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-06",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "사회와 문화",
+  "keywords": "sociology culture",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-07",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "세계사",
+  "keywords": "world history",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-08",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "현대사회와 윤리",
+  "keywords": "modern ethics",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-09",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "한국지리 탐구",
+  "keywords": "Korean geography",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-10",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "도시의 미래 탐구",
+  "keywords": "future cities urban",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-11",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "동아시아 역사 기행",
+  "keywords": "East Asian history",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-12",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "정치",
+  "keywords": "politics",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-13",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "법과 사회",
+  "keywords": "law and society",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-14",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "경제",
+  "keywords": "economics",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-15",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "윤리와 사상",
+  "keywords": "ethics philosophy thought",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-16",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "인문학과 윤리",
+  "keywords": "humanities ethics",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": true
+ },
+ {
+  "id": "SOC-17",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "국제 관계의 이해",
+  "keywords": "international relations",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-18",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "여행지리",
+  "keywords": "travel geography",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-19",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "역사로 탐구하는 현대 세계",
+  "keywords": "modern world history",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-20",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "사회문제 탐구",
+  "keywords": "social problems",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-21",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "금융과 경제생활",
+  "keywords": "personal finance",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-22",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "윤리문제 탐구",
+  "keywords": "applied ethics",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SOC-23",
+  "tier": "고교 교과",
+  "area": "사회·역사·도덕",
+  "topic": "기후변화와 지속가능한 세계",
+  "keywords": "climate sustainability policy",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-01",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "통합과학1",
+  "keywords": "integrated science",
+  "tags": [
+   "공통",
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-02",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "통합과학2",
+  "keywords": "integrated science",
+  "tags": [
+   "공통",
+   "수능"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-03",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "과학탐구실험1",
+  "keywords": "science lab inquiry",
+  "tags": [
+   "공통"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-04",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "과학탐구실험2",
+  "keywords": "science lab inquiry",
+  "tags": [
+   "공통"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-05",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "물리학",
+  "keywords": "physics",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-06",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "화학",
+  "keywords": "chemistry",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-07",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "생명과학",
+  "keywords": "biology",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-08",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "지구과학",
+  "keywords": "earth science",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-09",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "역학과 에너지",
+  "keywords": "mechanics energy",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-10",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "전자기와 양자",
+  "keywords": "electromagnetism quantum",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": true
+ },
+ {
+  "id": "SCI-11",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "물질과 에너지",
+  "keywords": "matter energy chemistry",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-12",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "화학 반응의 세계",
+  "keywords": "chemical reactions",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-13",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "세포와 물질대사",
+  "keywords": "cell metabolism",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-14",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "생물의 유전",
+  "keywords": "genetics heredity",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-15",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "지구시스템과학",
+  "keywords": "earth system science",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-16",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "행성우주과학",
+  "keywords": "planetary space science",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": true
+ },
+ {
+  "id": "SCI-17",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "과학의 역사와 문화",
+  "keywords": "history of science",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-18",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "기후변화와 환경생태",
+  "keywords": "climate ecology",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "SCI-19",
+  "tier": "고교 교과",
+  "area": "과학",
+  "topic": "융합과학 탐구",
+  "keywords": "convergence science inquiry",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "TEC-01",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "정보",
+  "keywords": "informatics programming",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "TEC-02",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "인공지능 기초",
+  "keywords": "AI fundamentals",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "TEC-03",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "데이터 과학",
+  "keywords": "data science",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "TEC-04",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "소프트웨어와 생활",
+  "keywords": "software everyday life",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "TEC-05",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "기술·가정",
+  "keywords": "technology home economics",
+  "tags": [
+   "일반"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "TEC-06",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "로봇과 공학세계",
+  "keywords": "robotics engineering",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "TEC-07",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "생활과학 탐구",
+  "keywords": "applied life science",
+  "tags": [
+   "진로"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "TEC-08",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "창의 공학 설계",
+  "keywords": "engineering design",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "TEC-09",
+  "tier": "고교 교과",
+  "area": "정보·기술·가정",
+  "topic": "지식 재산 일반",
+  "keywords": "intellectual property patents",
+  "tags": [
+   "융합"
+  ],
+  "source": "교과서 개념 · EBS · 평가원 자료",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-01",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "프랑스어",
+  "keywords": "French",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": true
+ },
+ {
+  "id": "FLG-02",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "독일어",
+  "keywords": "German",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-03",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "스페인어",
+  "keywords": "Spanish",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-04",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "중국어",
+  "keywords": "Chinese",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-05",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "일본어",
+  "keywords": "Japanese",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-06",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "러시아어",
+  "keywords": "Russian",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-07",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "아랍어",
+  "keywords": "Arabic",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-08",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "베트남어",
+  "keywords": "Vietnamese",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "FLG-09",
+  "tier": "고교 교과",
+  "area": "제2외국어·한문",
+  "topic": "한문",
+  "keywords": "classical Chinese",
+  "tags": [
+   "일반"
+  ],
+  "source": "원어 뉴스 · 교재",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-01",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "음악",
+  "keywords": "music",
+  "tags": [
+   "일반"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-02",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "미술",
+  "keywords": "art",
+  "tags": [
+   "일반"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-03",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "체육",
+  "keywords": "physical education",
+  "tags": [
+   "일반"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-04",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "철학",
+  "keywords": "philosophy",
+  "tags": [
+   "교양"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": true
+ },
+ {
+  "id": "ART-05",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "논리학",
+  "keywords": "logic",
+  "tags": [
+   "교양"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-06",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "심리학",
+  "keywords": "psychology",
+  "tags": [
+   "교양"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-07",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "교육학",
+  "keywords": "education",
+  "tags": [
+   "교양"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-08",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "보건",
+  "keywords": "health",
+  "tags": [
+   "교양"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "ART-09",
+  "tier": "고교 교과",
+  "area": "예체능·교양",
+  "topic": "진로와 직업",
+  "keywords": "career",
+  "tags": [
+   "교양"
+  ],
+  "source": "교양서 · 강연",
+  "freq": "월 1회",
+  "star": false
+ },
+ {
+  "id": "KSN-01",
+  "tier": "연구 분과(KSEF)",
+  "area": "자연과학 N",
+  "topic": "N1 물리학",
+  "keywords": "physics research",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSN-02",
+  "tier": "연구 분과(KSEF)",
+  "area": "자연과학 N",
+  "topic": "N2 생물학",
+  "keywords": "biology research",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSN-03",
+  "tier": "연구 분과(KSEF)",
+  "area": "자연과학 N",
+  "topic": "N3 수학",
+  "keywords": "mathematics research",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSN-04",
+  "tier": "연구 분과(KSEF)",
+  "area": "자연과학 N",
+  "topic": "N4 지구과학",
+  "keywords": "earth science research",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSN-05",
+  "tier": "연구 분과(KSEF)",
+  "area": "자연과학 N",
+  "topic": "N5 화학",
+  "keywords": "chemistry research",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSA-01",
+  "tier": "연구 분과(KSEF)",
+  "area": "응용과학 A",
+  "topic": "A1 공학",
+  "keywords": "engineering",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSA-02",
+  "tier": "연구 분과(KSEF)",
+  "area": "응용과학 A",
+  "topic": "A2 로봇/인공지능",
+  "keywords": "robotics artificial intelligence",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KSA-03",
+  "tier": "연구 분과(KSEF)",
+  "area": "응용과학 A",
+  "topic": "A3 에너지/재료공학",
+  "keywords": "energy materials engineering",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSA-04",
+  "tier": "연구 분과(KSEF)",
+  "area": "응용과학 A",
+  "topic": "A4 응용생명과학",
+  "keywords": "applied life science",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSA-05",
+  "tier": "연구 분과(KSEF)",
+  "area": "응용과학 A",
+  "topic": "A5 의학/건강",
+  "keywords": "medicine health",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KSA-06",
+  "tier": "연구 분과(KSEF)",
+  "area": "응용과학 A",
+  "topic": "A6 시스템/SW",
+  "keywords": "systems software",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KSA-07",
+  "tier": "연구 분과(KSEF)",
+  "area": "응용과학 A",
+  "topic": "A7 환경공학",
+  "keywords": "environmental engineering",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSC-01",
+  "tier": "연구 분과(KSEF)",
+  "area": "융합과학 C",
+  "topic": "C1 발명/디자인",
+  "keywords": "invention design",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "KSC-02",
+  "tier": "연구 분과(KSEF)",
+  "area": "융합과학 C",
+  "topic": "C2 (스크린샷에서 잘림 · 확인 필요)",
+  "keywords": "",
+  "tags": [
+   "KSEF"
+  ],
+  "source": "ISEF/KSEF 수상작 · 청소년 연구논문",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "QNT-01",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "초전도 큐비트 양자컴퓨터",
+  "keywords": "superconducting qubit quantum processor",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "QNT-02",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "이온트랩 양자컴퓨터",
+  "keywords": "trapped ion quantum computing",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "QNT-03",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "중성원자 양자컴퓨터",
+  "keywords": "neutral atom quantum computer",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "QNT-04",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "광자 양자컴퓨터",
+  "keywords": "photonic quantum computing",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "QNT-05",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "양자 오류정정",
+  "keywords": "quantum error correction logical qubit",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "QNT-06",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "양자 알고리즘",
+  "keywords": "quantum algorithm Shor Grover VQE",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "QNT-07",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "양자 소프트웨어(Qiskit 등)",
+  "keywords": "Qiskit quantum software",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "QNT-08",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "양자 센싱·계측",
+  "keywords": "quantum sensing metrology",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "QNT-09",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "양자 통신·QKD",
+  "keywords": "quantum key distribution BB84",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "QNT-10",
+  "tier": "미래기술",
+  "area": "양자",
+  "topic": "양자 인터넷·양자 중계기",
+  "keywords": "quantum internet repeater",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv quant-ph · 기술 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-01",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "RSA·정수론 암호",
+  "keywords": "RSA cryptography integer factorization",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SEC-02",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "타원곡선 암호",
+  "keywords": "elliptic curve cryptography",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-03",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "양자내성암호(PQC·NIST)",
+  "keywords": "post-quantum cryptography NIST ML-KEM",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SEC-04",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "K-PQC(한국형 양자내성암호)",
+  "keywords": "KpqC Korean post-quantum",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SEC-05",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "격자 기반 암호",
+  "keywords": "lattice-based cryptography",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SEC-06",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "동형암호",
+  "keywords": "homomorphic encryption",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-07",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "영지식 증명",
+  "keywords": "zero-knowledge proof",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-08",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "제로트러스트 보안",
+  "keywords": "zero trust architecture",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-09",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "AI 보안·LLM 공격",
+  "keywords": "LLM security prompt injection",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-10",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "클라우드 보안",
+  "keywords": "cloud security",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-11",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "디지털 포렌식",
+  "keywords": "digital forensics",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-12",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "소프트웨어 공급망 보안",
+  "keywords": "software supply chain security",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SEC-13",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "의료기기·의료정보 보안",
+  "keywords": "medical device cybersecurity",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SEC-14",
+  "tier": "미래기술",
+  "area": "암호·사이버보안",
+  "topic": "블록체인·예금토큰",
+  "keywords": "blockchain deposit token CBDC",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SPC-01",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "소형위성·큐브샛",
+  "keywords": "CubeSat small satellite",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SPC-02",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "저궤도 위성통신(LEO)",
+  "keywords": "LEO satellite constellation Starlink",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SPC-03",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "위성 사이버보안",
+  "keywords": "satellite cybersecurity space security",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SPC-04",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "우주 상황인식(SSA)·우주쓰레기",
+  "keywords": "space situational awareness debris",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "SPC-05",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "발사체",
+  "keywords": "launch vehicle reusable rocket",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SPC-06",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "달·심우주 탐사",
+  "keywords": "lunar exploration deep space mission",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SPC-07",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "지구관측·원격탐사",
+  "keywords": "earth observation remote sensing",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SPC-08",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "위성항법(GNSS·KPS)",
+  "keywords": "GNSS KPS satellite navigation",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SPC-09",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "우주 날씨",
+  "keywords": "space weather",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "SPC-10",
+  "tier": "미래기술",
+  "area": "우주항공·위성",
+  "topic": "해양 탐사·심해 기술",
+  "keywords": "deep sea ocean technology",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "BCI-01",
+  "tier": "미래기술",
+  "area": "뇌-컴퓨터 인터페이스",
+  "topic": "침습형 BCI(뇌 이식 전극)",
+  "keywords": "invasive brain-computer interface implant",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv q-bio.NC · eess.SP · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "BCI-02",
+  "tier": "미래기술",
+  "area": "뇌-컴퓨터 인터페이스",
+  "topic": "비침습형 BCI(EEG)",
+  "keywords": "EEG non-invasive BCI",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv q-bio.NC · eess.SP · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "BCI-03",
+  "tier": "미래기술",
+  "area": "뇌-컴퓨터 인터페이스",
+  "topic": "신경 디코딩(뇌 신호 해석)",
+  "keywords": "neural decoding",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv q-bio.NC · eess.SP · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "BCI-04",
+  "tier": "미래기술",
+  "area": "뇌-컴퓨터 인터페이스",
+  "topic": "신경 보철·재활",
+  "keywords": "neuroprosthetics rehabilitation",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv q-bio.NC · eess.SP · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "BCI-05",
+  "tier": "미래기술",
+  "area": "뇌-컴퓨터 인터페이스",
+  "topic": "뇌 자극(DBS·TMS)",
+  "keywords": "deep brain stimulation TMS",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv q-bio.NC · eess.SP · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "BCI-06",
+  "tier": "미래기술",
+  "area": "뇌-컴퓨터 인터페이스",
+  "topic": "뉴로모픽 칩",
+  "keywords": "neuromorphic computing",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv q-bio.NC · eess.SP · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "BCI-07",
+  "tier": "미래기술",
+  "area": "뇌-컴퓨터 인터페이스",
+  "topic": "신경윤리",
+  "keywords": "neuroethics",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv q-bio.NC · eess.SP · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "AI-01",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "대규모 언어모델(LLM)",
+  "keywords": "large language model",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "AI-02",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "AI 에이전트",
+  "keywords": "AI agent tool use",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "AI-03",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "RAG(검색 증강 생성)",
+  "keywords": "retrieval augmented generation",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "AI-04",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "멀티모달 AI",
+  "keywords": "multimodal model vision language",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "AI-05",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "피지컬 AI(로봇 파운데이션 모델)",
+  "keywords": "physical AI embodied foundation model",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "AI-06",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "의료 영상 AI",
+  "keywords": "medical imaging deep learning",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "AI-07",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "의료 멀티모달·EHR AI",
+  "keywords": "clinical multimodal EHR AI",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "AI-08",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "수의 AI",
+  "keywords": "veterinary AI",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": true
+ },
+ {
+  "id": "AI-09",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "온디바이스 AI",
+  "keywords": "on-device edge AI",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "AI-10",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "AI 안전·정렬",
+  "keywords": "AI safety alignment",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "AI-11",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "강화학습",
+  "keywords": "reinforcement learning",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "AI-12",
+  "tier": "미래기술",
+  "area": "인공지능",
+  "topic": "AI 반도체",
+  "keywords": "AI accelerator NPU",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
+  "freq": "매일",
+  "star": false
+ },
+ {
+  "id": "ROB-01",
+  "tier": "미래기술",
+  "area": "첨단로봇·제조",
+  "topic": "휴머노이드 로봇",
+  "keywords": "humanoid robot",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.RO · 로봇 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ROB-02",
+  "tier": "미래기술",
+  "area": "첨단로봇·제조",
+  "topic": "협동로봇",
+  "keywords": "collaborative robot cobot",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.RO · 로봇 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ROB-03",
+  "tier": "미래기술",
+  "area": "첨단로봇·제조",
+  "topic": "로봇 조작(매니퓰레이션)",
+  "keywords": "robot manipulation learning",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.RO · 로봇 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ROB-04",
+  "tier": "미래기술",
+  "area": "첨단로봇·제조",
+  "topic": "자율 이동 로봇",
+  "keywords": "autonomous mobile robot navigation",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.RO · 로봇 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ROB-05",
+  "tier": "미래기술",
+  "area": "첨단로봇·제조",
+  "topic": "수술·의료 로봇",
+  "keywords": "surgical robot",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.RO · 로봇 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ROB-06",
+  "tier": "미래기술",
+  "area": "첨단로봇·제조",
+  "topic": "스마트팩토리·디지털 트윈",
+  "keywords": "smart factory digital twin",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.RO · 로봇 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ROB-07",
+  "tier": "미래기술",
+  "area": "첨단로봇·제조",
+  "topic": "3D 프린팅·적층제조",
+  "keywords": "additive manufacturing",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv cs.RO · 로봇 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "NUC-01",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "토카막 핵융합(KSTAR·ITER)",
+  "keywords": "tokamak fusion KSTAR ITER",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "NUC-02",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "플라즈마 물리",
+  "keywords": "plasma physics confinement",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "NUC-03",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "관성 핵융합(레이저)",
+  "keywords": "inertial confinement fusion NIF",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "NUC-04",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "스텔러레이터",
+  "keywords": "stellarator",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "NUC-05",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "민간 핵융합 스타트업",
+  "keywords": "fusion energy startup",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "NUC-06",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "핵융합 소재(블랭킷·디버터)",
+  "keywords": "fusion materials divertor blanket",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "NUC-07",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "소형모듈원자로(SMR)",
+  "keywords": "small modular reactor",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "NUC-08",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "4세대 원자로",
+  "keywords": "generation IV reactor",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "NUC-09",
+  "tier": "미래기술",
+  "area": "차세대 원자력·핵융합",
+  "topic": "사용후핵연료·원전 해체",
+  "keywords": "spent nuclear fuel decommissioning",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "SEM-01",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "첨단 패키징(HBM·칩렛)",
+  "keywords": "advanced packaging HBM chiplet",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "SEM-02",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "차세대 메모리(PIM·MRAM)",
+  "keywords": "processing-in-memory MRAM",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "SEM-03",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "미세공정(GAA·EUV)",
+  "keywords": "GAA EUV lithography",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "SEM-04",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "화합물 전력반도체(SiC·GaN)",
+  "keywords": "SiC GaN power semiconductor",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "SEM-05",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "차세대 디스플레이(마이크로LED)",
+  "keywords": "microLED display",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BAT-01",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "전고체전지",
+  "keywords": "solid-state battery",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BAT-02",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "리튬금속·리튬황 전지",
+  "keywords": "lithium metal lithium sulfur battery",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BAT-03",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "나트륨이온 전지",
+  "keywords": "sodium-ion battery",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BAT-04",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "배터리 관리·수명 예측",
+  "keywords": "battery management state of health",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BAT-05",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "배터리 재활용",
+  "keywords": "battery recycling",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MOB-01",
+  "tier": "미래기술",
+  "area": "첨단 모빌리티",
+  "topic": "자율주행",
+  "keywords": "autonomous driving",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MOB-02",
+  "tier": "미래기술",
+  "area": "첨단 모빌리티",
+  "topic": "도심항공교통(UAM)",
+  "keywords": "urban air mobility eVTOL",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MOB-03",
+  "tier": "미래기술",
+  "area": "첨단 모빌리티",
+  "topic": "소프트웨어 중심 차량(SDV)",
+  "keywords": "software defined vehicle",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MOB-04",
+  "tier": "미래기술",
+  "area": "첨단 모빌리티",
+  "topic": "전기차 충전",
+  "keywords": "EV charging",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MOB-05",
+  "tier": "미래기술",
+  "area": "첨단 모빌리티",
+  "topic": "차량 사이버보안",
+  "keywords": "automotive cybersecurity",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-01",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "합성생물학",
+  "keywords": "synthetic biology",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-02",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "유전자 편집(CRISPR)",
+  "keywords": "CRISPR gene editing",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-03",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "mRNA·차세대 백신",
+  "keywords": "mRNA vaccine",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-04",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "바이오파운드리",
+  "keywords": "biofoundry",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-05",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "오가노이드",
+  "keywords": "organoid",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-06",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "정밀의료·유전체",
+  "keywords": "precision medicine genomics",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BIO-07",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "디지털 헬스케어·웨어러블",
+  "keywords": "digital health wearable",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BIO-08",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "단백질 구조 예측·설계",
+  "keywords": "protein structure prediction design",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-09",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "노화·장수 과학",
+  "keywords": "aging longevity research",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "BIO-10",
+  "tier": "미래기술",
+  "area": "첨단바이오",
+  "topic": "난임·생식의학",
+  "keywords": "infertility IVF AI",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "bioRxiv · PubMed · 바이오 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ENE-01",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "수전해 수소 생산",
+  "keywords": "water electrolysis green hydrogen",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ENE-02",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "연료전지",
+  "keywords": "fuel cell",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ENE-03",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "수소 저장·운송",
+  "keywords": "hydrogen storage",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ENE-04",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "차세대 태양전지(페로브스카이트)",
+  "keywords": "perovskite solar cell",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ENE-05",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "풍력·해상풍력",
+  "keywords": "offshore wind",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ENE-06",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "에너지저장(ESS)",
+  "keywords": "grid energy storage",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ENE-07",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "탄소 포집(CCUS·DAC)",
+  "keywords": "carbon capture direct air capture",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "ENE-08",
+  "tier": "미래기술",
+  "area": "수소·에너지·기후",
+  "topic": "기후 모델링",
+  "keywords": "climate modeling",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "COM-01",
+  "tier": "미래기술",
+  "area": "차세대 통신",
+  "topic": "6G",
+  "keywords": "6G wireless",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "COM-02",
+  "tier": "미래기술",
+  "area": "차세대 통신",
+  "topic": "위성-지상 통합망(NTN)",
+  "keywords": "non-terrestrial network",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "COM-03",
+  "tier": "미래기술",
+  "area": "차세대 통신",
+  "topic": "오픈랜(Open RAN)",
+  "keywords": "Open RAN",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "COM-04",
+  "tier": "미래기술",
+  "area": "차세대 통신",
+  "topic": "테라헤르츠 통신",
+  "keywords": "terahertz communication",
+  "tags": [
+   "국가전략"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MAT-01",
+  "tier": "미래기술",
+  "area": "신소재·나노",
+  "topic": "초전도체",
+  "keywords": "superconductor",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MAT-02",
+  "tier": "미래기술",
+  "area": "신소재·나노",
+  "topic": "그래핀·2차원 소재",
+  "keywords": "graphene 2D materials",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MAT-03",
+  "tier": "미래기술",
+  "area": "신소재·나노",
+  "topic": "메타물질",
+  "keywords": "metamaterials",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MAT-04",
+  "tier": "미래기술",
+  "area": "신소재·나노",
+  "topic": "나노의학",
+  "keywords": "nanomedicine",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "MAT-05",
+  "tier": "미래기술",
+  "area": "신소재·나노",
+  "topic": "AI 기반 소재 탐색",
+  "keywords": "AI materials discovery",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "INF-01",
+  "tier": "미래기술",
+  "area": "인프라·플랫폼",
+  "topic": "클라우드·쿠버네티스",
+  "keywords": "cloud native kubernetes",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "INF-02",
+  "tier": "미래기술",
+  "area": "인프라·플랫폼",
+  "topic": "홈서버·자가호스팅",
+  "keywords": "self-hosting homelab",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "INF-03",
+  "tier": "미래기술",
+  "area": "인프라·플랫폼",
+  "topic": "리눅스·오픈소스",
+  "keywords": "Linux kernel open source",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "INF-04",
+  "tier": "미래기술",
+  "area": "인프라·플랫폼",
+  "topic": "XR·공간컴퓨팅",
+  "keywords": "spatial computing XR",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "INF-05",
+  "tier": "미래기술",
+  "area": "인프라·플랫폼",
+  "topic": "스마트시티",
+  "keywords": "smart city",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ },
+ {
+  "id": "INF-06",
+  "tier": "미래기술",
+  "area": "인프라·플랫폼",
+  "topic": "애그테크·배양육",
+  "keywords": "agtech cultured meat",
+  "tags": [
+   "프런티어"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": false
+ }
+]

@@ -1,0 +1,238 @@
+﻿id,계열,영역,주제,수집 키워드(영문),태그,수집처,주기,관심
+KOR-01,고교 교과,국어,공통국어1,Korean language basics,공통,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-02,고교 교과,국어,공통국어2,Korean language basics,공통,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-03,고교 교과,국어,화법과 언어,speech and grammar,수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-04,고교 교과,국어,독서와 작문,reading and writing,수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-05,고교 교과,국어,문학,Korean literature,수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-06,고교 교과,국어,주제 탐구 독서,inquiry reading,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-07,고교 교과,국어,문학과 영상,literature and film,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-08,고교 교과,국어,직무 의사소통,workplace communication,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-09,고교 교과,국어,독서 토론과 글쓰기,reading debate writing,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-10,고교 교과,국어,매체 의사소통,media literacy,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+KOR-11,고교 교과,국어,언어생활 탐구,language life inquiry,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-01,고교 교과,수학,공통수학1,polynomials equations,공통,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-02,고교 교과,수학,공통수학2,functions sets,공통,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-03,고교 교과,수학,대수,exponential logarithm sequences,수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-04,고교 교과,수학,미적분Ⅰ,differential integral calculus,수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-05,고교 교과,수학,확률과 통계,probability statistics,수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-06,고교 교과,수학,미적분Ⅱ,advanced calculus,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-07,고교 교과,수학,기하,vectors conic sections,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-08,고교 교과,수학,경제 수학,mathematical economics,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-09,고교 교과,수학,인공지능 수학,mathematics for AI,진로,교과서 개념 · EBS · 평가원 자료,월 1회,★
+MTH-10,고교 교과,수학,직무 수학,applied mathematics work,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-11,고교 교과,수학,수학과 문화,mathematics culture,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-12,고교 교과,수학,실용 통계,practical statistics,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+MTH-13,고교 교과,수학,수학과제 탐구,math research project,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+ENG-01,고교 교과,영어,공통영어1,,공통,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-02,고교 교과,영어,공통영어2,,공통,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-03,고교 교과,영어,영어Ⅰ,,수능,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-04,고교 교과,영어,영어Ⅱ,,수능,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-05,고교 교과,영어,영어 독해와 작문,,일반,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-06,고교 교과,영어,영미 문학 읽기,English literature,진로,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-07,고교 교과,영어,영어 발표와 토론,presentation debate,진로,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-08,고교 교과,영어,심화 영어,,진로,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-09,고교 교과,영어,심화 영어 독해와 작문,,진로,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-10,고교 교과,영어,직무 영어,business English,진로,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-11,고교 교과,영어,실생활 영어 회화,,융합,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-12,고교 교과,영어,미디어 영어,media English,융합,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+ENG-13,고교 교과,영어,세계 문화와 영어,,융합,영어 원서 · 해외 기사(영어 공부 겸용),월 1회,
+SOC-01,고교 교과,사회·역사·도덕,통합사회1,integrated social studies,공통/수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-02,고교 교과,사회·역사·도덕,통합사회2,integrated social studies,공통/수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-03,고교 교과,사회·역사·도덕,한국사1,Korean history,공통/수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-04,고교 교과,사회·역사·도덕,한국사2,Korean history,공통/수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-05,고교 교과,사회·역사·도덕,세계시민과 지리,world geography citizenship,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-06,고교 교과,사회·역사·도덕,사회와 문화,sociology culture,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-07,고교 교과,사회·역사·도덕,세계사,world history,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-08,고교 교과,사회·역사·도덕,현대사회와 윤리,modern ethics,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-09,고교 교과,사회·역사·도덕,한국지리 탐구,Korean geography,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-10,고교 교과,사회·역사·도덕,도시의 미래 탐구,future cities urban,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-11,고교 교과,사회·역사·도덕,동아시아 역사 기행,East Asian history,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-12,고교 교과,사회·역사·도덕,정치,politics,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-13,고교 교과,사회·역사·도덕,법과 사회,law and society,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-14,고교 교과,사회·역사·도덕,경제,economics,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-15,고교 교과,사회·역사·도덕,윤리와 사상,ethics philosophy thought,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-16,고교 교과,사회·역사·도덕,인문학과 윤리,humanities ethics,진로,교과서 개념 · EBS · 평가원 자료,월 1회,★
+SOC-17,고교 교과,사회·역사·도덕,국제 관계의 이해,international relations,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-18,고교 교과,사회·역사·도덕,여행지리,travel geography,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-19,고교 교과,사회·역사·도덕,역사로 탐구하는 현대 세계,modern world history,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-20,고교 교과,사회·역사·도덕,사회문제 탐구,social problems,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-21,고교 교과,사회·역사·도덕,금융과 경제생활,personal finance,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-22,고교 교과,사회·역사·도덕,윤리문제 탐구,applied ethics,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SOC-23,고교 교과,사회·역사·도덕,기후변화와 지속가능한 세계,climate sustainability policy,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-01,고교 교과,과학,통합과학1,integrated science,공통/수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-02,고교 교과,과학,통합과학2,integrated science,공통/수능,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-03,고교 교과,과학,과학탐구실험1,science lab inquiry,공통,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-04,고교 교과,과학,과학탐구실험2,science lab inquiry,공통,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-05,고교 교과,과학,물리학,physics,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-06,고교 교과,과학,화학,chemistry,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-07,고교 교과,과학,생명과학,biology,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-08,고교 교과,과학,지구과학,earth science,일반,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-09,고교 교과,과학,역학과 에너지,mechanics energy,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-10,고교 교과,과학,전자기와 양자,electromagnetism quantum,진로,교과서 개념 · EBS · 평가원 자료,월 1회,★
+SCI-11,고교 교과,과학,물질과 에너지,matter energy chemistry,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-12,고교 교과,과학,화학 반응의 세계,chemical reactions,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-13,고교 교과,과학,세포와 물질대사,cell metabolism,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-14,고교 교과,과학,생물의 유전,genetics heredity,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-15,고교 교과,과학,지구시스템과학,earth system science,진로,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-16,고교 교과,과학,행성우주과학,planetary space science,진로,교과서 개념 · EBS · 평가원 자료,월 1회,★
+SCI-17,고교 교과,과학,과학의 역사와 문화,history of science,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-18,고교 교과,과학,기후변화와 환경생태,climate ecology,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+SCI-19,고교 교과,과학,융합과학 탐구,convergence science inquiry,융합,교과서 개념 · EBS · 평가원 자료,월 1회,
+TEC-01,고교 교과,정보·기술·가정,정보,informatics programming,일반,교과서 개념 · EBS · 평가원 자료,주 1회,
+TEC-02,고교 교과,정보·기술·가정,인공지능 기초,AI fundamentals,진로,교과서 개념 · EBS · 평가원 자료,주 1회,★
+TEC-03,고교 교과,정보·기술·가정,데이터 과학,data science,진로,교과서 개념 · EBS · 평가원 자료,주 1회,★
+TEC-04,고교 교과,정보·기술·가정,소프트웨어와 생활,software everyday life,융합,교과서 개념 · EBS · 평가원 자료,주 1회,
+TEC-05,고교 교과,정보·기술·가정,기술·가정,technology home economics,일반,교과서 개념 · EBS · 평가원 자료,주 1회,
+TEC-06,고교 교과,정보·기술·가정,로봇과 공학세계,robotics engineering,진로,교과서 개념 · EBS · 평가원 자료,주 1회,
+TEC-07,고교 교과,정보·기술·가정,생활과학 탐구,applied life science,진로,교과서 개념 · EBS · 평가원 자료,주 1회,
+TEC-08,고교 교과,정보·기술·가정,창의 공학 설계,engineering design,융합,교과서 개념 · EBS · 평가원 자료,주 1회,
+TEC-09,고교 교과,정보·기술·가정,지식 재산 일반,intellectual property patents,융합,교과서 개념 · EBS · 평가원 자료,주 1회,
+FLG-01,고교 교과,제2외국어·한문,프랑스어,French,일반,원어 뉴스 · 교재,월 1회,★
+FLG-02,고교 교과,제2외국어·한문,독일어,German,일반,원어 뉴스 · 교재,월 1회,
+FLG-03,고교 교과,제2외국어·한문,스페인어,Spanish,일반,원어 뉴스 · 교재,월 1회,
+FLG-04,고교 교과,제2외국어·한문,중국어,Chinese,일반,원어 뉴스 · 교재,월 1회,
+FLG-05,고교 교과,제2외국어·한문,일본어,Japanese,일반,원어 뉴스 · 교재,월 1회,
+FLG-06,고교 교과,제2외국어·한문,러시아어,Russian,일반,원어 뉴스 · 교재,월 1회,
+FLG-07,고교 교과,제2외국어·한문,아랍어,Arabic,일반,원어 뉴스 · 교재,월 1회,
+FLG-08,고교 교과,제2외국어·한문,베트남어,Vietnamese,일반,원어 뉴스 · 교재,월 1회,
+FLG-09,고교 교과,제2외국어·한문,한문,classical Chinese,일반,원어 뉴스 · 교재,월 1회,
+ART-01,고교 교과,예체능·교양,음악,music,일반,교양서 · 강연,월 1회,
+ART-02,고교 교과,예체능·교양,미술,art,일반,교양서 · 강연,월 1회,
+ART-03,고교 교과,예체능·교양,체육,physical education,일반,교양서 · 강연,월 1회,
+ART-04,고교 교과,예체능·교양,철학,philosophy,교양,교양서 · 강연,월 1회,★
+ART-05,고교 교과,예체능·교양,논리학,logic,교양,교양서 · 강연,월 1회,
+ART-06,고교 교과,예체능·교양,심리학,psychology,교양,교양서 · 강연,월 1회,
+ART-07,고교 교과,예체능·교양,교육학,education,교양,교양서 · 강연,월 1회,
+ART-08,고교 교과,예체능·교양,보건,health,교양,교양서 · 강연,월 1회,
+ART-09,고교 교과,예체능·교양,진로와 직업,career,교양,교양서 · 강연,월 1회,
+KSN-01,연구 분과(KSEF),자연과학 N,N1 물리학,physics research,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSN-02,연구 분과(KSEF),자연과학 N,N2 생물학,biology research,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSN-03,연구 분과(KSEF),자연과학 N,N3 수학,mathematics research,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSN-04,연구 분과(KSEF),자연과학 N,N4 지구과학,earth science research,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSN-05,연구 분과(KSEF),자연과학 N,N5 화학,chemistry research,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSA-01,연구 분과(KSEF),응용과학 A,A1 공학,engineering,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSA-02,연구 분과(KSEF),응용과학 A,A2 로봇/인공지능,robotics artificial intelligence,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,★
+KSA-03,연구 분과(KSEF),응용과학 A,A3 에너지/재료공학,energy materials engineering,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSA-04,연구 분과(KSEF),응용과학 A,A4 응용생명과학,applied life science,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSA-05,연구 분과(KSEF),응용과학 A,A5 의학/건강,medicine health,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,★
+KSA-06,연구 분과(KSEF),응용과학 A,A6 시스템/SW,systems software,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,★
+KSA-07,연구 분과(KSEF),응용과학 A,A7 환경공학,environmental engineering,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSC-01,연구 분과(KSEF),융합과학 C,C1 발명/디자인,invention design,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+KSC-02,연구 분과(KSEF),융합과학 C,C2 (스크린샷에서 잘림 · 확인 필요),,KSEF,ISEF/KSEF 수상작 · 청소년 연구논문,주 1회,
+QNT-01,미래기술,양자,초전도 큐비트 양자컴퓨터,superconducting qubit quantum processor,국가전략,arXiv quant-ph · 기술 뉴스,매일,★
+QNT-02,미래기술,양자,이온트랩 양자컴퓨터,trapped ion quantum computing,국가전략,arXiv quant-ph · 기술 뉴스,매일,
+QNT-03,미래기술,양자,중성원자 양자컴퓨터,neutral atom quantum computer,국가전략,arXiv quant-ph · 기술 뉴스,매일,
+QNT-04,미래기술,양자,광자 양자컴퓨터,photonic quantum computing,국가전략,arXiv quant-ph · 기술 뉴스,매일,
+QNT-05,미래기술,양자,양자 오류정정,quantum error correction logical qubit,국가전략,arXiv quant-ph · 기술 뉴스,매일,★
+QNT-06,미래기술,양자,양자 알고리즘,quantum algorithm Shor Grover VQE,국가전략,arXiv quant-ph · 기술 뉴스,매일,★
+QNT-07,미래기술,양자,양자 소프트웨어(Qiskit 등),Qiskit quantum software,국가전략,arXiv quant-ph · 기술 뉴스,매일,★
+QNT-08,미래기술,양자,양자 센싱·계측,quantum sensing metrology,국가전략,arXiv quant-ph · 기술 뉴스,매일,
+QNT-09,미래기술,양자,양자 통신·QKD,quantum key distribution BB84,국가전략,arXiv quant-ph · 기술 뉴스,매일,★
+QNT-10,미래기술,양자,양자 인터넷·양자 중계기,quantum internet repeater,국가전략,arXiv quant-ph · 기술 뉴스,매일,
+SEC-01,미래기술,암호·사이버보안,RSA·정수론 암호,RSA cryptography integer factorization,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,★
+SEC-02,미래기술,암호·사이버보안,타원곡선 암호,elliptic curve cryptography,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-03,미래기술,암호·사이버보안,양자내성암호(PQC·NIST),post-quantum cryptography NIST ML-KEM,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,★
+SEC-04,미래기술,암호·사이버보안,K-PQC(한국형 양자내성암호),KpqC Korean post-quantum,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,★
+SEC-05,미래기술,암호·사이버보안,격자 기반 암호,lattice-based cryptography,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,★
+SEC-06,미래기술,암호·사이버보안,동형암호,homomorphic encryption,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-07,미래기술,암호·사이버보안,영지식 증명,zero-knowledge proof,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-08,미래기술,암호·사이버보안,제로트러스트 보안,zero trust architecture,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-09,미래기술,암호·사이버보안,AI 보안·LLM 공격,LLM security prompt injection,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-10,미래기술,암호·사이버보안,클라우드 보안,cloud security,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-11,미래기술,암호·사이버보안,디지털 포렌식,digital forensics,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-12,미래기술,암호·사이버보안,소프트웨어 공급망 보안,software supply chain security,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,
+SEC-13,미래기술,암호·사이버보안,의료기기·의료정보 보안,medical device cybersecurity,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,★
+SEC-14,미래기술,암호·사이버보안,블록체인·예금토큰,blockchain deposit token CBDC,국가전략,arXiv cs.CR · IACR ePrint · 보안 뉴스,매일,★
+SPC-01,미래기술,우주항공·위성,소형위성·큐브샛,CubeSat small satellite,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,★
+SPC-02,미래기술,우주항공·위성,저궤도 위성통신(LEO),LEO satellite constellation Starlink,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,★
+SPC-03,미래기술,우주항공·위성,위성 사이버보안,satellite cybersecurity space security,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,★
+SPC-04,미래기술,우주항공·위성,우주 상황인식(SSA)·우주쓰레기,space situational awareness debris,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,★
+SPC-05,미래기술,우주항공·위성,발사체,launch vehicle reusable rocket,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,
+SPC-06,미래기술,우주항공·위성,달·심우주 탐사,lunar exploration deep space mission,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,
+SPC-07,미래기술,우주항공·위성,지구관측·원격탐사,earth observation remote sensing,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,
+SPC-08,미래기술,우주항공·위성,위성항법(GNSS·KPS),GNSS KPS satellite navigation,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,
+SPC-09,미래기술,우주항공·위성,우주 날씨,space weather,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,
+SPC-10,미래기술,우주항공·위성,해양 탐사·심해 기술,deep sea ocean technology,국가전략,arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스,매일,
+BCI-01,미래기술,뇌-컴퓨터 인터페이스,침습형 BCI(뇌 이식 전극),invasive brain-computer interface implant,프런티어,arXiv q-bio.NC · eess.SP · PubMed,매일,★
+BCI-02,미래기술,뇌-컴퓨터 인터페이스,비침습형 BCI(EEG),EEG non-invasive BCI,프런티어,arXiv q-bio.NC · eess.SP · PubMed,매일,★
+BCI-03,미래기술,뇌-컴퓨터 인터페이스,신경 디코딩(뇌 신호 해석),neural decoding,프런티어,arXiv q-bio.NC · eess.SP · PubMed,매일,★
+BCI-04,미래기술,뇌-컴퓨터 인터페이스,신경 보철·재활,neuroprosthetics rehabilitation,프런티어,arXiv q-bio.NC · eess.SP · PubMed,매일,
+BCI-05,미래기술,뇌-컴퓨터 인터페이스,뇌 자극(DBS·TMS),deep brain stimulation TMS,프런티어,arXiv q-bio.NC · eess.SP · PubMed,매일,
+BCI-06,미래기술,뇌-컴퓨터 인터페이스,뉴로모픽 칩,neuromorphic computing,프런티어,arXiv q-bio.NC · eess.SP · PubMed,매일,
+BCI-07,미래기술,뇌-컴퓨터 인터페이스,신경윤리,neuroethics,프런티어,arXiv q-bio.NC · eess.SP · PubMed,매일,
+AI-01,미래기술,인공지능,대규모 언어모델(LLM),large language model,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,
+AI-02,미래기술,인공지능,AI 에이전트,AI agent tool use,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,★
+AI-03,미래기술,인공지능,RAG(검색 증강 생성),retrieval augmented generation,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,★
+AI-04,미래기술,인공지능,멀티모달 AI,multimodal model vision language,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,
+AI-05,미래기술,인공지능,피지컬 AI(로봇 파운데이션 모델),physical AI embodied foundation model,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,★
+AI-06,미래기술,인공지능,의료 영상 AI,medical imaging deep learning,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,★
+AI-07,미래기술,인공지능,의료 멀티모달·EHR AI,clinical multimodal EHR AI,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,★
+AI-08,미래기술,인공지능,수의 AI,veterinary AI,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,★
+AI-09,미래기술,인공지능,온디바이스 AI,on-device edge AI,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,
+AI-10,미래기술,인공지능,AI 안전·정렬,AI safety alignment,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,
+AI-11,미래기술,인공지능,강화학습,reinforcement learning,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,
+AI-12,미래기술,인공지능,AI 반도체,AI accelerator NPU,국가전략,arXiv cs.AI · cs.LG · cs.CV · PubMed,매일,
+ROB-01,미래기술,첨단로봇·제조,휴머노이드 로봇,humanoid robot,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,★
+ROB-02,미래기술,첨단로봇·제조,협동로봇,collaborative robot cobot,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,
+ROB-03,미래기술,첨단로봇·제조,로봇 조작(매니퓰레이션),robot manipulation learning,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,★
+ROB-04,미래기술,첨단로봇·제조,자율 이동 로봇,autonomous mobile robot navigation,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,
+ROB-05,미래기술,첨단로봇·제조,수술·의료 로봇,surgical robot,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,★
+ROB-06,미래기술,첨단로봇·제조,스마트팩토리·디지털 트윈,smart factory digital twin,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,
+ROB-07,미래기술,첨단로봇·제조,3D 프린팅·적층제조,additive manufacturing,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,
+NUC-01,미래기술,차세대 원자력·핵융합,토카막 핵융합(KSTAR·ITER),tokamak fusion KSTAR ITER,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-02,미래기술,차세대 원자력·핵융합,플라즈마 물리,plasma physics confinement,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-03,미래기술,차세대 원자력·핵융합,관성 핵융합(레이저),inertial confinement fusion NIF,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
+NUC-04,미래기술,차세대 원자력·핵융합,스텔러레이터,stellarator,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
+NUC-05,미래기술,차세대 원자력·핵융합,민간 핵융합 스타트업,fusion energy startup,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
+NUC-06,미래기술,차세대 원자력·핵융합,핵융합 소재(블랭킷·디버터),fusion materials divertor blanket,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
+NUC-07,미래기술,차세대 원자력·핵융합,소형모듈원자로(SMR),small modular reactor,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
+NUC-08,미래기술,차세대 원자력·핵융합,4세대 원자로,generation IV reactor,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
+NUC-09,미래기술,차세대 원자력·핵융합,사용후핵연료·원전 해체,spent nuclear fuel decommissioning,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
+SEM-01,미래기술,반도체·디스플레이,첨단 패키징(HBM·칩렛),advanced packaging HBM chiplet,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+SEM-02,미래기술,반도체·디스플레이,차세대 메모리(PIM·MRAM),processing-in-memory MRAM,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+SEM-03,미래기술,반도체·디스플레이,미세공정(GAA·EUV),GAA EUV lithography,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+SEM-04,미래기술,반도체·디스플레이,화합물 전력반도체(SiC·GaN),SiC GaN power semiconductor,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+SEM-05,미래기술,반도체·디스플레이,차세대 디스플레이(마이크로LED),microLED display,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+BAT-01,미래기술,이차전지,전고체전지,solid-state battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+BAT-02,미래기술,이차전지,리튬금속·리튬황 전지,lithium metal lithium sulfur battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+BAT-03,미래기술,이차전지,나트륨이온 전지,sodium-ion battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+BAT-04,미래기술,이차전지,배터리 관리·수명 예측,battery management state of health,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+BAT-05,미래기술,이차전지,배터리 재활용,battery recycling,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+MOB-01,미래기술,첨단 모빌리티,자율주행,autonomous driving,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+MOB-02,미래기술,첨단 모빌리티,도심항공교통(UAM),urban air mobility eVTOL,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+MOB-03,미래기술,첨단 모빌리티,소프트웨어 중심 차량(SDV),software defined vehicle,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+MOB-04,미래기술,첨단 모빌리티,전기차 충전,EV charging,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+MOB-05,미래기술,첨단 모빌리티,차량 사이버보안,automotive cybersecurity,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+BIO-01,미래기술,첨단바이오,합성생물학,synthetic biology,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-02,미래기술,첨단바이오,유전자 편집(CRISPR),CRISPR gene editing,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-03,미래기술,첨단바이오,mRNA·차세대 백신,mRNA vaccine,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-04,미래기술,첨단바이오,바이오파운드리,biofoundry,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-05,미래기술,첨단바이오,오가노이드,organoid,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-06,미래기술,첨단바이오,정밀의료·유전체,precision medicine genomics,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+BIO-07,미래기술,첨단바이오,디지털 헬스케어·웨어러블,digital health wearable,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+BIO-08,미래기술,첨단바이오,단백질 구조 예측·설계,protein structure prediction design,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-09,미래기술,첨단바이오,노화·장수 과학,aging longevity research,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-10,미래기술,첨단바이오,난임·생식의학,infertility IVF AI,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+ENE-01,미래기술,수소·에너지·기후,수전해 수소 생산,water electrolysis green hydrogen,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-02,미래기술,수소·에너지·기후,연료전지,fuel cell,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-03,미래기술,수소·에너지·기후,수소 저장·운송,hydrogen storage,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-04,미래기술,수소·에너지·기후,차세대 태양전지(페로브스카이트),perovskite solar cell,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-05,미래기술,수소·에너지·기후,풍력·해상풍력,offshore wind,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-06,미래기술,수소·에너지·기후,에너지저장(ESS),grid energy storage,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-07,미래기술,수소·에너지·기후,탄소 포집(CCUS·DAC),carbon capture direct air capture,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-08,미래기술,수소·에너지·기후,기후 모델링,climate modeling,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+COM-01,미래기술,차세대 통신,6G,6G wireless,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+COM-02,미래기술,차세대 통신,위성-지상 통합망(NTN),non-terrestrial network,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+COM-03,미래기술,차세대 통신,오픈랜(Open RAN),Open RAN,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+COM-04,미래기술,차세대 통신,테라헤르츠 통신,terahertz communication,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+MAT-01,미래기술,신소재·나노,초전도체,superconductor,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+MAT-02,미래기술,신소재·나노,그래핀·2차원 소재,graphene 2D materials,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+MAT-03,미래기술,신소재·나노,메타물질,metamaterials,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+MAT-04,미래기술,신소재·나노,나노의학,nanomedicine,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+MAT-05,미래기술,신소재·나노,AI 기반 소재 탐색,AI materials discovery,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+INF-01,미래기술,인프라·플랫폼,클라우드·쿠버네티스,cloud native kubernetes,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
+INF-02,미래기술,인프라·플랫폼,홈서버·자가호스팅,self-hosting homelab,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
+INF-03,미래기술,인프라·플랫폼,리눅스·오픈소스,Linux kernel open source,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
+INF-04,미래기술,인프라·플랫폼,XR·공간컴퓨팅,spatial computing XR,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+INF-05,미래기술,인프라·플랫폼,스마트시티,smart city,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+INF-06,미래기술,인프라·플랫폼,애그테크·배양육,agtech cultured meat,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
