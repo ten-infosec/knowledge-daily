@@ -15,7 +15,7 @@ Claude Code에게: 체크 안 된 첫 단계부터 **한 단계씩** 진행하�
 ## Phase 2 — 수집기 1개로 시작 (arXiv)
 - [x] `collector/arxiv.py`: taxonomy의 영문 키워드로 최근 1일 논문 검색
 - [x] ★ 관심 주제만 대상으로 테스트 실행
-- [ ] 결과를 `state/seen.json`에 저장해 중복 방지
+- [x] 결과를 `state/seen.json`에 저장해 중복 방지
 - [ ] 첫 결과를 `digests/YYYY-MM-DD.md`로 출력 (요약 없이 제목·링크만)
 
 ## Phase 3 — 수집처 늘리기
