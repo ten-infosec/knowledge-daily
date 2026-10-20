@@ -1,0 +1,7 @@
+# ===== HTTP =====
+# requests: arXiv·PubMed 같은 공식 API에 요청을 보내고 응답을 받는 라이브러리
+requests==2.34.2
+
+# ===== Feeds =====
+# feedparser: RSS/Atom 피드(arXiv 결과, IACR ePrint, 기관 공지)를 파이썬 데이터로 바꿔 주는 라이브러리
+feedparser==6.0.14
