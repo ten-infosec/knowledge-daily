@@ -1,4 +1,4 @@
-"""매일 실행하는 진입점: 수집 → 중복 제거 → 기록 저장."""
+"""매일 실행하는 진입점: 수집 → 중복 제거 → 다이제스트 작성 → 기록 저장."""
 
 # ===== Imports =====
 # argparse: 터미널 옵션(--days, --dry-run 등)을 읽는 표준 라이브러리
@@ -6,6 +6,8 @@ import argparse
 
 # collector/arxiv.py의 collect 함수: arXiv에서 논문 수집
 from collector.arxiv import collect as collect_arxiv
+# digest.py의 함수들: 다이제스트 Markdown 만들기·저장
+from digest import render, today_kst, write_digest
 # seen.py의 함수들: 중복 방지 기록 읽기·거르기·저장
 from seen import filter_new, load_seen, save_seen
 
@@ -31,8 +33,12 @@ def main():
 
     # ----- Save -----
     if args.dry_run:
-        print("[dry-run] seen.json 저장 생략")
+        # 파일은 만들지 않고, 다이제스트 앞부분만 화면에 보여 줌
+        print("[dry-run] 저장 생략. 다이제스트 미리보기:\n")
+        print("\n".join(render(new_papers, today_kst()).splitlines()[:15]))
         return
+    path = write_digest(new_papers)
+    print(f"다이제스트 저장: {path.relative_to(path.parent.parent)}")
     save_seen(seen)
     print(f"seen.json 저장 완료 (누적 {len(seen)}건)")
     # → --dry-run 없이 실행하면, 오늘 본 항목이 기록돼 내일은 건너뛰게 하겠다
