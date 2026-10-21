@@ -1,7 +1,7 @@
 """RSS 수집기: data/feeds.csv에 적힌 기관·언론 RSS를 읽어, 주제와 맞는 기사만 고른다.
 
 기사 본문은 저장하지 않고 제목·링크·날짜만 남긴다 (원문 저장 금지 규칙).
-요약문(description)은 주제를 고르는 데만 쓰고 버린다.
+요약문(description)은 주제를 고르고 AI 요약에 넘기는 데만 쓰고 저장하지 않는다.
 """
 
 # ===== Imports =====
@@ -24,7 +24,7 @@ import feedparser
 import requests
 
 # common.py의 공통 설정·함수: 이름표, 주제 읽기, 키워드로 주제 고르기
-from collector.common import USER_AGENT, best_topic, load_topics
+from collector.common import USER_AGENT, best_topic, clean_text, load_topics
 
 # ===== Settings =====
 # 피드 목록 파일
@@ -97,6 +97,8 @@ def collect(days=1, star_only=True):
                 "published": published.date().isoformat() if published else "",
                 # 신문에 표시할 매체 이름
                 "venue": feed_info["name"],
+                # 요약문: AI 요약에만 쓰고 저장하지 않음
+                "abstract": clean_text(entry.get("summary", "")),
             })
             found += 1
         print(f"{feed_info['name'][:28]:28} {found:3}건 / 전체 {len(feed.entries)}건 (RSS)")

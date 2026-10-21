@@ -1,4 +1,4 @@
-"""매일 실행하는 진입점: 수집 → 중복 제거 → 다이제스트 작성 → 기록 저장."""
+"""매일 실행하는 진입점: 수집 → 중복 제거 → AI 요약·선별 → 다이제스트 작성 → 기록 저장."""
 
 # ===== Imports =====
 # argparse: 터미널 옵션(--days, --dry-run 등)을 읽는 표준 라이브러리
@@ -12,10 +12,14 @@ from collector.pubmed import collect as collect_pubmed
 from collector.iacr import collect as collect_iacr
 # collector/rss.py의 collect 함수: 기관·언론 RSS에서 기사 수집
 from collector.rss import collect as collect_rss
+# collector/common.py의 load_topics: 요약할 때 주제 이름·키워드를 알려 주기 위해 사용
+from collector.common import load_topics
 # digest.py의 함수들: 다이제스트 Markdown 만들기·저장
 from digest import render, today_kst, write_digest
 # seen.py의 함수들: 중복 방지 기록 읽기·거르기·저장
 from seen import filter_new, load_seen, save_seen
+# summarizer/claude.py의 summarize: Claude로 요약·선별 (API 키 없으면 건너뜀)
+from summarizer.claude import summarize
 
 
 # ===== Main =====
@@ -27,6 +31,8 @@ def main():
     parser.add_argument("--all", action="store_true", help="관심(★) 주제가 아닌 것도 포함")
     # --dry-run: 결과만 보여 주고 다이제스트·seen.json은 저장하지 않음 (테스트용)
     parser.add_argument("--dry-run", action="store_true", help="파일에 저장하지 않고 결과만 출력")
+    # --no-ai: AI 요약을 건너뜀 (API 비용 없이 수집만 시험할 때)
+    parser.add_argument("--no-ai", action="store_true", help="AI 요약·선별 건너뛰기 (비용 없음)")
     args = parser.parse_args()
 
     # ----- Collect -----
@@ -39,6 +45,11 @@ def main():
     seen = load_seen()
     new_papers = filter_new(papers, seen)
     print(f"\n수집 {len(papers)}건 → 새 항목 {len(new_papers)}건 (중복 {len(papers) - len(new_papers)}건 제외)")
+
+    # ----- Summarize -----
+    # load_topics(""): 모든 주제 (빈 문자열은 어떤 source에도 들어 있으므로)
+    if not args.no_ai:
+        new_papers = summarize(new_papers, load_topics("", star_only=False))
 
     # ----- Save -----
     if args.dry_run:

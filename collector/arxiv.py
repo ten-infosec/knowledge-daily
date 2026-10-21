@@ -19,7 +19,7 @@ import feedparser
 import requests
 
 # common.py의 공통 설정·함수: 이름표(User-Agent), 주제 읽기
-from collector.common import USER_AGENT, load_topics
+from collector.common import USER_AGENT, clean_text, load_topics
 
 # ===== Settings =====
 # arXiv API 주소
@@ -103,9 +103,11 @@ def search(query, max_results=MAX_RESULTS):
             "published_at": entry.published,
             # 분류(예: quant-ph, cs.CR)
             "categories": [t.term for t in entry.get("tags", [])],
+            # 초록: AI 요약에만 쓰고 저장하지 않음
+            "abstract": clean_text(entry.get("summary", "")),
         })
     return papers
-    # → 초록(summary)은 일부러 저장하지 않겠다 (원문 저장 금지 규칙)
+    # → 초록은 메모리에서 AI 요약에만 쓰고, 파일에는 남기지 않겠다 (원문 저장 금지 규칙)
 
 
 def latest_window(days=1):
