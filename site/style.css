@@ -8,6 +8,8 @@
   --accent: #b4442c;
   --accent-soft: #f6e4de;
   --done: #9a958c;
+  /* 통계 막대 색 (밝은 화면 기준 검증 통과) */
+  --bar: #b4442c;
   color-scheme: light;
 }
 
@@ -22,6 +24,8 @@
     --accent: #e07a5f;
     --accent-soft: #3a2621;
     --done: #6f6a62;
+    /* 어두운 화면용 막대 색: 밝기 범위·대비 검증을 통과하도록 따로 정함 */
+    --bar: #d46a4f;
     color-scheme: dark;
   }
 }
@@ -128,3 +132,24 @@ li.item.read .title { text-decoration: line-through; color: var(--done); }
 /* ===== Carried-over unread ===== */
 /* 지난 글은 왼쪽 굵은 선으로 오늘 글과 구분 */
 ul.items.carried li.item { border-left: 3px solid var(--accent); }
+
+/* ===== Weekly stats ===== */
+.stats { max-width: 760px; margin: 40px auto 0; }
+.stats-total { margin: 4px 0 12px; font-size: 1.1rem; }
+.stats-total b { font-size: 1.6rem; }
+ul.bars { list-style: none; margin: 0; padding: 0; }
+/* 한 줄 = 분야 이름 | 막대 | 숫자 (좁은 화면에서도 같은 3칸) */
+ul.bars li {
+  display: grid;
+  grid-template-columns: minmax(5.5em, 9em) 1fr auto;
+  gap: 10px;
+  align-items: center;
+  padding: 4px 0;
+  font-size: 0.88rem;
+}
+.bar-label { overflow-wrap: anywhere; }
+.bar-track { height: 10px; }
+/* 막대 끝(값 쪽)만 둥글게, 시작(0 쪽)은 직선 */
+.bar-fill { height: 100%; min-width: 2px; background: var(--bar); border-radius: 0 4px 4px 0; }
+.bar-value { color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.bar-value b { color: var(--ink); }
