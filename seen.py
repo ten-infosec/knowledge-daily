@@ -7,10 +7,11 @@ seen.json 형식: {"arxiv:2610.26223": "2026-10-21", ...}
 # ===== Imports =====
 # json: seen.json을 읽고 쓰기 위해 사용
 import json
-# date: 오늘 날짜를 기록하기 위해 사용
-from datetime import date
 # Path: 파일 경로를 다루는 도구
 from pathlib import Path
+
+# digest.py의 today_kst: 한국 시간 기준 오늘 날짜 (다이제스트 파일 날짜와 맞추기 위해)
+from digest import today_kst
 
 # ===== Settings =====
 # 이 파일과 같은 폴더(프로젝트 최상위) 아래 state/seen.json
@@ -46,7 +47,8 @@ def filter_new(items, seen):
 
     같은 논문이 여러 주제에 동시에 걸린 경우에도 처음 한 번만 남는다.
     """
-    today = date.today().isoformat()
+    # GitHub Actions 서버는 UTC라서, 다이제스트와 같은 한국 날짜를 씀
+    today = today_kst()
     new_items = []
     for item in items:
         # 예: "arxiv:2610.26223", "pubmed:42900126"
