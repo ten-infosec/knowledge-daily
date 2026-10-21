@@ -1,0 +1,86 @@
+# 매일 아침 지식 신문을 자동으로 만드는 GitHub Actions 워크플로
+# → 매일 06:00 KST에 main.py를 실행하고, 결과(다이제스트·seen.json)를 저장소에 커밋하겠다
+
+# Actions 탭에 보이는 이름
+name: Daily digest
+
+# ===== Triggers =====
+# on: 언제 실행할지
+on:
+  # schedule: 정해진 시각에 자동 실행. cron 형식은 "분 시 일 월 요일", 시간은 UTC 기준
+  # "0 21 * * *" = 매일 21:00 UTC = 다음 날 06:00 KST (한국은 UTC+9)
+  # (GitHub 서버가 붐비면 몇 분~수십 분 늦게 시작될 수 있음)
+  schedule:
+    - cron: "0 21 * * *"
+  # workflow_dispatch: Actions 탭에 "Run workflow" 버튼을 만들어 손으로 실행할 수 있게 함
+  workflow_dispatch:
+    inputs:
+      # dry_run: 체크하면 결과만 로그에 보여 주고, 파일 저장·커밋은 하지 않음 (테스트용)
+      dry_run:
+        description: "Dry run (저장·커밋 없이 결과만 확인)"
+        type: boolean
+        default: false
+
+# ===== Permissions =====
+# contents: write → 워크플로가 결과 파일을 저장소에 커밋·push할 수 있게 허락
+permissions:
+  contents: write
+
+# concurrency: 같은 워크플로가 동시에 두 번 돌지 않게 함 (seen.json이 꼬이는 것을 막음)
+# cancel-in-progress: false → 이미 돌고 있는 실행은 끝까지 두고, 새 실행은 기다림
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    # 실행할 가상 컴퓨터 종류 (최신 우분투)
+    runs-on: ubuntu-latest
+    # 20분 안에 안 끝나면 강제로 멈춤 (보통 5분 안팎)
+    timeout-minutes: 20
+
+    steps:
+      # ===== Setup =====
+      # 1) 저장소 코드를 가상 컴퓨터로 내려받음
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # 2) 파이썬 3.12 설치 / cache: pip → 라이브러리 설치 파일을 저장해 두어 다음 실행이 빨라짐
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # 3) requirements.txt에 적힌 라이브러리 설치
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ===== Run =====
+      # 4) 수집 → 중복 제거 → 다이제스트 작성
+      #    API 키가 필요 없는 수집기(arXiv, PubMed, IACR ePrint, RSS)만 사용
+      #    dry_run을 체크하고 손으로 실행했을 때만 --dry-run을 붙임 (자동 실행 때는 빈 문자열)
+      - name: Collect and build digest
+        run: python main.py ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      # ===== Commit =====
+      # 5) 결과 파일을 커밋하고 push. dry_run일 때는 건너뜀
+      - name: Commit digest
+        if: ${{ !inputs.dry_run }}
+        run: |
+          # 커밋 작성자를 GitHub Actions 봇으로 설정
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 다이제스트 폴더와 중복 방지 기록만 커밋 대상으로
+          git add digests state/seen.json
+          # 바뀐 게 없으면(git diff --cached --quiet 성공) 커밋하지 않고 끝냄
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          # 한국 날짜로 커밋 메시지 작성 (TZ=Asia/Seoul: 이 명령만 한국 시간으로)
+          git commit -m "chore: daily digest $(TZ=Asia/Seoul date +%F)"
+          # 실행 중에 다른 커밋이 올라왔을 수 있으니, 최신 main 위로 다시 얹은 뒤 push
+          git pull --rebase
+          git push
+        # → 매일 아침 저장소에 그날 신문과 기록이 한 커밋으로 쌓이겠다
