@@ -19,7 +19,7 @@ Claude Code에게: 체크 안 된 첫 단계부터 **한 단계씩** 진행하�
 - [x] 첫 결과를 `digests/YYYY-MM-DD.md`로 출력 (요약 없이 제목·링크만)
 
 ## Phase 3 — 수집처 늘리기
-- [ ] PubMed (BCI·의료·바이오 주제)
+- [x] PubMed (BCI·의료·바이오 주제)
 - [ ] IACR ePrint (암호 주제)
 - [ ] 기관·언론 RSS 목록 만들기 (`data/feeds.csv`) + `collector/rss.py`
 - [ ] KCI / ScienceON API 키 발급 → 국내 논문 수집
