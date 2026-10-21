@@ -1,0 +1,3854 @@
+[
+ {
+  "source": "arxiv",
+  "id": "2610.28204",
+  "title": "Parallel Teleportation via AME(5,2) States on IBM Quantum Hardware",
+  "authors": [
+   "Zheng Liang Lim",
+   "Hoi-Kwong Lo"
+  ],
+  "link": "https://arxiv.org/abs/2610.28204",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T13:44:48Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28600",
+  "title": "Complete Modified Logarithmic Sobolev Inequalities for one-dimensional quantum Spin Chain",
+  "authors": [
+   "Li Gao",
+   "Jingyu Guo",
+   "Sihao Wang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28600",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:47:28Z",
+  "categories": [
+   "quant-ph",
+   "math-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28538",
+  "title": "NeST: ultra-high-rate qLDPC codes with sub-$50μ$s stabiliser cycles via spin shuttling",
+  "authors": [
+   "Adam Siegel"
+  ],
+  "link": "https://arxiv.org/abs/2610.28538",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:10:25Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28368",
+  "title": "Hidden parabolic subgroups of $\\mathrm{GL}_n$ over finite chain rings",
+  "authors": [
+   "Muhammad Imran"
+  ],
+  "link": "https://arxiv.org/abs/2610.28368",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:27:54Z",
+  "categories": [
+   "quant-ph",
+   "cs.CC"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28353",
+  "title": "Finite-Size CV-QKD for Satellite Quantum Communication under a Hybrid Noise Model",
+  "authors": [
+   "Mouli Chakraborty",
+   "Avishek Nag",
+   "Subhash Chandra",
+   "Anshu Mukherjee",
+   "Konstantinos Koufos",
+   "Mehrdad Dianati"
+  ],
+  "link": "https://arxiv.org/abs/2610.28353",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:18:40Z",
+  "categories": [
+   "eess.SP"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28239",
+  "title": "Observable-Level Framework for Finite-Key Security in Coherent-One-Way Quantum Key Distribution",
+  "authors": [
+   "Aryan Kuntal",
+   "Utkarsh Giradkar",
+   "Mudit Chaudhary",
+   "Amit D. Lad"
+  ],
+  "link": "https://arxiv.org/abs/2610.28239",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T14:04:04Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28231",
+  "title": "Dynamical Mean-Field Theory for Real Materials using Variational Quantum Compressed Time Evolution on a Quantum Computer",
+  "authors": [
+   "Stefan Wolf",
+   "Johannes Selisko",
+   "Timo Eckstein",
+   "Ludwig Nützel",
+   "Maximilian Amsler",
+   "Christopher Wever",
+   "Georgy Samsonidze",
+   "Thomas Eckl",
+   "Michael J. Hartmann"
+  ],
+  "link": "https://arxiv.org/abs/2610.28231",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T13:58:05Z",
+  "categories": [
+   "quant-ph",
+   "cond-mat.str-el"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28217",
+  "title": "Structured light for addressable two-qubit gates in medium-sized ion crystals: modeling motional and dephasing errors",
+  "authors": [
+   "Pablo Viñas",
+   "Alan Kahan",
+   "Tommaso Faorlin",
+   "Lorenz Panzl",
+   "Phoebe Grosser",
+   "Thomas Monz",
+   "Alejandro Bermudez"
+  ],
+  "link": "https://arxiv.org/abs/2610.28217",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T13:51:19Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28031",
+  "title": "Microscopically informed self-consistent multi-resolvent closure for dense many-body spectra",
+  "authors": [
+   "Zhiqiang Huang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28031",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T11:20:23Z",
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28015",
+  "title": "Optimal Approximate Quantum Conversion from a Taut-String Principle in Majorization-Based Resource Theories",
+  "authors": [
+   "Franco Meroi",
+   "Cesar Massri",
+   "Marcelo Losada",
+   "Guido Bellomo",
+   "Gustavo Martin Bosyk"
+  ],
+  "link": "https://arxiv.org/abs/2610.28015",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T11:06:26Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28008",
+  "title": "Certified Non-Degenerate Maximum-Likelihood Benchmarking of Quantum LDPC Decoders",
+  "authors": [
+   "Michele Banfi",
+   "Marco Ferrari",
+   "Antonino Favano",
+   "Alberto Tarable",
+   "Luca Barletta"
+  ],
+  "link": "https://arxiv.org/abs/2610.28008",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T10:53:31Z",
+  "categories": [
+   "cs.IT",
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27939",
+  "title": "Local-Channel Stability of Classical $\\mathbb Z_2$ Lattice Gauge Models",
+  "authors": [
+   "Guanxi Xun",
+   "Weiguang Cao",
+   "Haruki Watanabe"
+  ],
+  "link": "https://arxiv.org/abs/2610.27939",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T09:48:15Z",
+  "categories": [
+   "quant-ph",
+   "cond-mat.other",
+   "cond-mat.stat-mech",
+   "cond-mat.str-el"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27929",
+  "title": "Constant-Depth Quantum Barrier Option Pricing via a Static Bivariate Oracle Framework",
+  "authors": [
+   "Ji-Hui Mo",
+   "Yuan-Hong Tao"
+  ],
+  "link": "https://arxiv.org/abs/2610.27929",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T09:40:36Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27775",
+  "title": "An improved self-gravity treatment in general relativistic smoothed particle hydrodynamics",
+  "authors": [
+   "Pritam Banerjee",
+   "Kowsona Chakraborty",
+   "Niles Mondal",
+   "Tapobrata Sarkar"
+  ],
+  "link": "https://arxiv.org/abs/2610.27775",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T07:40:10Z",
+  "categories": [
+   "astro-ph.HE",
+   "gr-qc"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27761",
+  "title": "Good-$Γ$ Numbers: A Shell-Optimized Route to the Thermodynamic Limit in Quantum Monte Carlo Calculations of the High-Density Two-Dimensional Electron Gas",
+  "authors": [
+   "S. Azadi",
+   "T. D. Kühne",
+   "A. Principi",
+   "M. S. Bahramy"
+  ],
+  "link": "https://arxiv.org/abs/2610.27761",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T07:24:50Z",
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.quant-gas",
+   "physics.comp-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27718",
+  "title": "Non-uniform grids to accelerate electron-phonon coupling calculations for superconductivity",
+  "authors": [
+   "Kang Wang",
+   "Siyu Chen",
+   "Sun-Woo Kim",
+   "Kieran Bozier",
+   "Chris Pickard",
+   "Bartomeu Monserrat"
+  ],
+  "link": "https://arxiv.org/abs/2610.27718",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T06:38:04Z",
+  "categories": [
+   "cond-mat.supr-con",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27642",
+  "title": "Untangling Extreme Mass Ratio Inspirals and Massive Black Hole Binaries in LISA Data",
+  "authors": [
+   "Rishav Agrawal",
+   "Clémence Allietta",
+   "Ollie Burke",
+   "Alvin J. K. Chua"
+  ],
+  "link": "https://arxiv.org/abs/2610.27642",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T05:03:26Z",
+  "categories": [
+   "gr-qc",
+   "astro-ph.IM"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27503",
+  "title": "Thermal and optical signatures of a magnetic AdS black hole in dark matter and quintessence",
+  "authors": [
+   "Mohsen Fathi",
+   "Marco Olivares",
+   "Carlos E. Romero-Figueroa",
+   "J. R. Villanueva"
+  ],
+  "link": "https://arxiv.org/abs/2610.27503",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T02:19:12Z",
+  "categories": [
+   "gr-qc"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27427",
+  "title": "Field demonstration of a self-contained 10 km mobile-to-ground quantum network node via common-aperture co-propagation",
+  "authors": [
+   "Dongkyu Kim",
+   "Dong-Gil Im",
+   "Kyungdeuk Park",
+   "Jisu Kim",
+   "Jonguk Choi",
+   "Yonggi Jo",
+   "Yong Sup Ihn"
+  ],
+  "link": "https://arxiv.org/abs/2610.27427",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T00:28:08Z",
+  "categories": [
+   "quant-ph",
+   "physics.optics"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27416",
+  "title": "Quantum algorithm for high-dimensional nonlinear stochastic differential equations based on Carleman linearization",
+  "authors": [
+   "Koichi Miyamoto"
+  ],
+  "link": "https://arxiv.org/abs/2610.27416",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T00:12:03Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27358",
+  "title": "Variational Blind Equalization for Dual-Polarization Free-Space Quantum Communications",
+  "authors": [
+   "Anders M. Buvarp",
+   "Stefan Werner"
+  ],
+  "link": "https://arxiv.org/abs/2610.27358",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T22:37:40Z",
+  "categories": [
+   "eess.SP"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28608",
+  "title": "Slow-Roll Inflation at Arbitrary Order",
+  "authors": [
+   "William Giarè"
+  ],
+  "link": "https://arxiv.org/abs/2610.28608",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:50:14Z",
+  "categories": [
+   "astro-ph.CO",
+   "gr-qc",
+   "hep-th"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28528",
+  "title": "Efficient Ground-State Manifold Amplification for Rydberg Atom Arrays via Houdayer Cluster Updates",
+  "authors": [
+   "Andrew J. Ochoa",
+   "Martin J. A. Schuetz",
+   "Helmut G. Katzgraber"
+  ],
+  "link": "https://arxiv.org/abs/2610.28528",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:03:05Z",
+  "categories": [
+   "quant-ph",
+   "cond-mat.dis-nn",
+   "cond-mat.quant-gas",
+   "math.OC"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28472",
+  "title": "Sum-over-poles framework for quantum embedding to approach the real-frequency axis",
+  "authors": [
+   "Alessandro Carbone",
+   "Massimo Capone",
+   "Nicola Marzari",
+   "Tommaso Chiarotti"
+  ],
+  "link": "https://arxiv.org/abs/2610.28472",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:25:09Z",
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28336",
+  "title": "Floquet ground state order",
+  "authors": [
+   "Suman Mondal",
+   "Paul M. Schindler",
+   "Marin Bukov"
+  ],
+  "link": "https://arxiv.org/abs/2610.28336",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:03:35Z",
+  "categories": [
+   "quant-ph",
+   "cond-mat.other",
+   "cond-mat.quant-gas",
+   "cond-mat.stat-mech",
+   "cond-mat.str-el"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27768",
+  "title": "Bidirectional Path Integral Monte Carlo Simulation of Quantum Circuits",
+  "authors": [
+   "Luis Paulo Santos",
+   "Thomas Bashford-Rogers"
+  ],
+  "link": "https://arxiv.org/abs/2610.27768",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T07:31:00Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27766",
+  "title": "Testing TLS 1.3 PQC on constrained devices and microcontrollers",
+  "authors": [
+   "Olivier Gillot",
+   "William J. Buchanan",
+   "Callum Turino"
+  ],
+  "link": "https://arxiv.org/abs/2610.27766",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T07:29:29Z",
+  "categories": [
+   "cs.CR"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27362",
+  "title": "Quantum-Classical Hybrid Methods for Optimization: Lessons from Classical Decomposition",
+  "authors": [
+   "David E. Bernal Neira"
+  ],
+  "link": "https://arxiv.org/abs/2610.27362",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T22:42:40Z",
+  "categories": [
+   "math.OC",
+   "cs.ET",
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27335",
+  "title": "Shot Allocation Strategies in Debugging Quantum Circuits",
+  "authors": [
+   "Era Thaqi",
+   "Coco Gong",
+   "Margaret Martonosi"
+  ],
+  "link": "https://arxiv.org/abs/2610.27335",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T21:56:02Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27250",
+  "title": "Quantum polynomial-time conjugacy in metabelian groups",
+  "authors": [
+   "Alexei Miasnikov",
+   "Alexander Ushakov"
+  ],
+  "link": "https://arxiv.org/abs/2610.27250",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T20:21:54Z",
+  "categories": [
+   "math.GR",
+   "math.RA"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27111",
+  "title": "Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures",
+  "authors": [
+   "Olivier Gillot",
+   "William J. Buchanan",
+   "Madjid G. Tehrani"
+  ],
+  "link": "https://arxiv.org/abs/2610.27111",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:11:53Z",
+  "categories": [
+   "cs.CR"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27097",
+  "title": "Mapping AdS$_4$ quantum gravity via the Bethe Ansatz formula",
+  "authors": [
+   "Cheng Peng",
+   "Xuao Zhang",
+   "Ziruo Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.27097",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:00:39Z",
+  "categories": [
+   "hep-th",
+   "math-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27094",
+  "title": "Binary Black Hole Puncture Initial Data with Physics-Informed Neural Networks",
+  "authors": [
+   "Thiago Assumpção",
+   "Ignacio Brevis",
+   "Irene Pitsiladi",
+   "Martin Zinzen",
+   "Miguel Bezares"
+  ],
+  "link": "https://arxiv.org/abs/2610.27094",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:00:21Z",
+  "categories": [
+   "gr-qc"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27069",
+  "title": "Deglobalising the fit: how to search for physics beyond vacuum General Relativity in LISA catalogues",
+  "authors": [
+   "Francisco Duque",
+   "Jonathan Gair"
+  ],
+  "link": "https://arxiv.org/abs/2610.27069",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:00:02Z",
+  "categories": [
+   "gr-qc",
+   "astro-ph.IM",
+   "physics.data-an"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27065",
+  "title": "Polynomial-Time Classical Simulation of BosonSampling under Any Constant-Fraction Photon Loss",
+  "authors": [
+   "Byeongseon Go",
+   "Hyunseok Jeong"
+  ],
+  "link": "https://arxiv.org/abs/2610.27065",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:00:01Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27053",
+  "title": "Parallel Omnidirectional Atom Rearrangement with Dynamic Holograms",
+  "authors": [
+   "Samuel A. Engel",
+   "Dewei Gong",
+   "Ziguang Lin",
+   "Lysander Christakis",
+   "Kang-Kuen Ni",
+   "Norman Y. Yao"
+  ],
+  "link": "https://arxiv.org/abs/2610.27053",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:00:00Z",
+  "categories": [
+   "physics.atom-ph",
+   "cond-mat.quant-gas",
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27470",
+  "title": "Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging",
+  "authors": [
+   "Md Morshedul Islam",
+   "Hossain Shahriar",
+   "Alfredo Cuzzocrea"
+  ],
+  "link": "https://arxiv.org/abs/2610.27470",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T01:41:12Z",
+  "categories": [
+   "cs.CR",
+   "cs.AI"
+  ],
+  "topic_id": "SEC-13",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28459",
+  "title": "A Hierarchical Space-Ground Collaborative Network: Architecture Design and Deployment",
+  "authors": [
+   "Yunxin Geng",
+   "Shaopeng Feng",
+   "Zijian Guo",
+   "Shengfeng Wang",
+   "Rui Ding",
+   "Kan Zheng",
+   "Zhiqing Wei",
+   "Weiwei Jiang",
+   "Zhiyong Feng"
+  ],
+  "link": "https://arxiv.org/abs/2610.28459",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:15:07Z",
+  "categories": [
+   "eess.SP"
+  ],
+  "topic_id": "SPC-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28404",
+  "title": "ORCA: Onboard Reflective Collaborative Agents for Reliable Task Offloading in LEO Satellite Networks",
+  "authors": [
+   "Yunxin Geng",
+   "Shengxiang Hao",
+   "Yichen Wu",
+   "Haotian Liu",
+   "Weiwei Jiang",
+   "Lu Cao",
+   "Han Meng",
+   "Yuxuan Pan",
+   "Zhiqing Wei"
+  ],
+  "link": "https://arxiv.org/abs/2610.28404",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:48:06Z",
+  "categories": [
+   "eess.SP",
+   "cs.NI"
+  ],
+  "topic_id": "SPC-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28248",
+  "title": "Interference-Graph-Aided Multi-Agent Reinforcement Learning for Beam Hopping LEO Satellite Networks",
+  "authors": [
+   "Hao Yuan",
+   "Ziyi Yang",
+   "Xing Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28248",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T14:07:32Z",
+  "categories": [
+   "eess.SP"
+  ],
+  "topic_id": "SPC-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28549",
+  "title": "Local well-posedness of wave kinetic equations associated with water waves",
+  "authors": [
+   "Yu Deng",
+   "Alexandru D. Ionescu",
+   "Fabio Pusateri"
+  ],
+  "link": "https://arxiv.org/abs/2610.28549",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:15:50Z",
+  "categories": [
+   "math.AP",
+   "math-ph"
+  ],
+  "topic_id": "SPC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28113",
+  "title": "Real Nullstellensatz for nilpotent Lie algebras",
+  "authors": [
+   "Philipp Schmitt",
+   "Matthias Schötz"
+  ],
+  "link": "https://arxiv.org/abs/2610.28113",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T12:23:34Z",
+  "categories": [
+   "math.AG",
+   "math.RT"
+  ],
+  "topic_id": "SPC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28025",
+  "title": "Optimal aggregation in multiclass classification",
+  "authors": [
+   "Felix Abramovich",
+   "Or Davidovitch-Servadio"
+  ],
+  "link": "https://arxiv.org/abs/2610.28025",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T11:15:57Z",
+  "categories": [
+   "math.ST",
+   "stat.ME",
+   "stat.ML"
+  ],
+  "topic_id": "SPC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28327",
+  "title": "Observation Assimilation Transformer: Probabilistic Weather Analysis from Sparse Station Observations",
+  "authors": [
+   "Christian Donner",
+   "Michele Cattaneo",
+   "Maxim Samarin",
+   "Francesco Zanetta",
+   "Icíar Lloréns Jover",
+   "Garbiela Aznar Siguan",
+   "Michele Volpi"
+  ],
+  "link": "https://arxiv.org/abs/2610.28327",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:00:09Z",
+  "categories": [
+   "cs.LG"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27805",
+  "title": "Certified Adaptive List Decoding for Error-Correcting Codes",
+  "authors": [
+   "Jaeho Hwang",
+   "Byung-Sun Won",
+   "Uiwon Hwang"
+  ],
+  "link": "https://arxiv.org/abs/2610.27805",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T08:03:06Z",
+  "categories": [
+   "cs.IT",
+   "cs.LG"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27785",
+  "title": "SLM-SS: Token-Based Speech Separation with Speech Language Models",
+  "authors": [
+   "Chenda Li",
+   "Tianhua Li",
+   "Yiming Chen",
+   "Wei Wang",
+   "Jiahe Wang",
+   "Xin Zhou",
+   "Yanmin Qian"
+  ],
+  "link": "https://arxiv.org/abs/2610.27785",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T07:50:43Z",
+  "categories": [
+   "cs.SD",
+   "cs.AI"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27568",
+  "title": "TRCM: Topology-Aware Route-Consistency Modeling for Robust Neural Vehicle Routing",
+  "authors": [
+   "Peiheng Jian",
+   "Zhenwei Wang",
+   "Tiehua Zhang",
+   "Lei Zhang",
+   "Zhishu Shen",
+   "Ruibin Bai",
+   "Zhijun Ding"
+  ],
+  "link": "https://arxiv.org/abs/2610.27568",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T03:32:20Z",
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27440",
+  "title": "Learning-Theoretic Foundation for General Coded Computing: The Adversarial Setting",
+  "authors": [
+   "Parsa Moradi",
+   "Hanzaleh Akbarinodehi",
+   "Mohammad Ali Maddah-Ali"
+  ],
+  "link": "https://arxiv.org/abs/2610.27440",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T00:41:28Z",
+  "categories": [
+   "cs.LG",
+   "cs.DC"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27402",
+  "title": "Communication Complexity of Universal Features",
+  "authors": [
+   "Lunjia Hu",
+   "Anish Jayant",
+   "Peter Li",
+   "Princewill Okoroafor",
+   "Abhishek Shetty"
+  ],
+  "link": "https://arxiv.org/abs/2610.27402",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T23:50:21Z",
+  "categories": [
+   "stat.ML",
+   "cs.DS",
+   "cs.LG"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27374",
+  "title": "PerQ: Inverse Generative Modeling for Neural Image Compression via Quantization Error Compensation",
+  "authors": [
+   "Tianhao Peng",
+   "Ho Man Kwan",
+   "Fan Zhang",
+   "Shan Liu",
+   "Dave Bull"
+  ],
+  "link": "https://arxiv.org/abs/2610.27374",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T22:57:59Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27253",
+  "title": "Neural Controlled Directional Frame Generation for Sprite Animation",
+  "authors": [
+   "Kenneth Alonso",
+   "Gustavo Patow"
+  ],
+  "link": "https://arxiv.org/abs/2610.27253",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T20:24:35Z",
+  "categories": [
+   "cs.GR"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27543",
+  "title": "KNOX: Hardware-assisted Regulatory Sandbox for Generative Models",
+  "authors": [
+   "Vasisht Duddu",
+   "Adam Caulfield",
+   "Xi He"
+  ],
+  "link": "https://arxiv.org/abs/2610.27543",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T02:57:19Z",
+  "categories": [
+   "cs.CR"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27307",
+  "title": "Evolving Self-tuning Benchmarks for Long-Horizon Tool Use",
+  "authors": [
+   "Hyunji Alex Nam",
+   "Michael Dennis",
+   "Natasha Jaques",
+   "Minsuk Chang"
+  ],
+  "link": "https://arxiv.org/abs/2610.27307",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T21:22:08Z",
+  "categories": [
+   "cs.AI"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27295",
+  "title": "RealControlBench: A Benchmark for Interpretability-Informed Fine-Grained Control of LLMs and Agents",
+  "authors": [
+   "Xinying Cai",
+   "Bin Hu",
+   "Mingyu Jin",
+   "Qiming Zhang",
+   "Yang Ouyang",
+   "Bangwei Guo",
+   "Minghao Guo",
+   "Yutong Yin",
+   "Lang Gao",
+   "Feijiang Han",
+   "Sheldon Yu",
+   "Kaiqu Liang",
+   "Qingcheng Zeng",
+   "Jingcheng Niu",
+   "Fan Yang",
+   "Wei Cheng",
+   "Zhen Xiang",
+   "Julian McAuley",
+   "Zhaoran Wang"
+  ],
+  "link": "https://arxiv.org/abs/2610.27295",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T21:10:03Z",
+  "categories": [
+   "cs.CL"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27233",
+  "title": "MMedAgent-Plus: Scaling Multimodal Medical Agents across Modalities, Tasks and Workflows",
+  "authors": [
+   "Ruoxin Wang",
+   "Yuanting Pan",
+   "Binxu Li",
+   "Ruiyang Ji",
+   "Yaqian Chen",
+   "Jiayuan Ding",
+   "Qifan Wang",
+   "Lifu Huang",
+   "Mingjie Li",
+   "Yu Zhang",
+   "Ehsan Adeli",
+   "Kilian Pohl",
+   "Zhe Xu",
+   "Zihao Lin",
+   "Haoyu Dong",
+   "Yixin Wang"
+  ],
+  "link": "https://arxiv.org/abs/2610.27233",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T20:00:50Z",
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27210",
+  "title": "You Are the Trigger: Speaker-Activated Backdoors",
+  "authors": [
+   "Nataša Krčo",
+   "Euodia Dodd",
+   "Peter Romov",
+   "Yves-Alexandre de Montjoye"
+  ],
+  "link": "https://arxiv.org/abs/2610.27210",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T19:43:13Z",
+  "categories": [
+   "cs.LG",
+   "cs.CR",
+   "cs.SD"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28423",
+  "title": "WorldSR: Harnessing World Knowledge Search for Grounded Image Super-Resolution",
+  "authors": [
+   "Junyuan Deng",
+   "Xinyi Wu",
+   "Zhenyao Wu",
+   "Song Wang",
+   "Yu Wang",
+   "Congchao Zhu"
+  ],
+  "link": "https://arxiv.org/abs/2610.28423",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:54:25Z",
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28364",
+  "title": "Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG",
+  "authors": [
+   "Abhishek Rai"
+  ],
+  "link": "https://arxiv.org/abs/2610.28364",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:26:15Z",
+  "categories": [
+   "cs.CR",
+   "cs.AI"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28346",
+  "title": "Auto-Director: Leveraging Multi-Agent Collaboration for Autonomous Video Editing",
+  "authors": [
+   "Yuxia Chen",
+   "Wenbo Zhu",
+   "Yangguang Ji",
+   "Zhenxiang Jiang",
+   "Teng Zhong",
+   "Yu Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28346",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:11:55Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28340",
+  "title": "DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge",
+  "authors": [
+   "Atharva Thakur",
+   "Abulhair Saparov",
+   "Bruno Ribeiro"
+  ],
+  "link": "https://arxiv.org/abs/2610.28340",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:07:19Z",
+  "categories": [
+   "cs.CL",
+   "cs.IR"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28216",
+  "title": "A Multimodal Engineering GraphRAG Framework for Post-Wind-Event Building Assessment and Recovery Inference",
+  "authors": [
+   "Seyedeh Fatemeh Mirfakhar",
+   "Reda Snaiki",
+   "Rocio Lilen Segura"
+  ],
+  "link": "https://arxiv.org/abs/2610.28216",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T13:50:50Z",
+  "categories": [
+   "physics.app-ph",
+   "cs.SE"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28160",
+  "title": "From Code Generator to Engineering Companion: A Plant-aware Agent for PLC Programming",
+  "authors": [
+   "Joschka Kersting",
+   "Gesa Benndorf"
+  ],
+  "link": "https://arxiv.org/abs/2610.28160",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T13:02:14Z",
+  "categories": [
+   "cs.SE",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28010",
+  "title": "RANGER: Retrieval Agent for Navigating Graphs with Semantic Evaluation Rewards",
+  "authors": [
+   "Artem Mikhaylov",
+   "Pavel Konoplev",
+   "Nikolay Efanov",
+   "Artyom Sorokin",
+   "Evgeny Burnaev"
+  ],
+  "link": "https://arxiv.org/abs/2610.28010",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T10:53:41Z",
+  "categories": [
+   "cs.LG"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27829",
+  "title": "GARRET: Generative Feedback for Region Retrieval in Visual Documents",
+  "authors": [
+   "Weijian Jian",
+   "Siyang Chen",
+   "Yuguang Yang",
+   "Yajun Zhang",
+   "Chunyu Xie",
+   "Dawei Leng",
+   "Yuhui Yin"
+  ],
+  "link": "https://arxiv.org/abs/2610.27829",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T08:19:14Z",
+  "categories": [
+   "cs.CV",
+   "cs.IR"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27816",
+  "title": "RAG-NIMBF: A Non-Invasive, Modular Benchmarking Framework for Automated RAG Configuration Analysis",
+  "authors": [
+   "Niclas Hart",
+   "Nicolas Weeger"
+  ],
+  "link": "https://arxiv.org/abs/2610.27816",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T08:08:08Z",
+  "categories": [
+   "cs.SE",
+   "cs.AI"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27400",
+  "title": "ProMemAgent: Long-Horizon Proactive Assistance with Context-Aware Prospective Memory from Sensory Perceptions",
+  "authors": [
+   "Lilin Xu",
+   "Linyang He",
+   "Kaiyuan Hou",
+   "Yuang Fan",
+   "Minghui Zhao",
+   "Xuhai Xu",
+   "Xiaofan Jiang"
+  ],
+  "link": "https://arxiv.org/abs/2610.27400",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T23:47:50Z",
+  "categories": [
+   "cs.AI"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27232",
+  "title": "Neighborhood-Aware Unlearning for Generative Recommendation",
+  "authors": [
+   "Pierre Lubitzsch",
+   "Yubao Tang",
+   "Maarten de Rijke",
+   "Sebastian Schelter"
+  ],
+  "link": "https://arxiv.org/abs/2610.27232",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T20:00:39Z",
+  "categories": [
+   "cs.IR",
+   "cs.LG"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28629",
+  "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+  "authors": [
+   "Yazhuo Liu",
+   "Kunqing Ding",
+   "Xiaoguo Gong",
+   "Zifeng Wang",
+   "Yichen Yang",
+   "Yifeng Che",
+   "Wen Chen",
+   "Josh Kacher",
+   "Olivier Pierron",
+   "Shigenobu Ogata",
+   "Ting Zhu"
+  ],
+  "link": "https://arxiv.org/abs/2610.28629",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:59:40Z",
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "cs.AI",
+   "cs.MA"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28505",
+  "title": "Blueprint for an AI-Enabled Particle Theory Community",
+  "authors": [
+   "George T. Fleming",
+   "Daniel C. Hackett",
+   "James Halverson",
+   "T. J. Hobbs",
+   "Stefan Hoeche",
+   "Brandon Kriesten",
+   "Konstantin T. Matchev",
+   "Tony Menzo",
+   "Stephen Mrenna",
+   "Benjamin Nachman",
+   "Prasanth Shyamsundar",
+   "David Shih",
+   "Jesse Thaler",
+   "Jure Zupan",
+   "Prateek Agrawal",
+   "Jonathan Bagger",
+   "Yang Bai",
+   "Brian Batell",
+   "Sean Benevedes",
+   "Vedran Brdar",
+   "Matthew R. Buckley",
+   "Christopher Carone",
+   "Mu-Chun Chen",
+   "Kun Cheng",
+   "So Chigusa",
+   "R. Sekhar Chivukula",
+   "Neil Christensen",
+   "Timothy Cohen",
+   "Jonathan M. Cornell",
+   "Antonio Delgado",
+   "Radovan Dermisek",
+   "Jeff A. Dror",
+   "Anatoly Dymarsky",
+   "Jonathan L. Feng",
+   "Terrance Figy",
+   "Alexander Friedland",
+   "Dorival Goncalves",
+   "Craig Group",
+   "Tao Han",
+   "Mark Hertzberg",
+   "Samuel Homiller",
+   "Matheus Hostert",
+   "Philip Ilten",
+   "Zhong-Bo Kang",
+   "Can Kilic",
+   "Doojin Kim",
+   "William H. Kinney",
+   "Simon Knapen",
+   "Kyoungchul Kong",
+   "Graham Kribs",
+   "Shirley Li",
+   "Huey-Wen Lin",
+   "Zhen Liu",
+   "Ian Low",
+   "Pedro Machado",
+   "Kendall Mahn",
+   "Alexander Maloney",
+   "Liam McAllister",
+   "Djordje Minic",
+   "Bernhard Mistlberger",
+   "Sebastian Mizera",
+   "Moritz Münchmeyer",
+   "Ethan Neil",
+   "Nobuchika Okada",
+   "Sofia Palacios Schweitzer",
+   "Ian Pang",
+   "Andreas Papaefstathiou",
+   "Alexey Petrov",
+   "David Poland",
+   "Xiaolin Qi",
+   "Michael Ratz",
+   "Laura Reina",
+   "Thomas Rizzo",
+   "Nicholas Rodd",
+   "Alessandro Russo",
+   "Philip Schuster",
+   "Phiala Shanahan",
+   "Elizabeth H. Simmons",
+   "George Siopsis",
+   "Dejan Stojkovic",
+   "Shufang Su",
+   "Tim M. P. Tait",
+   "Lian-Tao Wang",
+   "Zhengkang Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28505",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:44:54Z",
+  "categories": [
+   "hep-ph"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28432",
+  "title": "Physical AI for Intralogistics: Benchmarking the NVIDIA Sim-to-Real Ecosystem for Cosmos-Enhanced COMPASS Navigation on Industrial Mobile Robots",
+  "authors": [
+   "Charbel Abi Hana",
+   "Rayan Zaitouni",
+   "Kameel Amareen",
+   "Mohamad Mostafa",
+   "Hasan Sayour",
+   "Wei Liu",
+   "Yan Chang",
+   "Mihir Acharya",
+   "Anthony Rizk"
+  ],
+  "link": "https://arxiv.org/abs/2610.28432",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:59:27Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27971",
+  "title": "Execution-Time Validation of Context-Carrying Action Intents in Industrial Cyber-Physical Systems",
+  "authors": [
+   "Luca D'Agati",
+   "Giuseppe Tricomi",
+   "Fabio Orazio Mirto",
+   "Giovanni Merlino"
+  ],
+  "link": "https://arxiv.org/abs/2610.27971",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T10:16:08Z",
+  "categories": [
+   "cs.PL",
+   "cs.CR",
+   "cs.DC",
+   "eess.SY"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27797",
+  "title": "Toward Agentic AI for the 6G Physical Layer: From Algorithm Discovery to Verified Baseband Silicon",
+  "authors": [
+   "Eric Mittag",
+   "Lukas Brechtel",
+   "Maximilian Stark",
+   "Hans D. Schotten"
+  ],
+  "link": "https://arxiv.org/abs/2610.27797",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T07:56:10Z",
+  "categories": [
+   "cs.AI",
+   "cs.NI",
+   "eess.SP"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27731",
+  "title": "Axion detection in the non-Markovian noise",
+  "authors": [
+   "Jing Dong",
+   "Shuang-Quan Ma",
+   "Rong-Hang Chen",
+   "Bin-Kai Luo",
+   "Tao Liu",
+   "Qing Ai",
+   "Jun-Hong An"
+  ],
+  "link": "https://arxiv.org/abs/2610.27731",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T06:51:46Z",
+  "categories": [
+   "quant-ph",
+   "astro-ph.CO"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27725",
+  "title": "World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation",
+  "authors": [
+   "Jiushu Li",
+   "Haoran Wang",
+   "Yumeng Liu",
+   "Zhiyang Dou",
+   "Yuan Liu",
+   "Yuexin Ma",
+   "Cheng Lin"
+  ],
+  "link": "https://arxiv.org/abs/2610.27725",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T06:43:51Z",
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27350",
+  "title": "Refuses When Asked, Complies When Acting: A Runtime Safety Check for Robot Control Loops",
+  "authors": [
+   "Arnav Grover"
+  ],
+  "link": "https://arxiv.org/abs/2610.27350",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T22:29:34Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27251",
+  "title": "AI and The Enclosure of the Scientific Commons",
+  "authors": [
+   "P. K. G. Williams"
+  ],
+  "link": "https://arxiv.org/abs/2610.27251",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T20:22:54Z",
+  "categories": [
+   "astro-ph.IM",
+   "cs.CY"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27100",
+  "title": "LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models",
+  "authors": [
+   "George Nigmatulin",
+   "Valentin Mohl",
+   "Sascha Frey",
+   "Kang Li",
+   "Aramis Marti-Shahandeh",
+   "Mihai Cucuringu",
+   "Anisoara Calinescu",
+   "Jakob Foerster",
+   "Stefan Zohren"
+  ],
+  "link": "https://arxiv.org/abs/2610.27100",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:01:00Z",
+  "categories": [
+   "q-fin.TR",
+   "cs.LG"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28448",
+  "title": "Toward opportunistic coronary artery calcium assessment from dual-layer dual-energy chest radiography using deep learning: a simulation study",
+  "authors": [
+   "Linxi Shi",
+   "Akyl Swaby",
+   "Kaitlin Hellier",
+   "Praveen Bharathi",
+   "Scott Hsieh",
+   "Dominik Fleischmann",
+   "Shiva Abbaszadeh",
+   "Adam S. Wang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28448",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:09:34Z",
+  "categories": [
+   "physics.med-ph"
+  ],
+  "topic_id": "AI-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28411",
+  "title": "Brain2Vec: A Self-Supervised 3D Foundation Model for Structural Brain MRI",
+  "authors": [
+   "Spiros Maggioros",
+   "Guray Erus",
+   "Gareth Harman",
+   "George Aidinis",
+   "Alexander Getka",
+   "Aristeidis Sotiras",
+   "Christos Davatzikos"
+  ],
+  "link": "https://arxiv.org/abs/2610.28411",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:50:35Z",
+  "categories": [
+   "cs.CV",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "topic_id": "AI-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28410",
+  "title": "A Multi-Agent Framework for Automated Machine Learning with Evidence-based Planning for Medical Image Analysis",
+  "authors": [
+   "Yiqing Shen",
+   "Mathias Unberath"
+  ],
+  "link": "https://arxiv.org/abs/2610.28410",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:49:38Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "AI-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28507",
+  "title": "ECG for laboratory values:A comprehensive physiological and technical analysis",
+  "authors": [
+   "Walentin Palanchuk"
+  ],
+  "link": "https://arxiv.org/abs/2610.28507",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:46:26Z",
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "topic_id": "AI-07",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28129",
+  "title": "GAMF-Net: Grouped Availability-Aware Multimodal Fusion for Smartphone Skin Lesion Classification",
+  "authors": [
+   "Yue Zhuo",
+   "Jingjia Yan",
+   "Fangyu Liu",
+   "Lingjun Liu",
+   "Zongjun Chen",
+   "Zhisheng Luo",
+   "Zhonghua Xie"
+  ],
+  "link": "https://arxiv.org/abs/2610.28129",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T12:35:39Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "AI-07",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28083",
+  "title": "IECG: Weakly-Supervised Interpretability-Enhancing Foundation Model for Electrocardiogram",
+  "authors": [
+   "Huynh Dang Nguyen",
+   "Trong-Thang Pham",
+   "Anh-Thuan Do",
+   "Phuong-Nhi Dinh",
+   "Brijesh Patel",
+   "Ngan Le",
+   "Van Nguyen"
+  ],
+  "link": "https://arxiv.org/abs/2610.28083",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T12:03:09Z",
+  "categories": [
+   "cs.AI"
+  ],
+  "topic_id": "AI-07",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27941",
+  "title": "HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data",
+  "authors": [
+   "Jianfei Xu",
+   "Huizhi Liang",
+   "Judith Harrison",
+   "John-Paul Taylor",
+   "Jaume Bacardit",
+   "Varun Ojha"
+  ],
+  "link": "https://arxiv.org/abs/2610.27941",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T09:49:08Z",
+  "categories": [
+   "cs.AI"
+  ],
+  "topic_id": "AI-07",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27644",
+  "title": "Secure Multimodal Federated Optimization via Hierarchical DNA-Based Key Management",
+  "authors": [
+   "Yuping Yan",
+   "Yaochu Jin"
+  ],
+  "link": "https://arxiv.org/abs/2610.27644",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T05:04:19Z",
+  "categories": [
+   "cs.CR"
+  ],
+  "topic_id": "AI-07",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28523",
+  "title": "VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction",
+  "authors": [
+   "Yuto Shibata",
+   "Kotaro Amaya",
+   "Kashu Yamazaki",
+   "Lalit Jayanti",
+   "Yoshimitsu Aoki",
+   "Mariko Isogawa",
+   "Katerina Fragkiadaki"
+  ],
+  "link": "https://arxiv.org/abs/2610.28523",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:57:52Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28470",
+  "title": "Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning",
+  "authors": [
+   "Daniel Marew",
+   "Sangjun Park",
+   "Nisal Perera",
+   "Donghyun Kim"
+  ],
+  "link": "https://arxiv.org/abs/2610.28470",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:22:00Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28431",
+  "title": "Plausible Future, Wrong Choice: Steering World-Action Models toward Intended Future",
+  "authors": [
+   "Zhuohao Li",
+   "Jiawei He",
+   "Yuxuan Yan",
+   "Lang Zhou",
+   "Yinghao Li",
+   "Yanrui Li",
+   "Tianyu Zhang",
+   "Yi-Yang Song",
+   "Xirui Wu andYi-Lin Wei",
+   "Fating Hong",
+   "Qing Zhang",
+   "Zhilin Zhao",
+   "Jingdong Wang",
+   "Wei-Shi Zheng"
+  ],
+  "link": "https://arxiv.org/abs/2610.28431",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T15:58:45Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27688",
+  "title": "Adaptive Traversal Tubes for Posture-Aware Navigation of Bipedal Humanoids",
+  "authors": [
+   "Zijian Ge"
+  ],
+  "link": "https://arxiv.org/abs/2610.27688",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T06:03:44Z",
+  "categories": [
+   "cs.RO",
+   "eess.SY"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27616",
+  "title": "EchoNav: Evidential BEV Completion from Historical Observations for Visual Navigation",
+  "authors": [
+   "Diwen Liu",
+   "Yiyang Shao",
+   "Borui Wang",
+   "Chi Zhang",
+   "Yunhui Liu"
+  ],
+  "link": "https://arxiv.org/abs/2610.27616",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T04:31:18Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27242",
+  "title": "EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation",
+  "authors": [
+   "Chaitanya Chawla",
+   "Kartik Sharma",
+   "Ananya Bal",
+   "Laszlo A. Jeni",
+   "Guanya Shi"
+  ],
+  "link": "https://arxiv.org/abs/2610.27242",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T20:08:32Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27162",
+  "title": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
+  "authors": [
+   "Lada Kudláčková"
+  ],
+  "link": "https://arxiv.org/abs/2610.27162",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T18:57:19Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28626",
+  "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+  "authors": [
+   "Rahul Sajnani",
+   "Diego Romeres",
+   "Mingyuan Zhang",
+   "Kai Gao",
+   "Carl Qi",
+   "Baichuan Huang",
+   "Srinath Sridhar",
+   "Dylan Randle",
+   "Lillian J. Ratliff",
+   "Jose Barreiros",
+   "Manikantan Nambi",
+   "Jeroen Vanbaar"
+  ],
+  "link": "https://arxiv.org/abs/2610.28626",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:59:04Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI",
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28613",
+  "title": "Physical Canvas: A Vision Tactile World Model For Robot Policy Evaluation And Learning",
+  "authors": [
+   "Zebin Xing",
+   "Yuhang Zheng",
+   "Yupeng Zheng",
+   "Yichen Zhang",
+   "Zichen Li",
+   "Shangqing Zhou",
+   "Yujie Zang",
+   "Yuchen Liu",
+   "Zhongpu Xia",
+   "Haoran Li",
+   "Qichao Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28613",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:54:03Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28594",
+  "title": "Learning the 4D World through Point Trajectory Forecasting",
+  "authors": [
+   "Byungwoo Jeon",
+   "Sunghwan Hong",
+   "Dohyeon Kim",
+   "Jonghoon Lee",
+   "Jungwoo Park",
+   "Inhee Lee",
+   "Doosan Baek",
+   "Jinil Kim",
+   "Taehyun Lim",
+   "Hanbyul Joo",
+   "Marc Pollefeys",
+   "Saining Xie",
+   "Jinwoo Shin"
+  ],
+  "link": "https://arxiv.org/abs/2610.28594",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:45:45Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28589",
+  "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+  "authors": [
+   "Xinxin Liu",
+   "Bingxin Xu",
+   "Wenrui Bao",
+   "Ming Li",
+   "Wentao Bao",
+   "Chen Chen",
+   "Yuzhang Shang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28589",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:41:09Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28457",
+  "title": "GPT-6-Astra Understands Touch and Outperform Vision--Tactile--Language--Action Models",
+  "authors": [
+   "Ziyong Wang",
+   "Yupei Lin",
+   "Runxuan Huang",
+   "Liang Lin",
+   "Dongyu Zhang",
+   "Guangrun Wang"
+  ],
+  "link": "https://arxiv.org/abs/2610.28457",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T16:15:02Z",
+  "categories": [
+   "cs.RO",
+   "cs.CL"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28259",
+  "title": "Large Multimodal Models for Direct Robot Control: GPT-6 as a Beginning",
+  "authors": [
+   "Youwei Zhou",
+   "Bohan Hou",
+   "Yankai Fu",
+   "Yaoxu Lyu",
+   "Yifan Ye",
+   "Shilin Shan",
+   "Chen Guo",
+   "Jiaming Liu",
+   "Ran He",
+   "Caifeng Shan",
+   "Shanghang Zhang",
+   "Jianfei Yang",
+   "Zhihe Lu"
+  ],
+  "link": "https://arxiv.org/abs/2610.28259",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T14:15:04Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27998",
+  "title": "LocoPilot: Single-Operator Bilateral Teleoperation for Loco-Manipulation Policy Learning",
+  "authors": [
+   "Antonio Langella",
+   "Giovanni Minelli",
+   "Giovanni B. Dessy",
+   "Lorenzo Amatucci",
+   "Giulio Turrisi",
+   "Victor Barasuol",
+   "Claudio Semini"
+  ],
+  "link": "https://arxiv.org/abs/2610.27998",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T10:37:39Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27995",
+  "title": "Learning Tactile-Aware Hand Representations from Human Hand-Object Interaction Data",
+  "authors": [
+   "Yeonguk Yu",
+   "Jaehong Kim",
+   "Byungok Han"
+  ],
+  "link": "https://arxiv.org/abs/2610.27995",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T10:31:45Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27946",
+  "title": "Decoupling Action from Egocentric Observation for World Simulation",
+  "authors": [
+   "Yue Ma",
+   "Pengjie Song",
+   "Xinyu Wang",
+   "Yi He",
+   "Zeqian Long",
+   "Fangneng Zhan",
+   "Kaichen Zhou",
+   "Hongyu Liu",
+   "Hongfa Wang",
+   "Peihao Li",
+   "Haoyang Huang",
+   "Nan Duan",
+   "Qifeng Chen"
+  ],
+  "link": "https://arxiv.org/abs/2610.27946",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T09:52:46Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27736",
+  "title": "AWLS: Advantage-Weighted Latent Steering for One-Step Generative Robotic Manipulation Policies",
+  "authors": [
+   "Jiahong Tang",
+   "Jiaju He",
+   "Zhiyuan Yang",
+   "Ruyang Han",
+   "Haiyue Zhu"
+  ],
+  "link": "https://arxiv.org/abs/2610.27736",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T06:58:12Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27657",
+  "title": "PLaCA: Learning Patch-Level Future Latent Change for Action Generation",
+  "authors": [
+   "Zhan Yi",
+   "Yuchen Wang",
+   "Chao Li",
+   "Lei Hong",
+   "Boyuan Yang"
+  ],
+  "link": "https://arxiv.org/abs/2610.27657",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T05:15:35Z",
+  "categories": [
+   "cs.RO",
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27613",
+  "title": "Embodied Task Agents Can Perform Fine Manipulation through Tactile In-Context Learning",
+  "authors": [
+   "Yubang Wang",
+   "Zezheng Huai",
+   "Yifei Zhang",
+   "Jinhao Wu",
+   "Yitong Chen",
+   "Haozhe Zhang",
+   "Sixian Li",
+   "Jingjing Gong",
+   "Zhenyang Lin",
+   "Ziyang Chen",
+   "Xipeng Qiu"
+  ],
+  "link": "https://arxiv.org/abs/2610.27613",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T04:27:15Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27562",
+  "title": "Velocity Optimization via Thermal Imaging Enhances Autonomous Tumor Resection",
+  "authors": [
+   "Naveed D. Riaziat",
+   "Jiawei Ge",
+   "Ethan Kilmer",
+   "Michael W. Mikula",
+   "Paul Maria Scheikl",
+   "Michael Kam",
+   "Leila J. Mady",
+   "Axel Krieger",
+   "Jeremy D. Brown"
+  ],
+  "link": "https://arxiv.org/abs/2610.27562",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T03:22:13Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.27369",
+  "title": "Generation of non-Maxwell-Boltzmann energy distributions during thermalization of interacting baths",
+  "authors": [
+   "Roberto Onofrio",
+   "Bala Sundaram"
+  ],
+  "link": "https://arxiv.org/abs/2610.27369",
+  "published": "2026-10-19",
+  "published_at": "2026-10-19T22:47:56Z",
+  "categories": [
+   "physics.plasm-ph",
+   "cond-mat.quant-gas",
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "topic_id": "NUC-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28097",
+  "title": "Evict Early, Decode Efficiently: Lightweight Decoding Strategies for Low-Delay Sliding Window RLNC",
+  "authors": [
+   "Foteini Karetsi",
+   "Evangelos Papapetrou"
+  ],
+  "link": "https://arxiv.org/abs/2610.28097",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T12:12:51Z",
+  "categories": [
+   "cs.NI"
+  ],
+  "topic_id": "COM-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.28630",
+  "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+  "authors": [
+   "Guian Fang",
+   "Shengju Qian",
+   "Dongyue Lu",
+   "Junchao Huang",
+   "Lutao Jiang",
+   "Xin Wang",
+   "Yiren Song",
+   "Li Jiang",
+   "Mike Zheng Shou"
+  ],
+  "link": "https://arxiv.org/abs/2610.28630",
+  "published": "2026-10-20",
+  "published_at": "2026-10-20T17:59:48Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "INF-01",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898558",
+  "topic_id": "BCI-02",
+  "title": "A feature-optimized EEG framework using multiscale entropy and metaheuristic optimization for cognitive analysis",
+  "authors": [
+   "N K",
+   "V K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898558/",
+  "published": "2026-10-05",
+  "venue": "Frontiers in artificial intelligence",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899689",
+  "topic_id": "BCI-03",
+  "title": "The network localization and underlying biological basis of heterogeneous structural and functional brain abnormalities in insomnia disorder",
+  "authors": [
+   "Xue W",
+   "Gao Z",
+   "Shi Y",
+   "Zhang Y",
+   "Du W",
+   "Tao B",
+   "Zhu F",
+   "Wan Q",
+   "Zhang W",
+   "Lui S",
+   "Lu P",
+   "Tang X",
+   "Xiao Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899689/",
+  "published": "2026-10-20",
+  "venue": "Sleep",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899673",
+  "topic_id": "BCI-03",
+  "title": "Delineating neural contributions to electroencephalogram-based speech decoding",
+  "authors": [
+   "Sato M",
+   "Hatakeyama E",
+   "Inoue M",
+   "Kabe Y",
+   "Nobe S",
+   "Yoshida A",
+   "Yamamoto A",
+   "Kita Y",
+   "Shimizu M",
+   "Tomeoka K",
+   "Cohen MX",
+   "Sasai S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899673/",
+  "published": "2026-10-20",
+  "venue": "Journal of neural engineering",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900049",
+  "topic_id": "BCI-03",
+  "title": "Physics-aware restoration and calibrated soft demodulation for turbulence-degraded OAM mode recognition",
+  "authors": [
+   "Wang P",
+   "Luo Y",
+   "Chen W",
+   "Yang L",
+   "Zhang D",
+   "Zhu J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900049/",
+  "published": "2026-10-10",
+  "venue": "Applied optics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898447",
+  "topic_id": "AI-02",
+  "title": "An artificial intelligence-assisted PARP-1-targeted PET imaging agent [(68)Ga]Ga-DOTA-FZPF: From bench to clinic",
+  "authors": [
+   "Ji M",
+   "Jiang C",
+   "Xi Y",
+   "Liu S",
+   "He S",
+   "Zhang J",
+   "Xu X",
+   "Yang Z",
+   "Wang X",
+   "Song S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898447/",
+  "published": "2026-10-07",
+  "venue": "Materials today. Bio",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901486",
+  "topic_id": "AI-02",
+  "title": "Agentic artificial intelligence for code status extraction from clinical notes: a cross-model comparison of single agent, reflective agent, and multiagent extractor-reviewer system",
+  "authors": [
+   "Sun Y",
+   "Ang G",
+   "Yap CW",
+   "Kannapiran P",
+   "Abisheganaden J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901486/",
+  "published": "2026-10-20",
+  "venue": "Journal of the American Medical Informatics Association : JAMIA",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901481",
+  "topic_id": "AI-02",
+  "title": "Workflow Topology-Guided Skill Loading for Agentic AI in Clinical Trial Data Pipelines: Sequential Exploratory Evaluation",
+  "authors": [
+   "Yan J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901481/",
+  "published": "2026-10-20",
+  "venue": "JMIR formative research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898328",
+  "topic_id": "AI-02",
+  "title": "An agentic AI- and n8n automation-powered maternal care framework with predictive pregnancy monitoring and continuous learning",
+  "authors": [
+   "Thippa S",
+   "Ainarappan N",
+   "Suganya R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898328/",
+  "published": "2026-10-05",
+  "venue": "Frontiers in digital health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897821",
+  "topic_id": "AI-03",
+  "title": "Navigating the translational chasm: a scoping review of large language models and hybrid architectures in intensive care",
+  "authors": [
+   "Cui X",
+   "Zhang H",
+   "Wang B",
+   "Luo W",
+   "Guo D",
+   "Liu X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897821/",
+  "published": "2026-10-19",
+  "venue": "Anaesthesia and intensive care",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899772",
+  "topic_id": "AI-05",
+  "title": "Beyond Scalar Objectives: Expert-Feedback-Driven Autonomous Experimentation for Scientific Discovery at the Nanoscale",
+  "authors": [
+   "Bulanadi R",
+   "Baxter J",
+   "Biswas A",
+   "Funakubo H",
+   "Nagarajan V",
+   "Sando D",
+   "Meier D",
+   "Schultheiß J",
+   "Vasudevan R",
+   "Liu Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899772/",
+  "published": "2026-10-20",
+  "venue": "ACS nano",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897918",
+  "topic_id": "AI-05",
+  "title": "Effects of ChatGPT Use on Self-care Cardiac Rehabilitation Adherence in Patients with Coronary Artery Disease",
+  "authors": [
+   "Ift I H",
+   "Yet T DA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897918/",
+  "published": "2026-10-19",
+  "venue": "Turk Kardiyoloji Dernegi arsivi : Turk Kardiyoloji Derneginin yayin organidir",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899117",
+  "topic_id": "AI-05",
+  "title": "Fusing physics and AI enhances accuracy and diagnostic capabilities in air quality forecasting",
+  "authors": [
+   "Wu H",
+   "Wang Z",
+   "Zhang Y",
+   "Lin W",
+   "Li X",
+   "Gao M",
+   "Sun H",
+   "Zhang D",
+   "Wang W",
+   "Tang X",
+   "Zhu J",
+   "Song Y",
+   "Ma C",
+   "Fu P",
+   "Su H",
+   "Cheng Y",
+   "Carmichael GR"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899117/",
+  "published": "2026-09-10",
+  "venue": "National science review",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901898",
+  "topic_id": "AI-05",
+  "title": "Bayesian bilevel operator learning with low-rank adaptation for efficient uncertainty quantification of PDE inverse problems",
+  "authors": [
+   "Zhang RZ",
+   "Miles CE",
+   "Xie X",
+   "Lowengrub JS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901898/",
+  "published": "2026-09-19",
+  "venue": "Nature communications",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897422",
+  "topic_id": "AI-06",
+  "title": "Hair Segmentation and Skin Characterization on Macroscopic Dermatological Images for Laser Treatment Parameterization",
+  "authors": [
+   "Navarro AN",
+   "Hidalgo MA",
+   "Rubio CM",
+   "Talarmain M",
+   "Gallardo NV"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897422/",
+  "published": "2026-10-19",
+  "venue": "Journal of imaging informatics in medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898464",
+  "topic_id": "AI-06",
+  "title": "How AI-based techniques for brain tumour diagnosis can address data variability",
+  "authors": [
+   "Lecca P",
+   "Lecca M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898464/",
+  "published": "2026-10-05",
+  "venue": "Frontiers in bioinformatics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902311",
+  "topic_id": "AI-06",
+  "title": "Preoperative prediction of positive margins in breast-conserving surgery using an ensemble model based on DCE-MRI: a multi-center retrospective and prospective study",
+  "authors": [
+   "Zhao X",
+   "Bai JW",
+   "Dong LA",
+   "Li ZH",
+   "He JZ",
+   "Chen YX",
+   "Liu Y",
+   "Hou WT",
+   "Xu ZY",
+   "Du ZC",
+   "Jiang S",
+   "Li SZ",
+   "Zhang GJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902311/",
+  "published": "2026-07-25",
+  "venue": "Breast cancer research : BCR",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897593",
+  "topic_id": "AI-06",
+  "title": "AI-powered spectral CT analysis for clinical decision support in carotid vulnerable plaque detection: a deep learning approach",
+  "authors": [
+   "Ni Y",
+   "Zhang T",
+   "Huang Z",
+   "Wang Y",
+   "Han G",
+   "Lin Y",
+   "Liu B",
+   "Lin W",
+   "Li H"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897593/",
+  "published": "2026-07-24",
+  "venue": "BMC medical informatics and decision making",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902181",
+  "topic_id": "AI-06",
+  "title": "A survey of explainable AI applications in infectious disease diagnosis",
+  "authors": [
+   "Valishirin H",
+   "S A FI",
+   "Brayton KA",
+   "Broschat SL"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902181/",
+  "published": "2026-07-23",
+  "venue": "BMC infectious diseases",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899067",
+  "topic_id": "AI-06",
+  "title": "Bias-Resilient Feature Learning for Robust Domain Adaptation in Mammography",
+  "authors": [
+   "Hao D",
+   "Arefan D",
+   "Luo J",
+   "Zuley ML",
+   "Du N",
+   "Wu S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899067/",
+  "published": "2026-01-01",
+  "venue": "Applications of medical artificial intelligence. AMAI (Workshop) (4th : 2024 : Taejon-si, Korea)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898130",
+  "topic_id": "AI-07",
+  "title": "Current role of boron neutron capture therapy in head and neck cancer: insights from 4 years of clinical experience",
+  "authors": [
+   "Takeno S",
+   "Yoshino Y",
+   "Aihara T",
+   "Inui T",
+   "Jinnin T",
+   "Kinoshita I",
+   "Kobata K",
+   "Mukai M",
+   "Hu N",
+   "Sasaki A",
+   "Nojiri M",
+   "Kanai Y",
+   "Terada T",
+   "Haginomori SI",
+   "Nihei K",
+   "Ono K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898130/",
+  "published": "2026-10-07",
+  "venue": "Clinical and translational radiation oncology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902543",
+  "topic_id": "AI-07",
+  "title": "Sleep, inflammation, and pain in musculoskeletal rehabilitation: a structured integrative review of neurobiological mechanisms and non-pharmacological pain management strategies",
+  "authors": [
+   "de Freitas EM",
+   "Silva A",
+   "Esteves AM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902543/",
+  "published": "2026-10-20",
+  "venue": "Pain management",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902056",
+  "topic_id": "AI-07",
+  "title": "Clinical outcomes and feasibility of a fast-track protocol after total ankle replacement: a prospective study",
+  "authors": [
+   "Vena LM",
+   "Moggio L",
+   "Cofano E",
+   "Longo UG",
+   "van Dijk P",
+   "van Dijk CN",
+   "Gasparini G",
+   "Mercurio M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902056/",
+  "published": "2026-10-20",
+  "venue": "Archives of orthopaedic and trauma surgery",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901384",
+  "topic_id": "AI-07",
+  "title": "Multi-Modal Biometric Fusion for Athletic Performance Optimization: Clinical Validation of the Dynamic Multi-Sensor Fusion Classifier (DMSFC)",
+  "authors": [
+   "Tian W",
+   "Chen Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901384/",
+  "published": "2026-10-20",
+  "venue": "SLAS technology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901335",
+  "topic_id": "AI-07",
+  "title": "From Blue Dye to Multimodal-Guided Surgery: The Evolution of Sentinel Lymph Node Mapping in Vulvar Cancer - A Narrative Review",
+  "authors": [
+   "D'Angelo G",
+   "Ascione M",
+   "Palumbo M",
+   "Garganese G",
+   "Fragomeni SM",
+   "Bifulco G",
+   "Corte LD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901335/",
+  "published": "2026-10-20",
+  "venue": "Critical reviews in oncology/hematology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900864",
+  "topic_id": "AI-07",
+  "title": "Association of Circulating Eosinophils With Systemic Immune Activation and Reduced Recurrence in Hormone Receptor-Positive/Human Epidermal Growth Factor Receptor 2-Negative Breast Cancer",
+  "authors": [
+   "Li ZQ",
+   "Wu SY",
+   "Ge LP",
+   "Wu XR",
+   "Wu WY",
+   "Liu CL",
+   "Shao ZM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900864/",
+  "published": "2026-10-20",
+  "venue": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900830",
+  "topic_id": "AI-07",
+  "title": "Clinical Hypnosis for Chronic Non-Cancer Pain: A Scoping Review",
+  "authors": [
+   "Makhmudah S",
+   "Shatri H",
+   "Jongsma MLA",
+   "Wahyu Yuniarti K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900830/",
+  "published": "2026-10-20",
+  "venue": "The International journal of clinical and experimental hypnosis",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900412",
+  "topic_id": "AI-07",
+  "title": "Clinical characteristics and long-term follow-up of extensive macular atrophy with pseudodrusen-like appearance in Japanese patients",
+  "authors": [
+   "Kominami T",
+   "Ueno S",
+   "Ota J",
+   "Sajiki AF",
+   "Kimura Y",
+   "Nishiguchi KM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900412/",
+  "published": "2026-10-20",
+  "venue": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900286",
+  "topic_id": "AI-07",
+  "title": "Primary cardiac angiosarcoma: From pathogenesis to therapeutic strategies",
+  "authors": [
+   "Gao H",
+   "Zhang H",
+   "Zhu D",
+   "Zhang Y",
+   "Guo M",
+   "Zhu M",
+   "Wang Y",
+   "Yang M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900286/",
+  "published": "2026-10-20",
+  "venue": "Medical oncology (Northwood, London, England)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900175",
+  "topic_id": "AI-07",
+  "title": "Finerenone: A Non-Steroidal Mineralocorticoid Receptor Antagonist and Its Emerging Role in Cardiovascular-Kidney-Metabolic Syndrome",
+  "authors": [
+   "Fischer KG",
+   "Beavers CJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900175/",
+  "published": "2026-10-20",
+  "venue": "Journal of cardiovascular pharmacology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900165",
+  "topic_id": "AI-07",
+  "title": "Semantic distance metrics in anatomy education: Toward AI-assisted mapping of anatomy-to-clinical reasoning",
+  "authors": [
+   "Kasirga UB"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900165/",
+  "published": "2026-10-20",
+  "venue": "Anatomical sciences education",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900010",
+  "topic_id": "AI-07",
+  "title": "Photobiomodulation therapy for the management of pain associated with temporomandibular disorders: a systematic review",
+  "authors": [
+   "Vargas-Neri C",
+   "Benitez-Cárdenas O",
+   "Garrocho-Rangel A",
+   "Félix-Sicairos B",
+   "Noyola-Frías M",
+   "Martínez-Martínez R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900010/",
+  "published": "2026-10-20",
+  "venue": "Quintessence international (Berlin, Germany : 1985)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899797",
+  "topic_id": "AI-07",
+  "title": "Synergistic modulation of the dorsolateral prefrontal cortex and precuneus enhances cognitive recovery in mild cognitive impairment: A multimodal neuroimaging study",
+  "authors": [
+   "Guo Z",
+   "Chen W",
+   "Xie J",
+   "Pu Y",
+   "Yang H",
+   "Mu Q"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899797/",
+  "published": "2026-10-20",
+  "venue": "Neural regeneration research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899629",
+  "topic_id": "AI-07",
+  "title": "Pharmacotherapeutic management of chronic pain in joint hypermobility and Ehlers-Danlos syndromes: a clinical perspective",
+  "authors": [
+   "Castori M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899629/",
+  "published": "2026-10-20",
+  "venue": "Expert opinion on pharmacotherapy",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899523",
+  "topic_id": "AI-07",
+  "title": "Task-Dependent Synergy between FTIR and Raman Spectroscopy for Sperm Quality Prediction",
+  "authors": [
+   "Campanella B",
+   "Birindelli L",
+   "Legnaioli S",
+   "Lorenzetti G",
+   "Consani C",
+   "Ales V",
+   "Benedetti E",
+   "Bertozzi MA",
+   "Bramanti E"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899523/",
+  "published": "2026-10-20",
+  "venue": "Analytical chemistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899481",
+  "topic_id": "AI-07",
+  "title": "The CBI-M framework for characterization of traumatic brain injury: Evaluation of performance using data from the CENTER-TBI and TRACK-TBI prospective cohort studies",
+  "authors": [
+   "Pisică D",
+   "Mikolić A",
+   "Yue JK",
+   "McCrea MA",
+   "Dams-O'Connor K",
+   "De Keyser V",
+   "Jain S",
+   "Markowitz AJ",
+   "Menon DK",
+   "Newcombe V",
+   "Steyerberg EW",
+   "Sun X",
+   "Lingsma HF",
+   "Manley GT",
+   "Maas AIR",
+   "CENTER-TBI and TRACK-TBI Investigators"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899481/",
+  "published": "2026-10-20",
+  "venue": "PLoS medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899351",
+  "topic_id": "AI-07",
+  "title": "Multimodal KCNQ1 Variant-Effect Maps Define Ion Channel Mechanisms and Disease Risk",
+  "authors": [
+   "Harvey ML",
+   "Osborn E",
+   "Lancaster MC",
+   "Smith JE",
+   "Shen Q",
+   "Abe TA",
+   "Cai R",
+   "Muhammad A",
+   "Kannankeril R",
+   "Yang T",
+   "Calandranis ME",
+   "Blackwell DJ",
+   "Dolder RE 3rd",
+   "Aldridge JL",
+   "Fleming MR",
+   "Blair MA",
+   "Soria E",
+   "O'Sullivan JW",
+   "Davogustto G",
+   "Kroncke BM",
+   "MacRae CA",
+   "Knollmann BC",
+   "Roth FP",
+   "Parikh VN",
+   "Ashley EA",
+   "Vandenberg JI",
+   "Ng CA",
+   "Roden DM",
+   "Glazer AM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899351/",
+  "published": "2026-10-20",
+  "venue": "Circulation",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897970",
+  "topic_id": "AI-07",
+  "title": "Effects of adding sustained natural apophyseal glides on neuropathic pain-related symptoms and clinical outcomes in patients with lateral elbow tendinopathy: A randomized controlled trial",
+  "authors": [
+   "El Melhat AM",
+   "Elgayar SL",
+   "Elhalawaty AF",
+   "Koura GM",
+   "Takkoush M",
+   "Ismail AMA",
+   "Mohamed AA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897970/",
+  "published": "2026-10-20",
+  "venue": "Physiotherapy theory and practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901104",
+  "topic_id": "AI-07",
+  "title": "Neurological causes of cardiac arrest in adults: Epidemiology, mechanisms, diagnosis, and clinical implications",
+  "authors": [
+   "Legriel S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901104/",
+  "published": "2026-10-19",
+  "venue": "Clinical neurology and neurosurgery",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897769",
+  "topic_id": "AI-07",
+  "title": "Differential Diagnosis Performance of ChatGPT in Oral and Maxillofacial Pathology",
+  "authors": [
+   "Shujaat S",
+   "Riaz M",
+   "Alsubaie JM",
+   "Almuammar AA",
+   "Pillai A",
+   "Alfadley A",
+   "Aboalela AA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897769/",
+  "published": "2026-10-19",
+  "venue": "Oral diseases",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898586",
+  "topic_id": "AI-08",
+  "title": "CowPainCheck: AI-based facial expression analysis for dairy cow welfare",
+  "authors": [
+   "Patel S",
+   "Neethirajan S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898586/",
+  "published": "2026-07-01",
+  "venue": "Journal of animal science and technology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898214",
+  "topic_id": "BIO-06",
+  "title": "Determinants of variable response to GLP-1 receptor agonists: A mechanism-informed framework for precision treatment of obesity",
+  "authors": [
+   "Ghosal S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898214/",
+  "published": "2026-10-07",
+  "venue": "Obesity pillars",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900155",
+  "topic_id": "BIO-06",
+  "title": "Genomic and immune profiling characterizes immune heterogeneity and a TIGIT-associated subtype in intrahepatic cholangiocarcinoma",
+  "authors": [
+   "Korosteleva A",
+   "Reschke JS",
+   "Yi D",
+   "Marhenke S",
+   "Zhao J",
+   "Volk V",
+   "Reineke-Plaaß T",
+   "Peter S",
+   "Hoffmann C",
+   "Tran DDH",
+   "Gerdes C",
+   "Bathon M",
+   "Kolch W",
+   "Feuerhake F",
+   "Zhernovkov V",
+   "Saborowski A",
+   "Vogel A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900155/",
+  "published": "2026-10-19",
+  "venue": "Hepatology communications",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902369",
+  "topic_id": "BIO-06",
+  "title": "Mapping and analysis of the knowledge graph on the current status and key issues in global research on Norovirus infections in children over the past 28 years",
+  "authors": [
+   "Cui Z",
+   "Wu P",
+   "Dou Y",
+   "Liu Q",
+   "Dai Q",
+   "Yuan B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902369/",
+  "published": "2026-10-20",
+  "venue": "Tropical medicine and health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899528",
+  "topic_id": "BIO-06",
+  "title": "Drug Metabolism and Drug-Drug Interactions Studied Using High-Throughput Ambient Mass Spectrometry",
+  "authors": [
+   "Saha M",
+   "Talaty N",
+   "Morato NM",
+   "Shahi M",
+   "Welch CJ",
+   "Feng Y",
+   "Ferreira CR",
+   "Wagner D",
+   "Kaerner A",
+   "Cooks RG"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899528/",
+  "published": "2026-10-20",
+  "venue": "Analytical chemistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899525",
+  "topic_id": "BIO-06",
+  "title": "Electrochemical Dual-Sensing Platform for HLA-B*13:01 Detection to Prevent Severe Cutaneous Adverse Reactions (SCARs) Induced by Dapsone and Cotrimoxazole",
+  "authors": [
+   "Attapong J",
+   "Kaset C",
+   "Nakkam N",
+   "Tassaneeyakul W",
+   "Kamsong W",
+   "Karuwan C",
+   "Sukasem C",
+   "Chomean S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899525/",
+  "published": "2026-10-20",
+  "venue": "Analytical chemistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899312",
+  "topic_id": "BIO-06",
+  "title": "Clinical Phenotypes Associated With Body Composition and Muscle Function in Hospitalized Japanese Patients With Type 2 Diabetes",
+  "authors": [
+   "Iwamoto Y",
+   "Okamoto Y",
+   "Iwamoto H",
+   "Kimura T",
+   "Harada A",
+   "Kubo M",
+   "Inaba R",
+   "Itoh T",
+   "Sugisaki T",
+   "Takenouchi H",
+   "Sanada J",
+   "Shimoda M",
+   "Nakanishi S",
+   "Kaku K",
+   "Kaneto H"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899312/",
+  "published": "2026-10-20",
+  "venue": "Diabetes, obesity & metabolism",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897344",
+  "topic_id": "BIO-06",
+  "title": "Clinical whole exome sequencing in childhood epilepsy: a tertiary center retrospective study from Saudi Arabia",
+  "authors": [
+   "Abumansour IS",
+   "Daghistani RO",
+   "Muthaffar OY",
+   "Alyazidi AS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897344/",
+  "published": "2026-10-20",
+  "venue": "Journal of applied genetics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898717",
+  "topic_id": "BIO-06",
+  "title": "The Current Status and Evaluation of Artificial Intelligence in Bladder Cancer: Clinical Applications and Research",
+  "authors": [
+   "Yin Z",
+   "Ho JWK"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898717/",
+  "published": "2026-10-19",
+  "venue": "Computational and structural biotechnology journal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898933",
+  "topic_id": "BIO-06",
+  "title": "A Feasible (1)H-NMR Quantification Method of Indicator Compounds in Microwave-Processed Reynoutria multiflora Radix and Its Decoction",
+  "authors": [
+   "Li HZ",
+   "Phan HN",
+   "Jhang ZH",
+   "Chen GF",
+   "Yang ML",
+   "Wu TS",
+   "Kuo PC"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898933/",
+  "published": "2026-10-18",
+  "venue": "International journal of analytical chemistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900994",
+  "topic_id": "BIO-06",
+  "title": "Nanoparticles in angiogenesis and vascular development: From therapeutics to theragnostic",
+  "authors": [
+   "Zamani S",
+   "Arminfar A",
+   "Rezvani M",
+   "Rad SS",
+   "Naeiji M",
+   "Vataniman M",
+   "Jahanbazi R",
+   "Vaez A",
+   "Salehi M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900994/",
+  "published": "2026-10-17",
+  "venue": "Tissue & cell",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897831",
+  "topic_id": "BIO-06",
+  "title": "Natural Products as Promising Therapeutic Agents in Cancer Management",
+  "authors": [
+   "Dash JR",
+   "Bindhani I",
+   "Pattnaik G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897831/",
+  "published": "2026-10-16",
+  "venue": "Mini reviews in medicinal chemistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42897806",
+  "topic_id": "BIO-06",
+  "title": "Emerging Therapeutic Protein Targets of Inflammation: A Comprehensive Review",
+  "authors": [
+   "Sinha S",
+   "Kumar R",
+   "Shainda K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42897806/",
+  "published": "2026-10-15",
+  "venue": "Current protein & peptide science",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42900767",
+  "topic_id": "BIO-06",
+  "title": "Droplet digital PCR as a first-line detection tool in the genetic diagnosis of vascular anomalies",
+  "authors": [
+   "Lane TK",
+   "Brown NJ",
+   "Green TE",
+   "Garza D",
+   "de Silva MG",
+   "Bennett MF",
+   "Tubb C",
+   "Macdonald SMW",
+   "Gascoigne A",
+   "Phillips RJ",
+   "Slavin J",
+   "D'Arcy C",
+   "MacGregor D",
+   "Clifford A",
+   "Pathmanathan L",
+   "Robertson SJ",
+   "Bekhor P",
+   "Simpson J",
+   "Gooley S",
+   "Scheffer IE",
+   "Berkovic SF",
+   "Penington AJ",
+   "Hildebrand MS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42900767/",
+  "published": "2026-10-13",
+  "venue": "Human molecular genetics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901714",
+  "topic_id": "BIO-06",
+  "title": "Building sustainable IBD clinical research units: a practical toolbox emerging from a Belgian multi-stakeholder initiative",
+  "authors": [
+   "Arijs I",
+   "Govaerts L",
+   "Debrun L",
+   "Fierens L",
+   "Franc K",
+   "Kelchtermans H",
+   "Minsart C",
+   "Reenaers C",
+   "Vandenbroucke L",
+   "Vansteenkiste L",
+   "De Rechter J",
+   "Belgian IBD Research and Development (BIRD)",
+   "Verstockt B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901714/",
+  "published": "2026-10-09",
+  "venue": "Journal of Crohn's & colitis",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901529",
+  "topic_id": "BIO-06",
+  "title": "Cracking the fertility code: a comprehensive review of biomarkers and functional measures",
+  "authors": [
+   "Woodman-Sousa MF",
+   "Grive K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901529/",
+  "published": "2026-10-07",
+  "venue": "Open biology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899025",
+  "topic_id": "BIO-06",
+  "title": "Macrophages and immunometabolism in diminished ovarian reserve: pathological features and therapeutic implications",
+  "authors": [
+   "Li B",
+   "Zhang J",
+   "Wu Q",
+   "Zhang X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899025/",
+  "published": "2026-10-05",
+  "venue": "Frontiers in endocrinology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898997",
+  "topic_id": "BIO-06",
+  "title": "Endometrial cancer molecular classification: research advances and clinical application",
+  "authors": [
+   "Liu Y",
+   "Li Y",
+   "Zhang L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898997/",
+  "published": "2026-10-05",
+  "venue": "Frontiers in oncology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898959",
+  "topic_id": "BIO-06",
+  "title": "Targeting pathogenic immune cells in rheumatoid arthritis: emerging immunotherapeutic frontiers",
+  "authors": [
+   "Dong Y",
+   "Xu X",
+   "S S",
+   "Dai J",
+   "Murugesan V",
+   "Muthusamy S",
+   "Rajalakshmi K",
+   "Zhu D"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898959/",
+  "published": "2026-10-05",
+  "venue": "Frontiers in immunology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898794",
+  "topic_id": "BIO-06",
+  "title": "Corticosteroids, serum proteins, and the next phase of precision medicine in IgA nephropathy",
+  "authors": [
+   "Zoccali C",
+   "Floege J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898794/",
+  "published": "2026-10-05",
+  "venue": "Clinical kidney journal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901617",
+  "topic_id": "BIO-07",
+  "title": "Caddyshack in the Illawarra Shoalhaven: Evaluating a Multi-Platform Sexual Health Promotion Programme",
+  "authors": [
+   "Demant D",
+   "Stratten M",
+   "Adamson W",
+   "Percival N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901617/",
+  "published": "2027-01-01",
+  "venue": "Health promotion journal of Australia : official journal of Australian Association of Health Promotion Professionals",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42899190",
+  "topic_id": "BIO-07",
+  "title": "Enhancing learning health care systems with real-world data harmonization frameworks",
+  "authors": [
+   "Canelas-Pais M",
+   "Dienstmann R",
+   "Wang SV",
+   "Taveira-Gomes T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42899190/",
+  "published": "2026-10-12",
+  "venue": "ESMO real world data and digital oncology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898472",
+  "topic_id": "BIO-07",
+  "title": "From test result to surveillance record: A narrative review of malaria RDT data quality in African health information systems",
+  "authors": [
+   "Elmi AH"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898472/",
+  "published": "2026-10-06",
+  "venue": "Dialogues in health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898382",
+  "topic_id": "BIO-07",
+  "title": "Service User Experiences and Perceptions of Virtual Mental Health and Substance Use Care in Canada: A Survey of the Wellness Together Canada Portal",
+  "authors": [
+   "Lee H",
+   "Omolade Abejirinde IO",
+   "Pham Q",
+   "Bartram M",
+   "Cafazzo C",
+   "Young K",
+   "Inrig M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898382/",
+  "published": "2026-09-17",
+  "venue": "Mayo Clinic proceedings. Digital health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898084",
+  "topic_id": "BIO-07",
+  "title": "Olfactory dysfunction among gas station employees exposed to fuel vapors using digital odor identification testing",
+  "authors": [
+   "Viana Dos Santos JM",
+   "Nakanishi M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898084/",
+  "published": "2026-10-09",
+  "venue": "iScience",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898372",
+  "topic_id": "BIO-07",
+  "title": "Pregnancy outcome documentation in low-resource settings: a multi-country study",
+  "authors": [
+   "Hucko A",
+   "Prauseová J",
+   "Parker EPK",
+   "Ford R",
+   "Nkereuwem O",
+   "Madubueze U",
+   "Bhattarai S",
+   "Kajungu D",
+   "Msoka A",
+   "Hossain MM",
+   "Kampmann B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898372/",
+  "published": "2026-09-16",
+  "venue": "AJOG global reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898174",
+  "topic_id": "BIO-07",
+  "title": "The impact of an adaptive patient-centered web application on medication optimization in patients with HFrEF: Rationale and design of the SmartHF trial",
+  "authors": [
+   "Dorsch MP",
+   "Krambrink A",
+   "Ganai S",
+   "Greer KM",
+   "Ali MS",
+   "Stevens R",
+   "Nwoko U",
+   "Ogunniyi MO",
+   "Ewald G",
+   "Abdul-Nour K",
+   "Hummel SL",
+   "Koelling TM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898174/",
+  "published": "2026-10-06",
+  "venue": "American heart journal plus : cardiology research and practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902096",
+  "topic_id": "BIO-07",
+  "title": "Opportunities and challenges of artificial intelligence and digital pathology in adult CNS tumors",
+  "authors": [
+   "Lechpammer M",
+   "Norrell JT",
+   "Parnas JN",
+   "Vojnic M",
+   "Sherman JH"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902096/",
+  "published": "2026-10-21",
+  "venue": "Journal of neuro-oncology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902033",
+  "topic_id": "BIO-07",
+  "title": "A Web-Based Registry Framework Linking Transfusion Practice to Long-Term Patient Outcomes: Design and Single-Center Feasibility Study",
+  "authors": [
+   "Nürenberg-Goloub E",
+   "Friedrichson B",
+   "Nordine M",
+   "Storf H",
+   "Zacharowski K",
+   "Kloka JA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902033/",
+  "published": "2026-10-21",
+  "venue": "Journal of medical systems",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902596",
+  "topic_id": "BIO-07",
+  "title": "\"A Minefield for the Novice\": Australian Women's Experiences Seeking Health Information Online About Perimenopause",
+  "authors": [
+   "Boer N",
+   "Jovanovski N",
+   "Saling L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902596/",
+  "published": "2026-10-20",
+  "venue": "Journal of health communication",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902575",
+  "topic_id": "BIO-07",
+  "title": "Scam-Based Human Trafficking Through a Trauma-Informed and Intersectional Lens: An Integrative Narrative Review",
+  "authors": [
+   "Yeh HC",
+   "Liu S",
+   "Rodney T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902575/",
+  "published": "2026-10-20",
+  "venue": "Trauma, violence & abuse",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902254",
+  "topic_id": "BIO-07",
+  "title": "Outcome measures and monitoring framework in juvenile systemic sclerosis: bridging routine care and clinical trials",
+  "authors": [
+   "Foeldvari I",
+   "Marrani E"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902254/",
+  "published": "2026-10-20",
+  "venue": "Pediatric rheumatology online journal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42902250",
+  "topic_id": "BIO-07",
+  "title": "Gender-transformative action as a strategy for health system strengthening: a framework for advancing equity, accountability, and resilience",
+  "authors": [
+   "Vandi M",
+   "Osborne A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42902250/",
+  "published": "2026-10-20",
+  "venue": "International journal for equity in health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901746",
+  "topic_id": "BIO-07",
+  "title": "Beyond the desk: digital self-registration as a redesign of the emergency department front door",
+  "authors": [
+   "Hession E"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901746/",
+  "published": "2026-10-20",
+  "venue": "Emergency medicine journal : EMJ",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901577",
+  "topic_id": "BIO-07",
+  "title": "Co-development, initial evaluation and implementation of a digital health intervention (SmartADHD) for young people (aged 16-30) with attention deficit hyperactivity disorder, including optimisation for sustainable delivery via health and social care settings: protocol for a mixed-methods study",
+  "authors": [
+   "Price A",
+   "Bryant E",
+   "Wenger J",
+   "Groom MJ",
+   "Atherton H",
+   "Newlove-Delgado T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901577/",
+  "published": "2026-10-20",
+  "venue": "BMJ open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901575",
+  "topic_id": "BIO-07",
+  "title": "Digital training to support delivery of an evidence-based cardiac rehabilitation programme for heart failure: a mixed-methods evaluation of healthcare professionals' training experiences and intervention fidelity",
+  "authors": [
+   "Van Beurden SB",
+   "Cross R",
+   "McDonagh ST",
+   "Deighan C",
+   "Taylor RS",
+   "Doherty PJ",
+   "Ludman A",
+   "Clark L",
+   "Dalal HM",
+   "Greaves CJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901575/",
+  "published": "2026-10-20",
+  "venue": "BMJ open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901487",
+  "topic_id": "BIO-07",
+  "title": "Adoption Strategies and Workarounds in the Evolution of Information Infrastructures Integrating Health and Social Care Providers in Scotland: Multimethod Qualitative Case Study of the Key Information Summary",
+  "authors": [
+   "Sai V",
+   "Williams R",
+   "Cresswell K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901487/",
+  "published": "2026-10-20",
+  "venue": "JMIR medical informatics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901485",
+  "topic_id": "BIO-07",
+  "title": "Exploring Perspectives and Barriers in Implementing Home Monitoring for Pediatric Pulmonary Diseases: Mixed Methods Study",
+  "authors": [
+   "Stoop MH",
+   "Krul R",
+   "Manai BH",
+   "Groothuis I",
+   "Sprij AJ",
+   "Nuijsink M",
+   "Janssens HM",
+   "Kruizinga MD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901485/",
+  "published": "2026-10-20",
+  "venue": "JMIR pediatrics and parenting",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901167",
+  "topic_id": "BIO-07",
+  "title": "More than just accuracy: A pathway-level framework for implementing blood and digital biomarkers for Alzheimer's disease care",
+  "authors": [
+   "Perneczky R",
+   "Schöll M",
+   "Rauchmann BS",
+   "Hofmann A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901167/",
+  "published": "2026-10-20",
+  "venue": "Neuron",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42901032",
+  "topic_id": "BIO-07",
+  "title": "Rethinking cancer survivorship on social media: A phenomenological study of embodiment, online visibility, and the content object-body",
+  "authors": [
+   "Byrne T",
+   "Zapata A",
+   "Smithing F",
+   "MacLeod J",
+   "Xiao Z",
+   "Pickert J",
+   "Blodgett P",
+   "Leggett SE"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42901032/",
+  "published": "2026-10-20",
+  "venue": "Social science & medicine (1982)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42898297",
+  "topic_id": "BIO-10",
+  "title": "Treatment decisions, not patient demographics, predict a positive pregnancy test after autologous IVF: a retrospective cohort study from northern India",
+  "authors": [
+   "Kamath R",
+   "Rodrigues G",
+   "Singh S",
+   "Akthar N",
+   "Shenoy RR",
+   "Kini S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42898297/",
+  "published": "2026-10-05",
+  "venue": "Frontiers in public health",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://thequantuminsider.com/2026/10/21/before-the-qubit/",
+  "topic_id": "QNT-01",
+  "title": "Before the Qubit",
+  "authors": [],
+  "link": "https://thequantuminsider.com/2026/10/21/before-the-qubit/",
+  "published": "2026-10-21",
+  "venue": "The Quantum Insider",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://thequantuminsider.com/2026/10/21/qbraid-announces-qbraid-os-for-operating-quantum-computing-services/",
+  "topic_id": "QNT-01",
+  "title": "qBraid Announces qBraid OS For Operating Quantum Computing Services",
+  "authors": [],
+  "link": "https://thequantuminsider.com/2026/10/21/qbraid-announces-qbraid-os-for-operating-quantum-computing-services/",
+  "published": "2026-10-21",
+  "venue": "The Quantum Insider",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+  "topic_id": "SEC-03",
+  "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+  "authors": [],
+  "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+  "published": "2026-10-21",
+  "venue": "BleepingComputer",
+  "section": "main"
+ }
+]
