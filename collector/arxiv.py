@@ -26,9 +26,12 @@ from collector.common import USER_AGENT, load_topics
 API_URL = "https://export.arxiv.org/api/query"
 # 요청 사이 쉬는 시간(초). arXiv 이용 규칙이 3초 이상
 REQUEST_DELAY = 3
-# 서버가 "잠시 후 다시"(429, 503)라고 하면 몇 번까지 다시 시도할지 / 다시 시도 전 기다릴 시간(초)
-RETRIES = 2
-RETRY_WAIT = 30
+# 서버가 "잠시 후 다시"(429, 503)라고 하거나 응답이 없으면 몇 번까지 다시 시도할지 / 기다릴 시간(초)
+# GitHub Actions 서버는 IP를 여러 사용자가 같이 써서 429가 자주 나므로 넉넉히 기다림
+RETRIES = 3
+RETRY_WAIT = 60
+# 응답을 기다리는 최대 시간(초)
+TIMEOUT = 60
 # 주제 하나당 가져올 최대 논문 수
 MAX_RESULTS = 20
 # → 설정값을 맨 위에 모아 두어, 나중에 숫자만 바꾸면 동작을 조절할 수 있게 하겠다
@@ -59,8 +62,16 @@ def search(query, max_results=MAX_RESULTS):
     }
     # range(RETRIES + 1): 처음 1번 + 다시 시도 RETRIES번
     for attempt in range(RETRIES + 1):
-        # timeout=30: 30초 안에 응답이 없으면 포기 (프로그램이 멈춰 있지 않게)
-        response = requests.get(API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=30)
+        try:
+            # timeout: 이 시간 안에 응답이 없으면 포기 (프로그램이 멈춰 있지 않게)
+            response = requests.get(API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT)
+        except (requests.Timeout, requests.ConnectionError) as e:
+            # 응답이 없거나 연결이 끊김 → 마지막 시도였으면 그대로 오류를 올려 보냄
+            if attempt == RETRIES:
+                raise
+            print(f"[info] arXiv 응답 없음({type(e).__name__}), {RETRY_WAIT}초 뒤 다시 시도")
+            time.sleep(RETRY_WAIT)
+            continue
         # 429(요청 너무 많음)·503(서버 바쁨)이 아니거나, 마지막 시도였으면 그만 반복
         if response.status_code not in (429, 503) or attempt == RETRIES:
             break
@@ -104,14 +115,17 @@ def latest_window(days=1):
     그래서 "지금부터 24시간"으로 찾으면 늘 비어 있다. 대신 "마지막 발표분부터 거꾸로 days일"을 쓴다.
     """
     now = datetime.now(timezone.utc)
-    # 최근 7일 안에 제출된 논문 중 가장 최신 1건만 요청
-    newest = search(f"submittedDate:[{now - timedelta(days=7):%Y%m%d%H%M} TO {now:%Y%m%d%H%M}]", max_results=1)
+    # 매일 논문이 많이 올라오는 cs.AI 분야에서 가장 최신 1건만 요청
+    # (전체 기간을 날짜로만 찾는 것보다 서버 부담이 훨씬 작음)
+    newest = search("cat:cs.AI", max_results=1)
     # 혹시 아무것도 없으면 지금 시각을 기준으로 함
     if not newest:
         end = now
     else:
-        # "2026-10-19T17:59:59Z" 같은 문자열을 datetime으로 바꾸고, 1분 여유를 둠
-        end = datetime.fromisoformat(newest[0]["published_at"]) + timedelta(minutes=1)
+        # "2026-10-19T17:40:12Z" 같은 문자열을 datetime으로 바꾼 뒤, 다음 정각으로 올림 (→ 18:00)
+        # arXiv 마감 시각이 정각이라, cs.AI의 마지막 논문이 조금 일찍 제출됐어도 마감까지 포함됨
+        latest = datetime.fromisoformat(newest[0]["published_at"])
+        end = latest.replace(minute=0, second=0) + timedelta(hours=1)
     return end - timedelta(days=days), end
     # → 매일 실행했을 때 그날 새로 발표된 논문 묶음을 정확히 잡겠다
 
@@ -154,9 +168,10 @@ def collect(days=1, star_only=True):
         try:
             papers = fetch_topic(topic, start, end)
         except requests.RequestException as e:
-            # 한 주제가 실패해도 전체가 멈추지 않게, 알리고 다음 주제로 넘어감
-            print(f"[warn] {topic['id']} 요청 실패: {e}")
-            continue
+            # 다시 시도까지 모두 실패 = arXiv가 지금 우리 요청을 막고 있음
+            # → 남은 주제도 실패할 테니 arXiv는 여기서 멈추고, 그때까지 모은 것만 씀 (다른 수집처는 계속)
+            print(f"[warn] {topic['id']} 요청 실패, 오늘 arXiv 나머지 주제 건너뜀: {e}")
+            break
         print(f"{topic['id']:7} {len(papers):3}건  {topic['topic']}")
         results.extend(papers)
     return results
