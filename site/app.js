@@ -248,6 +248,71 @@ function updateProgress() {
   const label = picks ? `오늘의 글 ${main.length}건` : `새 항목 ${main.length}건`;
   document.getElementById("summary").textContent = `${state.date} · ${label} 중 ${done}건 읽음`;
   document.getElementById("progress-bar").style.width = main.length ? `${(done / main.length) * 100}%` : "0";
+  renderStats();
+}
+
+// ===== Weekly stats =====
+// 월요일 0시(이 기기 시간 기준)를 이번 주의 시작으로
+function weekStart(date) {
+  const d = new Date(date);
+  d.setHours(0, 0, 0, 0);
+  // getDay(): 일요일 0 ~ 토요일 6 → 월요일까지 거슬러 갈 날 수
+  d.setDate(d.getDate() - ((d.getDay() + 6) % 7));
+  return d;
+}
+
+// 읽음 기록을 분야별로 세어, 이번 주·지난주 막대 목록으로 보여 줌
+function renderStats() {
+  const thisWeek = weekStart(new Date());
+  const lastWeek = new Date(thisWeek);
+  lastWeek.setDate(lastWeek.getDate() - 7);
+
+  const counts = {};
+  let now = 0;
+  let before = 0;
+  Object.values(readLog).forEach((r) => {
+    // at(읽은 시각)이 없는 기록은 통계에서 뺌
+    const at = r.at ? new Date(r.at) : null;
+    if (!at || Number.isNaN(at.getTime()) || at < lastWeek) return;
+    const area = r.area || "기타";
+    counts[area] ||= { now: 0, before: 0 };
+    if (at >= thisWeek) {
+      counts[area].now += 1;
+      now += 1;
+    } else {
+      counts[area].before += 1;
+      before += 1;
+    }
+  });
+
+  const total = document.getElementById("stats-total");
+  total.replaceChildren(el("b", "", `${now}건`), document.createTextNode(` · 지난주 ${before}건`));
+
+  const list = document.getElementById("stats-bars");
+  list.replaceChildren();
+  // 이번 주 많이 읽은 분야 순 → 같으면 지난주 순
+  const rows = Object.entries(counts).sort((a, b) => b[1].now - a[1].now || b[1].before - a[1].before);
+  if (!rows.length) {
+    list.append(el("li", "", "아직 이번 주·지난주에 읽은 글이 없습니다."));
+    return;
+  }
+  const max = Math.max(...rows.map(([, c]) => c.now), 1);
+  rows.forEach(([area, c]) => {
+    const li = el("li");
+    // title: 마우스를 올리면 뜨는 설명 (화면 읽기 프로그램도 읽음)
+    li.title = `${area}: 이번 주 ${c.now}건, 지난주 ${c.before}건`;
+    const track = el("div", "bar-track");
+    const fill = el("div", "bar-fill");
+    // 이번 주 0건이면 막대를 그리지 않음
+    fill.style.width = c.now ? `${(c.now / max) * 100}%` : "0";
+    fill.style.minWidth = c.now ? "" : "0";
+    track.append(fill);
+    const value = el("span", "bar-value");
+    value.append(el("b", "", `${c.now}건`), document.createTextNode(` (지난주 ${c.before})`));
+    li.append(el("span", "bar-label", area), track, value);
+    list.append(li);
+  });
+  // → 어떤 분야를 많이 읽고 어떤 분야를 놓치고 있는지 한눈에 보이게 하겠다
 }
 
 // ===== Export / import =====
