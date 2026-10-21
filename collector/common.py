@@ -19,6 +19,13 @@ from pathlib import Path
 USER_AGENT = "knowledge-daily/0.1 (+https://github.com/ten-infosec/knowledge-daily)"
 # 이 파일 기준으로 프로젝트 최상위 폴더 안의 taxonomy.json 경로
 TAXONOMY_PATH = Path(__file__).resolve().parent.parent / "data" / "taxonomy.json"
+# 어디에나 자주 나오는 흔한 단어. 이런 단어만 맞은 글은 주제와 관련 없다고 봄
+# (예: "key distribution"만 맞은 광석 기사가 "양자 키 분배"에 붙는 것을 막음)
+GENERIC_WORDS = {
+    "open", "source", "key", "distribution", "tool", "use", "learning", "model",
+    "network", "system", "systems", "data", "security", "health", "digital", "small",
+    "based", "deep", "science", "software", "physics", "basics", "fundamentals",
+}
 
 
 # ===== Load topics =====
@@ -49,20 +56,34 @@ def required_matches(words):
     return -(-len(words) // 2)
 
 
-def count_matches(words, text):
-    """text 안에 들어 있는 키워드 단어 수를 센다 (대소문자 무시, 단어 단위)."""
+def matched_words(words, text):
+    """text 안에 들어 있는 키워드 단어들을 돌려준다 (대소문자 무시)."""
     # re.escape: 단어 속 특수문자(-, . 등)를 글자 그대로 찾게 함
-    # (?<!\w), (?!\w): 앞뒤가 다른 글자로 이어지지 않을 때만 → "AI"가 "said" 안에서 잡히지 않게
-    return sum(1 for w in words
-               if re.search(rf"(?<!\w){re.escape(w)}(?!\w)", text, re.IGNORECASE))
+    # (?<![A-Za-z0-9]), (?![A-Za-z0-9]): 앞뒤에 영문·숫자가 붙어 있지 않을 때만
+    #   → "AI"가 "said" 안에서는 안 잡히지만, 한글 "AI가"처럼 조사가 붙은 경우는 잡힘
+    return [w for w in words
+            if re.search(rf"(?<![A-Za-z0-9]){re.escape(w)}(?![A-Za-z0-9])", text, re.IGNORECASE)]
 
 
-def best_topic(topics, text):
+def topic_terms(topic, lang="en"):
+    """주제를 찾을 때 쓸 단어 목록. 영어 글은 영문 키워드, 한국어 글은 한글 주제 이름을 쓴다."""
+    if lang == "ko":
+        # 예: "토카막 핵융합(KSTAR·ITER)" → ["토카막", "핵융합", "KSTAR", "ITER"]
+        # re.split: 띄어쓰기·괄호·가운뎃점·쉼표·슬래시를 기준으로 자름
+        return [w for w in re.split(r"[\s()·,/]+", topic["topic"]) if w]
+    return topic["keywords"].split()
+
+
+def best_topic(topics, text, lang="en"):
     """text와 가장 잘 맞는 주제를 하나 고른다. 기준을 넘는 주제가 없으면 None."""
     best, best_score = None, 0
     for topic in topics:
-        words = topic["keywords"].split()
-        score = count_matches(words, text)
+        words = topic_terms(topic, lang)
+        matched = matched_words(words, text)
+        score = len(matched)
+        # 맞은 단어가 전부 흔한 단어면 이 주제는 아님
+        if all(w.lower() in GENERIC_WORDS for w in matched):
+            continue
         # 기준 이상이고, 지금까지 찾은 것보다 더 많이 맞으면 교체
         if score >= required_matches(words) and score > best_score:
             best, best_score = topic, score

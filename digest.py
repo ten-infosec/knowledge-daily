@@ -21,7 +21,7 @@ TAXONOMY_PATH = ROOT / "data" / "taxonomy.json"
 # 한국 시간대 (UTC보다 9시간 빠름). GitHub Actions 서버는 UTC라서 직접 지정해 둠
 KST = timezone(timedelta(hours=9))
 # 출처 이름을 신문에 보여 줄 때 쓰는 표시 이름
-SOURCE_LABELS = {"arxiv": "arXiv", "pubmed": "PubMed", "iacr": "IACR ePrint"}
+SOURCE_LABELS = {"arxiv": "arXiv", "pubmed": "PubMed", "iacr": "IACR ePrint", "rss": "뉴스"}
 # 저자가 이보다 많으면 앞의 몇 명만 쓰고 "외 N명"으로 줄임
 MAX_AUTHORS = 3
 
