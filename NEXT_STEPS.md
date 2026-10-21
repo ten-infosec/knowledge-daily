@@ -31,9 +31,9 @@ Claude Code에게: 체크 안 된 첫 단계부터 **한 단계씩** 진행하�
 - [ ] API 키는 GitHub Secrets `ANTHROPIC_API_KEY`
 
 ## Phase 5 — 매일 자동 실행
-- [ ] `.github/workflows/daily.yml`: 매일 06:00 KST(= 21:00 UTC 전날) 실행
-- [ ] 결과 다이제스트를 자동 커밋
-- [ ] 수동 실행 버튼(workflow_dispatch) + dry_run 옵션
+- [x] `.github/workflows/daily.yml`: 매일 06:00 KST(= 21:00 UTC 전날) 실행
+- [x] 결과 다이제스트를 자동 커밋
+- [x] 수동 실행 버튼(workflow_dispatch) + dry_run 옵션
 
 ## Phase 6 — 읽기 목록
 - [ ] 읽음 체크 방법 정하기 (GitHub 이슈 체크박스 / 노션 / 웹 페이지 중)
