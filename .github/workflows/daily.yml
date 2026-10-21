@@ -20,6 +20,11 @@ on:
         description: "Dry run (저장·커밋 없이 결과만 확인)"
         type: boolean
         default: false
+      # no_ai: 체크하면 Claude 요약을 건너뜀 (API 비용 없이 수집만 시험)
+      no_ai:
+        description: "No AI (Claude 요약 건너뛰기, 비용 없음)"
+        type: boolean
+        default: false
 
 # ===== Permissions =====
 # contents: write → 워크플로가 결과 파일을 저장소에 커밋·push할 수 있게 허락
@@ -57,11 +62,15 @@ jobs:
         run: pip install -r requirements.txt
 
       # ===== Run =====
-      # 4) 수집 → 중복 제거 → 다이제스트 작성
-      #    API 키가 필요 없는 수집기(arXiv, PubMed, IACR ePrint, RSS)만 사용
-      #    dry_run을 체크하고 손으로 실행했을 때만 --dry-run을 붙임 (자동 실행 때는 빈 문자열)
+      # 4) 수집 → 중복 제거 → AI 요약·선별 → 다이제스트 작성
+      #    수집기는 API 키가 필요 없는 것(arXiv, PubMed, IACR ePrint, RSS)만 사용
+      #    손으로 실행할 때 체크한 옵션만 붙임 (자동 실행 때는 둘 다 빈 문자열)
       - name: Collect and build digest
-        run: python main.py ${{ inputs.dry_run && '--dry-run' || '' }}
+        # env: 이 단계에서만 쓰는 환경변수. secrets.ANTHROPIC_API_KEY는 저장소 Settings → Secrets에 등록한 값
+        #      (등록 전이면 빈 값이 들어가고, main.py는 요약 없이 신문을 만듦)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python main.py ${{ inputs.dry_run && '--dry-run' || '' }} ${{ inputs.no_ai && '--no-ai' || '' }}
 
       # ===== Commit =====
       # 5) 결과 파일을 커밋하고 push. dry_run일 때는 건너뜀

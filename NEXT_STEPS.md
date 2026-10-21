@@ -28,7 +28,7 @@ Claude Code에게: 체크 안 된 첫 단계부터 **한 단계씩** 진행하�
 - [x] Claude API로 각 항목 3줄 한국어 요약 + 난이도 + 읽을 이유
 - [x] 같은 소식 묶기(중복 제거), 주제별 상위 1~2건 선택
 - [x] 다이제스트 분량 20~30분으로 맞추기
-- [ ] API 키는 GitHub Secrets `ANTHROPIC_API_KEY`
+- [ ] API 키는 GitHub Secrets `ANTHROPIC_API_KEY` (워크플로 연결은 완료 — Secret 등록만 남음)
 
 ## Phase 5 — 매일 자동 실행
 - [x] `.github/workflows/daily.yml`: 매일 06:00 KST(= 21:00 UTC 전날) 실행
