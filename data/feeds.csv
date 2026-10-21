@@ -1,0 +1,15 @@
+name,url,lang,topic_filter,enabled,note
+NASA News Releases,https://www.nasa.gov/news-release/feed/,en,NASA,1,
+IAEA Top News,https://www.iaea.org/feeds/topnews,en,IAEA,1,
+IEEE Spectrum Robotics,https://spectrum.ieee.org/feeds/topic/robotics.rss,en,로봇 뉴스,1,
+IEEE Spectrum,https://spectrum.ieee.org/feeds/feed.rss,en,뉴스,1,
+The Quantum Insider,https://thequantuminsider.com/feed/,en,quant-ph,1,
+ScienceDaily Quantum Computers,https://www.sciencedaily.com/rss/computers_math/quantum_computers.xml,en,quant-ph,1,
+Quanta Magazine,https://www.quantamagazine.org/feed/,en,뉴스,1,
+MIT Technology Review,https://www.technologyreview.com/feed/,en,뉴스,1,
+The Hacker News,https://feeds.feedburner.com/TheHackersNews,en,보안 뉴스,1,
+BleepingComputer,https://www.bleepingcomputer.com/feed/,en,보안 뉴스,1,
+전자신문 오늘의뉴스,https://rss.etnews.com/Section901.xml,ko,뉴스,1,
+과학기술정보통신부,,ko,뉴스,0,공식 RSS 주소 확인 필요
+우주항공청(KASA),,ko,NASA/KASA,0,공식 RSS 주소 확인 필요
+한국핵융합에너지연구원,,ko,IAEA,0,공식 RSS 주소 확인 필요

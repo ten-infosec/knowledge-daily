@@ -21,7 +21,7 @@ Claude Code에게: 체크 안 된 첫 단계부터 **한 단계씩** 진행하�
 ## Phase 3 — 수집처 늘리기
 - [x] PubMed (BCI·의료·바이오 주제)
 - [x] IACR ePrint (암호 주제)
-- [ ] 기관·언론 RSS 목록 만들기 (`data/feeds.csv`) + `collector/rss.py`
+- [x] 기관·언론 RSS 목록 만들기 (`data/feeds.csv`) + `collector/rss.py`
 - [ ] KCI / ScienceON API 키 발급 → 국내 논문 수집
 
 ## Phase 4 — AI 요약·선별
@@ -41,5 +41,6 @@ Claude Code에게: 체크 안 된 첫 단계부터 **한 단계씩** 진행하�
 - [ ] 분야별 읽은 양 주간 통계
 
 ## 메모
+- 과기정통부·우주항공청·핵융합에너지연구원 공식 RSS 주소 미확인 → `data/feeds.csv`에 enabled=0으로 둠. 주소 찾으면 url 채우고 1로
 - KSEF C2 분과 이름 미확인 (스크린샷 잘림) → `KSC-02` 확인 후 수정
 - 관심(★) 주제 47개 → 15~20개로 줄일지 검토
