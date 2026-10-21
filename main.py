@@ -8,6 +8,8 @@ import argparse
 from collector.arxiv import collect as collect_arxiv
 # collector/pubmed.py의 collect 함수: PubMed에서 논문 수집
 from collector.pubmed import collect as collect_pubmed
+# collector/iacr.py의 collect 함수: IACR ePrint에서 암호 논문 수집
+from collector.iacr import collect as collect_iacr
 # digest.py의 함수들: 다이제스트 Markdown 만들기·저장
 from digest import render, today_kst, write_digest
 # seen.py의 함수들: 중복 방지 기록 읽기·거르기·저장
@@ -28,7 +30,7 @@ def main():
     # ----- Collect -----
     # 수집기를 차례로 실행해 결과를 한 리스트로 합침
     papers = []
-    for collect in (collect_arxiv, collect_pubmed):
+    for collect in (collect_arxiv, collect_pubmed, collect_iacr):
         papers += collect(days=args.days, star_only=not args.all)
 
     # ----- Dedupe -----
