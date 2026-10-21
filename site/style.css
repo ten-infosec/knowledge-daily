@@ -1,0 +1,126 @@
+/* ===== Colors (light) ===== */
+:root {
+  --bg: #faf8f4;
+  --paper: #ffffff;
+  --ink: #1d1b18;
+  --muted: #6b665e;
+  --line: #e4dfd6;
+  --accent: #b4442c;
+  --accent-soft: #f6e4de;
+  --done: #9a958c;
+  color-scheme: light;
+}
+
+/* ===== Colors (dark): 기기 설정이 다크 모드면 자동으로 ===== */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #151412;
+    --paper: #1e1c1a;
+    --ink: #ece8e1;
+    --muted: #a39d93;
+    --line: #34312d;
+    --accent: #e07a5f;
+    --accent-soft: #3a2621;
+    --done: #6f6a62;
+    color-scheme: dark;
+  }
+}
+
+/* ===== Base ===== */
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  padding: 0 16px 48px;
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
+}
+.masthead, main, .footer { max-width: 760px; margin: 0 auto; }
+a { color: inherit; }
+
+/* ===== Header ===== */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  padding: 20px 0 12px;
+  background: var(--bg);
+  border-bottom: 2px solid var(--ink);
+}
+.masthead h1 {
+  margin: 0;
+  font-family: "Nanum Myeongjo", "AppleMyungjo", "Batang", serif;
+  font-size: clamp(1.6rem, 5vw, 2.2rem);
+  letter-spacing: -0.02em;
+}
+.day-nav { display: flex; gap: 8px; align-items: center; margin-top: 8px; }
+.day-nav button, .day-nav select, .footer button, .import {
+  font: inherit;
+  font-size: 0.9rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+.day-nav button:disabled { opacity: 0.35; cursor: default; }
+.summary { margin: 8px 0 6px; color: var(--muted); font-size: 0.9rem; }
+.progress { height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
+#progress-bar { height: 100%; width: 0; background: var(--accent); transition: width 0.3s; }
+
+/* ===== Sections ===== */
+h2.area {
+  margin: 32px 0 4px;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  text-transform: uppercase;
+}
+h3.topic { margin: 12px 0 8px; font-size: 1.05rem; }
+h3.topic .tid { color: var(--muted); font-weight: normal; font-size: 0.8rem; margin-left: 6px; }
+details.fold { margin-top: 28px; border-top: 1px solid var(--line); padding-top: 12px; }
+details.fold summary { cursor: pointer; color: var(--muted); }
+.empty { color: var(--muted); margin-top: 32px; }
+
+/* ===== Items ===== */
+ul.items { list-style: none; margin: 0; padding: 0; }
+li.item {
+  display: flex;
+  gap: 12px;
+  padding: 14px;
+  margin-bottom: 10px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+li.item.plain { padding: 8px 12px; margin-bottom: 6px; }
+li.item input[type="checkbox"] {
+  flex: none;
+  width: 20px;
+  height: 20px;
+  margin-top: 3px;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+.body { min-width: 0; flex: 1; }
+.title { font-weight: 600; text-decoration: none; overflow-wrap: anywhere; }
+.title:hover { text-decoration: underline; }
+.meta { color: var(--muted); font-size: 0.82rem; margin-top: 2px; overflow-wrap: anywhere; }
+.badges { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; font-size: 0.78rem; }
+.badge { padding: 1px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.stars { color: var(--accent); letter-spacing: 1px; }
+ol.summary-lines { margin: 10px 0 0; padding-left: 1.2em; }
+ol.summary-lines li { margin-bottom: 2px; }
+.why { margin: 8px 0 0; font-size: 0.92rem; }
+.why b { color: var(--accent); }
+.related { margin: 6px 0 0; font-size: 0.82rem; color: var(--muted); }
+
+/* 읽은 글: 흐리게 + 제목에 가운데 줄 */
+li.item.read { opacity: 0.55; }
+li.item.read .title { text-decoration: line-through; color: var(--done); }
+
+/* ===== Footer ===== */
+.footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.85rem; }
+.footer button, .import { margin: 4px 8px 0 0; display: inline-block; }
+.import input { display: none; }

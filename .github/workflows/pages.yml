@@ -1,0 +1,65 @@
+# 아침 지식 신문 웹 페이지를 GitHub Pages에 올리는 워크플로
+# → 매일 신문이 만들어진 뒤, 또는 웹 페이지 코드가 바뀌었을 때 사이트를 다시 올리겠다
+
+name: Deploy reading page
+
+# ===== Triggers =====
+on:
+  # workflow_run: "Daily digest" 워크플로가 끝나면 실행
+  # (Actions 봇이 한 커밋은 push 이벤트를 다시 일으키지 않으므로, 이렇게 이어 붙여야 함)
+  workflow_run:
+    workflows: ["Daily digest"]
+    types: [completed]
+  # push: 사람이 main에 웹 페이지·신문 관련 파일을 올렸을 때
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "digests/**"
+      - "build_site.py"
+      - ".github/workflows/pages.yml"
+  # 손으로 실행하는 버튼
+  workflow_dispatch:
+
+# ===== Permissions =====
+# pages: write → Pages에 올리기 / id-token: write → Pages가 이 워크플로를 확인하는 데 필요
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 배포가 겹치면 앞의 것을 기다림 (마지막 배포가 최신 상태가 되도록)
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    # Daily digest가 실패한 경우에는 올릴 게 없으니 건너뜀 (push·수동 실행은 항상)
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    # environment: Pages 배포 기록과 사이트 주소가 저장소 화면에 보이게 함
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      # 1) 최신 main을 내려받음 (Daily digest가 방금 커밋한 신문 포함)
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      # 2) _site/ 폴더 만들기 (외부 라이브러리가 필요 없어 파이썬만 있으면 됨)
+      - name: Build site
+        run: python3 build_site.py
+
+      # 3) _site/를 Pages용 묶음으로 올림
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      # 4) 올린 묶음을 실제 사이트로 공개
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

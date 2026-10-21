@@ -117,6 +117,13 @@ def render(items, date_str):
     main = kept + [i for i in shown if not i.get("summarized")]
     # 접힌 목록에 나올 글: 요약을 거쳤지만 고르지 않은 글
     rest = [i for i in shown if i.get("summarized") and "pick" not in i]
+    # 각 글이 어느 칸에 들어갔는지 기록 → 하루치 JSON에 저장되어 웹 페이지가 같은 구성으로 보여 줌
+    for group, name in ((main, "main"), (overflow, "overflow"), (rest, "rest")):
+        for i in group:
+            i["section"] = name
+    for i in items:
+        if "dup_of" in i:
+            i["section"] = "dup"
 
     # 주제 id별로 본문 글을 묶음. 예: {"QNT-05": [논문1, 논문2], ...}
     by_topic = {}
@@ -189,9 +196,10 @@ def write_digest(items):
     day_items += [{k: v for k, v in i.items() if k != "abstract"}
                   for i in items if f"{i['source']}:{i['id']}" not in known]
 
-    # ensure_ascii=False: 한글을 그대로 저장 / indent=1: 사람이 읽기 쉽게
-    json_path.write_text(json.dumps(day_items, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    # render가 각 글에 section(어느 칸인지)을 붙이므로, Markdown을 먼저 만들고 JSON을 저장
     md_path = DIGEST_DIR / f"{date_str}.md"
     md_path.write_text(render(day_items, date_str), encoding="utf-8")
+    # ensure_ascii=False: 한글을 그대로 저장 / indent=1: 사람이 읽기 쉽게
+    json_path.write_text(json.dumps(day_items, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return md_path
     # → 수동 실행 버튼으로 다시 돌려도, 아침 신문에 그날 찾은 항목이 모두 남게 하겠다

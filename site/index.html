@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>아침 지식 신문</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- ===== Header: 제목 · 날짜 이동 · 오늘 읽은 양 ===== -->
+  <header class="masthead">
+    <h1>아침 지식 신문</h1>
+    <nav class="day-nav" aria-label="날짜 이동">
+      <button id="prev" type="button" aria-label="이전 날">‹</button>
+      <select id="date" aria-label="날짜 선택"></select>
+      <button id="next" type="button" aria-label="다음 날">›</button>
+    </nav>
+    <p id="summary" class="summary"></p>
+    <!-- 오늘 본문 중 읽은 비율 막대 -->
+    <div class="progress" aria-hidden="true"><div id="progress-bar"></div></div>
+  </header>
+
+  <main id="content">
+    <p class="empty">불러오는 중…</p>
+  </main>
+
+  <!-- ===== Footer: 읽음 기록 내보내기·가져오기 ===== -->
+  <footer class="footer">
+    <p>읽음 기록은 이 브라우저에만 저장됩니다. 다른 기기로 옮기려면 내보낸 파일을 가져오세요.</p>
+    <button id="export" type="button">기록 내보내기</button>
+    <label class="import">기록 가져오기<input id="import" type="file" accept="application/json"></label>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
