@@ -24,6 +24,10 @@ KST = timezone(timedelta(hours=9))
 SOURCE_LABELS = {"arxiv": "arXiv", "pubmed": "PubMed", "iacr": "IACR ePrint", "rss": "뉴스"}
 # 저자가 이보다 많으면 앞의 몇 명만 쓰고 "외 N명"으로 줄임
 MAX_AUTHORS = 3
+# AI가 고른 글 하나를 읽는 데 걸리는 예상 시간(분): 요약을 읽고 원문을 훑어보는 정도
+READ_MINUTES = {"입문": 1.0, "중급": 1.5, "심화": 2.0}
+# 하루 신문 본문의 최대 예상 읽기 시간(분). 목표는 20~30분
+MAX_READ_MINUTES = 30
 
 
 # ===== Helpers =====
@@ -46,6 +50,24 @@ def source_summary(items):
         counts[item["source"]] = counts.get(item["source"], 0) + 1
     # 표시 이름이 없으면 원래 이름을 그대로 씀
     return " · ".join(f"{SOURCE_LABELS.get(s, s)} {n}" for s, n in counts.items()) or "없음"
+
+
+# ===== Reading time =====
+def fit_reading_time(picks):
+    """중요도 높은 글부터 MAX_READ_MINUTES분까지만 본문에 넣는다. (본문에 넣을 글, 넘친 글, 본문 예상 분)을 돌려준다."""
+    # 정렬 기준: 중요도 높은 순 → 같으면 쉬운 글(읽는 시간 짧은 글) 먼저
+    ranked = sorted(picks, key=lambda p: (-p["pick"]["importance"], READ_MINUTES[p["pick"]["difficulty"]]))
+    kept, overflow, minutes = [], [], 0.0
+    for p in ranked:
+        cost = READ_MINUTES[p["pick"]["difficulty"]]
+        # 이 글을 넣어도 시간 안이면 본문으로, 넘으면 "시간 여유가 있으면"으로
+        if minutes + cost <= MAX_READ_MINUTES:
+            kept.append(p)
+            minutes += cost
+        else:
+            overflow.append(p)
+    return kept, overflow, minutes
+    # → 고른 글이 아무리 많아도 아침 신문 본문은 30분 안에 읽히게 하겠다
 
 
 # ===== Render =====
@@ -80,7 +102,7 @@ def pick_lines(p):
 def render(items, date_str):
     """하루치 항목 리스트를 Markdown 문자열로 만든다.
 
-    AI가 고른 글은 요약과 함께 주제별로, 고르지 않은 글은 맨 아래 접힌 목록으로 보여 준다.
+    AI가 고른 글은 요약과 함께 주제별로(30분 분량까지), 넘친 글과 고르지 않은 글은 맨 아래 접힌 목록으로 보여 준다.
     요약을 거치지 않은 글(API 키 없음·요약 실패)은 예전처럼 주제별 목록에 그대로 나온다.
     """
     with open(TAXONOMY_PATH, encoding="utf-8") as f:
@@ -89,11 +111,12 @@ def render(items, date_str):
 
     # 같은 소식으로 묶인 글은 고른 글 밑에 "같은 소식"으로만 나오므로 목록에서 뺌
     shown = [i for i in items if "dup_of" not in i]
-    # 본문에 나올 글: AI가 고른 글 + 요약을 거치지 않은 글
-    main = [i for i in shown if "pick" in i or not i.get("summarized")]
+    # AI가 고른 글을 읽기 시간 안에 드는 것(kept)과 넘친 것(overflow)으로 나눔
+    kept, overflow, minutes = fit_reading_time([i for i in shown if "pick" in i])
+    # 본문에 나올 글: 시간 안에 드는 고른 글 + 요약을 거치지 않은 글
+    main = kept + [i for i in shown if not i.get("summarized")]
     # 접힌 목록에 나올 글: 요약을 거쳤지만 고르지 않은 글
     rest = [i for i in shown if i.get("summarized") and "pick" not in i]
-    picks = [i for i in main if "pick" in i]
 
     # 주제 id별로 본문 글을 묶음. 예: {"QNT-05": [논문1, 논문2], ...}
     by_topic = {}
@@ -102,8 +125,10 @@ def render(items, date_str):
         by_topic.setdefault(item["topic_id"], []).append(item)
 
     summary_line = f"새 항목 {len(items)}건 · 주제 {len(by_topic)}개 · 출처: {source_summary(items)}"
-    if picks:
-        summary_line = f"오늘의 글 {len(picks)}건 (수집 {len(items)}건 중 AI 선택) · 출처: {source_summary(items)}"
+    if kept:
+        # 예상 읽기 시간은 반올림해서 정수 분으로 (round: 반올림)
+        summary_line = (f"오늘의 글 {len(kept)}건 · 예상 읽기 시간 약 {round(minutes)}분 "
+                        f"(수집 {len(items)}건 중 AI 선택) · 출처: {source_summary(items)}")
     lines = [f"# 아침 지식 신문 — {date_str}", "", summary_line, ""]
 
     current_area = None
@@ -122,6 +147,14 @@ def render(items, date_str):
         for p in sorted(papers, key=lambda x: -x["pick"]["importance"] if "pick" in x else 0):
             lines += pick_lines(p) if "pick" in p else [item_line(p)]
         lines.append("")
+
+    if overflow:
+        # 요약은 있지만 30분을 넘쳐 본문에서 뺀 글. 주제 이름을 앞에 붙여 접힌 목록으로
+        topic_names = {t["id"]: t["topic"] for t in topics}
+        lines += ["<details>", f"<summary>시간 여유가 있으면 — 요약 {len(overflow)}건 더 보기</summary>", ""]
+        for p in overflow:
+            lines += [f"**{topic_names.get(p['topic_id'], p['topic_id'])}**", ""] + pick_lines(p) + [""]
+        lines += ["</details>", ""]
 
     if rest:
         # <details>: GitHub에서 클릭하면 펼쳐지는 접힌 목록
