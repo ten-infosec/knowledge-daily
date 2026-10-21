@@ -5,3 +5,7 @@ requests==2.34.2
 # ===== Feeds =====
 # feedparser: RSS/Atom 피드(arXiv 결과, IACR ePrint, 기관 공지)를 파이썬 데이터로 바꿔 주는 라이브러리
 feedparser==6.0.14
+
+# ===== AI =====
+# anthropic: Claude API 공식 파이썬 SDK (요약·선별에 사용. 키가 없으면 쓰지 않음)
+anthropic==1.17.0

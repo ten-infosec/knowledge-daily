@@ -1,6 +1,6 @@
 """다이제스트(아침 신문) 만들기: 새 항목을 주제별로 묶어 digests/YYYY-MM-DD.md로 저장한다.
 
-지금은 요약 없이 제목·저자·링크만 쓴다. (AI 요약은 Phase 4)
+AI 요약(summarizer/claude.py)이 붙은 글은 요약과 함께, 아니면 제목·저자·링크만 쓴다.
 """
 
 # ===== Imports =====
@@ -49,26 +49,65 @@ def source_summary(items):
 
 
 # ===== Render =====
+def item_line(p):
+    """항목 하나를 "- [ ] [제목](링크) — 저자 · 출처 · 날짜" 한 줄로 만든다."""
+    # 제목 속 대괄호가 Markdown 링크 문법을 깨뜨리지 않게 앞에 \\를 붙임
+    title = p["title"].replace("[", "\\[").replace("]", "\\]")
+    # 출처 표시. 학술지·매체 이름이 있으면 함께 (예: PubMed · Optics letters)
+    where = SOURCE_LABELS.get(p["source"], p["source"])
+    if p.get("venue"):
+        where += f" · {p['venue']}"
+    # 저자가 없으면(뉴스 기사 등) 저자 칸을 빼고 씀
+    meta = " · ".join(x for x in (format_authors(p["authors"]), where, p["published"]) if x)
+    return f"- [ ] [{title}]({p['link']}) — {meta}"
+
+
+def pick_lines(p):
+    """AI가 고른 항목: 한 줄 + 난이도·중요도 + 3줄 요약 + 읽을 이유 + 같은 소식 링크."""
+    pick = p["pick"]
+    # 중요도 3 → ★★★☆☆
+    stars = "★" * pick["importance"] + "☆" * (5 - pick["importance"])
+    lines = [f"{item_line(p)} · **{pick['difficulty']}** · {stars}"]
+    # 목록 안에 들여쓴 인용(>)으로 요약을 넣어, 체크박스 항목에 붙어 보이게 함
+    lines += [f"  > {i}. {sentence}" for i, sentence in enumerate(pick["summary"], 1)]
+    lines.append(f"  >\n  > **읽을 이유:** {pick['why']}")
+    if pick["related"]:
+        links = ", ".join(f"[{r['venue']}]({r['link']})" for r in pick["related"])
+        lines.append(f"  >\n  > 같은 소식: {links}")
+    return lines
+
+
 def render(items, date_str):
-    """새 항목 리스트를 Markdown 문자열로 만든다."""
+    """하루치 항목 리스트를 Markdown 문자열로 만든다.
+
+    AI가 고른 글은 요약과 함께 주제별로, 고르지 않은 글은 맨 아래 접힌 목록으로 보여 준다.
+    요약을 거치지 않은 글(API 키 없음·요약 실패)은 예전처럼 주제별 목록에 그대로 나온다.
+    """
     with open(TAXONOMY_PATH, encoding="utf-8") as f:
         # taxonomy 순서를 그대로 쓰기 위해 리스트로 읽음
         topics = json.load(f)
 
-    # 주제 id별로 항목을 묶음. 예: {"QNT-05": [논문1, 논문2], ...}
+    # 같은 소식으로 묶인 글은 고른 글 밑에 "같은 소식"으로만 나오므로 목록에서 뺌
+    shown = [i for i in items if "dup_of" not in i]
+    # 본문에 나올 글: AI가 고른 글 + 요약을 거치지 않은 글
+    main = [i for i in shown if "pick" in i or not i.get("summarized")]
+    # 접힌 목록에 나올 글: 요약을 거쳤지만 고르지 않은 글
+    rest = [i for i in shown if i.get("summarized") and "pick" not in i]
+    picks = [i for i in main if "pick" in i]
+
+    # 주제 id별로 본문 글을 묶음. 예: {"QNT-05": [논문1, 논문2], ...}
     by_topic = {}
-    for item in items:
+    for item in main:
         # setdefault: 키가 없으면 빈 리스트를 만들고, 그 리스트에 항목을 추가
         by_topic.setdefault(item["topic_id"], []).append(item)
 
-    lines = [
-        f"# 아침 지식 신문 — {date_str}",
-        "",
-        f"새 항목 {len(items)}건 · 주제 {len(by_topic)}개 · 출처: {source_summary(items)}",
-        "",
-    ]
+    summary_line = f"새 항목 {len(items)}건 · 주제 {len(by_topic)}개 · 출처: {source_summary(items)}"
+    if picks:
+        summary_line = f"오늘의 글 {len(picks)}건 (수집 {len(items)}건 중 AI 선택) · 출처: {source_summary(items)}"
+    lines = [f"# 아침 지식 신문 — {date_str}", "", summary_line, ""]
+
     current_area = None
-    # taxonomy 순서대로 돌면서, 오늘 항목이 있는 주제만 출력
+    # taxonomy 순서대로 돌면서, 본문에 나올 글이 있는 주제만 출력
     for topic in topics:
         papers = by_topic.get(topic["id"])
         if not papers:
@@ -78,16 +117,17 @@ def render(items, date_str):
             current_area = topic["area"]
             lines += [f"## {current_area}", ""]
         lines += [f"### {topic['topic']} `{topic['id']}` ({len(papers)}건)", ""]
-        for p in papers:
-            # 제목 속 대괄호가 Markdown 링크 문법을 깨뜨리지 않게 앞에 \를 붙임
-            title = p["title"].replace("[", "\\[").replace("]", "\\]")
-            # 출처 표시. 학술지 이름이 있으면 함께 (예: PubMed · Optics letters)
-            where = SOURCE_LABELS.get(p["source"], p["source"])
-            if p.get("venue"):
-                where += f" · {p['venue']}"
-            # 예: - [ ] [논문 제목](링크) — 저자 · arXiv · 2026-10-19
-            lines.append(f"- [ ] [{title}]({p['link']}) — {format_authors(p['authors'])} · {where} · {p['published']}")
+        # 고른 글을 중요도 높은 순으로 먼저, 그다음 요약 안 된 글
+        # sorted(key=...): 정렬 기준. 고른 글은 -중요도, 나머지는 0이라 뒤로 감
+        for p in sorted(papers, key=lambda x: -x["pick"]["importance"] if "pick" in x else 0):
+            lines += pick_lines(p) if "pick" in p else [item_line(p)]
         lines.append("")
+
+    if rest:
+        # <details>: GitHub에서 클릭하면 펼쳐지는 접힌 목록
+        lines += ["<details>", f"<summary>그 밖의 수집 항목 {len(rest)}건 (AI가 고르지 않음)</summary>", ""]
+        lines += [item_line(p) for p in rest]
+        lines += ["", "</details>", ""]
 
     if not items:
         lines += ["오늘은 새 항목이 없습니다.", ""]
@@ -111,7 +151,10 @@ def write_digest(items):
         day_items = json.loads(json_path.read_text(encoding="utf-8"))
     # "출처:ID" 집합으로 이미 있는 항목을 확인하고, 새 항목만 뒤에 붙임
     known = {f"{i['source']}:{i['id']}" for i in day_items}
-    day_items += [i for i in items if f"{i['source']}:{i['id']}" not in known]
+    # 초록(abstract)은 AI 요약에만 쓰고 저장하지 않음 (원문 저장 금지 규칙)
+    # {k: v ... if k != "abstract"}: abstract 키만 뺀 새 딕셔너리
+    day_items += [{k: v for k, v in i.items() if k != "abstract"}
+                  for i in items if f"{i['source']}:{i['id']}" not in known]
 
     # ensure_ascii=False: 한글을 그대로 저장 / indent=1: 사람이 읽기 쉽게
     json_path.write_text(json.dumps(day_items, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

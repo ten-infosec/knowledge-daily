@@ -4,9 +4,12 @@
   {"source": "arxiv", "id": "2610.26223", "topic_id": "QNT-01",
    "title": ..., "authors": [...], "link": ..., "published": "2026-10-19"}
   → 모양이 같아서 seen.py(중복 방지)와 digest.py(신문 만들기)가 출처를 신경 쓰지 않아도 된다.
+  "abstract"(초록·요약문)도 함께 오지만, AI 요약에만 쓰고 digest.py가 저장하기 전에 지운다.
 """
 
 # ===== Imports =====
+# html: &amp; 같은 HTML 특수 표기를 원래 글자로 바꾸기 위해 사용
+import html
 # json: taxonomy.json을 파이썬 리스트로 읽기 위해 사용
 import json
 # re: 정규식으로 글 속 키워드를 단어 단위로 찾기 위해 사용
@@ -89,3 +92,17 @@ def best_topic(topics, text, lang="en"):
             best, best_score = topic, score
     return best
     # → 한 글이 여러 주제에 걸리면 가장 많이 맞는 주제 하나에만 넣겠다
+
+
+# ===== Clean text =====
+def clean_text(raw):
+    """RSS·API의 초록/요약문에서 HTML 태그를 없애고 공백을 정리한다.
+
+    이 글은 AI 요약에 넘길 때만 메모리에서 쓰고, 파일에는 저장하지 않는다 (원문 저장 금지 규칙).
+    """
+    # <p>, <br> 같은 태그를 공백으로 바꿈
+    text = re.sub(r"<[^>]+>", " ", raw or "")
+    # &amp; → &, &lt; → < 처럼 HTML 특수 표기를 원래 글자로
+    text = html.unescape(text)
+    # 줄바꿈·여러 칸 공백을 한 칸으로
+    return " ".join(text.split())

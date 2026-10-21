@@ -3,6 +3,7 @@
 NCBI 공식 API인 E-utilities(https://www.ncbi.nlm.nih.gov/books/NBK25497/)를 사용한다.
   - esearch: 검색어로 논문 번호(PMID) 목록을 받음
   - esummary: PMID로 제목·저자·학술지·날짜를 받음
+  - efetch: PMID로 초록을 받음 (AI 요약에만 쓰고 저장하지 않음)
 API 키 없이 초당 3회까지 허용되지만, 여유 있게 요청 사이 1초씩 쉰다.
 초록은 저장하지 않는다 (원문 저장 금지 규칙).
 """
@@ -12,6 +13,8 @@ API 키 없이 초당 3회까지 허용되지만, 여유 있게 요청 사이 1�
 import argparse
 # time: 요청 사이에 쉬는 time.sleep()
 import time
+# ElementTree: efetch가 돌려주는 XML에서 초록을 꺼내기 위해 사용
+import xml.etree.ElementTree as ET
 
 # requests: E-utilities에 HTTP 요청을 보냄
 import requests
@@ -90,6 +93,28 @@ def fetch_summaries(pmids):
     return {pmid: result[pmid] for pmid in result.get("uids", [])}
 
 
+def fetch_abstracts(pmids):
+    """PMID 목록의 초록을 한 번에 받아 {PMID: 초록} 딕셔너리로 돌려준다. (efetch는 JSON이 없어 XML로 받음)"""
+    if not pmids:
+        return {}
+    response = requests.get(f"{BASE_URL}/efetch.fcgi",
+                            params={"db": "pubmed", "id": ",".join(pmids), "retmode": "xml", "tool": TOOL_NAME},
+                            headers={"User-Agent": USER_AGENT}, timeout=30)
+    response.raise_for_status()
+    # response.content(바이트)를 XML 나무 구조로 해석
+    root = ET.fromstring(response.content)
+    abstracts = {}
+    # 논문 하나 = <PubmedArticle> 하나
+    for article in root.iter("PubmedArticle"):
+        pmid = article.findtext("MedlineCitation/PMID")
+        # 초록은 "목적/방법/결과"처럼 여러 <AbstractText>로 나뉘어 있을 수 있어 이어 붙임
+        # itertext(): 태그 안의 글자를 (기울임 같은 안쪽 태그 포함) 전부 꺼냄
+        parts = ["".join(t.itertext()) for t in article.iterfind(".//Abstract/AbstractText")]
+        abstracts[pmid] = " ".join(" ".join(parts).split())
+    return abstracts
+    # → 초록 없는 논문은 빈 문자열로 두고, 요약은 제목만 보고 하게 하겠다
+
+
 # ===== Collect =====
 def collect(days=1, star_only=True):
     """대상 주제를 하나씩 검색하고, 찾은 논문의 정보를 모아 공통 형식으로 돌려준다."""
@@ -115,6 +140,13 @@ def collect(days=1, star_only=True):
     except requests.RequestException as e:
         print(f"[warn] PubMed 정보 요청 실패: {e}")
         return []
+    # 초록도 한 번에 요청. 실패하거나 XML이 깨져도 제목·링크는 그대로 쓰고 초록만 비움
+    time.sleep(REQUEST_DELAY)
+    try:
+        abstracts = fetch_abstracts(list(summaries))
+    except (requests.RequestException, ET.ParseError) as e:
+        print(f"[warn] PubMed 초록 요청 실패 (초록 없이 계속): {e}")
+        abstracts = {}
 
     papers = []
     for pmid, topic_id in hits:
@@ -133,6 +165,8 @@ def collect(days=1, star_only=True):
             "published": s.get("sortpubdate", "")[:10].replace("/", "-"),
             # 학술지 이름 (예: Optics letters)
             "venue": s.get("fulljournalname", ""),
+            # 초록: AI 요약에만 쓰고 저장하지 않음
+            "abstract": abstracts.get(pmid, ""),
         })
     return papers
     # → 주제별 검색은 따로, 정보 요청은 한 번에 묶어 요청 횟수를 줄이겠다

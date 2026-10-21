@@ -1,7 +1,7 @@
 """IACR ePrint 수집기: 암호학 논문 저장소의 최신 논문 RSS에서 암호 주제와 맞는 논문을 고른다.
 
 RSS 메타데이터(제목·저자·초록)는 CC0 라이선스로 공개되어 있다 (eprint.iacr.org/robots.txt).
-초록은 주제를 고르는 데만 쓰고 저장하지 않는다.
+초록은 주제를 고르고 AI 요약에 넘기는 데만 쓰고 저장하지 않는다.
 """
 
 # ===== Imports =====
@@ -18,7 +18,7 @@ import feedparser
 import requests
 
 # common.py의 공통 설정·함수: 이름표, 주제 읽기, 키워드로 주제 고르기
-from collector.common import USER_AGENT, best_topic, load_topics
+from collector.common import USER_AGENT, best_topic, clean_text, load_topics
 
 # ===== Settings =====
 # 최신 논문 100건이 들어 있는 IACR ePrint RSS 주소
@@ -61,6 +61,8 @@ def collect(days=1, star_only=True):
             "authors": [a.name for a in entry.get("authors", [])],
             "link": entry.link,
             "published": published.date().isoformat(),
+            # 초록: AI 요약에만 쓰고 저장하지 않음
+            "abstract": clean_text(entry.get("summary", "")),
         })
 
     # 주제별 건수 출력 (다른 수집기와 같은 모양)
