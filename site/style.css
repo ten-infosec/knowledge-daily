@@ -124,3 +124,7 @@ li.item.read .title { text-decoration: line-through; color: var(--done); }
 .footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.85rem; }
 .footer button, .import { margin: 4px 8px 0 0; display: inline-block; }
 .import input { display: none; }
+
+/* ===== Carried-over unread ===== */
+/* 지난 글은 왼쪽 굵은 선으로 오늘 글과 구분 */
+ul.items.carried li.item { border-left: 3px solid var(--accent); }

@@ -7,9 +7,12 @@
 const READ_KEY = "kd-read-v1";
 // 출처 표시 이름 (digest.py의 SOURCE_LABELS와 같음)
 const SOURCE_LABELS = { arxiv: "arXiv", pubmed: "PubMed", iacr: "IACR ePrint", rss: "뉴스" };
+// 안 읽은 글을 며칠 전까지 거슬러 올라가 넘겨 올지 / 최대 몇 건까지 보여 줄지
+const CARRY_DAYS = 6;
+const CARRY_MAX = 10;
 
 // ===== State =====
-const state = { dates: [], topics: [], topicById: {}, date: null, items: [] };
+const state = { dates: [], topics: [], topicById: {}, date: null, items: [], carried: [] };
 
 // ===== Read log (localStorage) =====
 // 사생활 보호 모드 등에서는 localStorage가 막혀 있을 수 있어 try/catch로 감쌈 → 막혀 있으면 기록 없이 동작
@@ -81,7 +84,8 @@ function renderItem(item) {
   box.addEventListener("change", () => {
     if (box.checked) {
       const topic = state.topicById[item.topic_id];
-      readLog[key] = { at: new Date().toISOString(), date: state.date, topic_id: item.topic_id, area: topic ? topic.area : "" };
+      // 넘겨 온 글은 원래 신문 날짜(item._date)로 기록
+      readLog[key] = { at: new Date().toISOString(), date: item._date || state.date, topic_id: item.topic_id, area: topic ? topic.area : "" };
     } else {
       delete readLog[key];
     }
@@ -100,7 +104,9 @@ function renderItem(item) {
   body.append(a);
 
   const where = [SOURCE_LABELS[item.source] || item.source, item.venue].filter(Boolean).join(" · ");
-  body.append(el("div", "meta", [formatAuthors(item.authors), where, item.published].filter(Boolean).join(" · ")));
+  // 넘겨 온 글은 맨 앞에 "10/21 신문"처럼 원래 날짜를 붙임
+  const from = item._date ? `${item._date.slice(5).replace("-", "/")} 신문` : "";
+  body.append(el("div", "meta", [from, formatAuthors(item.authors), where, item.published].filter(Boolean).join(" · ")));
 
   if (item.pick) {
     const p = item.pick;
@@ -132,6 +138,30 @@ function renderItem(item) {
   }
   li.append(body);
   return li;
+}
+
+// ===== Carry over unread =====
+// 이 날짜보다 앞선 CARRY_DAYS일치 신문에서, 본문에 있었는데 아직 안 읽은 글을 모음
+async function loadCarried(date) {
+  const idx = state.dates.indexOf(date);
+  // dates는 최신이 앞이므로, 뒤쪽(idx+1부터)이 더 이전 날짜
+  const earlier = state.dates.slice(idx + 1, idx + 1 + CARRY_DAYS);
+  // Promise.all: 여러 날짜 파일을 동시에 받음. 못 받은 날은 빈 목록으로
+  const days = await Promise.all(earlier.map((d) => getJSON(`data/digests/${d}.json`).catch(() => [])));
+  const unread = [];
+  days.forEach((items, i) => {
+    items
+      .filter((it) => sectionOf(it) === "main" && !readLog[keyOf(it)])
+      // _date: 원래 신문 날짜 (저장되지 않는 화면용 표시)
+      .forEach((it) => unread.push({ ...it, _date: earlier[i] }));
+  });
+  // 정렬: AI가 고른 글 → 중요도 높은 순 → 최근 날짜 순
+  unread.sort((a, b) =>
+    (b.pick ? 1 : 0) - (a.pick ? 1 : 0) ||
+    (b.pick ? b.pick.importance : 0) - (a.pick ? a.pick.importance : 0) ||
+    b._date.localeCompare(a._date));
+  return unread.slice(0, CARRY_MAX);
+  // → 안 읽고 지나간 글이 사라지지 않고, 다음 날 신문 맨 위에 다시 나오게 하겠다
 }
 
 // ===== Render day =====
@@ -186,8 +216,15 @@ async function renderDay(date) {
   }
   const by = { main: [], overflow: [], rest: [], dup: [] };
   state.items.forEach((i) => by[sectionOf(i)].push(i));
+  state.carried = await loadCarried(date);
 
   content.replaceChildren();
+  if (state.carried.length) {
+    content.append(el("h2", "area", `지난 글 — 아직 안 읽음 ${state.carried.length}건`));
+    const ul = el("ul", "items carried");
+    state.carried.forEach((i) => ul.append(renderItem(i)));
+    content.append(ul);
+  }
   if (!state.items.length) content.append(el("p", "empty", "이 날은 새 항목이 없습니다."));
   renderGrouped(by.main, content);
   renderFold(`시간 여유가 있으면 — 요약 ${by.overflow.length}건 더 보기`, by.overflow, content, true);
