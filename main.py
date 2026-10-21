@@ -25,7 +25,7 @@ def main():
     parser.add_argument("--days", type=int, default=1, help="최근 며칠 (기본 1)")
     # --all: ★가 아닌 주제까지 포함
     parser.add_argument("--all", action="store_true", help="관심(★) 주제가 아닌 것도 포함")
-    # --dry-run: 결과만 보여 주고 seen.json에는 저장하지 않음 (테스트용)
+    # --dry-run: 결과만 보여 주고 다이제스트·seen.json은 저장하지 않음 (테스트용)
     parser.add_argument("--dry-run", action="store_true", help="파일에 저장하지 않고 결과만 출력")
     args = parser.parse_args()
 

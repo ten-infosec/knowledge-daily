@@ -4,7 +4,7 @@
 """
 
 # ===== Imports =====
-# json: taxonomy.json에서 주제 이름을 읽기 위해 사용
+# json: taxonomy.json 읽기, 하루치 항목(digests/YYYY-MM-DD.json) 읽고 쓰기
 import json
 # datetime, timedelta, timezone: 한국 시간(KST = UTC+9) 기준 날짜를 구하기 위해 사용
 from datetime import datetime, timedelta, timezone
@@ -96,9 +96,26 @@ def render(items, date_str):
 
 
 def write_digest(items):
-    """다이제스트를 digests/YYYY-MM-DD.md로 저장하고, 저장한 경로를 돌려준다."""
+    """오늘 항목을 digests/YYYY-MM-DD.json에 모으고, 그 전체로 .md를 만들어 저장한다. .md 경로를 돌려준다.
+
+    같은 날 여러 번 실행해도 앞선 실행에서 찾은 항목이 사라지지 않는다.
+    (앞선 항목은 이미 seen.json에 있어서 다시 수집되지 않기 때문에, 따로 모아 두어야 함)
+    """
     date_str = today_kst()
     DIGEST_DIR.mkdir(exist_ok=True)
-    path = DIGEST_DIR / f"{date_str}.md"
-    path.write_text(render(items, date_str), encoding="utf-8")
-    return path
+    json_path = DIGEST_DIR / f"{date_str}.json"
+
+    # 오늘 앞서 저장한 항목이 있으면 불러옴
+    day_items = []
+    if json_path.exists():
+        day_items = json.loads(json_path.read_text(encoding="utf-8"))
+    # "출처:ID" 집합으로 이미 있는 항목을 확인하고, 새 항목만 뒤에 붙임
+    known = {f"{i['source']}:{i['id']}" for i in day_items}
+    day_items += [i for i in items if f"{i['source']}:{i['id']}" not in known]
+
+    # ensure_ascii=False: 한글을 그대로 저장 / indent=1: 사람이 읽기 쉽게
+    json_path.write_text(json.dumps(day_items, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    md_path = DIGEST_DIR / f"{date_str}.md"
+    md_path.write_text(render(day_items, date_str), encoding="utf-8")
+    return md_path
+    # → 수동 실행 버튼으로 다시 돌려도, 아침 신문에 그날 찾은 항목이 모두 남게 하겠다
