@@ -41,7 +41,7 @@ def save_seen(seen):
 
 
 # ===== Filter =====
-def filter_new(items, seen, source):
+def filter_new(items, seen):
     """seen에 없는 항목만 돌려주고, 돌려준 항목은 seen에 추가한다.
 
     같은 논문이 여러 주제에 동시에 걸린 경우에도 처음 한 번만 남는다.
@@ -49,8 +49,8 @@ def filter_new(items, seen, source):
     today = date.today().isoformat()
     new_items = []
     for item in items:
-        # 예: "arxiv:2610.26223"
-        key = f"{source}:{item['arxiv_id']}"
+        # 예: "arxiv:2610.26223", "pubmed:42900126"
+        key = f"{item['source']}:{item['id']}"
         # 이미 본 항목이면 건너뜀
         if key in seen:
             continue

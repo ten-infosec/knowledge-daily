@@ -20,6 +20,8 @@ DIGEST_DIR = ROOT / "digests"
 TAXONOMY_PATH = ROOT / "data" / "taxonomy.json"
 # 한국 시간대 (UTC보다 9시간 빠름). GitHub Actions 서버는 UTC라서 직접 지정해 둠
 KST = timezone(timedelta(hours=9))
+# 출처 이름을 신문에 보여 줄 때 쓰는 표시 이름
+SOURCE_LABELS = {"arxiv": "arXiv", "pubmed": "PubMed"}
 # 저자가 이보다 많으면 앞의 몇 명만 쓰고 "외 N명"으로 줄임
 MAX_AUTHORS = 3
 
@@ -35,6 +37,15 @@ def format_authors(authors):
     if len(authors) <= MAX_AUTHORS:
         return ", ".join(authors)
     return ", ".join(authors[:MAX_AUTHORS]) + f" 외 {len(authors) - MAX_AUTHORS}명"
+
+
+def source_summary(items):
+    """출처별 건수를 "arXiv 84 · PubMed 50" 형태로 만든다."""
+    counts = {}
+    for item in items:
+        counts[item["source"]] = counts.get(item["source"], 0) + 1
+    # 표시 이름이 없으면 원래 이름을 그대로 씀
+    return " · ".join(f"{SOURCE_LABELS.get(s, s)} {n}" for s, n in counts.items()) or "없음"
 
 
 # ===== Render =====
@@ -53,7 +64,7 @@ def render(items, date_str):
     lines = [
         f"# 아침 지식 신문 — {date_str}",
         "",
-        f"새 항목 {len(items)}건 · 주제 {len(by_topic)}개 · 출처: arXiv",
+        f"새 항목 {len(items)}건 · 주제 {len(by_topic)}개 · 출처: {source_summary(items)}",
         "",
     ]
     current_area = None
@@ -68,12 +79,14 @@ def render(items, date_str):
             lines += [f"## {current_area}", ""]
         lines += [f"### {topic['topic']} `{topic['id']}` ({len(papers)}건)", ""]
         for p in papers:
-            # 버전 번호 없는 링크를 써서, 항상 최신 버전 페이지로 가게 함
-            link = f"https://arxiv.org/abs/{p['arxiv_id']}"
             # 제목 속 대괄호가 Markdown 링크 문법을 깨뜨리지 않게 앞에 \를 붙임
             title = p["title"].replace("[", "\\[").replace("]", "\\]")
-            # 예: - [ ] [논문 제목](링크) — 저자 · 2026-10-19
-            lines.append(f"- [ ] [{title}]({link}) — {format_authors(p['authors'])} · {p['published'][:10]}")
+            # 출처 표시. 학술지 이름이 있으면 함께 (예: PubMed · Optics letters)
+            where = SOURCE_LABELS.get(p["source"], p["source"])
+            if p.get("venue"):
+                where += f" · {p['venue']}"
+            # 예: - [ ] [논문 제목](링크) — 저자 · arXiv · 2026-10-19
+            lines.append(f"- [ ] [{title}]({p['link']}) — {format_authors(p['authors'])} · {where} · {p['published']}")
         lines.append("")
 
     if not items:

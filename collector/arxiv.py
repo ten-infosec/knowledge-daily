@@ -9,47 +9,29 @@
 import argparse
 # re: 정규식(문자열 패턴)으로 arXiv ID 끝의 버전 표시를 떼기 위해 사용
 import re
-# json: taxonomy.json 파일을 파이썬 리스트로 읽기 위해 사용
-import json
 # time: 요청 사이에 잠깐 멈추는 time.sleep()을 쓰기 위해 사용
 import time
 # datetime: "지금부터 N일 전"을 계산하기 위해 사용 / timezone.utc: 세계 표준시(UTC)
 from datetime import datetime, timedelta, timezone
-# Path: 파일 경로를 운영체제와 상관없이 다루는 도구
-from pathlib import Path
-
 # feedparser: arXiv가 돌려주는 Atom(XML) 응답을 파이썬 데이터로 바꿔 줌
 import feedparser
 # requests: arXiv API에 HTTP 요청을 보냄
 import requests
+
+# common.py의 공통 설정·함수: 이름표(User-Agent), 주제 읽기
+from collector.common import USER_AGENT, load_topics
 
 # ===== Settings =====
 # arXiv API 주소
 API_URL = "https://export.arxiv.org/api/query"
 # 요청 사이 쉬는 시간(초). arXiv 이용 규칙이 3초 이상
 REQUEST_DELAY = 3
+# 서버가 "잠시 후 다시"(429, 503)라고 하면 몇 번까지 다시 시도할지 / 다시 시도 전 기다릴 시간(초)
+RETRIES = 2
+RETRY_WAIT = 30
 # 주제 하나당 가져올 최대 논문 수
 MAX_RESULTS = 20
-# 우리가 누구인지 알려주는 이름표. 문제가 생기면 arXiv가 연락할 수 있게 저장소 주소를 넣음
-USER_AGENT = "knowledge-daily/0.1 (+https://github.com/ten-infosec/knowledge-daily)"
-# 이 파일 기준으로 프로젝트 최상위 폴더를 찾고, 그 안의 taxonomy.json 경로를 만듦
-TAXONOMY_PATH = Path(__file__).resolve().parent.parent / "data" / "taxonomy.json"
 # → 설정값을 맨 위에 모아 두어, 나중에 숫자만 바꾸면 동작을 조절할 수 있게 하겠다
-
-
-# ===== Load topics =====
-def load_arxiv_topics(star_only=True):
-    """taxonomy.json에서 수집처에 arXiv가 들어 있는 주제만 골라 돌려준다."""
-    # encoding="utf-8": 한글이 깨지지 않게 UTF-8로 읽음
-    with open(TAXONOMY_PATH, encoding="utf-8") as f:
-        topics = json.load(f)
-    # source 문자열에 "arXiv"가 있는 주제만 남김
-    topics = [t for t in topics if "arXiv" in t["source"]]
-    # star_only가 True면 관심(★) 주제만 남김
-    if star_only:
-        topics = [t for t in topics if t["star"]]
-    return topics
-    # → arXiv에서 찾을 수 있는 주제만 골라, 쓸데없는 요청을 보내지 않겠다
 
 
 # ===== Build query =====
@@ -75,8 +57,16 @@ def search(query, max_results=MAX_RESULTS):
         "sortBy": "submittedDate",
         "sortOrder": "descending",
     }
-    # timeout=30: 30초 안에 응답이 없으면 포기 (프로그램이 멈춰 있지 않게)
-    response = requests.get(API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=30)
+    # range(RETRIES + 1): 처음 1번 + 다시 시도 RETRIES번
+    for attempt in range(RETRIES + 1):
+        # timeout=30: 30초 안에 응답이 없으면 포기 (프로그램이 멈춰 있지 않게)
+        response = requests.get(API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=30)
+        # 429(요청 너무 많음)·503(서버 바쁨)이 아니거나, 마지막 시도였으면 그만 반복
+        if response.status_code not in (429, 503) or attempt == RETRIES:
+            break
+        print(f"[info] arXiv {response.status_code}, {RETRY_WAIT}초 뒤 다시 시도")
+        time.sleep(RETRY_WAIT)
+    # → 서버가 잠깐 바쁠 때 바로 포기하지 않고, 충분히 쉰 뒤 다시 요청하겠다
     # 응답 코드가 오류(4xx, 5xx)면 바로 예외를 일으켜 알려 줌
     response.raise_for_status()
     # Atom XML 텍스트를 feedparser로 해석
@@ -84,17 +74,22 @@ def search(query, max_results=MAX_RESULTS):
 
     papers = []
     for entry in feed.entries:
+        # entry.id 예: http://arxiv.org/abs/2610.12345v1 → "/abs/" 뒤에서 버전(v1)을 뗀 2610.12345
+        arxiv_id = re.sub(r"v\d+$", "", entry.id.split("/abs/")[-1])
         papers.append({
-            # entry.id 예: http://arxiv.org/abs/2610.12345v1 → "/abs/" 뒤에서 버전(v1)을 뗀 2610.12345만 저장
-            "arxiv_id": re.sub(r"v\d+$", "", entry.id.split("/abs/")[-1]),
+            # 출처 이름 (seen.json 키와 신문 표시에 사용)
+            "source": "arxiv",
+            "id": arxiv_id,
             # 제목 안의 줄바꿈·여러 칸 공백을 한 칸으로 정리
             "title": " ".join(entry.title.split()),
             # 저자 이름만 리스트로
             "authors": [a.name for a in entry.get("authors", [])],
-            # 논문 페이지 링크
-            "link": entry.link,
-            # 처음 제출된 날짜 (예: 2026-10-20T17:59:59Z)
-            "published": entry.published,
+            # 버전 번호 없는 링크 → 항상 최신 버전 페이지로 감
+            "link": f"https://arxiv.org/abs/{arxiv_id}",
+            # 처음 제출된 날짜. 앞 10글자만 (예: 2026-10-20T17:59:59Z → 2026-10-20)
+            "published": entry.published[:10],
+            # 아래 latest_window()가 정확한 시각을 쓰기 위해 원래 값도 남김
+            "published_at": entry.published,
             # 분류(예: quant-ph, cs.CR)
             "categories": [t.term for t in entry.get("tags", [])],
         })
@@ -116,7 +111,7 @@ def latest_window(days=1):
         end = now
     else:
         # "2026-10-19T17:59:59Z" 같은 문자열을 datetime으로 바꾸고, 1분 여유를 둠
-        end = datetime.fromisoformat(newest[0]["published"]) + timedelta(minutes=1)
+        end = datetime.fromisoformat(newest[0]["published_at"]) + timedelta(minutes=1)
     return end - timedelta(days=days), end
     # → 매일 실행했을 때 그날 새로 발표된 논문 묶음을 정확히 잡겠다
 
@@ -143,9 +138,14 @@ def fetch_topic(topic, start, end):
 
 def collect(days=1, star_only=True):
     """대상 주제를 하나씩 돌며 논문을 모은다. 요청 사이에는 3초씩 쉰다."""
-    topics = load_arxiv_topics(star_only)
+    topics = load_topics("arXiv", star_only)
     # 검색 기간을 먼저 정함 (요청 1회)
-    start, end = latest_window(days)
+    try:
+        start, end = latest_window(days)
+    except requests.RequestException as e:
+        # arXiv 서버가 응답하지 않으면 arXiv만 건너뛰고, 다른 수집처는 계속 돌게 함
+        print(f"[warn] arXiv 검색 기간 요청 실패, arXiv 건너뜀: {e}")
+        return []
     print(f"검색 기간(UTC): {start:%Y-%m-%d %H:%M} ~ {end:%Y-%m-%d %H:%M}")
     results = []
     for topic in topics:
