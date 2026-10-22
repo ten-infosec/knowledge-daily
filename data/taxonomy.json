@@ -2382,7 +2382,7 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "NUC-04",
@@ -2395,7 +2395,7 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "NUC-05",
@@ -2408,7 +2408,7 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "NUC-06",
@@ -2421,7 +2421,7 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "NUC-07",
@@ -2434,7 +2434,7 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "NUC-08",
@@ -2447,7 +2447,7 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "NUC-09",
@@ -2460,7 +2460,7 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "SEM-01",
@@ -2473,7 +2473,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "SEM-02",
@@ -2486,7 +2486,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "SEM-03",
@@ -2499,7 +2499,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "SEM-04",
@@ -2512,7 +2512,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "SEM-05",
@@ -2525,7 +2525,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BAT-01",
@@ -2538,7 +2538,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BAT-02",
@@ -2551,7 +2551,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BAT-03",
@@ -2564,7 +2564,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BAT-04",
@@ -2577,7 +2577,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BAT-05",
@@ -2590,7 +2590,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MOB-01",
@@ -2603,7 +2603,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MOB-02",
@@ -2616,7 +2616,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MOB-03",
@@ -2629,7 +2629,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MOB-04",
@@ -2642,7 +2642,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MOB-05",
@@ -2655,7 +2655,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-01",
@@ -2668,7 +2668,7 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-02",
@@ -2681,7 +2681,7 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-03",
@@ -2694,7 +2694,7 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-04",
@@ -2707,7 +2707,7 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-05",
@@ -2720,7 +2720,7 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-06",
@@ -2759,7 +2759,7 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-09",
@@ -2772,7 +2772,7 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "BIO-10",
@@ -2798,7 +2798,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "ENE-02",
@@ -2811,7 +2811,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "ENE-03",
@@ -2824,7 +2824,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "ENE-04",
@@ -2837,7 +2837,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "ENE-05",
@@ -2850,7 +2850,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "ENE-06",
@@ -2863,7 +2863,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "ENE-07",
@@ -2876,7 +2876,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "ENE-08",
@@ -2889,7 +2889,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "COM-01",
@@ -2902,7 +2902,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "COM-02",
@@ -2928,7 +2928,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "COM-04",
@@ -2941,7 +2941,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MAT-01",
@@ -2954,7 +2954,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MAT-02",
@@ -2967,7 +2967,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MAT-03",
@@ -2980,7 +2980,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MAT-04",
@@ -2993,7 +2993,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "MAT-05",
@@ -3006,7 +3006,7 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": false
+  "star": true
  },
  {
   "id": "INF-01",
@@ -3085,5 +3085,1188 @@
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
   "star": false
+ },
+ {
+  "id": "SEM-06",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "반도체 소재·부품·장비",
+  "keywords": "semiconductor equipment",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "SEM-07",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "파운드리",
+  "keywords": "foundry",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "SEM-08",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "실리콘 포토닉스",
+  "keywords": "silicon photonics",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "SEM-09",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "뉴로모픽 칩",
+  "keywords": "neuromorphic",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "SEM-10",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "DRAM·3D 낸드",
+  "keywords": "DRAM",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "SEM-11",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "칩 설계(EDA)",
+  "keywords": "chip design",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "SEM-12",
+  "tier": "미래기술",
+  "area": "반도체·디스플레이",
+  "topic": "양자점 디스플레이",
+  "keywords": "quantum dot",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BAT-06",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "실리콘 음극",
+  "keywords": "silicon anode",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BAT-07",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "고체전해질(황화물·산화물)",
+  "keywords": "solid electrolyte",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BAT-08",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "열폭주·배터리 안전",
+  "keywords": "thermal runaway",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BAT-09",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "리튬 자원·공급망",
+  "keywords": "lithium",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BAT-10",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "양극재(NCM·LFP)",
+  "keywords": "cathode",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "BAT-11",
+  "tier": "미래기술",
+  "area": "이차전지",
+  "topic": "슈퍼커패시터",
+  "keywords": "supercapacitor",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KMD-01",
+  "tier": "의학·약학",
+  "area": "한의학·전통의학",
+  "topic": "침 치료",
+  "keywords": "acupuncture",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KMD-02",
+  "tier": "의학·약학",
+  "area": "한의학·전통의학",
+  "topic": "한약·천연물 약리",
+  "keywords": "herbal medicine",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KMD-03",
+  "tier": "의학·약학",
+  "area": "한의학·전통의학",
+  "topic": "한의학 임상연구",
+  "keywords": "Korean medicine",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KMD-04",
+  "tier": "의학·약학",
+  "area": "한의학·전통의학",
+  "topic": "뜸·침구 임상시험",
+  "keywords": "moxibustion",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KMD-05",
+  "tier": "의학·약학",
+  "area": "한의학·전통의학",
+  "topic": "전통의학 진단·설진",
+  "keywords": "tongue diagnosis",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KMD-06",
+  "tier": "의학·약학",
+  "area": "한의학·전통의학",
+  "topic": "통합의학",
+  "keywords": "integrative medicine",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "KMD-07",
+  "tier": "의학·약학",
+  "area": "한의학·전통의학",
+  "topic": "사상체질",
+  "keywords": "Sasang constitution",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-01",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "신약개발",
+  "keywords": "drug discovery",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-02",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "AI 약물 설계",
+  "keywords": "drug design",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-03",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "약물 상호작용",
+  "keywords": "drug interaction",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-04",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "약물유전체학",
+  "keywords": "pharmacogenomics",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-05",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "약물전달체계",
+  "keywords": "drug delivery",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-06",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "약물감시·이상반응",
+  "keywords": "pharmacovigilance",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-07",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "항생제 내성",
+  "keywords": "antibiotic resistance",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-08",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "임상약학·복약지도",
+  "keywords": "clinical pharmacy",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-09",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "항암 표적치료",
+  "keywords": "targeted therapy",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-10",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "GLP-1·비만 약물",
+  "keywords": "GLP-1",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHM-11",
+  "tier": "의학·약학",
+  "area": "약학",
+  "topic": "의약품 허가·규제",
+  "keywords": "drug approval",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-01",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "내분비내과(당뇨·갑상선)",
+  "keywords": "diabetes",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-02",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "산부인과",
+  "keywords": "obstetrics",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-03",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "가정의학·1차의료",
+  "keywords": "primary care",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-04",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "피부과",
+  "keywords": "dermatology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-05",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "소아과",
+  "keywords": "pediatrics",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-06",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "심장내과",
+  "keywords": "cardiology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-07",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "신경과·신경외과",
+  "keywords": "neurology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-08",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "정신건강의학과",
+  "keywords": "psychiatry",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-09",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "종양학",
+  "keywords": "oncology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-10",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "감염내과",
+  "keywords": "infection",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-11",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "정형외과",
+  "keywords": "orthopedic",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-12",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "외과·로봇수술",
+  "keywords": "surgery",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-13",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "소화기내과",
+  "keywords": "gastroenterology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-14",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "안과",
+  "keywords": "ophthalmology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-15",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "이비인후과",
+  "keywords": "otolaryngology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-16",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "비뇨의학과",
+  "keywords": "urology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-17",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "마취통증의학과",
+  "keywords": "anesthesia",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-18",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "영상의학과",
+  "keywords": "radiology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-19",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "재활의학과",
+  "keywords": "rehabilitation",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-20",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "응급의학과",
+  "keywords": "emergency medicine",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-21",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "성형·재건외과",
+  "keywords": "plastic surgery",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-22",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "흉부외과",
+  "keywords": "thoracic",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-23",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "병리·디지털병리",
+  "keywords": "pathology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-24",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "진단검사의학과",
+  "keywords": "biomarker",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-25",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "예방의학·역학",
+  "keywords": "epidemiology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-26",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "직업환경의학",
+  "keywords": "occupational health",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-27",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "핵의학",
+  "keywords": "nuclear medicine",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-28",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "치의학",
+  "keywords": "dentistry",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-29",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "간호·환자안전",
+  "keywords": "nursing",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "MED-30",
+  "tier": "의학·약학",
+  "area": "의학 진료과",
+  "topic": "해부·생리학",
+  "keywords": "physiology",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "VET-01",
+  "tier": "의학·약학",
+  "area": "수의학",
+  "topic": "수의 임상",
+  "keywords": "veterinary",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "VET-02",
+  "tier": "의학·약학",
+  "area": "수의학",
+  "topic": "인수공통감염",
+  "keywords": "zoonosis",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "VET-03",
+  "tier": "의학·약학",
+  "area": "수의학",
+  "topic": "반려동물 질환",
+  "keywords": "companion animal",
+  "tags": [
+   "관심"
+  ],
+  "source": "PubMed · 의학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ECO-01",
+  "tier": "관심 분야",
+  "area": "경제·금융",
+  "topic": "투자·밸류에이션",
+  "keywords": "valuation",
+  "tags": [
+   "관심"
+  ],
+  "source": "경제 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ECO-02",
+  "tier": "관심 분야",
+  "area": "경제·금융",
+  "topic": "거시경제",
+  "keywords": "inflation",
+  "tags": [
+   "관심"
+  ],
+  "source": "경제 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ECO-03",
+  "tier": "관심 분야",
+  "area": "경제·금융",
+  "topic": "글로벌 금융·통화전쟁",
+  "keywords": "currency",
+  "tags": [
+   "관심"
+  ],
+  "source": "경제 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ECO-04",
+  "tier": "관심 분야",
+  "area": "경제·금융",
+  "topic": "디지털화폐(CBDC)",
+  "keywords": "CBDC",
+  "tags": [
+   "관심"
+  ],
+  "source": "경제 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ECO-05",
+  "tier": "관심 분야",
+  "area": "경제·금융",
+  "topic": "원자재·에너지 자원",
+  "keywords": "commodity",
+  "tags": [
+   "관심"
+  ],
+  "source": "경제 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ECO-06",
+  "tier": "관심 분야",
+  "area": "경제·금융",
+  "topic": "중국경제",
+  "keywords": "China economy",
+  "tags": [
+   "관심"
+  ],
+  "source": "경제 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "GEO-01",
+  "tier": "관심 분야",
+  "area": "지정학·시사",
+  "topic": "지정학",
+  "keywords": "geopolitics",
+  "tags": [
+   "관심"
+  ],
+  "source": "지정학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "GEO-02",
+  "tier": "관심 분야",
+  "area": "지정학·시사",
+  "topic": "미중 경쟁",
+  "keywords": "US China",
+  "tags": [
+   "관심"
+  ],
+  "source": "지정학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "GEO-03",
+  "tier": "관심 분야",
+  "area": "지정학·시사",
+  "topic": "한반도·한국정치",
+  "keywords": "Korea politics",
+  "tags": [
+   "관심"
+  ],
+  "source": "지정학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "GEO-04",
+  "tier": "관심 분야",
+  "area": "지정학·시사",
+  "topic": "정보기관·방첩",
+  "keywords": "intelligence agency",
+  "tags": [
+   "관심"
+  ],
+  "source": "지정학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "GEO-05",
+  "tier": "관심 분야",
+  "area": "지정학·시사",
+  "topic": "에너지 안보",
+  "keywords": "energy security",
+  "tags": [
+   "관심"
+  ],
+  "source": "지정학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "GEO-06",
+  "tier": "관심 분야",
+  "area": "지정학·시사",
+  "topic": "동아시아 국제정세",
+  "keywords": "Indo-Pacific",
+  "tags": [
+   "관심"
+  ],
+  "source": "지정학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ADM-01",
+  "tier": "관심 분야",
+  "area": "고급 수학",
+  "topic": "선형대수",
+  "keywords": "linear algebra",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv math · 수학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ADM-02",
+  "tier": "관심 분야",
+  "area": "고급 수학",
+  "topic": "위상수학",
+  "keywords": "topology",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv math · 수학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ADM-03",
+  "tier": "관심 분야",
+  "area": "고급 수학",
+  "topic": "정수론",
+  "keywords": "number theory",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv math · 수학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ADM-04",
+  "tier": "관심 분야",
+  "area": "고급 수학",
+  "topic": "이산수학·조합론",
+  "keywords": "combinatorics",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv math · 수학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "ADM-05",
+  "tier": "관심 분야",
+  "area": "고급 수학",
+  "topic": "수리논리",
+  "keywords": "logic",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv math · 수학 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHY-01",
+  "tier": "관심 분야",
+  "area": "이론물리",
+  "topic": "양자장론",
+  "keywords": "quantum field",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 물리 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHY-02",
+  "tier": "관심 분야",
+  "area": "이론물리",
+  "topic": "우주론",
+  "keywords": "cosmology",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 물리 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHY-03",
+  "tier": "관심 분야",
+  "area": "이론물리",
+  "topic": "응집물질",
+  "keywords": "condensed matter",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 물리 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHY-04",
+  "tier": "관심 분야",
+  "area": "이론물리",
+  "topic": "양자 기초론",
+  "keywords": "quantum foundations",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 물리 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "PHY-05",
+  "tier": "관심 분야",
+  "area": "이론물리",
+  "topic": "블랙홀·중력",
+  "keywords": "black hole",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 물리 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "CSX-01",
+  "tier": "관심 분야",
+  "area": "컴퓨터 시스템",
+  "topic": "컴퓨터 구조",
+  "keywords": "computer architecture",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "CSX-02",
+  "tier": "관심 분야",
+  "area": "컴퓨터 시스템",
+  "topic": "운영체제",
+  "keywords": "operating system",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "CSX-03",
+  "tier": "관심 분야",
+  "area": "컴퓨터 시스템",
+  "topic": "프로그래밍 언어",
+  "keywords": "programming language",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "CSX-04",
+  "tier": "관심 분야",
+  "area": "컴퓨터 시스템",
+  "topic": "데이터 분석·통계",
+  "keywords": "statistics",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
+ },
+ {
+  "id": "CSX-05",
+  "tier": "관심 분야",
+  "area": "컴퓨터 시스템",
+  "topic": "게임 엔진",
+  "keywords": "game engine",
+  "tags": [
+   "관심"
+  ],
+  "source": "arXiv · 학술지 · 기술 뉴스",
+  "freq": "주 1회",
+  "star": true
  }
 ]
