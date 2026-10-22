@@ -181,58 +181,149 @@ ROB-06,미래기술,첨단로봇·제조,스마트팩토리·디지털 트윈,sm
 ROB-07,미래기술,첨단로봇·제조,3D 프린팅·적층제조,additive manufacturing,국가전략,arXiv cs.RO · 로봇 뉴스,주 1회,
 NUC-01,미래기술,차세대 원자력·핵융합,토카막 핵융합(KSTAR·ITER),tokamak fusion KSTAR ITER,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
 NUC-02,미래기술,차세대 원자력·핵융합,플라즈마 물리,plasma physics confinement,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
-NUC-03,미래기술,차세대 원자력·핵융합,관성 핵융합(레이저),inertial confinement fusion NIF,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
-NUC-04,미래기술,차세대 원자력·핵융합,스텔러레이터,stellarator,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
-NUC-05,미래기술,차세대 원자력·핵융합,민간 핵융합 스타트업,fusion energy startup,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
-NUC-06,미래기술,차세대 원자력·핵융합,핵융합 소재(블랭킷·디버터),fusion materials divertor blanket,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
-NUC-07,미래기술,차세대 원자력·핵융합,소형모듈원자로(SMR),small modular reactor,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
-NUC-08,미래기술,차세대 원자력·핵융합,4세대 원자로,generation IV reactor,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
-NUC-09,미래기술,차세대 원자력·핵융합,사용후핵연료·원전 해체,spent nuclear fuel decommissioning,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,
-SEM-01,미래기술,반도체·디스플레이,첨단 패키징(HBM·칩렛),advanced packaging HBM chiplet,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-SEM-02,미래기술,반도체·디스플레이,차세대 메모리(PIM·MRAM),processing-in-memory MRAM,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-SEM-03,미래기술,반도체·디스플레이,미세공정(GAA·EUV),GAA EUV lithography,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-SEM-04,미래기술,반도체·디스플레이,화합물 전력반도체(SiC·GaN),SiC GaN power semiconductor,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-SEM-05,미래기술,반도체·디스플레이,차세대 디스플레이(마이크로LED),microLED display,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-BAT-01,미래기술,이차전지,전고체전지,solid-state battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-BAT-02,미래기술,이차전지,리튬금속·리튬황 전지,lithium metal lithium sulfur battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-BAT-03,미래기술,이차전지,나트륨이온 전지,sodium-ion battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-BAT-04,미래기술,이차전지,배터리 관리·수명 예측,battery management state of health,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-BAT-05,미래기술,이차전지,배터리 재활용,battery recycling,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-MOB-01,미래기술,첨단 모빌리티,자율주행,autonomous driving,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-MOB-02,미래기술,첨단 모빌리티,도심항공교통(UAM),urban air mobility eVTOL,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-MOB-03,미래기술,첨단 모빌리티,소프트웨어 중심 차량(SDV),software defined vehicle,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-MOB-04,미래기술,첨단 모빌리티,전기차 충전,EV charging,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-MOB-05,미래기술,첨단 모빌리티,차량 사이버보안,automotive cybersecurity,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-BIO-01,미래기술,첨단바이오,합성생물학,synthetic biology,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
-BIO-02,미래기술,첨단바이오,유전자 편집(CRISPR),CRISPR gene editing,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
-BIO-03,미래기술,첨단바이오,mRNA·차세대 백신,mRNA vaccine,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
-BIO-04,미래기술,첨단바이오,바이오파운드리,biofoundry,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
-BIO-05,미래기술,첨단바이오,오가노이드,organoid,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+NUC-03,미래기술,차세대 원자력·핵융합,관성 핵융합(레이저),inertial confinement fusion NIF,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-04,미래기술,차세대 원자력·핵융합,스텔러레이터,stellarator,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-05,미래기술,차세대 원자력·핵융합,민간 핵융합 스타트업,fusion energy startup,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-06,미래기술,차세대 원자력·핵융합,핵융합 소재(블랭킷·디버터),fusion materials divertor blanket,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-07,미래기술,차세대 원자력·핵융합,소형모듈원자로(SMR),small modular reactor,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-08,미래기술,차세대 원자력·핵융합,4세대 원자로,generation IV reactor,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+NUC-09,미래기술,차세대 원자력·핵융합,사용후핵연료·원전 해체,spent nuclear fuel decommissioning,국가전략,arXiv physics.plasm-ph · IAEA · 에너지 뉴스,주 1회,★
+SEM-01,미래기술,반도체·디스플레이,첨단 패키징(HBM·칩렛),advanced packaging HBM chiplet,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-02,미래기술,반도체·디스플레이,차세대 메모리(PIM·MRAM),processing-in-memory MRAM,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-03,미래기술,반도체·디스플레이,미세공정(GAA·EUV),GAA EUV lithography,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-04,미래기술,반도체·디스플레이,화합물 전력반도체(SiC·GaN),SiC GaN power semiconductor,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-05,미래기술,반도체·디스플레이,차세대 디스플레이(마이크로LED),microLED display,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-01,미래기술,이차전지,전고체전지,solid-state battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-02,미래기술,이차전지,리튬금속·리튬황 전지,lithium metal lithium sulfur battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-03,미래기술,이차전지,나트륨이온 전지,sodium-ion battery,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-04,미래기술,이차전지,배터리 관리·수명 예측,battery management state of health,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-05,미래기술,이차전지,배터리 재활용,battery recycling,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MOB-01,미래기술,첨단 모빌리티,자율주행,autonomous driving,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MOB-02,미래기술,첨단 모빌리티,도심항공교통(UAM),urban air mobility eVTOL,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MOB-03,미래기술,첨단 모빌리티,소프트웨어 중심 차량(SDV),software defined vehicle,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MOB-04,미래기술,첨단 모빌리티,전기차 충전,EV charging,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MOB-05,미래기술,첨단 모빌리티,차량 사이버보안,automotive cybersecurity,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BIO-01,미래기술,첨단바이오,합성생물학,synthetic biology,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+BIO-02,미래기술,첨단바이오,유전자 편집(CRISPR),CRISPR gene editing,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+BIO-03,미래기술,첨단바이오,mRNA·차세대 백신,mRNA vaccine,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+BIO-04,미래기술,첨단바이오,바이오파운드리,biofoundry,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+BIO-05,미래기술,첨단바이오,오가노이드,organoid,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
 BIO-06,미래기술,첨단바이오,정밀의료·유전체,precision medicine genomics,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
 BIO-07,미래기술,첨단바이오,디지털 헬스케어·웨어러블,digital health wearable,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
-BIO-08,미래기술,첨단바이오,단백질 구조 예측·설계,protein structure prediction design,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
-BIO-09,미래기술,첨단바이오,노화·장수 과학,aging longevity research,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,
+BIO-08,미래기술,첨단바이오,단백질 구조 예측·설계,protein structure prediction design,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
+BIO-09,미래기술,첨단바이오,노화·장수 과학,aging longevity research,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
 BIO-10,미래기술,첨단바이오,난임·생식의학,infertility IVF AI,국가전략,bioRxiv · PubMed · 바이오 뉴스,주 1회,★
-ENE-01,미래기술,수소·에너지·기후,수전해 수소 생산,water electrolysis green hydrogen,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-ENE-02,미래기술,수소·에너지·기후,연료전지,fuel cell,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-ENE-03,미래기술,수소·에너지·기후,수소 저장·운송,hydrogen storage,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-ENE-04,미래기술,수소·에너지·기후,차세대 태양전지(페로브스카이트),perovskite solar cell,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-ENE-05,미래기술,수소·에너지·기후,풍력·해상풍력,offshore wind,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-ENE-06,미래기술,수소·에너지·기후,에너지저장(ESS),grid energy storage,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-ENE-07,미래기술,수소·에너지·기후,탄소 포집(CCUS·DAC),carbon capture direct air capture,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-ENE-08,미래기술,수소·에너지·기후,기후 모델링,climate modeling,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-COM-01,미래기술,차세대 통신,6G,6G wireless,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
+ENE-01,미래기술,수소·에너지·기후,수전해 수소 생산,water electrolysis green hydrogen,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+ENE-02,미래기술,수소·에너지·기후,연료전지,fuel cell,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+ENE-03,미래기술,수소·에너지·기후,수소 저장·운송,hydrogen storage,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+ENE-04,미래기술,수소·에너지·기후,차세대 태양전지(페로브스카이트),perovskite solar cell,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+ENE-05,미래기술,수소·에너지·기후,풍력·해상풍력,offshore wind,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+ENE-06,미래기술,수소·에너지·기후,에너지저장(ESS),grid energy storage,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+ENE-07,미래기술,수소·에너지·기후,탄소 포집(CCUS·DAC),carbon capture direct air capture,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+ENE-08,미래기술,수소·에너지·기후,기후 모델링,climate modeling,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+COM-01,미래기술,차세대 통신,6G,6G wireless,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
 COM-02,미래기술,차세대 통신,위성-지상 통합망(NTN),non-terrestrial network,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
-COM-03,미래기술,차세대 통신,오픈랜(Open RAN),Open RAN,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-COM-04,미래기술,차세대 통신,테라헤르츠 통신,terahertz communication,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,
-MAT-01,미래기술,신소재·나노,초전도체,superconductor,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
-MAT-02,미래기술,신소재·나노,그래핀·2차원 소재,graphene 2D materials,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
-MAT-03,미래기술,신소재·나노,메타물질,metamaterials,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
-MAT-04,미래기술,신소재·나노,나노의학,nanomedicine,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
-MAT-05,미래기술,신소재·나노,AI 기반 소재 탐색,AI materials discovery,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+COM-03,미래기술,차세대 통신,오픈랜(Open RAN),Open RAN,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+COM-04,미래기술,차세대 통신,테라헤르츠 통신,terahertz communication,국가전략,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MAT-01,미래기술,신소재·나노,초전도체,superconductor,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MAT-02,미래기술,신소재·나노,그래핀·2차원 소재,graphene 2D materials,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MAT-03,미래기술,신소재·나노,메타물질,metamaterials,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MAT-04,미래기술,신소재·나노,나노의학,nanomedicine,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
+MAT-05,미래기술,신소재·나노,AI 기반 소재 탐색,AI materials discovery,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
 INF-01,미래기술,인프라·플랫폼,클라우드·쿠버네티스,cloud native kubernetes,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
 INF-02,미래기술,인프라·플랫폼,홈서버·자가호스팅,self-hosting homelab,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
 INF-03,미래기술,인프라·플랫폼,리눅스·오픈소스,Linux kernel open source,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,★
 INF-04,미래기술,인프라·플랫폼,XR·공간컴퓨팅,spatial computing XR,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
 INF-05,미래기술,인프라·플랫폼,스마트시티,smart city,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
 INF-06,미래기술,인프라·플랫폼,애그테크·배양육,agtech cultured meat,프런티어,arXiv · 학술지 · 기술 뉴스,주 1회,
+SEM-06,미래기술,반도체·디스플레이,반도체 소재·부품·장비,semiconductor equipment,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-07,미래기술,반도체·디스플레이,파운드리,foundry,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-08,미래기술,반도체·디스플레이,실리콘 포토닉스,silicon photonics,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-09,미래기술,반도체·디스플레이,뉴로모픽 칩,neuromorphic,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-10,미래기술,반도체·디스플레이,DRAM·3D 낸드,DRAM,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-11,미래기술,반도체·디스플레이,칩 설계(EDA),chip design,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+SEM-12,미래기술,반도체·디스플레이,양자점 디스플레이,quantum dot,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-06,미래기술,이차전지,실리콘 음극,silicon anode,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-07,미래기술,이차전지,고체전해질(황화물·산화물),solid electrolyte,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-08,미래기술,이차전지,열폭주·배터리 안전,thermal runaway,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-09,미래기술,이차전지,리튬 자원·공급망,lithium,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-10,미래기술,이차전지,양극재(NCM·LFP),cathode,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+BAT-11,미래기술,이차전지,슈퍼커패시터,supercapacitor,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+KMD-01,의학·약학,한의학·전통의학,침 치료,acupuncture,관심,PubMed · 의학 뉴스,주 1회,★
+KMD-02,의학·약학,한의학·전통의학,한약·천연물 약리,herbal medicine,관심,PubMed · 의학 뉴스,주 1회,★
+KMD-03,의학·약학,한의학·전통의학,한의학 임상연구,Korean medicine,관심,PubMed · 의학 뉴스,주 1회,★
+KMD-04,의학·약학,한의학·전통의학,뜸·침구 임상시험,moxibustion,관심,PubMed · 의학 뉴스,주 1회,★
+KMD-05,의학·약학,한의학·전통의학,전통의학 진단·설진,tongue diagnosis,관심,PubMed · 의학 뉴스,주 1회,★
+KMD-06,의학·약학,한의학·전통의학,통합의학,integrative medicine,관심,PubMed · 의학 뉴스,주 1회,★
+KMD-07,의학·약학,한의학·전통의학,사상체질,Sasang constitution,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-01,의학·약학,약학,신약개발,drug discovery,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-02,의학·약학,약학,AI 약물 설계,drug design,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-03,의학·약학,약학,약물 상호작용,drug interaction,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-04,의학·약학,약학,약물유전체학,pharmacogenomics,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-05,의학·약학,약학,약물전달체계,drug delivery,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-06,의학·약학,약학,약물감시·이상반응,pharmacovigilance,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-07,의학·약학,약학,항생제 내성,antibiotic resistance,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-08,의학·약학,약학,임상약학·복약지도,clinical pharmacy,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-09,의학·약학,약학,항암 표적치료,targeted therapy,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-10,의학·약학,약학,GLP-1·비만 약물,GLP-1,관심,PubMed · 의학 뉴스,주 1회,★
+PHM-11,의학·약학,약학,의약품 허가·규제,drug approval,관심,PubMed · 의학 뉴스,주 1회,★
+MED-01,의학·약학,의학 진료과,내분비내과(당뇨·갑상선),diabetes,관심,PubMed · 의학 뉴스,주 1회,★
+MED-02,의학·약학,의학 진료과,산부인과,obstetrics,관심,PubMed · 의학 뉴스,주 1회,★
+MED-03,의학·약학,의학 진료과,가정의학·1차의료,primary care,관심,PubMed · 의학 뉴스,주 1회,★
+MED-04,의학·약학,의학 진료과,피부과,dermatology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-05,의학·약학,의학 진료과,소아과,pediatrics,관심,PubMed · 의학 뉴스,주 1회,★
+MED-06,의학·약학,의학 진료과,심장내과,cardiology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-07,의학·약학,의학 진료과,신경과·신경외과,neurology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-08,의학·약학,의학 진료과,정신건강의학과,psychiatry,관심,PubMed · 의학 뉴스,주 1회,★
+MED-09,의학·약학,의학 진료과,종양학,oncology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-10,의학·약학,의학 진료과,감염내과,infection,관심,PubMed · 의학 뉴스,주 1회,★
+MED-11,의학·약학,의학 진료과,정형외과,orthopedic,관심,PubMed · 의학 뉴스,주 1회,★
+MED-12,의학·약학,의학 진료과,외과·로봇수술,surgery,관심,PubMed · 의학 뉴스,주 1회,★
+MED-13,의학·약학,의학 진료과,소화기내과,gastroenterology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-14,의학·약학,의학 진료과,안과,ophthalmology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-15,의학·약학,의학 진료과,이비인후과,otolaryngology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-16,의학·약학,의학 진료과,비뇨의학과,urology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-17,의학·약학,의학 진료과,마취통증의학과,anesthesia,관심,PubMed · 의학 뉴스,주 1회,★
+MED-18,의학·약학,의학 진료과,영상의학과,radiology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-19,의학·약학,의학 진료과,재활의학과,rehabilitation,관심,PubMed · 의학 뉴스,주 1회,★
+MED-20,의학·약학,의학 진료과,응급의학과,emergency medicine,관심,PubMed · 의학 뉴스,주 1회,★
+MED-21,의학·약학,의학 진료과,성형·재건외과,plastic surgery,관심,PubMed · 의학 뉴스,주 1회,★
+MED-22,의학·약학,의학 진료과,흉부외과,thoracic,관심,PubMed · 의학 뉴스,주 1회,★
+MED-23,의학·약학,의학 진료과,병리·디지털병리,pathology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-24,의학·약학,의학 진료과,진단검사의학과,biomarker,관심,PubMed · 의학 뉴스,주 1회,★
+MED-25,의학·약학,의학 진료과,예방의학·역학,epidemiology,관심,PubMed · 의학 뉴스,주 1회,★
+MED-26,의학·약학,의학 진료과,직업환경의학,occupational health,관심,PubMed · 의학 뉴스,주 1회,★
+MED-27,의학·약학,의학 진료과,핵의학,nuclear medicine,관심,PubMed · 의학 뉴스,주 1회,★
+MED-28,의학·약학,의학 진료과,치의학,dentistry,관심,PubMed · 의학 뉴스,주 1회,★
+MED-29,의학·약학,의학 진료과,간호·환자안전,nursing,관심,PubMed · 의학 뉴스,주 1회,★
+MED-30,의학·약학,의학 진료과,해부·생리학,physiology,관심,PubMed · 의학 뉴스,주 1회,★
+VET-01,의학·약학,수의학,수의 임상,veterinary,관심,PubMed · 의학 뉴스,주 1회,★
+VET-02,의학·약학,수의학,인수공통감염,zoonosis,관심,PubMed · 의학 뉴스,주 1회,★
+VET-03,의학·약학,수의학,반려동물 질환,companion animal,관심,PubMed · 의학 뉴스,주 1회,★
+ECO-01,관심 분야,경제·금융,투자·밸류에이션,valuation,관심,경제 뉴스,주 1회,★
+ECO-02,관심 분야,경제·금융,거시경제,inflation,관심,경제 뉴스,주 1회,★
+ECO-03,관심 분야,경제·금융,글로벌 금융·통화전쟁,currency,관심,경제 뉴스,주 1회,★
+ECO-04,관심 분야,경제·금융,디지털화폐(CBDC),CBDC,관심,경제 뉴스,주 1회,★
+ECO-05,관심 분야,경제·금융,원자재·에너지 자원,commodity,관심,경제 뉴스,주 1회,★
+ECO-06,관심 분야,경제·금융,중국경제,China economy,관심,경제 뉴스,주 1회,★
+GEO-01,관심 분야,지정학·시사,지정학,geopolitics,관심,지정학 뉴스,주 1회,★
+GEO-02,관심 분야,지정학·시사,미중 경쟁,US China,관심,지정학 뉴스,주 1회,★
+GEO-03,관심 분야,지정학·시사,한반도·한국정치,Korea politics,관심,지정학 뉴스,주 1회,★
+GEO-04,관심 분야,지정학·시사,정보기관·방첩,intelligence agency,관심,지정학 뉴스,주 1회,★
+GEO-05,관심 분야,지정학·시사,에너지 안보,energy security,관심,지정학 뉴스,주 1회,★
+GEO-06,관심 분야,지정학·시사,동아시아 국제정세,Indo-Pacific,관심,지정학 뉴스,주 1회,★
+ADM-01,관심 분야,고급 수학,선형대수,linear algebra,관심,arXiv math · 수학 뉴스,주 1회,★
+ADM-02,관심 분야,고급 수학,위상수학,topology,관심,arXiv math · 수학 뉴스,주 1회,★
+ADM-03,관심 분야,고급 수학,정수론,number theory,관심,arXiv math · 수학 뉴스,주 1회,★
+ADM-04,관심 분야,고급 수학,이산수학·조합론,combinatorics,관심,arXiv math · 수학 뉴스,주 1회,★
+ADM-05,관심 분야,고급 수학,수리논리,logic,관심,arXiv math · 수학 뉴스,주 1회,★
+PHY-01,관심 분야,이론물리,양자장론,quantum field,관심,arXiv · 물리 뉴스,주 1회,★
+PHY-02,관심 분야,이론물리,우주론,cosmology,관심,arXiv · 물리 뉴스,주 1회,★
+PHY-03,관심 분야,이론물리,응집물질,condensed matter,관심,arXiv · 물리 뉴스,주 1회,★
+PHY-04,관심 분야,이론물리,양자 기초론,quantum foundations,관심,arXiv · 물리 뉴스,주 1회,★
+PHY-05,관심 분야,이론물리,블랙홀·중력,black hole,관심,arXiv · 물리 뉴스,주 1회,★
+CSX-01,관심 분야,컴퓨터 시스템,컴퓨터 구조,computer architecture,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+CSX-02,관심 분야,컴퓨터 시스템,운영체제,operating system,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+CSX-03,관심 분야,컴퓨터 시스템,프로그래밍 언어,programming language,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+CSX-04,관심 분야,컴퓨터 시스템,데이터 분석·통계,statistics,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
+CSX-05,관심 분야,컴퓨터 시스템,게임 엔진,game engine,관심,arXiv · 학술지 · 기술 뉴스,주 1회,★
