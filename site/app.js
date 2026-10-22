@@ -108,6 +108,15 @@ function renderItem(item) {
   const from = item._date ? `${item._date.slice(5).replace("-", "/")} 신문` : "";
   body.append(el("div", "meta", [from, formatAuthors(item.authors), where, item.published].filter(Boolean).join(" · ")));
 
+  // arXiv 글에는 Edge '소리 내어 읽기'용 HTML 버전 링크를 덧붙임 (id 형식이 맞을 때만)
+  if (item.source === "arxiv" && /^\d{4}\.\d{4,5}$/.test(item.id)) {
+    const listen = el("a", "listen", "🔊 HTML로 열기 (Edge 소리 내어 읽기)");
+    listen.href = `https://arxiv.org/html/${item.id}`;
+    listen.target = "_blank";
+    listen.rel = "noopener noreferrer";
+    body.append(listen);
+  }
+
   if (item.pick) {
     const p = item.pick;
     const badges = el("div", "badges");

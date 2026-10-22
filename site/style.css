@@ -119,6 +119,7 @@ ol.summary-lines li { margin-bottom: 2px; }
 .why { margin: 8px 0 0; font-size: 0.92rem; }
 .why b { color: var(--accent); }
 .related { margin: 6px 0 0; font-size: 0.82rem; color: var(--muted); }
+.listen { display: inline-block; margin-top: 4px; font-size: 0.82rem; }
 
 /* 읽은 글: 흐리게 + 제목에 가운데 줄 */
 li.item.read { opacity: 0.55; }
