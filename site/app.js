@@ -12,7 +12,7 @@ const CARRY_DAYS = 6;
 const CARRY_MAX = 10;
 
 // ===== State =====
-const state = { dates: [], topics: [], topicById: {}, date: null, items: [], carried: [] };
+const state = { dates: [], topics: [], topicById: {}, date: null, area: null, items: [], carried: [] };
 
 // ===== Read log (localStorage) =====
 // 사생활 보호 모드 등에서는 localStorage가 막혀 있을 수 있어 try/catch로 감쌈 → 막혀 있으면 기록 없이 동작
@@ -213,7 +213,55 @@ function renderFold(title, items, container, withTopic) {
   container.append(det);
 }
 
-async function renderDay(date) {
+// ===== Overview (첫 화면): 분야별 카드, 카드마다 몇 건만 =====
+// 먼저 보고 싶은 분야 (이 순서대로 앞에 놓고, 나머지는 글이 많은 분야 순)
+const AREA_FIRST = ["의학 진료과", "양자", "반도체·디스플레이", "이차전지", "약학", "한의학·전통의학"];
+// 카드 하나에 보여 줄 글 수
+const PER_AREA = 3;
+
+const areaOf = (item) => (state.topicById[item.topic_id] ? state.topicById[item.topic_id].area : "기타");
+// AI가 고른 글은 중요도 순, 그 밖에는 최신 발행일 순
+const rankItems = (a, b) =>
+  (b.pick ? b.pick.importance : 0) - (a.pick ? a.pick.importance : 0) || (b.published || "").localeCompare(a.published || "");
+
+function renderOverview(items, container) {
+  const byArea = {};
+  items.forEach((i) => (byArea[areaOf(i)] ||= []).push(i));
+  const names = Object.keys(byArea).sort((a, b) => {
+    const ia = AREA_FIRST.indexOf(a);
+    const ib = AREA_FIRST.indexOf(b);
+    if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib);
+    return byArea[b].length - byArea[a].length;
+  });
+
+  const grid = el("div", "area-grid");
+  names.forEach((name) => {
+    const list = byArea[name].sort(rankItems);
+    const card = el("section", "area-card");
+    const head = el("h2", "area-title");
+    const open = el("button", "area-open", name);
+    open.type = "button";
+    open.addEventListener("click", () => renderDay(state.date, name));
+    head.append(open, el("span", "count", `${list.length}건`));
+    card.append(head);
+
+    const ul = el("ul", "items");
+    list.slice(0, PER_AREA).forEach((i) => ul.append(renderItem(i)));
+    card.append(ul);
+
+    if (list.length > PER_AREA) {
+      const more = el("button", "area-more", `${name} 전체 ${list.length}건 보기 →`);
+      more.type = "button";
+      more.addEventListener("click", () => renderDay(state.date, name));
+      card.append(more);
+    }
+    grid.append(card);
+  });
+  container.append(grid);
+}
+
+// area가 있으면 그 분야 전체를 주제별로, 없으면 첫 화면(분야별 카드)
+async function renderDay(date, area = null) {
   state.date = date;
   const content = document.getElementById("content");
   content.replaceChildren(el("p", "empty", "불러오는 중…"));
@@ -225,27 +273,46 @@ async function renderDay(date) {
   }
   const by = { main: [], overflow: [], rest: [], dup: [] };
   state.items.forEach((i) => by[sectionOf(i)].push(i));
-  state.carried = await loadCarried(date);
+  // 주소로 받은 분야에 글이 없으면 첫 화면으로
+  if (area && !by.main.some((i) => areaOf(i) === area)) area = null;
+  state.area = area;
 
   content.replaceChildren();
-  if (state.carried.length) {
-    content.append(el("h2", "area", `지난 글 — 아직 안 읽음 ${state.carried.length}건`));
-    const ul = el("ul", "items carried");
-    state.carried.forEach((i) => ul.append(renderItem(i)));
-    content.append(ul);
+  if (area) {
+    // ----- 분야 상세: 그 분야 전체 글을 주제별로 -----
+    const back = el("button", "back", "← 전체 분야");
+    back.type = "button";
+    back.addEventListener("click", () => renderDay(date));
+    const wrap = el("div", "detail");
+    wrap.append(back);
+    renderGrouped(by.main.filter((i) => areaOf(i) === area), wrap);
+    content.append(wrap);
+  } else {
+    // ----- 첫 화면 -----
+    state.carried = await loadCarried(date);
+    if (state.carried.length) {
+      // 지난 글은 접어 두고, 열면 보이게 (첫 화면이 길어지지 않도록)
+      const det = el("details", "fold carried-fold");
+      det.append(el("summary", "", `지난 글 — 아직 안 읽음 ${state.carried.length}건`));
+      const ul = el("ul", "items carried");
+      state.carried.forEach((i) => ul.append(renderItem(i)));
+      det.append(ul);
+      content.append(det);
+    }
+    if (!state.items.length) content.append(el("p", "empty", "이 날은 새 항목이 없습니다."));
+    renderOverview(by.main, content);
+    renderFold(`시간 여유가 있으면 — 요약 ${by.overflow.length}건 더 보기`, by.overflow, content, true);
+    renderFold(`그 밖의 수집 항목 ${by.rest.length}건 (AI가 고르지 않음)`, by.rest, content, false);
   }
-  if (!state.items.length) content.append(el("p", "empty", "이 날은 새 항목이 없습니다."));
-  renderGrouped(by.main, content);
-  renderFold(`시간 여유가 있으면 — 요약 ${by.overflow.length}건 더 보기`, by.overflow, content, true);
-  renderFold(`그 밖의 수집 항목 ${by.rest.length}건 (AI가 고르지 않음)`, by.rest, content, false);
 
   // 날짜 이동 버튼·선택 상자를 현재 날짜에 맞춤 (dates는 최신이 앞)
   const idx = state.dates.indexOf(date);
   document.getElementById("date").value = date;
   document.getElementById("prev").disabled = idx >= state.dates.length - 1;
   document.getElementById("next").disabled = idx <= 0;
-  // 주소 끝에 #날짜를 붙여, 새로고침하거나 링크를 공유해도 같은 날이 열리게 함
-  history.replaceState(null, "", `#${date}`);
+  // 주소 끝에 #날짜(와 /분야)를 붙여, 새로고침하거나 링크를 공유해도 같은 화면이 열리게 함
+  history.replaceState(null, "", area ? `#${date}/${encodeURIComponent(area)}` : `#${date}`);
+  window.scrollTo(0, 0);
   updateProgress();
 }
 
@@ -340,7 +407,7 @@ async function importLog(file) {
     // 합치기: 이미 있는 기록은 그대로 두고 새 기록만 더함
     readLog = { ...incoming, ...readLog };
     saveRead(readLog);
-    renderDay(state.date);
+    renderDay(state.date, state.area);
   } catch {
     document.getElementById("summary").textContent = "기록 파일을 읽지 못했습니다.";
   }
@@ -369,8 +436,14 @@ async function init() {
   document.getElementById("export").addEventListener("click", exportLog);
   document.getElementById("import").addEventListener("change", (e) => e.target.files[0] && importLog(e.target.files[0]));
 
-  // 주소에 #날짜가 있고 목록에 있으면 그날, 아니면 가장 최근 날
-  const fromHash = location.hash.slice(1);
-  renderDay(state.dates.includes(fromHash) ? fromHash : state.dates[0]);
+  // 주소: #날짜 또는 #날짜/분야. 날짜가 목록에 있으면 그날, 아니면 가장 최근 날
+  const [hashDate, hashArea] = location.hash.slice(1).split("/");
+  let area = null;
+  try {
+    area = hashArea ? decodeURIComponent(hashArea) : null;
+  } catch {
+    area = null;
+  }
+  renderDay(state.dates.includes(hashDate) ? hashDate : state.dates[0], area);
 }
 init();
