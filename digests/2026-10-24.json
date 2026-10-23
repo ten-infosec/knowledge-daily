@@ -1,0 +1,2618 @@
+[
+ {
+  "source": "arxiv",
+  "id": "2610.30681",
+  "title": "High-fidelity and robust controlled-Z gates for superconducting transmon qubits. II. System-parameter uncertainties and overall errors",
+  "authors": [
+   "Chia-Hsien Huang",
+   "Hsi-Sheng Goan"
+  ],
+  "link": "https://arxiv.org/abs/2610.30681",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T03:48:21Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31443",
+  "title": "ConQEC: Concolic Testing for Quantum Error-Correcting Code Implementations",
+  "authors": [
+   "Zihao Li",
+   "Ji Guan",
+   "Mingsheng Ying"
+  ],
+  "link": "https://arxiv.org/abs/2610.31443",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T15:40:04Z",
+  "categories": [
+   "quant-ph",
+   "cs.SE"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31007",
+  "title": "Noise redistribution by stabilizer codes: an organizing view of concatenated three-qubit codes",
+  "authors": [
+   "Long Huang"
+  ],
+  "link": "https://arxiv.org/abs/2610.31007",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:45:44Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31533",
+  "title": "Triple Quantum Schubert Calculus",
+  "authors": [
+   "Matthew J. Samuel"
+  ],
+  "link": "https://arxiv.org/abs/2610.31533",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T16:42:30Z",
+  "categories": [
+   "math.CO",
+   "math.AG"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31515",
+  "title": "Problem-aware sampling for bias and variance reduction in randomised Hamiltonian simulation",
+  "authors": [
+   "Brian Coyle",
+   "Jonathan H. Fetherolf",
+   "Antonio Márquez Romero",
+   "Stefano Scali",
+   "Giuseppe Buonaiuto",
+   "Josh Kirsopp"
+  ],
+  "link": "https://arxiv.org/abs/2610.31515",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T16:29:15Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31352",
+  "title": "Automating quantum circuit optimization with AI agents",
+  "authors": [
+   "Marcos Crichigno",
+   "Steve Flammia"
+  ],
+  "link": "https://arxiv.org/abs/2610.31352",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T14:33:13Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31330",
+  "title": "Quantum Fokker-Planck solvers as trainable generative models",
+  "authors": [
+   "Tariq Mahassen",
+   "Marcin Jastrzebski",
+   "Oleksandr Kyriienko"
+  ],
+  "link": "https://arxiv.org/abs/2610.31330",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T14:20:28Z",
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30935",
+  "title": "Bridging Number-Theoretic Primality Testing And Algorithmic Optimization: An Adaptive Cryptographic Framework",
+  "authors": [
+   "Tran Minh Thanh",
+   "Vo Hoai Viet"
+  ],
+  "link": "https://arxiv.org/abs/2610.30935",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:55:45Z",
+  "categories": [
+   "cs.CR",
+   "cs.LG"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30925",
+  "title": "Beyond Binary Encoding: Qudit-Based QAOA Framework for ML Detection in $M$-QAM MIMO Systems",
+  "authors": [
+   "Chiran Siriwardena",
+   "Chanula Luckshan",
+   "Samiru Gayan",
+   "Hazer Inaltekin",
+   "Wonjae Shin"
+  ],
+  "link": "https://arxiv.org/abs/2610.30925",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:43:11Z",
+  "categories": [
+   "eess.SP"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30511",
+  "title": "On the Role of Problem Structure in Single-Layer QAOA",
+  "authors": [
+   "Guilherme Adamatti Bridi",
+   "Franklin de Lima Marquezino",
+   "Andris Ambainis"
+  ],
+  "link": "https://arxiv.org/abs/2610.30511",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T22:41:48Z",
+  "categories": [
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30381",
+  "title": "Quantum Phases and Structural Transitions of Bosons in Bubble-Shaped Confinements",
+  "authors": [
+   "Fabio Cinti",
+   "Gabriele Costa",
+   "Giuseppe Pellicane",
+   "Santi Prestipino",
+   "Matteo Ciardi"
+  ],
+  "link": "https://arxiv.org/abs/2610.30381",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T19:42:17Z",
+  "categories": [
+   "cond-mat.quant-gas"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30301",
+  "title": "Non-adiabatic Optimisation via Localisation-Delocalisation Transitions",
+  "authors": [
+   "Ryan Smith",
+   "Sabrina Yue Wang",
+   "Filippo Maria Gambetta",
+   "Raul A. Santos"
+  ],
+  "link": "https://arxiv.org/abs/2610.30301",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T18:16:44Z",
+  "categories": [
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech",
+   "quant-ph"
+  ],
+  "topic_id": "QNT-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30645",
+  "title": "FVQKD: A Formal Verification of Quantum Key Distribution Security in Rocq",
+  "authors": [
+   "Ruixuan Deng",
+   "Zhengfeng Ji",
+   "Jiayu Zhang",
+   "Li Zhou"
+  ],
+  "link": "https://arxiv.org/abs/2610.30645",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T03:06:21Z",
+  "categories": [
+   "quant-ph",
+   "cs.CR",
+   "cs.LO"
+  ],
+  "topic_id": "QNT-09",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30383",
+  "title": "Rank Ceiling for Twiddle-Perturbation Faults on the Forward NTT",
+  "authors": [
+   "Chakshu Gupta"
+  ],
+  "link": "https://arxiv.org/abs/2610.30383",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T19:44:32Z",
+  "categories": [
+   "cs.CR"
+  ],
+  "topic_id": "SEC-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31373",
+  "title": "Stochastic Geometry Analysis and Optimization for Multi-LEO Satellite-Assisted Communications",
+  "authors": [
+   "Xu Hu",
+   "Bin Lin",
+   "Ping Wang",
+   "Xiao Lu",
+   "Weihua Zhuang",
+   "Shuang Qi"
+  ],
+  "link": "https://arxiv.org/abs/2610.31373",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T14:44:16Z",
+  "categories": [
+   "eess.SP"
+  ],
+  "topic_id": "SPC-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31572",
+  "title": "On the Token Collapse Phenomenon in Textual Graph Soft Prompting",
+  "authors": [
+   "Andrea Giuseppe Di Francesco",
+   "Rishabh Jain",
+   "Franco Maria Nardini",
+   "Nicola Tonellotto",
+   "Pietro Liò",
+   "Fabrizio Silvestri"
+  ],
+  "link": "https://arxiv.org/abs/2610.31572",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T17:13:03Z",
+  "categories": [
+   "cs.LG"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31108",
+  "title": "DRAFT: Decoding and Reconstructing 3D Room Layouts from fMRI and Camera Trajectories",
+  "authors": [
+   "Chi-Wei Lee",
+   "An-Kai Chen",
+   "Cheng-Han Chiang",
+   "Yi-Chun Chang",
+   "Po-Chih Kuo"
+  ],
+  "link": "https://arxiv.org/abs/2610.31108",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T11:17:18Z",
+  "categories": [
+   "cs.CV",
+   "cs.LG"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30938",
+  "title": "The Geometry of Meaning in Neural Manifolds",
+  "authors": [
+   "Valentino Maiorca"
+  ],
+  "link": "https://arxiv.org/abs/2610.30938",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:56:55Z",
+  "categories": [
+   "cs.AI"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30847",
+  "title": "Bifurcations from Weight Space: JEPAWG on Parametric Dynamical Systems",
+  "authors": [
+   "Tobias Göbel",
+   "Miranda C. N. Cheng"
+  ],
+  "link": "https://arxiv.org/abs/2610.30847",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T07:22:44Z",
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "nlin.CD"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30422",
+  "title": "Memory-Augmented Online Test-Time Adaptation for EEG Motor Imagery via Perturbation Consistency and Confidence Calibration",
+  "authors": [
+   "Kunkun Zhang",
+   "Kehao Wu",
+   "Zhitao Chen",
+   "Haigen Hu",
+   "Qianwei Zhou"
+  ],
+  "link": "https://arxiv.org/abs/2610.30422",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T20:32:45Z",
+  "categories": [
+   "cs.LG",
+   "eess.SP"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30345",
+  "title": "On the Adversarial Vulnerability of Neural Receivers with Unrolled LDPC Decoders",
+  "authors": [
+   "Aakash Saini",
+   "Jafar Aco Mohammadi",
+   "Wolfgang Gerstacker"
+  ],
+  "link": "https://arxiv.org/abs/2610.30345",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T19:05:36Z",
+  "categories": [
+   "cs.IT",
+   "cs.CR",
+   "cs.LG",
+   "eess.SY"
+  ],
+  "topic_id": "BCI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31466",
+  "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
+  "authors": [
+   "Ruicong Liu",
+   "Liangyang Ouyang",
+   "Fengbo Lan",
+   "Zhixiang Wang",
+   "Kaipeng Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.31466",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T15:58:39Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31376",
+  "title": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action",
+  "authors": [
+   "Chao Gu",
+   "Quanyan Zhu"
+  ],
+  "link": "https://arxiv.org/abs/2610.31376",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T14:48:16Z",
+  "categories": [
+   "cs.AI",
+   "eess.SY"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31080",
+  "title": "nnInteractive Agent: General-Purpose AI Agents as 3D Image Annotators",
+  "authors": [
+   "Fabian Isensee",
+   "Constantin Ulrich Harsy",
+   "Maximilian Rokuss",
+   "Benjamin Hamm",
+   "Philipp Vollmuth",
+   "Klaus H. Maier-Hein"
+  ],
+  "link": "https://arxiv.org/abs/2610.31080",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T10:55:15Z",
+  "categories": [
+   "cs.LG"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30580",
+  "title": "DagFlow AI: Agentic Synthetic Data Generation for Personalized Statistics Learning",
+  "authors": [
+   "David Arthur",
+   "Ranjini Grove",
+   "Zaher Kmail",
+   "Curtis Atkisson"
+  ],
+  "link": "https://arxiv.org/abs/2610.30580",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T01:17:37Z",
+  "categories": [
+   "stat.OT"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30436",
+  "title": "Secure Agentic AI and Multimodal Intelligence in 6G Communication Systems",
+  "authors": [
+   "Satyam Gaba",
+   "Devanshu Motwani",
+   "Siva Sai",
+   "Vineet Suri",
+   "Vikas Ranjan",
+   "Vinay Chamola"
+  ],
+  "link": "https://arxiv.org/abs/2610.30436",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T20:47:14Z",
+  "categories": [
+   "cs.AI",
+   "eess.SP"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30307",
+  "title": "The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software",
+  "authors": [
+   "Ripon Chandra Malo",
+   "Zimeng Yu",
+   "Tong Qiu"
+  ],
+  "link": "https://arxiv.org/abs/2610.30307",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T18:20:11Z",
+  "categories": [
+   "cs.SE",
+   "cs.CY",
+   "econ.GN"
+  ],
+  "topic_id": "AI-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31606",
+  "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
+  "authors": [
+   "Miguel Mochizuki Silva",
+   "Samuel Ismael",
+   "Mateus C. Dias",
+   "Thaís Gaudêncio",
+   "Yuri Malheiros",
+   "Barufaldi"
+  ],
+  "link": "https://arxiv.org/abs/2610.31606",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T17:36:14Z",
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31467",
+  "title": "From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries",
+  "authors": [
+   "Bayram Ayadi",
+   "Florian Geissler",
+   "Johanna Schmidhuber"
+  ],
+  "link": "https://arxiv.org/abs/2610.31467",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T15:58:57Z",
+  "categories": [
+   "cs.CL"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31284",
+  "title": "Retrieval-Augmented Online Textual Memory for Episodic Memory Video Question Answering",
+  "authors": [
+   "Raffaele Cali",
+   "Giuseppe Lando",
+   "Rosario Forte",
+   "Antonino Furnari"
+  ],
+  "link": "https://arxiv.org/abs/2610.31284",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T13:49:30Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31256",
+  "title": "IndoNutriQA: An Indonesian Clinical Nutrition Question Answering Benchmark",
+  "authors": [
+   "Tirana Noor Fatyanosa",
+   "Ummu Ditya Erliana",
+   "Mahendra Data",
+   "Muhammad Nurwegiono",
+   "Eleazar Tadeo Eman",
+   "Alham Fikri Aji"
+  ],
+  "link": "https://arxiv.org/abs/2610.31256",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T13:34:29Z",
+  "categories": [
+   "cs.CL"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31019",
+  "title": "Chunk Recomputation under Real Document Revisions: Measuring Update Cost and Retrieval Quality of Fixed, Recursive, and Content-Defined Chunking",
+  "authors": [
+   "Yuning Bian",
+   "Lele Xu",
+   "Yifan Yuan",
+   "Xinyu Yin",
+   "Chengyan Zhan"
+  ],
+  "link": "https://arxiv.org/abs/2610.31019",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:54:17Z",
+  "categories": [
+   "cs.CL",
+   "cs.IR"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30895",
+  "title": "Your Home Remembers: A Voice-Enabled Household Memory Assistant for Conversational Retrieval",
+  "authors": [
+   "Aleix Sant",
+   "Jordi Luque",
+   "Fernando López",
+   "Pablo Gómez",
+   "Carlos Escolano"
+  ],
+  "link": "https://arxiv.org/abs/2610.30895",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:19:07Z",
+  "categories": [
+   "cs.HC"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30759",
+  "title": "RAIN: Agentic Proof Generation for Rocq-based Software Verification",
+  "authors": [
+   "Jinyi Zhou",
+   "Zenan Li",
+   "Yuan Yao",
+   "Jun Ma",
+   "Taolue Chen",
+   "Xiaoxing Ma"
+  ],
+  "link": "https://arxiv.org/abs/2610.30759",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T05:27:41Z",
+  "categories": [
+   "cs.LO"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30728",
+  "title": "Federated Graph Retrieval-Augmented Generation",
+  "authors": [
+   "Xiaobao Wang",
+   "Renda Han",
+   "Zhiliang Xia",
+   "Meng Liu",
+   "Renxiang Guan",
+   "Di Jin"
+  ],
+  "link": "https://arxiv.org/abs/2610.30728",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T04:56:03Z",
+  "categories": [
+   "cs.LG"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30710",
+  "title": "Automated Enrichment Analysis with GraphRAG: Efficient Multi-Database ORA Extraction and Biological Interpretation",
+  "authors": [
+   "Guangcan Li",
+   "Shuyuan Zheng",
+   "Jiayao Liu",
+   "Shigeto Seno",
+   "Makoto Onizuka"
+  ],
+  "link": "https://arxiv.org/abs/2610.30710",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T04:29:25Z",
+  "categories": [
+   "cs.IR",
+   "cs.DB"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30705",
+  "title": "ULME: Predictive Coupling for Mutually Reinforcing Embedding and Language Modeling",
+  "authors": [
+   "Yang Liu",
+   "Zhiqiang Yuan",
+   "Shu-Dong Huang",
+   "Jiancheng Lv",
+   "Liwei Yang",
+   "Qiwei Yan",
+   "Kailin Lv",
+   "Jinchao Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.30705",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T04:23:07Z",
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30282",
+  "title": "Astro2Method: Benchmarking LLMs on Machine Learning Method Selection in Astronomy",
+  "authors": [
+   "Xingzhong Fan",
+   "Hangfeng He",
+   "Fatemeh Nargesian"
+  ],
+  "link": "https://arxiv.org/abs/2610.30282",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T18:01:34Z",
+  "categories": [
+   "astro-ph.IM"
+  ],
+  "topic_id": "AI-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31648",
+  "title": "On the direct SLE-martingale approach to the integrability of Conformal Loop Ensembles",
+  "authors": [
+   "Jason Miller",
+   "Wendelin Werner"
+  ],
+  "link": "https://arxiv.org/abs/2610.31648",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T17:56:41Z",
+  "categories": [
+   "math.PR",
+   "math-ph"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31240",
+  "title": "AI Enhanced Cerenkov Luminescence Microscopy",
+  "authors": [
+   "Stefano Pizzardi",
+   "Lisa Alborghetti",
+   "Caterina Lomazzi",
+   "Antonello Enrico Spinelli"
+  ],
+  "link": "https://arxiv.org/abs/2610.31240",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T13:23:12Z",
+  "categories": [
+   "physics.med-ph"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31237",
+  "title": "Can We Trust Evaluations of AI Weather Forecasts for Extremes? How Evaluation Protocols Shape Model Rankings",
+  "authors": [
+   "Tobias Biegert",
+   "Sam Allen",
+   "Zhongwei Zhang",
+   "Sebastian Lerch"
+  ],
+  "link": "https://arxiv.org/abs/2610.31237",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T13:19:16Z",
+  "categories": [
+   "stat.AP",
+   "physics.ao-ph"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31210",
+  "title": "Telling Neural Network What We Know: Weight Configuration for RNN and Its Application to NextG Real-Time Neural Receiver",
+  "authors": [
+   "Ummay Sumaya Khan",
+   "Lizhong Zheng",
+   "Lingjia Liu"
+  ],
+  "link": "https://arxiv.org/abs/2610.31210",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T12:58:07Z",
+  "categories": [
+   "eess.SP"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31149",
+  "title": "Navigating human-robot interaction challenges in private and residential aged care homes",
+  "authors": [
+   "David Ahmedt-Aristizabal",
+   "Mohammad Ali Armin",
+   "Akila Pemasiri",
+   "Harshala Gammulle",
+   "Tharindu Fernando",
+   "David Silvera-Tawil",
+   "Simon Denman"
+  ],
+  "link": "https://arxiv.org/abs/2610.31149",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T12:07:31Z",
+  "categories": [
+   "cs.HC",
+   "cs.CV",
+   "cs.RO"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30940",
+  "title": "Vision Transformers for Estimating Irradiance Using Data Scarce Sky Images",
+  "authors": [
+   "David Hamlyn",
+   "Sunny Chaudhary",
+   "Tasmiat Rahman"
+  ],
+  "link": "https://arxiv.org/abs/2610.30940",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:57:55Z",
+  "categories": [
+   "eess.IV",
+   "cs.AI",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30851",
+  "title": "ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization",
+  "authors": [
+   "Zhaoran Feng",
+   "Yuchen Ni",
+   "Jianan Liu",
+   "Lemao Liu",
+   "Dejing Dou",
+   "Kairui Feng"
+  ],
+  "link": "https://arxiv.org/abs/2610.30851",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T07:28:46Z",
+  "categories": [
+   "cs.AI",
+   "cs.MA",
+   "physics.optics"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30752",
+  "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries",
+  "authors": [
+   "Cristian Espinal Maya",
+   "Santiago Jiménez Londoño"
+  ],
+  "link": "https://arxiv.org/abs/2610.30752",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T05:22:09Z",
+  "categories": [
+   "econ.GN",
+   "cs.AI",
+   "cs.CY"
+  ],
+  "topic_id": "AI-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30775",
+  "title": "GWDM: A Guided Wavelet Diffusion Model for Realistic Histopathology Image Generation",
+  "authors": [
+   "Abdullah",
+   "Tao Huang",
+   "Ickjai Lee",
+   "Lei Bi",
+   "Euijoon Ahn"
+  ],
+  "link": "https://arxiv.org/abs/2610.30775",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T05:53:05Z",
+  "categories": [
+   "eess.IV"
+  ],
+  "topic_id": "AI-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30460",
+  "title": "Equivariant Experience Replay for Continual Learning in Imaging Inverse Problems",
+  "authors": [
+   "Guixian Xu",
+   "Jin Zhu",
+   "Jinglai Li",
+   "Junqi Tang"
+  ],
+  "link": "https://arxiv.org/abs/2610.30460",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T21:15:37Z",
+  "categories": [
+   "eess.IV"
+  ],
+  "topic_id": "AI-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31205",
+  "title": "A Visual Grounding Benchmark for Retinal OCT with Multimodal Large Language Models",
+  "authors": [
+   "Ronald Fecso",
+   "José Morano",
+   "Botond Fazekas",
+   "Paul Widmann-Sedlnitzky",
+   "Dorota Himel",
+   "Laetita Hinterhuber",
+   "Virginia Mares",
+   "Andreas Pollreisz",
+   "Hrvoje Bogunović"
+  ],
+  "link": "https://arxiv.org/abs/2610.31205",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T12:54:19Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "AI-07",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31166",
+  "title": "Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation",
+  "authors": [
+   "Chenyuan Chen",
+   "Ran Ding",
+   "Lechen Zhang",
+   "Zewen He",
+   "Yoshihiko Nakamura"
+  ],
+  "link": "https://arxiv.org/abs/2610.31166",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T12:24:25Z",
+  "categories": [
+   "cs.RO",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30876",
+  "title": "LocoManiLab: A Unified Testbed for Data, Policies, Controllers, and Deployment in Humanoid Loco-Manipulation",
+  "authors": [
+   "Dewei Wang",
+   "Jinrui Han",
+   "Jiyuan Shi",
+   "Chenyun Zhang",
+   "Xianbo Lu",
+   "Jiabao Wu",
+   "Jiqin Feng",
+   "Jipeng Kong",
+   "Ping Luo",
+   "Chenjia Bai",
+   "Xuelong Li"
+  ],
+  "link": "https://arxiv.org/abs/2610.30876",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T07:56:54Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30817",
+  "title": "Robot Motion Transition with Human Motion Prior",
+  "authors": [
+   "Taehyun Byun",
+   "Taemoon Jeong",
+   "Yoonbyung Chai",
+   "Woojin Wie",
+   "Insu Park",
+   "Kyungjae Lee",
+   "Sungjoon Choi"
+  ],
+  "link": "https://arxiv.org/abs/2610.30817",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T06:45:34Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30607",
+  "title": "Continuous-Time Motion Planning and Steering with Global Convergence",
+  "authors": [
+   "Mohsen Amiri",
+   "Sima Didari",
+   "Davoud Ataee Tarzanagh",
+   "Hankyu Moon",
+   "Yeongdae Kwon"
+  ],
+  "link": "https://arxiv.org/abs/2610.30607",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T02:15:39Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30540",
+  "title": "Motion Retargeting with Spatiotemporal Preferences for Humanoid Loco-Manipulation",
+  "authors": [
+   "Xiongbo Shi",
+   "Shihang Du",
+   "Zongyou Yu",
+   "Ao Zhou",
+   "Xudong Zhang",
+   "Ziyu Lin",
+   "Haodong Zhang",
+   "Junqiao Zhao",
+   "Guang Chen"
+  ],
+  "link": "https://arxiv.org/abs/2610.30540",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T23:54:17Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30500",
+  "title": "PhysibleMDM: Enforcing Inference-Time Physical Feasibility Constraints on Motion Diffusion Models via Noise Optimization",
+  "authors": [
+   "Maximilian Stölzle",
+   "David Müller",
+   "Agon Serifi",
+   "Ruben Grandia",
+   "Espen Knoop",
+   "Moritz Bächer"
+  ],
+  "link": "https://arxiv.org/abs/2610.30500",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T22:31:27Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30334",
+  "title": "MPBRS: Multi-Potential-Based Reward Shaping for Unified Reward Configuration in Humanoid Locomotion",
+  "authors": [
+   "Van Chung Nguyen",
+   "Hung Manh La"
+  ],
+  "link": "https://arxiv.org/abs/2610.30334",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T18:52:28Z",
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "topic_id": "ROB-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31661",
+  "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
+  "authors": [
+   "Ariel Slepyan",
+   "Geeta Chandra Raju Bethala",
+   "Jiafeng Gu",
+   "Anagha Rajendra Dangle",
+   "Yinzhe Zhou",
+   "Hongyuan Fu",
+   "Jade Sim",
+   "Tuhin Basu",
+   "Xinyi Yin",
+   "Md Faizal Karim",
+   "Gregory Hager",
+   "Homanga Bharadhwaj",
+   "Anand Bhattad",
+   "Krishna Murthy Jatavallabhula",
+   "Nitish V. Thakor"
+  ],
+  "link": "https://arxiv.org/abs/2610.31661",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T17:59:06Z",
+  "categories": [
+   "cs.RO",
+   "eess.SP",
+   "eess.SY"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31569",
+  "title": "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models",
+  "authors": [
+   "Yufeng Liu",
+   "Bohao Fan",
+   "Juntu Zhao",
+   "Xinyi Wang",
+   "Hang Yu",
+   "Wenzhuan Luo",
+   "Yingzhi Wang",
+   "Qinghai Li",
+   "Yingdong Hu",
+   "Junliang Guo",
+   "Richard Wang",
+   "Dequan Wang",
+   "Yang Gao",
+   "Cheng Ma"
+  ],
+  "link": "https://arxiv.org/abs/2610.31569",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T17:12:16Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31299",
+  "title": "PiHand: Latent Hand-Object Interaction Priors for Physics-Based Policy Learning",
+  "authors": [
+   "Niklas Berndt",
+   "Xianghui Xie",
+   "Enes Duran",
+   "Yixiao Wang",
+   "Gerard Pons-Moll"
+  ],
+  "link": "https://arxiv.org/abs/2610.31299",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T13:59:19Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31020",
+  "title": "Demonstration-Based Robotic Feeding Using Dynamic Movement Primitives",
+  "authors": [
+   "Kenzhi Iskandar Wong",
+   "Kitti Thamrongaphichartkul",
+   "Sri Harsha Turlapati",
+   "Yanshuo Lu",
+   "Kanichi Doi",
+   "Boyu Ma",
+   "Bin Zhou",
+   "Lin Yang",
+   "Ananda Sidarta",
+   "Lek Syn Lim",
+   "Arun-Kumar Kaliya-Perumal",
+   "Jianfei Yang",
+   "Domenico Campolo"
+  ],
+  "link": "https://arxiv.org/abs/2610.31020",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:54:38Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31010",
+  "title": "Revisiting Distribution Matching for State-to-Vision Policy Distillation in Laparoscopic Robotic Manipulation",
+  "authors": [
+   "Mingyu Sheng",
+   "Jianan Fan",
+   "Dongnan Liu",
+   "Guoyan Zheng",
+   "Ron Kikinis",
+   "Weidong Cai"
+  ],
+  "link": "https://arxiv.org/abs/2610.31010",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:46:52Z",
+  "categories": [
+   "cs.RO",
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30991",
+  "title": "UniFlowWAM: A Unified World-Action Model with Visual Semantics and 4D Geometry",
+  "authors": [
+   "Jialin Tian",
+   "Zhuofan Li",
+   "Xinkai Wang",
+   "Bokai Lin",
+   "Chenyi Wang",
+   "Xinyu Zhan",
+   "Cewu Lu",
+   "Lixin Yang"
+  ],
+  "link": "https://arxiv.org/abs/2610.30991",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:35:56Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30988",
+  "title": "In-Context Learning World Models for Robot Dual-Arm Manipulation of Soft Garment with Partial Observations",
+  "authors": [
+   "Hengyi Sim",
+   "Quentin Rouxel",
+   "Dennis Hong",
+   "Darwin Caldwell",
+   "Fei Chen"
+  ],
+  "link": "https://arxiv.org/abs/2610.30988",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:34:18Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30810",
+  "title": "Adaptive Aerial Loco-Manipulation Policy Learning via LLM-Assisted Proactive Task Generation",
+  "authors": [
+   "Jingyu Ru",
+   "Xiangyuan Xie",
+   "Lixuan Jin",
+   "Jian An",
+   "Xingming Zhang",
+   "Binghao Li",
+   "Siyu Wang",
+   "Xiang Zhou",
+   "Lei Yuan",
+   "Hongli Xu",
+   "Yang Yu"
+  ],
+  "link": "https://arxiv.org/abs/2610.30810",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T06:36:39Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30781",
+  "title": "DeXplicit: Making Physical State Explicit in Dexterous Manipulation World Models",
+  "authors": [
+   "Adam Lee",
+   "Mutian Xu",
+   "Yukang Cao",
+   "Shulin Tian",
+   "Ziwei Liu"
+  ],
+  "link": "https://arxiv.org/abs/2610.30781",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T06:02:09Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30438",
+  "title": "Tactile-Based Robotic Manipulation: From Mechanics-Driven to Data-Driven Perspectives",
+  "authors": [
+   "Jingyi Xiang",
+   "Yixuan Wang",
+   "Wenzhen Yuan"
+  ],
+  "link": "https://arxiv.org/abs/2610.30438",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T20:49:25Z",
+  "categories": [
+   "cs.RO"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30320",
+  "title": "Self-Distilling Future Video Representations for World Action Models",
+  "authors": [
+   "Huiwon Jang",
+   "Suhyeok Jang",
+   "Hyeonmo Kang",
+   "Seungku Kim",
+   "Jinwoo Shin",
+   "Sihyun Yu"
+  ],
+  "link": "https://arxiv.org/abs/2610.30320",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T18:33:13Z",
+  "categories": [
+   "cs.RO",
+   "cs.CV"
+  ],
+  "topic_id": "ROB-03",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30638",
+  "title": "Experimental evidence of forward energy transfer induced by core-edge coupling in multiscale tokamak turbulence",
+  "authors": [
+   "F. Chen",
+   "Z. M. Shen",
+   "N. Sun",
+   "P. Li",
+   "Z. Y. Qiu",
+   "P. Liu",
+   "Z. Lin",
+   "H. T. Chen",
+   "J. S. Geng",
+   "Y. X. Li",
+   "P. J. Sun",
+   "E. Z. Li",
+   "X. M. Zhong",
+   "A. D. Liu",
+   "L. Zhang",
+   "J. Huang",
+   "Y. M. Duan",
+   "T. F. Zhou",
+   "H. L. Zhao",
+   "Q. Zang",
+   "Y. Q. Chu",
+   "S. X. Wang",
+   "H. Q. Liu",
+   "T. Zhang",
+   "Y. F. Jin",
+   "B. Lyu",
+   "C. B. Wu",
+   "Y. C. Hu",
+   "L. Ye",
+   "X. J. Wang",
+   "X. Z. Gong",
+   "Y. D. Li",
+   "J. G. Li"
+  ],
+  "link": "https://arxiv.org/abs/2610.30638",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T02:58:21Z",
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "topic_id": "NUC-01",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31182",
+  "title": "The XMM-Newton view of the DEM L36 superbubble in the Large Magellanic Cloud",
+  "authors": [
+   "Pawel M. Janas",
+   "Patrick J. Kavanagh",
+   "Manami Sasaki",
+   "Miroslav D. Filipović",
+   "Chandreyee Maitra",
+   "Frank Haberl",
+   "Pierre Maggi",
+   "Sean Points",
+   "Zachary J. Smeaton"
+  ],
+  "link": "https://arxiv.org/abs/2610.31182",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T12:33:09Z",
+  "categories": [
+   "astro-ph.HE",
+   "astro-ph.GA"
+  ],
+  "topic_id": "NUC-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30343",
+  "title": "A novel mechanism for spontaneous ExB shear layer formation in scrape-off-layer plasmas",
+  "authors": [
+   "Brendan Shanahan",
+   "Eduardo Rodriguez"
+  ],
+  "link": "https://arxiv.org/abs/2610.30343",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T19:02:04Z",
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "topic_id": "NUC-02",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31561",
+  "title": "Granulation-driven spectral irradiance variability of Sun-like stars",
+  "authors": [
+   "N. -E. Nèmec",
+   "G. Kopp",
+   "V. Witzke",
+   "N. M. Kostogryz"
+  ],
+  "link": "https://arxiv.org/abs/2610.31561",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T17:04:50Z",
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31484",
+  "title": "Prompt Jet Launching and Delayed Thermal Disk in Tidal Disruption Event for Prolonged Activity GRB 220706A",
+  "authors": [
+   "Yuri Sato",
+   "Rin Oikawa"
+  ],
+  "link": "https://arxiv.org/abs/2610.31484",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T16:08:06Z",
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31482",
+  "title": "Slow Massive-Star Formation and the O-Star ZAMS Deficit",
+  "authors": [
+   "Paolo Padoan",
+   "Samuel Shipkoff",
+   "Mark Gieles",
+   "Fabrice Martins"
+  ],
+  "link": "https://arxiv.org/abs/2610.31482",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T16:06:50Z",
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.GA"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31348",
+  "title": "Stability, Tidal Deformability, and Statistical Constraints of Anisotropic Compact Stars with a Generalized Polytropic Equation of State : Modelling Observation with Buchdahl Space-Time",
+  "authors": [
+   "Ritabrata Biswas",
+   "Arpan Bhattacharya",
+   "Subhajit Pal"
+  ],
+  "link": "https://arxiv.org/abs/2610.31348",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T14:30:25Z",
+  "categories": [
+   "gr-qc"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31287",
+  "title": "Science-driven design and performance evaluation of a Silicon Laue Component lens for hard X-ray polarimetry",
+  "authors": [
+   "L. Abalo",
+   "N. M. Barrière",
+   "M. W. Beijersbergen"
+  ],
+  "link": "https://arxiv.org/abs/2610.31287",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T13:52:05Z",
+  "categories": [
+   "astro-ph.IM"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31227",
+  "title": "In Search of the Gravitational Wave of Fast X-Ray Transient in the Second Part of the LIGO-Virgo-KAGRA Fourth Observing Run",
+  "authors": [
+   "Po-Ya Wang",
+   "Albert K. H. Kong",
+   "Surojit Saha"
+  ],
+  "link": "https://arxiv.org/abs/2610.31227",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T13:13:19Z",
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31200",
+  "title": "Eight new, triply eclipsing triple star systems",
+  "authors": [
+   "T. Borkovits",
+   "S. A. Rappaport",
+   "G. Torres",
+   "A. Tokovinin",
+   "T. Mitnyan",
+   "R. Gagliano",
+   "T. Jacobs",
+   "B. Powell",
+   "V. Kostov",
+   "M. Omohundro",
+   "M. H. Kristiansen",
+   "I. Terentev",
+   "H. M. Schwengeler",
+   "D. LaCourse",
+   "Z. Garai",
+   "T. Pribulla",
+   "I. B. Bíró",
+   "I. Csányi",
+   "Z. Dencs",
+   "D. W. Latham",
+   "R. Uhlař",
+   "A. Pál"
+  ],
+  "link": "https://arxiv.org/abs/2610.31200",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T12:46:54Z",
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31078",
+  "title": "Self-Supervised Representation Learning for JWST Galaxy Images and Low Resolution Spectra",
+  "authors": [
+   "Yang Cheng",
+   "Morgan Fouesneau",
+   "Ivelina G. Momcheva",
+   "Tobias Buck",
+   "Shengxiu Sun"
+  ],
+  "link": "https://arxiv.org/abs/2610.31078",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T10:52:45Z",
+  "categories": [
+   "astro-ph.GA"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31032",
+  "title": "Parameter Constraints on $f(R^{1+ε},T_{μν}T^{μν})$ Gravity from Exotic Compact Objects",
+  "authors": [
+   "S. Wilhelmina",
+   "B. N. Jayawiguna",
+   "A. Sulaksono"
+  ],
+  "link": "https://arxiv.org/abs/2610.31032",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T10:10:40Z",
+  "categories": [
+   "gr-qc",
+   "astro-ph.HE"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31006",
+  "title": "Searching for substellar companion candidates with Gaia. V. M dwarfs within 15 pc studied with absolute astrometry, radial velocities, and direct imaging",
+  "authors": [
+   "F. Destriez",
+   "A. -M. Lagrange",
+   "G. Hébrard",
+   "F. Kiefer",
+   "P. Rubini",
+   "E. Lefevre-Forjan",
+   "F. Arenou",
+   "N. T. Lam",
+   "E. Bogat",
+   "J. Girard",
+   "R. Jensen-Clem",
+   "M. Salama",
+   "N. Skaf"
+  ],
+  "link": "https://arxiv.org/abs/2610.31006",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:45:06Z",
+  "categories": [
+   "astro-ph.EP",
+   "astro-ph.IM",
+   "astro-ph.SR"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30973",
+  "title": "Weak Radio and Bright Early Optical Emission in EP260321a: A Comparative Study with XRO 080109 Reveals the Role of Circumstellar Material Mass",
+  "authors": [
+   "Cui-Yuan Dai",
+   "Xiang-Yu Wang",
+   "Jian-He Zheng"
+  ],
+  "link": "https://arxiv.org/abs/2610.30973",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T09:17:59Z",
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30811",
+  "title": "The ALMA-QUARKS survey: A Keplerian Circumbinary Disk Candidate in the High-mass Star-forming Region IRAS 08303-4303",
+  "authors": [
+   "Gyuho Lee",
+   "Kee-Tae Kim",
+   "Tie Liu",
+   "Xunchuan Liu",
+   "Sheng-Yuan Liu",
+   "Lei Zhu",
+   "Guido Garay",
+   "Jihyun Kang",
+   "Hyeong-Sik Yun",
+   "Hong-Li Liu",
+   "Sami Dib",
+   "James O. Chibueze",
+   "Jianjun Zhou",
+   "Siju Zhang",
+   "Di Li",
+   "Pablo Garcia",
+   "Swagat R. Das",
+   "Lokesh Dewangan",
+   "Prasanta Gorai",
+   "Suinan Zhang",
+   "Aiyuan Yang",
+   "Manuel Merello",
+   "Leonardo Bronfman",
+   "Mika Juvela",
+   "Xindi Tang",
+   "Wenyu Jiao",
+   "Fengwei Xu",
+   "Zhiyuan Ren",
+   "Tapas Baug",
+   "Jihye Hwang",
+   "Patricio Sanhueza",
+   "Yankun Zhang",
+   "Xu Zhang",
+   "Chang Won Lee",
+   "Dongting Yang",
+   "Xiaofeng Mai"
+  ],
+  "link": "https://arxiv.org/abs/2610.30811",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T06:37:50Z",
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.GA"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30805",
+  "title": "Distinct stellar-parameter dependencies of granulation and mesogranulation in red giants",
+  "authors": [
+   "Anohita Mallick",
+   "Jharnesh Verma",
+   "Shatanik Bhattacharya",
+   "Shravan M Hanasoge"
+  ],
+  "link": "https://arxiv.org/abs/2610.30805",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T06:31:42Z",
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30770",
+  "title": "Axial Perturbations of Extended Tolman III in the New $f(R,T)$ Theory",
+  "authors": [
+   "B. N. Jayawiguna",
+   "G. A. Sabian",
+   "H. S. Ramadhan",
+   "A. Sulaksono"
+  ],
+  "link": "https://arxiv.org/abs/2610.30770",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T05:43:23Z",
+  "categories": [
+   "gr-qc",
+   "astro-ph.HE"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30673",
+  "title": "A 13 Year Black Hole Microlensing Survey in Omega Centauri",
+  "authors": [
+   "Zack Freeman",
+   "Maximilian Häberle",
+   "Anil Seth",
+   "John Zaris",
+   "Matthew Whitaker",
+   "Carl L. Rodriguez",
+   "Elena González Prieto",
+   "Andrea Bellini",
+   "Callie Clontz",
+   "Sebastian Kamann",
+   "Mattia Libralato",
+   "Nadine Neumayer",
+   "Jay Strader",
+   "Doğa Veske"
+  ],
+  "link": "https://arxiv.org/abs/2610.30673",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T03:38:03Z",
+  "categories": [
+   "astro-ph.GA",
+   "astro-ph.SR"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30669",
+  "title": "From Venus to the Parking Lot: A Flexible Stellar Interferometry Experiment",
+  "authors": [
+   "Eric J. Friedman",
+   "Michelle Goman"
+  ],
+  "link": "https://arxiv.org/abs/2610.30669",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T03:32:19Z",
+  "categories": [
+   "physics.ed-ph",
+   "astro-ph.IM"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30604",
+  "title": "Multiwavelength Classification of Chandra Sources in Omega Centauri",
+  "authors": [
+   "Steven Chen",
+   "Oleg Kargaltsev",
+   "Jeremy Hare",
+   "Hui Yang",
+   "Oleg Smirnov",
+   "Ian Heywood",
+   "Talon Myburgh"
+  ],
+  "link": "https://arxiv.org/abs/2610.30604",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T02:08:02Z",
+  "categories": [
+   "astro-ph.HE",
+   "astro-ph.GA"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30594",
+  "title": "Detection of Solar-like Oscillations and Granulation at Infrared Wavelengths using JWST",
+  "authors": [
+   "Angharad Weeks",
+   "Daniel Huber",
+   "Timothy R. Bedding",
+   "Jared Splinter",
+   "Hans Kjeldsen",
+   "Yaguang Li",
+   "Courtney Crawford",
+   "Daniel Hey",
+   "David Lafreniere",
+   "Louis-Phillipe Coulombe",
+   "Nicolas Cowan"
+  ],
+  "link": "https://arxiv.org/abs/2610.30594",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T01:54:33Z",
+  "categories": [
+   "astro-ph.SR",
+   "astro-ph.EP"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30590",
+  "title": "Multi-orbit S-star probes of Lorentz violation at the Galactic Center",
+  "authors": [
+   "Jia-Yuan Fang",
+   "Jian-Ming Yan",
+   "Zong-Kuan Guo"
+  ],
+  "link": "https://arxiv.org/abs/2610.30590",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T01:47:09Z",
+  "categories": [
+   "gr-qc",
+   "astro-ph.GA"
+  ],
+  "topic_id": "NUC-04",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31507",
+  "title": "Macroscopic Nuclear Resonance Energy Transfer Mediated by Coherent Magnons",
+  "authors": [
+   "Ryan Weed"
+  ],
+  "link": "https://arxiv.org/abs/2610.31507",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T16:23:29Z",
+  "categories": [
+   "nucl-ex",
+   "cond-mat.mes-hall",
+   "nucl-th",
+   "physics.atom-ph"
+  ],
+  "topic_id": "NUC-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30862",
+  "title": "Inverse KLT kernel of AdS string-amplitude building blocks from the intersection matrix",
+  "authors": [
+   "Yi-xiao Tao",
+   "Shijie Zhang"
+  ],
+  "link": "https://arxiv.org/abs/2610.30862",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T07:42:16Z",
+  "categories": [
+   "hep-th",
+   "math-ph"
+  ],
+  "topic_id": "NUC-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30242",
+  "title": "Defect flows from functional relations in the asymptotic semiring",
+  "authors": [
+   "Federico Ambrosino",
+   "Anatoly Konechny",
+   "Ingo Runkel",
+   "Gérard M. T. Watts"
+  ],
+  "link": "https://arxiv.org/abs/2610.30242",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T18:00:01Z",
+  "categories": [
+   "hep-th",
+   "cond-mat.str-el",
+   "math-ph"
+  ],
+  "topic_id": "NUC-05",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31340",
+  "title": "Direct Production of Ultra-High Radioisotopic Pure $^{64}$Cu from Natural Zinc Metal via D-D Fusion Narrowband Fast Neutron Source Irradiation",
+  "authors": [
+   "Jeremy M. C. Brown",
+   "Mantas Grigalavicius",
+   "Tibor Gilinger",
+   "Adam Kovacs",
+   "Parvin Varmazyar",
+   "Hsin-Hui Huang",
+   "Saulius Juodkazis",
+   "Mikas Vengris",
+   "Darius Gailevicius",
+   "Karoly Osvay"
+  ],
+  "link": "https://arxiv.org/abs/2610.31340",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T14:24:29Z",
+  "categories": [
+   "physics.med-ph"
+  ],
+  "topic_id": "NUC-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30356",
+  "title": "Peridynamic Thermo-Mechanical Modeling of Cracking in Tungsten under Fusion-Relevant Heat Fluxes",
+  "authors": [
+   "Rinkle Juneja",
+   "Pablo Seleson",
+   "Samuel Temple Reeve",
+   "Justin Weinmeister",
+   "Gary Staebler"
+  ],
+  "link": "https://arxiv.org/abs/2610.30356",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T19:15:39Z",
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "topic_id": "NUC-06",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30885",
+  "title": "From Perpetrators' Digital Footprints to Behavioral Communities: An Ontology-Driven Framework for Bengali Cyberbullying Analysis--- FULL VERSION",
+  "authors": [
+   "Md. Nesarul Hoque",
+   "Md Hanif Seddiqui",
+   "Miskatul Anwara",
+   "Rudra Pratap Deb Nath"
+  ],
+  "link": "https://arxiv.org/abs/2610.30885",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:04:48Z",
+  "categories": [
+   "cs.CL"
+  ],
+  "topic_id": "NUC-07",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.31582",
+  "title": "Some minimal characteristics and flat trajectories of a system in the N-body problem",
+  "authors": [
+   "Igor Pavlov"
+  ],
+  "link": "https://arxiv.org/abs/2610.31582",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T17:16:58Z",
+  "categories": [
+   "math-ph",
+   "astro-ph.GA"
+  ],
+  "topic_id": "NUC-08",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30934",
+  "title": "Verbalizing Activation Differences with Natural Language Autoencoders",
+  "authors": [
+   "Andrea Blasi Núñez",
+   "Gianluca Barmina",
+   "Federico Torrielli",
+   "Thiusius Rajeeth Savarimuthu",
+   "Peter Schneider-Kamp",
+   "Lukas Galke Poech"
+  ],
+  "link": "https://arxiv.org/abs/2610.30934",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:54:58Z",
+  "categories": [
+   "cs.CL"
+  ],
+  "topic_id": "NUC-08",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30930",
+  "title": "Chiroptical Valleytronic in SnSe",
+  "authors": [
+   "Yiming Pan",
+   "Sotirios Fragkos",
+   "Umberto Dellasette",
+   "Quentin Courtade",
+   "Dominique Descamps",
+   "Stéphane Petit",
+   "Fabio Caruso",
+   "Samuel Beaulieu"
+  ],
+  "link": "https://arxiv.org/abs/2610.30930",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:52:01Z",
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "topic_id": "NUC-08",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30928",
+  "title": "ICGF-CXRMate: Image-Conditioned Clinical Context Compression and Gated Fusion for Chest X-ray Report Generation",
+  "authors": [
+   "Vu Minh Tran",
+   "Thuc Huynh",
+   "Son Thanh Luu",
+   "Doanh C. Bui"
+  ],
+  "link": "https://arxiv.org/abs/2610.30928",
+  "published": "2026-10-22",
+  "published_at": "2026-10-22T08:45:51Z",
+  "categories": [
+   "cs.CV"
+  ],
+  "topic_id": "NUC-08",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30375",
+  "title": "Delta-Doped GeV$^-$ in diamond with isotope resolvable optical spectra",
+  "authors": [
+   "Ian N. Hammock",
+   "Kinfung Ngan",
+   "Antoni W. Wellisz",
+   "Keira Linder",
+   "Midrel Wilfried Ngandeu Ngambou",
+   "Jiefei Zhang",
+   "Xinghan Guo",
+   "Benjamin Pingault",
+   "Shuo Sun",
+   "David D. Awschalom",
+   "F. Joseph Heremans",
+   "Alexander A. High",
+   "Nazar Delegan"
+  ],
+  "link": "https://arxiv.org/abs/2610.30375",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T19:36:36Z",
+  "categories": [
+   "quant-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "topic_id": "NUC-08",
+  "section": "main"
+ },
+ {
+  "source": "arxiv",
+  "id": "2610.30325",
+  "title": "Spin correlations in the $τ$-lepton pair in polarized electron-positron annihilation",
+  "authors": [
+   "A. Yu. Korchin",
+   "Z. Was"
+  ],
+  "link": "https://arxiv.org/abs/2610.30325",
+  "published": "2026-10-21",
+  "published_at": "2026-10-21T18:41:00Z",
+  "categories": [
+   "hep-ph"
+  ],
+  "topic_id": "NUC-08",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.nasa.gov/image-article/spirals-edge/",
+  "topic_id": "SPC-02",
+  "title": "Spiral’s Edge",
+  "authors": [],
+  "link": "https://www.nasa.gov/image-article/spirals-edge/",
+  "published": "2026-10-22",
+  "venue": "NASA News Releases",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+  "topic_id": "NUC-09",
+  "title": "What is Nuclear Fuel?",
+  "authors": [],
+  "link": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+  "published": "2026-10-23",
+  "venue": "IAEA Top News",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+  "topic_id": "ROB-01",
+  "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+  "authors": [],
+  "link": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+  "published": "2026-10-23",
+  "venue": "IEEE Spectrum Robotics",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+  "topic_id": "BIO-07",
+  "title": "From Chip Lab to Center Stage",
+  "authors": [],
+  "link": "https://spectrum.ieee.org/preethi-ashwath-chip-designer",
+  "published": "2026-10-23",
+  "venue": "IEEE Spectrum",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://thequantuminsider.com/2026/10/23/quantum-computing-compounding-breakthroughs/",
+  "topic_id": "QNT-05",
+  "title": "Guest Post: Quantum Computing’s Next Phase May Be Driven by Compounding Breakthroughs",
+  "authors": [],
+  "link": "https://thequantuminsider.com/2026/10/23/quantum-computing-compounding-breakthroughs/",
+  "published": "2026-10-23",
+  "venue": "The Quantum Insider",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
+  "topic_id": "QNT-01",
+  "title": "IQM and Telefónica Plan Quantum Computer for Madrid University",
+  "authors": [],
+  "link": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
+  "published": "2026-10-23",
+  "venue": "The Quantum Insider",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261023000353",
+  "topic_id": "PHM-10",
+  "title": "한미약품 “차세대 비만 삼중작용제는 '잔트루타이드'”…WHO 등재",
+  "authors": [],
+  "link": "https://www.etnews.com/20261023000353",
+  "published": "2026-10-23",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261023000311",
+  "topic_id": "MAT-05",
+  "title": "[기후테크이니셔티브] “공동개발보다 공동검증”…AI로 韓中 '탄소데이터' 연결한다",
+  "authors": [],
+  "link": "https://www.etnews.com/20261023000311",
+  "published": "2026-10-23",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261023000310",
+  "topic_id": "BAT-09",
+  "title": "[기후테크이니셔티브] 배터리는 경쟁·검증은 협력…韓中 기후테크 '3대 협력모델' 찾는다",
+  "authors": [],
+  "link": "https://www.etnews.com/20261023000310",
+  "published": "2026-10-23",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261023000303",
+  "topic_id": "QNT-07",
+  "title": "“1조 들더라도 5000명 자르겠다”는 글로벌 투자은행…“AI가 있으니까”",
+  "authors": [],
+  "link": "https://www.etnews.com/20261023000303",
+  "published": "2026-10-23",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261023000173",
+  "topic_id": "ROB-01",
+  "title": "차 문 찌그러뜨리고 자동차 드는 '괴력 로봇'",
+  "authors": [],
+  "link": "https://www.etnews.com/20261023000173",
+  "published": "2026-10-23",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261022000477",
+  "topic_id": "PHM-11",
+  "title": "무인 로보택시 상용화 속도…내년 실증차 3000대 투입",
+  "authors": [],
+  "link": "https://www.etnews.com/20261022000477",
+  "published": "2026-10-23",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+  "topic_id": "BIO-03",
+  "title": "STAT+: Highly anticipated Moderna-Merck melanoma cancer vaccine data arrived early",
+  "authors": [],
+  "link": "https://www.statnews.com/2026/10/23/moderna-merck-melanoma-cancer-vaccine-data-arrived-early-esmo/?utm_campaign=rss",
+  "published": "2026-10-23",
+  "venue": "STAT News",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
+  "topic_id": "BIO-03",
+  "title": "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
+  "authors": [],
+  "link": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
+  "published": "2026-10-23",
+  "venue": "STAT News",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64200",
+  "topic_id": "ENE-06",
+  "title": "[기자수첩] 일감 줘도 싫다는 배터리 협력사",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64200",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64208",
+  "topic_id": "SEM-06",
+  "title": "한솔아이원스, 오창 신공장에 1260억원 투자…2028년 준공",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64208",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64203",
+  "topic_id": "SEM-06",
+  "title": "피에스케이, 국민성장펀드 받아 용인에 신규 공장 세운다",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64203",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64201",
+  "topic_id": "SEM-06",
+  "title": "기가비스, 국내 반도체 기판 업체에 469억원 규모 검사장비 납품",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64201",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64196",
+  "topic_id": "SEM-06",
+  "title": "ASM, 국내 반도체 인재에 장학금 수여",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64196",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64190",
+  "topic_id": "QNT-07",
+  "title": "트렌드마이크로, 일본에서만 844억 쏜다",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64190",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64188",
+  "topic_id": "BAT-04",
+  "title": "한화파워, 배터리 추진 컨테이너선 설계 개념승인 획득",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64188",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64179",
+  "topic_id": "ENE-06",
+  "title": "에스엠국일, 대진기계 인수 우선협상대상자 선정",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64179",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64177",
+  "topic_id": "MAT-05",
+  "title": "슈나이더 일렉트릭, AI 데이터센터용 2.5MW 전력 모듈 출시",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64177",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64176",
+  "topic_id": "SEM-06",
+  "title": "피엔티, 중국 디스플레이·필름 전시회서 롤투롤 장비 공개",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64176",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64167",
+  "topic_id": "SEM-06",
+  "title": "인텔, 애리조나 팹62 장비 반입...2028년말 가동",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64167",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64173",
+  "topic_id": "SEM-06",
+  "title": "씨아이에스케미칼, 산업통상부 장관 표창 수상",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64173",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64170",
+  "topic_id": "CSX-04",
+  "title": "\"장애에도 로그 데이타 수집\"...이글루, 클라우드 장애 대응 특허 취득",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64170",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.thelec.kr/news/articleView.html?idxno=64157",
+  "topic_id": "SEM-02",
+  "title": "티엘비, AI 서버용 차세대 SOCAMM3 기판 개발 착수",
+  "authors": [],
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=64157",
+  "published": "2026-10-23",
+  "venue": "디일렉(THE ELEC)",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times",
+  "topic_id": "SEM-03",
+  "title": "China can make advanced chips without EUV, but the bill keeps growing",
+  "authors": [],
+  "link": "https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times",
+  "published": "2026-10-23",
+  "venue": "Tom's Hardware",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/",
+  "topic_id": "MOB-04",
+  "title": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
+  "authors": [],
+  "link": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/",
+  "published": "2026-10-23",
+  "venue": "Electrek",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
+  "topic_id": "PHM-09",
+  "title": "ESMO: New analysis reinforces survival benefits of targeted therapy for advanced pancreatic cancer",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-esmo-analysis-survival-benefits-therapy.html",
+  "published": "2026-10-23",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-procedure-standardprocedure-guideline-ventilationperfusion-pulmonary.html",
+  "topic_id": "MED-27",
+  "title": "Procedure standard/procedure guideline for ventilation–perfusion pulmonary scintigraphy published",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-procedure-standardprocedure-guideline-ventilationperfusion-pulmonary.html",
+  "published": "2026-10-23",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-real-world-results-benefit-antigen.html",
+  "topic_id": "PHM-09",
+  "title": "Real-world results confirm benefit of antigen therapy for prostate cancer",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-real-world-results-benefit-antigen.html",
+  "published": "2026-10-23",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-hip-fracture-older-adults-orthopedic.html",
+  "topic_id": "MED-11",
+  "title": "Hip fracture in older adults is far more than an orthopedic injury",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-hip-fracture-older-adults-orthopedic.html",
+  "published": "2026-10-23",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-patients-experienced-rapid-weight-gain.html",
+  "topic_id": "MED-08",
+  "title": "Study finds patients experienced rapid weight gain after starting antipsychotic medication",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-patients-experienced-rapid-weight-gain.html",
+  "published": "2026-10-23",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-tackling-diabetes-electronic-implant-tiny.html",
+  "topic_id": "MED-01",
+  "title": "Tackling diabetes with an electronic implant: How a tiny catalyst lowers blood sugar",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-tackling-diabetes-electronic-implant-tiny.html",
+  "published": "2026-10-23",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.nature.com/articles/d41591-026-00054-y",
+  "topic_id": "MED-03",
+  "title": "<b>Putting conversational AI to the test in primary care</b>",
+  "authors": [],
+  "link": "https://www.nature.com/articles/d41591-026-00054-y",
+  "published": "2026-10-23",
+  "venue": "Nature Medicine",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.nature.com/articles/s41591-026-04734-7",
+  "topic_id": "PHM-09",
+  "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic cancer: the randomized phase 2 AMPLIFY-7P trial",
+  "authors": [],
+  "link": "https://www.nature.com/articles/s41591-026-04734-7",
+  "published": "2026-10-23",
+  "venue": "Nature Medicine",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.nature.com/articles/s41591-026-04711-0",
+  "topic_id": "MED-09",
+  "title": "Bispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial",
+  "authors": [],
+  "link": "https://www.nature.com/articles/s41591-026-04711-0",
+  "published": "2026-10-23",
+  "venue": "Nature Medicine",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+  "topic_id": "PHY-02",
+  "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+  "authors": [],
+  "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+  "published": "2026-10-23",
+  "venue": "ScienceDaily Physics",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+  "topic_id": "ECO-02",
+  "title": "Island inflation rate rises to 3%, figures show",
+  "authors": [],
+  "link": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-23",
+  "venue": "BBC Business",
+  "section": "main"
+ }
+]
