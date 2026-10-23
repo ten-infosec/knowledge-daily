@@ -41,8 +41,8 @@ jobs:
   digest:
     # 실행할 가상 컴퓨터 종류 (최신 우분투)
     runs-on: ubuntu-latest
-    # 20분 안에 안 끝나면 강제로 멈춤 (보통 5분 안팎)
-    timeout-minutes: 20
+    # 45분 안에 안 끝나면 강제로 멈춤 (arXiv가 429로 거절하면 60초씩 기다리므로 넉넉하게)
+    timeout-minutes: 45
 
     steps:
       # ===== Setup =====
