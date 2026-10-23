@@ -1576,7 +1576,20 @@
   ],
   "source": "arXiv quant-ph · 기술 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "superconducting qubit",
+   "superconducting qubits",
+   "transmon",
+   "quantum processor",
+   "quantum computer",
+   "quantum computers",
+   "quantum computing",
+   "초전도 큐비트",
+   "양자컴퓨터",
+   "양자 컴퓨터",
+   "큐비트"
+  ]
  },
  {
   "id": "QNT-02",
@@ -1628,7 +1641,17 @@
   ],
   "source": "arXiv quant-ph · 기술 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "quantum error correction",
+   "error-corrected",
+   "logical qubit",
+   "logical qubits",
+   "fault-tolerant",
+   "양자 오류",
+   "오류정정",
+   "오류 정정"
+  ]
  },
  {
   "id": "QNT-06",
@@ -1641,7 +1664,16 @@
   ],
   "source": "arXiv quant-ph · 기술 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "quantum algorithm",
+   "quantum algorithms",
+   "Shor",
+   "Grover",
+   "VQE",
+   "양자 알고리즘",
+   "양자알고리즘"
+  ]
  },
  {
   "id": "QNT-07",
@@ -1654,7 +1686,13 @@
   ],
   "source": "arXiv quant-ph · 기술 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "Qiskit",
+   "quantum software",
+   "quantum SDK",
+   "양자 소프트웨어"
+  ]
  },
  {
   "id": "QNT-08",
@@ -1680,7 +1718,20 @@
   ],
   "source": "arXiv quant-ph · 기술 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "quantum key distribution",
+   "QKD",
+   "quantum communication",
+   "quantum network",
+   "quantum networks",
+   "quantum internet",
+   "양자 통신",
+   "양자통신",
+   "양자 암호",
+   "양자암호",
+   "양자 인터넷"
+  ]
  },
  {
   "id": "QNT-10",
@@ -1706,7 +1757,12 @@
   ],
   "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "RSA",
+   "integer factorization",
+   "암호 해독"
+  ]
  },
  {
   "id": "SEC-02",
@@ -1732,7 +1788,15 @@
   ],
   "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "post-quantum",
+   "PQC",
+   "ML-KEM",
+   "ML-DSA",
+   "양자내성",
+   "양자 내성"
+  ]
  },
  {
   "id": "SEC-04",
@@ -1745,7 +1809,12 @@
   ],
   "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "KpqC",
+   "K-PQC",
+   "한국형 양자내성"
+  ]
  },
  {
   "id": "SEC-05",
@@ -1758,7 +1827,12 @@
   ],
   "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "lattice-based",
+   "lattice cryptography",
+   "격자 기반"
+  ]
  },
  {
   "id": "SEC-06",
@@ -1862,7 +1936,16 @@
   ],
   "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "medical device security",
+   "hospital cyberattack",
+   "healthcare cyber",
+   "ransomware hospital",
+   "의료기기 보안",
+   "병원 해킹",
+   "의료정보"
+  ]
  },
  {
   "id": "SEC-14",
@@ -1875,7 +1958,16 @@
   ],
   "source": "arXiv cs.CR · IACR ePrint · 보안 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "blockchain",
+   "deposit token",
+   "stablecoin",
+   "stablecoins",
+   "블록체인",
+   "예금토큰",
+   "스테이블코인"
+  ]
  },
  {
   "id": "SPC-01",
@@ -1888,7 +1980,17 @@
   ],
   "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "CubeSat",
+   "CubeSats",
+   "small satellite",
+   "small satellites",
+   "smallsat",
+   "소형위성",
+   "큐브샛",
+   "초소형 위성"
+  ]
  },
  {
   "id": "SPC-02",
@@ -1901,7 +2003,18 @@
   ],
   "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "LEO",
+   "low Earth orbit",
+   "Starlink",
+   "Kuiper",
+   "satellite constellation",
+   "저궤도",
+   "스타링크",
+   "위성통신",
+   "위성 통신"
+  ]
  },
  {
   "id": "SPC-03",
@@ -1914,7 +2027,15 @@
   ],
   "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "satellite cybersecurity",
+   "space cybersecurity",
+   "space security",
+   "satellite hack",
+   "위성 보안",
+   "위성 해킹"
+  ]
  },
  {
   "id": "SPC-04",
@@ -1927,7 +2048,15 @@
   ],
   "source": "arXiv astro-ph · physics.space-ph · NASA/KASA 뉴스",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "space debris",
+   "space situational awareness",
+   "orbital debris",
+   "우주쓰레기",
+   "우주 쓰레기",
+   "우주 상황"
+  ]
  },
  {
   "id": "SPC-05",
@@ -2122,7 +2251,16 @@
   ],
   "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "AI agent",
+   "AI agents",
+   "agentic",
+   "LLM agent",
+   "에이전트",
+   "AI 에이전트",
+   "에이전틱"
+  ]
  },
  {
   "id": "AI-03",
@@ -2135,7 +2273,17 @@
   ],
   "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "RAG",
+   "retrieval-augmented",
+   "retrieval augmented",
+   "vector database",
+   "embedding",
+   "embeddings",
+   "검색 증강",
+   "검색증강"
+  ]
  },
  {
   "id": "AI-04",
@@ -2161,7 +2309,18 @@
   ],
   "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "physical AI",
+   "embodied AI",
+   "robot foundation model",
+   "vision-language-action",
+   "VLA",
+   "world model",
+   "world models",
+   "피지컬 AI",
+   "로봇 파운데이션"
+  ]
  },
  {
   "id": "AI-06",
@@ -2174,7 +2333,17 @@
   ],
   "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "medical imaging",
+   "radiology AI",
+   "AI radiology",
+   "medical image",
+   "pathology AI",
+   "의료 영상",
+   "영상 판독",
+   "AI 판독"
+  ]
  },
  {
   "id": "AI-07",
@@ -2187,7 +2356,19 @@
   ],
   "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "electronic health record",
+   "EHR",
+   "clinical notes",
+   "multimodal medical",
+   "clinical AI",
+   "medical AI",
+   "healthcare AI",
+   "의료 AI",
+   "의료 인공지능",
+   "전자의무기록"
+  ]
  },
  {
   "id": "AI-08",
@@ -2200,7 +2381,12 @@
   ],
   "source": "arXiv cs.AI · cs.LG · cs.CV · PubMed",
   "freq": "매일",
-  "star": true
+  "star": true,
+  "any": [
+   "veterinary AI",
+   "animal AI",
+   "수의 AI"
+  ]
  },
  {
   "id": "AI-09",
@@ -2265,7 +2451,14 @@
   ],
   "source": "arXiv cs.RO · 로봇 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "humanoid",
+   "humanoids",
+   "Optimus",
+   "Unitree",
+   "휴머노이드"
+  ]
  },
  {
   "id": "ROB-02",
@@ -2291,7 +2484,16 @@
   ],
   "source": "arXiv cs.RO · 로봇 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "manipulation",
+   "grasping",
+   "dexterous",
+   "robotic arm",
+   "robot arm",
+   "로봇 팔",
+   "로봇팔"
+  ]
  },
  {
   "id": "ROB-04",
@@ -2317,7 +2519,15 @@
   ],
   "source": "arXiv cs.RO · 로봇 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "surgical robot",
+   "surgical robots",
+   "robotic surgery",
+   "da Vinci",
+   "수술 로봇",
+   "수술로봇"
+  ]
  },
  {
   "id": "ROB-06",
@@ -2356,7 +2566,16 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "tokamak",
+   "KSTAR",
+   "ITER",
+   "fusion reactor",
+   "fusion energy",
+   "핵융합",
+   "토카막"
+  ]
  },
  {
   "id": "NUC-02",
@@ -2369,7 +2588,11 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "plasma",
+   "플라즈마"
+  ]
  },
  {
   "id": "NUC-03",
@@ -2382,7 +2605,12 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "inertial confinement",
+   "National Ignition Facility",
+   "관성 핵융합"
+  ]
  },
  {
   "id": "NUC-04",
@@ -2395,7 +2623,11 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "stellarator",
+   "스텔러레이터"
+  ]
  },
  {
   "id": "NUC-05",
@@ -2408,7 +2640,14 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "fusion startup",
+   "Commonwealth Fusion",
+   "Helion",
+   "TAE Technologies",
+   "핵융합 스타트업"
+  ]
  },
  {
   "id": "NUC-06",
@@ -2421,7 +2660,12 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "divertor",
+   "fusion materials",
+   "핵융합 소재"
+  ]
  },
  {
   "id": "NUC-07",
@@ -2434,7 +2678,14 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "small modular reactor",
+   "small modular reactors",
+   "SMR",
+   "소형모듈원자로",
+   "소형 모듈 원자로"
+  ]
  },
  {
   "id": "NUC-08",
@@ -2447,7 +2698,16 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "Generation IV",
+   "Gen IV",
+   "fast reactor",
+   "molten salt",
+   "sodium-cooled",
+   "4세대 원자로",
+   "용융염"
+  ]
  },
  {
   "id": "NUC-09",
@@ -2460,7 +2720,15 @@
   ],
   "source": "arXiv physics.plasm-ph · IAEA · 에너지 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "spent fuel",
+   "nuclear waste",
+   "decommissioning",
+   "사용후핵연료",
+   "원전 해체",
+   "고준위"
+  ]
  },
  {
   "id": "SEM-01",
@@ -2473,7 +2741,19 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "HBM",
+   "HBM4",
+   "chiplet",
+   "chiplets",
+   "advanced packaging",
+   "CoWoS",
+   "hybrid bonding",
+   "첨단 패키징",
+   "패키징",
+   "칩렛"
+  ]
  },
  {
   "id": "SEM-02",
@@ -2486,7 +2766,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "MRAM",
+   "processing-in-memory",
+   "PIM",
+   "차세대 메모리",
+   "PIM 반도체"
+  ]
  },
  {
   "id": "SEM-03",
@@ -2499,7 +2786,19 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "EUV",
+   "High-NA",
+   "GAA",
+   "gate-all-around",
+   "lithography",
+   "2nm",
+   "3nm",
+   "미세공정",
+   "극자외선",
+   "노광"
+  ]
  },
  {
   "id": "SEM-04",
@@ -2512,7 +2811,17 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "SiC",
+   "GaN",
+   "silicon carbide",
+   "gallium nitride",
+   "power semiconductor",
+   "power semiconductors",
+   "전력반도체",
+   "전력 반도체"
+  ]
  },
  {
   "id": "SEM-05",
@@ -2525,7 +2834,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "microLED",
+   "micro LED",
+   "micro-LED",
+   "OLED",
+   "display panel",
+   "디스플레이",
+   "마이크로LED"
+  ]
  },
  {
   "id": "BAT-01",
@@ -2538,7 +2856,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "solid-state battery",
+   "solid-state batteries",
+   "all-solid-state",
+   "전고체",
+   "전고체전지",
+   "전고체 배터리"
+  ]
  },
  {
   "id": "BAT-02",
@@ -2551,7 +2877,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "lithium metal",
+   "lithium-metal",
+   "lithium-sulfur",
+   "lithium sulfur",
+   "Li-S",
+   "리튬금속",
+   "리튬황"
+  ]
  },
  {
   "id": "BAT-03",
@@ -2564,7 +2899,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "sodium-ion",
+   "sodium ion",
+   "Na-ion",
+   "나트륨이온",
+   "나트륨 이온"
+  ]
  },
  {
   "id": "BAT-04",
@@ -2577,7 +2919,22 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "battery management",
+   "state of health",
+   "battery life",
+   "battery degradation",
+   "battery lifespan",
+   "battery",
+   "batteries",
+   "배터리 관리",
+   "BMS",
+   "수명 예측",
+   "배터리",
+   "이차전지",
+   "2차전지"
+  ]
  },
  {
   "id": "BAT-05",
@@ -2590,7 +2947,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "battery recycling",
+   "recycling batteries",
+   "recycled battery",
+   "black mass",
+   "배터리 재활용",
+   "폐배터리",
+   "재활용 배터리"
+  ]
  },
  {
   "id": "MOB-01",
@@ -2603,7 +2969,17 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "autonomous driving",
+   "self-driving",
+   "driverless",
+   "robotaxi",
+   "Waymo",
+   "FSD",
+   "자율주행",
+   "로보택시"
+  ]
  },
  {
   "id": "MOB-02",
@@ -2616,7 +2992,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "eVTOL",
+   "urban air mobility",
+   "air taxi",
+   "UAM",
+   "flying taxi",
+   "도심항공",
+   "에어택시"
+  ]
  },
  {
   "id": "MOB-03",
@@ -2629,7 +3014,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "software-defined vehicle",
+   "software defined vehicle",
+   "SDV",
+   "OTA update",
+   "소프트웨어 중심 차량",
+   "소프트웨어 정의 차량"
+  ]
  },
  {
   "id": "MOB-04",
@@ -2642,7 +3035,22 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "EV charging",
+   "charging station",
+   "charging stations",
+   "fast charging",
+   "charger",
+   "electric vehicle",
+   "electric vehicles",
+   "EV",
+   "EVs",
+   "충전소",
+   "전기차 충전",
+   "급속충전",
+   "전기차"
+  ]
  },
  {
   "id": "MOB-05",
@@ -2655,7 +3063,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "automotive cybersecurity",
+   "car hacking",
+   "connected car",
+   "vehicle hack",
+   "차량 해킹",
+   "차량 사이버보안"
+  ]
  },
  {
   "id": "BIO-01",
@@ -2668,7 +3084,12 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "synthetic biology",
+   "synthetic biologist",
+   "합성생물학"
+  ]
  },
  {
   "id": "BIO-02",
@@ -2681,7 +3102,17 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "CRISPR",
+   "gene editing",
+   "base editing",
+   "prime editing",
+   "gene therapy",
+   "유전자 편집",
+   "유전자 가위",
+   "유전자 치료"
+  ]
  },
  {
   "id": "BIO-03",
@@ -2694,7 +3125,15 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "mRNA",
+   "vaccine",
+   "vaccines",
+   "vaccination",
+   "백신",
+   "mRNA 백신"
+  ]
  },
  {
   "id": "BIO-04",
@@ -2707,7 +3146,13 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "biofoundry",
+   "biomanufacturing",
+   "바이오파운드리",
+   "바이오 제조"
+  ]
  },
  {
   "id": "BIO-05",
@@ -2720,7 +3165,13 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "organoid",
+   "organoids",
+   "organ-on-chip",
+   "오가노이드"
+  ]
  },
  {
   "id": "BIO-06",
@@ -2733,7 +3184,19 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "genomics",
+   "genomic",
+   "genome",
+   "genome sequencing",
+   "precision medicine",
+   "personalized medicine",
+   "유전체",
+   "정밀의료",
+   "맞춤 의료",
+   "게놈"
+  ]
  },
  {
   "id": "BIO-07",
@@ -2746,7 +3209,17 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "wearable",
+   "wearables",
+   "digital health",
+   "remote monitoring",
+   "smartwatch",
+   "디지털 헬스",
+   "웨어러블",
+   "디지털 치료"
+  ]
  },
  {
   "id": "BIO-08",
@@ -2759,7 +3232,15 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "AlphaFold",
+   "protein structure",
+   "protein design",
+   "protein folding",
+   "단백질 구조",
+   "단백질 설계"
+  ]
  },
  {
   "id": "BIO-09",
@@ -2772,7 +3253,17 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "longevity",
+   "aging",
+   "ageing",
+   "senescence",
+   "anti-aging",
+   "노화",
+   "장수",
+   "항노화"
+  ]
  },
  {
   "id": "BIO-10",
@@ -2785,7 +3276,17 @@
   ],
   "source": "bioRxiv · PubMed · 바이오 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "IVF",
+   "infertility",
+   "fertility",
+   "embryo",
+   "난임",
+   "불임",
+   "체외수정",
+   "시험관"
+  ]
  },
  {
   "id": "ENE-01",
@@ -2798,7 +3299,19 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "electrolysis",
+   "electrolyzer",
+   "electrolyser",
+   "green hydrogen",
+   "hydrogen production",
+   "hydrogen",
+   "수전해",
+   "그린수소",
+   "수소 생산",
+   "수소"
+  ]
  },
  {
   "id": "ENE-02",
@@ -2811,7 +3324,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "fuel cell",
+   "fuel cells",
+   "PEM",
+   "SOFC",
+   "연료전지"
+  ]
  },
  {
   "id": "ENE-03",
@@ -2824,7 +3344,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "hydrogen storage",
+   "hydrogen transport",
+   "hydrogen pipeline",
+   "liquid hydrogen",
+   "수소 저장",
+   "수소 운송",
+   "액화수소"
+  ]
  },
  {
   "id": "ENE-04",
@@ -2837,7 +3366,19 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "perovskite",
+   "solar cell",
+   "solar cells",
+   "photovoltaic",
+   "tandem solar",
+   "solar panel",
+   "solar panels",
+   "페로브스카이트",
+   "태양전지",
+   "태양광"
+  ]
  },
  {
   "id": "ENE-05",
@@ -2850,7 +3391,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "offshore wind",
+   "wind turbine",
+   "wind turbines",
+   "wind farm",
+   "wind power",
+   "해상풍력",
+   "풍력"
+  ]
  },
  {
   "id": "ENE-06",
@@ -2863,7 +3413,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "energy storage",
+   "grid storage",
+   "battery storage",
+   "ESS",
+   "BESS",
+   "에너지저장",
+   "에너지 저장"
+  ]
  },
  {
   "id": "ENE-07",
@@ -2876,7 +3435,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "carbon capture",
+   "CCUS",
+   "direct air capture",
+   "DAC",
+   "carbon dioxide removal",
+   "탄소 포집",
+   "탄소포집"
+  ]
  },
  {
   "id": "ENE-08",
@@ -2889,7 +3457,17 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "climate model",
+   "climate modeling",
+   "climate modelling",
+   "climate change",
+   "global warming",
+   "기후 모델",
+   "기후변화",
+   "기후 변화"
+  ]
  },
  {
   "id": "COM-01",
@@ -2902,7 +3480,12 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "6G",
+   "sixth-generation",
+   "6세대"
+  ]
  },
  {
   "id": "COM-02",
@@ -2915,7 +3498,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "non-terrestrial",
+   "NTN",
+   "direct-to-cell",
+   "satellite internet",
+   "satellite broadband",
+   "위성 인터넷",
+   "비지상망"
+  ]
  },
  {
   "id": "COM-03",
@@ -2928,7 +3520,12 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "Open RAN",
+   "O-RAN",
+   "오픈랜"
+  ]
  },
  {
   "id": "COM-04",
@@ -2941,7 +3538,12 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "terahertz",
+   "THz",
+   "테라헤르츠"
+  ]
  },
  {
   "id": "MAT-01",
@@ -2954,7 +3556,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "superconductor",
+   "superconductors",
+   "superconductivity",
+   "superconducting",
+   "초전도체",
+   "초전도"
+  ]
  },
  {
   "id": "MAT-02",
@@ -2967,7 +3577,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "graphene",
+   "2D material",
+   "2D materials",
+   "two-dimensional",
+   "MXene",
+   "그래핀",
+   "2차원 소재"
+  ]
  },
  {
   "id": "MAT-03",
@@ -2980,7 +3599,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "metamaterial",
+   "metamaterials",
+   "metasurface",
+   "메타물질",
+   "메타표면"
+  ]
  },
  {
   "id": "MAT-04",
@@ -2993,7 +3619,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "nanomedicine",
+   "nanoparticle",
+   "nanoparticles",
+   "나노입자",
+   "나노의학"
+  ]
  },
  {
   "id": "MAT-05",
@@ -3006,7 +3639,17 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "materials discovery",
+   "AI materials",
+   "machine learning materials",
+   "materials informatics",
+   "self-driving lab",
+   "autonomous lab",
+   "소재 탐색",
+   "소재 개발 AI"
+  ]
  },
  {
   "id": "INF-01",
@@ -3019,7 +3662,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "Kubernetes",
+   "cloud native",
+   "containers",
+   "Docker",
+   "serverless",
+   "쿠버네티스",
+   "클라우드 네이티브"
+  ]
  },
  {
   "id": "INF-02",
@@ -3032,7 +3684,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "self-hosted",
+   "self-hosting",
+   "homelab",
+   "NAS",
+   "셀프호스팅",
+   "홈서버"
+  ]
  },
  {
   "id": "INF-03",
@@ -3045,7 +3705,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "Linux",
+   "Linux kernel",
+   "open source",
+   "open-source",
+   "리눅스",
+   "오픈소스"
+  ]
  },
  {
   "id": "INF-04",
@@ -3097,7 +3765,18 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "semiconductor equipment",
+   "chip equipment",
+   "ASML",
+   "Applied Materials",
+   "Lam Research",
+   "Tokyo Electron",
+   "소부장",
+   "반도체 장비",
+   "반도체 소재"
+  ]
  },
  {
   "id": "SEM-07",
@@ -3110,7 +3789,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "foundry",
+   "foundries",
+   "TSMC",
+   "Samsung Foundry",
+   "GlobalFoundries",
+   "파운드리",
+   "위탁생산"
+  ]
  },
  {
   "id": "SEM-08",
@@ -3123,7 +3811,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "silicon photonics",
+   "photonic chip",
+   "co-packaged optics",
+   "optical interconnect",
+   "실리콘 포토닉스"
+  ]
  },
  {
   "id": "SEM-09",
@@ -3136,7 +3831,13 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "neuromorphic",
+   "spiking neural",
+   "memristor",
+   "뉴로모픽"
+  ]
  },
  {
   "id": "SEM-10",
@@ -3149,7 +3850,18 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "DRAM",
+   "NAND",
+   "3D NAND",
+   "flash memory",
+   "SK hynix",
+   "Micron",
+   "D램",
+   "낸드",
+   "메모리 반도체"
+  ]
  },
  {
   "id": "SEM-11",
@@ -3162,7 +3874,18 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "chip design",
+   "EDA",
+   "Synopsys",
+   "Cadence",
+   "RISC-V",
+   "fabless",
+   "칩 설계",
+   "팹리스",
+   "반도체 설계"
+  ]
  },
  {
   "id": "SEM-12",
@@ -3175,7 +3898,13 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "quantum dot",
+   "quantum dots",
+   "QD-OLED",
+   "양자점"
+  ]
  },
  {
   "id": "BAT-06",
@@ -3188,7 +3917,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "silicon anode",
+   "silicon anodes",
+   "silicon-anode",
+   "실리콘 음극",
+   "실리콘 음극재"
+  ]
  },
  {
   "id": "BAT-07",
@@ -3201,7 +3937,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "solid electrolyte",
+   "solid electrolytes",
+   "sulfide electrolyte",
+   "고체전해질",
+   "황화물계"
+  ]
  },
  {
   "id": "BAT-08",
@@ -3214,7 +3957,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "thermal runaway",
+   "battery fire",
+   "battery fires",
+   "battery safety",
+   "열폭주",
+   "배터리 화재"
+  ]
  },
  {
   "id": "BAT-09",
@@ -3227,7 +3978,15 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "lithium supply",
+   "lithium price",
+   "lithium mining",
+   "lithium",
+   "리튬",
+   "리튬 가격"
+  ]
  },
  {
   "id": "BAT-10",
@@ -3240,7 +3999,18 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "cathode",
+   "cathodes",
+   "NCM",
+   "NMC",
+   "LFP",
+   "LMFP",
+   "양극재",
+   "양극 소재",
+   "리튬인산철"
+  ]
  },
  {
   "id": "BAT-11",
@@ -3253,7 +4023,14 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "supercapacitor",
+   "supercapacitors",
+   "ultracapacitor",
+   "슈퍼커패시터",
+   "초고용량 커패시터"
+  ]
  },
  {
   "id": "KMD-01",
@@ -3266,7 +4043,13 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "acupuncture",
+   "electroacupuncture",
+   "침술",
+   "침 치료"
+  ]
  },
  {
   "id": "KMD-02",
@@ -3279,7 +4062,22 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "herbal medicine",
+   "herbal",
+   "herbs",
+   "traditional Chinese medicine",
+   "TCM",
+   "botanical",
+   "natural product",
+   "natural products",
+   "한약",
+   "한방",
+   "천연물",
+   "생약",
+   "본초"
+  ]
  },
  {
   "id": "KMD-03",
@@ -3292,7 +4090,15 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "Korean medicine",
+   "traditional Korean medicine",
+   "한의학",
+   "한의원",
+   "한의사",
+   "한의대"
+  ]
  },
  {
   "id": "KMD-04",
@@ -3305,7 +4111,15 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "moxibustion",
+   "cupping",
+   "acupoint",
+   "뜸 치료",
+   "뜸질",
+   "부항"
+  ]
  },
  {
   "id": "KMD-05",
@@ -3318,7 +4132,15 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "tongue diagnosis",
+   "pulse diagnosis",
+   "TCM diagnosis",
+   "설진",
+   "맥진",
+   "변증"
+  ]
  },
  {
   "id": "KMD-06",
@@ -3331,7 +4153,16 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "integrative medicine",
+   "complementary medicine",
+   "alternative medicine",
+   "complementary and alternative",
+   "통합의학",
+   "보완대체의학",
+   "대체의학"
+  ]
  },
  {
   "id": "KMD-07",
@@ -3344,7 +4175,12 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "Sasang",
+   "사상체질",
+   "사상의학"
+  ]
  },
  {
   "id": "PHM-01",
@@ -3357,7 +4193,18 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "drug discovery",
+   "drug development",
+   "new drug",
+   "novel drug",
+   "lead compound",
+   "preclinical",
+   "신약",
+   "신약개발",
+   "신약 개발"
+  ]
  },
  {
   "id": "PHM-02",
@@ -3370,7 +4217,16 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "drug design",
+   "AI drug",
+   "computational drug",
+   "molecular docking",
+   "generative chemistry",
+   "AI 신약",
+   "약물 설계"
+  ]
  },
  {
   "id": "PHM-03",
@@ -3383,7 +4239,15 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "drug interaction",
+   "drug interactions",
+   "drug-drug",
+   "polypharmacy",
+   "약물 상호작용",
+   "병용"
+  ]
  },
  {
   "id": "PHM-04",
@@ -3396,7 +4260,15 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "pharmacogenomics",
+   "pharmacogenetics",
+   "pharmacogenomic",
+   "CYP2D6",
+   "약물유전체",
+   "약물 유전체"
+  ]
  },
  {
   "id": "PHM-05",
@@ -3409,7 +4281,16 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "drug delivery",
+   "delivery system",
+   "lipid nanoparticle",
+   "LNP",
+   "nanocarrier",
+   "약물전달",
+   "약물 전달"
+  ]
  },
  {
   "id": "PHM-06",
@@ -3422,7 +4303,18 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "pharmacovigilance",
+   "adverse event",
+   "adverse events",
+   "adverse drug reaction",
+   "side effect",
+   "side effects",
+   "이상반응",
+   "부작용",
+   "약물감시"
+  ]
  },
  {
   "id": "PHM-07",
@@ -3435,7 +4327,17 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "antibiotic resistance",
+   "antimicrobial resistance",
+   "AMR",
+   "superbug",
+   "superbugs",
+   "항생제 내성",
+   "내성균",
+   "슈퍼박테리아"
+  ]
  },
  {
   "id": "PHM-08",
@@ -3448,7 +4350,18 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "clinical pharmacy",
+   "pharmacist",
+   "pharmacists",
+   "pharmacy",
+   "medication adherence",
+   "약사",
+   "약국",
+   "복약",
+   "임상약학"
+  ]
  },
  {
   "id": "PHM-09",
@@ -3461,7 +4374,19 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "targeted therapy",
+   "immunotherapy",
+   "CAR-T",
+   "checkpoint inhibitor",
+   "antibody-drug conjugate",
+   "ADC",
+   "표적치료",
+   "항암제",
+   "면역항암",
+   "항암 치료"
+  ]
  },
  {
   "id": "PHM-10",
@@ -3474,7 +4399,23 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "GLP-1",
+   "semaglutide",
+   "tirzepatide",
+   "Ozempic",
+   "Wegovy",
+   "Mounjaro",
+   "Zepbound",
+   "weight loss drug",
+   "obesity drug",
+   "비만약",
+   "비만 치료제",
+   "위고비",
+   "마운자로",
+   "삭센다"
+  ]
  },
  {
   "id": "PHM-11",
@@ -3487,7 +4428,18 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "FDA approval",
+   "FDA approves",
+   "approved by FDA",
+   "drug approval",
+   "EMA",
+   "MFDS",
+   "식약처",
+   "품목허가",
+   "FDA 승인"
+  ]
  },
  {
   "id": "MED-01",
@@ -3500,7 +4452,21 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "diabetes",
+   "diabetic",
+   "thyroid",
+   "insulin",
+   "endocrine",
+   "metabolic syndrome",
+   "obesity",
+   "당뇨",
+   "갑상선",
+   "인슐린",
+   "내분비",
+   "비만"
+  ]
  },
  {
   "id": "MED-02",
@@ -3513,7 +4479,23 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "pregnancy",
+   "pregnant",
+   "obstetric",
+   "gynecology",
+   "gynecologic",
+   "childbirth",
+   "preeclampsia",
+   "cesarean",
+   "endometriosis",
+   "임신",
+   "출산",
+   "산부인과",
+   "자궁",
+   "분만"
+  ]
  },
  {
   "id": "MED-03",
@@ -3526,7 +4508,16 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "primary care",
+   "family medicine",
+   "general practitioner",
+   "preventive care",
+   "1차 의료",
+   "가정의학",
+   "주치의"
+  ]
  },
  {
   "id": "MED-04",
@@ -3539,7 +4530,21 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "skin",
+   "dermatology",
+   "dermatologic",
+   "eczema",
+   "psoriasis",
+   "acne",
+   "atopic dermatitis",
+   "피부",
+   "피부과",
+   "아토피",
+   "건선",
+   "여드름"
+  ]
  },
  {
   "id": "MED-05",
@@ -3552,7 +4557,23 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "children",
+   "child",
+   "infants",
+   "infant",
+   "pediatric",
+   "paediatric",
+   "newborn",
+   "neonatal",
+   "adolescent",
+   "소아",
+   "어린이",
+   "영유아",
+   "신생아",
+   "청소년"
+  ]
  },
  {
   "id": "MED-06",
@@ -3565,7 +4586,24 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "heart",
+   "cardiac",
+   "cardiovascular",
+   "cardiology",
+   "heart failure",
+   "atrial fibrillation",
+   "myocardial",
+   "hypertension",
+   "blood pressure",
+   "심장",
+   "심혈관",
+   "심근경색",
+   "부정맥",
+   "고혈압",
+   "혈압"
+  ]
  },
  {
   "id": "MED-07",
@@ -3578,7 +4616,30 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "brain",
+   "neurological",
+   "neurology",
+   "stroke",
+   "epilepsy",
+   "Parkinson",
+   "Alzheimer",
+   "dementia",
+   "migraine",
+   "multiple sclerosis",
+   "neurosurgery",
+   "뇌졸중",
+   "뇌경색",
+   "뇌출혈",
+   "뇌전증",
+   "치매",
+   "파킨슨",
+   "알츠하이머",
+   "신경과",
+   "신경외과",
+   "두통"
+  ]
  },
  {
   "id": "MED-08",
@@ -3591,7 +4652,27 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "depression",
+   "anxiety",
+   "schizophrenia",
+   "bipolar",
+   "PTSD",
+   "mental health",
+   "psychiatric",
+   "psychiatry",
+   "suicide",
+   "autism",
+   "ADHD",
+   "우울증",
+   "불안",
+   "조현병",
+   "정신건강",
+   "정신질환",
+   "자살",
+   "자폐"
+  ]
  },
  {
   "id": "MED-09",
@@ -3604,7 +4685,34 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "cancer",
+   "tumor",
+   "tumour",
+   "oncology",
+   "chemotherapy",
+   "radiotherapy",
+   "leukemia",
+   "lymphoma",
+   "metastatic",
+   "암 환자",
+   "암 치료",
+   "암 진단",
+   "암세포",
+   "폐암",
+   "유방암",
+   "대장암",
+   "위암",
+   "간암",
+   "췌장암",
+   "전립선암",
+   "갑상선암",
+   "종양",
+   "항암",
+   "백혈병",
+   "림프종"
+  ]
  },
  {
   "id": "MED-10",
@@ -3617,7 +4725,32 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "infection",
+   "infections",
+   "infectious",
+   "virus",
+   "viral",
+   "bacterial",
+   "sepsis",
+   "COVID",
+   "influenza",
+   "flu",
+   "HIV",
+   "tuberculosis",
+   "malaria",
+   "pandemic",
+   "outbreak",
+   "감염",
+   "바이러스",
+   "패혈증",
+   "코로나",
+   "독감",
+   "결핵",
+   "감염병",
+   "확진"
+  ]
  },
  {
   "id": "MED-11",
@@ -3630,7 +4763,27 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "fracture",
+   "bone",
+   "orthopedic",
+   "orthopaedic",
+   "joint",
+   "arthritis",
+   "osteoarthritis",
+   "osteoporosis",
+   "spine",
+   "knee replacement",
+   "hip replacement",
+   "골절",
+   "관절",
+   "관절염",
+   "골다공증",
+   "척추",
+   "정형외과",
+   "인공관절"
+  ]
  },
  {
   "id": "MED-12",
@@ -3643,7 +4796,19 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "surgery",
+   "surgical",
+   "surgeon",
+   "transplant",
+   "transplantation",
+   "laparoscopic",
+   "수술",
+   "이식",
+   "외과",
+   "복강경"
+  ]
  },
  {
   "id": "MED-13",
@@ -3656,7 +4821,30 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "liver",
+   "hepatitis",
+   "cirrhosis",
+   "colon",
+   "colorectal",
+   "gut",
+   "gastric",
+   "stomach",
+   "Crohn",
+   "ulcerative colitis",
+   "IBS",
+   "microbiome",
+   "간염",
+   "간경변",
+   "대장",
+   "위염",
+   "위장",
+   "소화",
+   "장내",
+   "염증성 장질환",
+   "지방간"
+  ]
  },
  {
   "id": "MED-14",
@@ -3669,7 +4857,25 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "eye",
+   "eyes",
+   "vision",
+   "retina",
+   "retinal",
+   "glaucoma",
+   "cataract",
+   "myopia",
+   "macular",
+   "안과",
+   "망막",
+   "녹내장",
+   "백내장",
+   "근시",
+   "황반",
+   "시력"
+  ]
  },
  {
   "id": "MED-15",
@@ -3682,7 +4888,24 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "hearing",
+   "hearing loss",
+   "deafness",
+   "tinnitus",
+   "sinus",
+   "tonsil",
+   "throat",
+   "cochlear",
+   "ENT",
+   "이비인후과",
+   "난청",
+   "이명",
+   "비염",
+   "부비동",
+   "청력"
+  ]
  },
  {
   "id": "MED-16",
@@ -3695,7 +4918,24 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "kidney",
+   "renal",
+   "bladder",
+   "prostate",
+   "urinary",
+   "urology",
+   "dialysis",
+   "kidney stone",
+   "신장",
+   "콩팥",
+   "방광",
+   "전립선",
+   "비뇨",
+   "투석",
+   "요로"
+  ]
  },
  {
   "id": "MED-17",
@@ -3708,7 +4948,22 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "anesthesia",
+   "anaesthesia",
+   "anesthetic",
+   "pain",
+   "chronic pain",
+   "analgesic",
+   "opioid",
+   "opioids",
+   "nerve block",
+   "마취",
+   "통증",
+   "진통",
+   "오피오이드"
+  ]
  },
  {
   "id": "MED-18",
@@ -3721,7 +4976,21 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "radiology",
+   "imaging",
+   "MRI",
+   "CT scan",
+   "ultrasound",
+   "X-ray",
+   "PET scan",
+   "radiologist",
+   "영상의학",
+   "영상 검사",
+   "초음파",
+   "방사선"
+  ]
  },
  {
   "id": "MED-19",
@@ -3734,7 +5003,17 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "rehabilitation",
+   "physical therapy",
+   "physiotherapy",
+   "stroke recovery",
+   "exoskeleton",
+   "재활",
+   "물리치료",
+   "운동치료"
+  ]
  },
  {
   "id": "MED-20",
@@ -3747,7 +5026,21 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "emergency",
+   "emergency department",
+   "trauma",
+   "cardiac arrest",
+   "resuscitation",
+   "ICU",
+   "critical care",
+   "응급",
+   "응급실",
+   "심정지",
+   "중환자",
+   "외상"
+  ]
  },
  {
   "id": "MED-21",
@@ -3760,7 +5053,20 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "plastic surgery",
+   "reconstructive",
+   "cosmetic",
+   "burn",
+   "burns",
+   "wound",
+   "wound healing",
+   "성형",
+   "재건",
+   "화상",
+   "상처"
+  ]
  },
  {
   "id": "MED-22",
@@ -3773,7 +5079,22 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "lung",
+   "lungs",
+   "pulmonary",
+   "thoracic",
+   "asthma",
+   "COPD",
+   "pneumonia",
+   "lung cancer",
+   "폐렴",
+   "천식",
+   "호흡기",
+   "폐질환",
+   "만성폐쇄성"
+  ]
  },
  {
   "id": "MED-23",
@@ -3786,7 +5107,17 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "pathology",
+   "pathologist",
+   "biopsy",
+   "histology",
+   "digital pathology",
+   "병리",
+   "조직검사",
+   "생검"
+  ]
  },
  {
   "id": "MED-24",
@@ -3799,7 +5130,20 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "biomarker",
+   "biomarkers",
+   "blood test",
+   "diagnostic test",
+   "liquid biopsy",
+   "screening test",
+   "laboratory",
+   "바이오마커",
+   "혈액 검사",
+   "진단 검사",
+   "검진"
+  ]
  },
  {
   "id": "MED-25",
@@ -3812,7 +5156,24 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "epidemiology",
+   "epidemiological",
+   "public health",
+   "incidence",
+   "prevalence",
+   "cohort",
+   "mortality",
+   "risk factor",
+   "risk factors",
+   "역학",
+   "공중보건",
+   "유병률",
+   "발병률",
+   "사망률",
+   "코호트"
+  ]
  },
  {
   "id": "MED-26",
@@ -3825,7 +5186,23 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "occupational",
+   "workplace",
+   "worker",
+   "workers",
+   "occupational health",
+   "air pollution",
+   "environmental exposure",
+   "pesticide",
+   "직업병",
+   "산업재해",
+   "근로자",
+   "작업장",
+   "환경 노출",
+   "미세먼지"
+  ]
  },
  {
   "id": "MED-27",
@@ -3838,7 +5215,18 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "nuclear medicine",
+   "PET",
+   "radiopharmaceutical",
+   "radiotracer",
+   "theranostic",
+   "radioligand",
+   "핵의학",
+   "방사성의약품",
+   "방사선 치료"
+  ]
  },
  {
   "id": "MED-28",
@@ -3851,7 +5239,21 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "dental",
+   "dentist",
+   "dentistry",
+   "tooth",
+   "teeth",
+   "gum disease",
+   "periodontal",
+   "oral health",
+   "치과",
+   "치아",
+   "치주",
+   "구강"
+  ]
  },
  {
   "id": "MED-29",
@@ -3864,7 +5266,20 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "nurse",
+   "nurses",
+   "nursing",
+   "patient safety",
+   "hospital staff",
+   "caregiver",
+   "caregivers",
+   "간호",
+   "간호사",
+   "환자안전",
+   "요양"
+  ]
  },
  {
   "id": "MED-30",
@@ -3877,7 +5292,23 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "physiology",
+   "anatomy",
+   "metabolism",
+   "hormone",
+   "hormones",
+   "immune system",
+   "cell biology",
+   "muscle",
+   "생리",
+   "해부",
+   "대사",
+   "호르몬",
+   "면역",
+   "근육"
+  ]
  },
  {
   "id": "VET-01",
@@ -3890,7 +5321,16 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "veterinary",
+   "veterinarian",
+   "veterinarians",
+   "vet",
+   "수의",
+   "수의사",
+   "동물병원"
+  ]
  },
  {
   "id": "VET-02",
@@ -3903,7 +5343,19 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "zoonosis",
+   "zoonotic",
+   "avian influenza",
+   "bird flu",
+   "rabies",
+   "African swine fever",
+   "인수공통",
+   "조류인플루엔자",
+   "광견병",
+   "아프리카돼지열병"
+  ]
  },
  {
   "id": "VET-03",
@@ -3916,7 +5368,17 @@
   ],
   "source": "PubMed · 의학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "companion animal",
+   "pets",
+   "pet",
+   "canine",
+   "feline",
+   "반려동물",
+   "반려견",
+   "반려묘"
+  ]
  },
  {
   "id": "ECO-01",
@@ -3929,7 +5391,28 @@
   ],
   "source": "경제 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "valuation",
+   "valuations",
+   "stock market",
+   "stocks",
+   "equities",
+   "S&P 500",
+   "Nasdaq",
+   "earnings",
+   "investor",
+   "investors",
+   "IPO",
+   "주식",
+   "증시",
+   "코스피",
+   "나스닥",
+   "실적",
+   "투자",
+   "밸류에이션",
+   "기업가치"
+  ]
  },
  {
   "id": "ECO-02",
@@ -3942,7 +5425,31 @@
   ],
   "source": "경제 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "inflation",
+   "CPI",
+   "GDP",
+   "recession",
+   "interest rate",
+   "interest rates",
+   "Federal Reserve",
+   "Fed",
+   "ECB",
+   "Bank of England",
+   "rate cut",
+   "rate hike",
+   "growth forecast",
+   "물가",
+   "금리",
+   "경기",
+   "성장률",
+   "기준금리",
+   "한국은행",
+   "연준",
+   "인플레이션",
+   "경기침체"
+  ]
  },
  {
   "id": "ECO-03",
@@ -3955,7 +5462,25 @@
   ],
   "source": "경제 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "currency",
+   "currencies",
+   "dollar",
+   "yen",
+   "yuan",
+   "euro",
+   "exchange rate",
+   "forex",
+   "sanctions",
+   "SWIFT",
+   "환율",
+   "달러",
+   "엔화",
+   "위안화",
+   "외환",
+   "통화"
+  ]
  },
  {
   "id": "ECO-04",
@@ -3968,7 +5493,20 @@
   ],
   "source": "경제 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "CBDC",
+   "central bank digital currency",
+   "digital currency",
+   "stablecoin",
+   "stablecoins",
+   "crypto",
+   "bitcoin",
+   "디지털화폐",
+   "가상자산",
+   "비트코인",
+   "스테이블코인"
+  ]
  },
  {
   "id": "ECO-05",
@@ -3981,7 +5519,26 @@
   ],
   "source": "경제 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "commodity",
+   "commodities",
+   "oil price",
+   "crude oil",
+   "gold price",
+   "copper",
+   "natural gas",
+   "rare earth",
+   "rare earths",
+   "OPEC",
+   "원자재",
+   "유가",
+   "국제유가",
+   "금값",
+   "구리",
+   "희토류",
+   "천연가스"
+  ]
  },
  {
   "id": "ECO-06",
@@ -3994,7 +5551,21 @@
   ],
   "source": "경제 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "China economy",
+   "Chinese economy",
+   "China's economy",
+   "PBOC",
+   "Evergrande",
+   "tariff",
+   "tariffs",
+   "중국 경제",
+   "중국경제",
+   "중국 증시",
+   "위안",
+   "관세"
+  ]
  },
  {
   "id": "GEO-01",
@@ -4007,7 +5578,22 @@
   ],
   "source": "지정학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "geopolitics",
+   "geopolitical",
+   "great power",
+   "summit",
+   "diplomacy",
+   "diplomatic",
+   "NATO",
+   "United Nations",
+   "지정학",
+   "외교",
+   "정상회담",
+   "유엔",
+   "나토"
+  ]
  },
  {
   "id": "GEO-02",
@@ -4020,7 +5606,18 @@
   ],
   "source": "지정학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "US-China",
+   "U.S.-China",
+   "China-US",
+   "Xi Jinping",
+   "trade war",
+   "미중",
+   "시진핑",
+   "무역전쟁",
+   "대중 관세"
+  ]
  },
  {
   "id": "GEO-03",
@@ -4033,7 +5630,23 @@
   ],
   "source": "지정학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "North Korea",
+   "South Korea",
+   "Korean Peninsula",
+   "Seoul",
+   "Pyongyang",
+   "Kim Jong Un",
+   "한반도",
+   "북한",
+   "남북",
+   "국회",
+   "대통령",
+   "여당",
+   "야당",
+   "대통령실"
+  ]
  },
  {
   "id": "GEO-04",
@@ -4046,7 +5659,25 @@
   ],
   "source": "지정학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "intelligence agency",
+   "CIA",
+   "MI6",
+   "Mossad",
+   "NSA",
+   "espionage",
+   "spy",
+   "spies",
+   "spying",
+   "counterintelligence",
+   "정보기관",
+   "국정원",
+   "스파이",
+   "간첩",
+   "방첩",
+   "첩보"
+  ]
  },
  {
   "id": "GEO-05",
@@ -4059,7 +5690,17 @@
   ],
   "source": "지정학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "energy security",
+   "LNG",
+   "gas pipeline",
+   "oil supply",
+   "energy crisis",
+   "에너지 안보",
+   "에너지 위기",
+   "가스관"
+  ]
  },
  {
   "id": "GEO-06",
@@ -4072,7 +5713,21 @@
   ],
   "source": "지정학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "Indo-Pacific",
+   "Taiwan",
+   "Philippines",
+   "South China Sea",
+   "ASEAN",
+   "Quad",
+   "AUKUS",
+   "대만",
+   "필리핀",
+   "남중국해",
+   "인도태평양",
+   "동아시아"
+  ]
  },
  {
   "id": "ADM-01",
@@ -4085,7 +5740,18 @@
   ],
   "source": "arXiv math · 수학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "linear algebra",
+   "matrix",
+   "matrices",
+   "eigenvalue",
+   "eigenvalues",
+   "tensor",
+   "선형대수",
+   "행렬",
+   "고유값"
+  ]
  },
  {
   "id": "ADM-02",
@@ -4098,7 +5764,18 @@
   ],
   "source": "arXiv math · 수학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "topology",
+   "topological",
+   "manifold",
+   "manifolds",
+   "knot",
+   "knots",
+   "homotopy",
+   "위상수학",
+   "다양체"
+  ]
  },
  {
   "id": "ADM-03",
@@ -4111,7 +5788,19 @@
   ],
   "source": "arXiv math · 수학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "number theory",
+   "prime",
+   "primes",
+   "prime numbers",
+   "Riemann",
+   "zeta",
+   "modular forms",
+   "정수론",
+   "소수",
+   "리만"
+  ]
  },
  {
   "id": "ADM-04",
@@ -4124,7 +5813,17 @@
   ],
   "source": "arXiv math · 수학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "combinatorics",
+   "graph theory",
+   "discrete mathematics",
+   "Ramsey",
+   "combinatorial",
+   "조합론",
+   "이산수학",
+   "그래프 이론"
+  ]
  },
  {
   "id": "ADM-05",
@@ -4137,7 +5836,19 @@
   ],
   "source": "arXiv math · 수학 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "mathematical logic",
+   "set theory",
+   "Godel",
+   "proof",
+   "theorem",
+   "theorems",
+   "formal proof",
+   "수리논리",
+   "정리",
+   "증명"
+  ]
  },
  {
   "id": "PHY-01",
@@ -4150,7 +5861,19 @@
   ],
   "source": "arXiv · 물리 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "quantum field theory",
+   "QFT",
+   "string theory",
+   "supersymmetry",
+   "Standard Model",
+   "particle physics",
+   "Higgs",
+   "양자장론",
+   "끈이론",
+   "입자물리"
+  ]
  },
  {
   "id": "PHY-02",
@@ -4163,7 +5886,19 @@
   ],
   "source": "arXiv · 물리 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "cosmology",
+   "dark matter",
+   "dark energy",
+   "Hubble",
+   "Big Bang",
+   "cosmic",
+   "우주론",
+   "암흑물질",
+   "암흑에너지",
+   "빅뱅"
+  ]
  },
  {
   "id": "PHY-03",
@@ -4176,7 +5911,18 @@
   ],
   "source": "arXiv · 물리 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "condensed matter",
+   "topological insulator",
+   "superfluid",
+   "Bose-Einstein",
+   "quantum material",
+   "quantum materials",
+   "응집물질",
+   "위상절연체",
+   "초유체"
+  ]
  },
  {
   "id": "PHY-04",
@@ -4189,7 +5935,18 @@
   ],
   "source": "arXiv · 물리 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "quantum foundations",
+   "entanglement",
+   "Bell test",
+   "wave function",
+   "quantum measurement",
+   "quantum mechanics",
+   "양자 얽힘",
+   "양자역학",
+   "양자 기초"
+  ]
  },
  {
   "id": "PHY-05",
@@ -4202,7 +5959,19 @@
   ],
   "source": "arXiv · 물리 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "black hole",
+   "black holes",
+   "gravitational wave",
+   "gravitational waves",
+   "LIGO",
+   "event horizon",
+   "general relativity",
+   "블랙홀",
+   "중력파",
+   "상대성이론"
+  ]
  },
  {
   "id": "CSX-01",
@@ -4215,7 +5984,19 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "computer architecture",
+   "CPU",
+   "GPU",
+   "processor",
+   "RISC-V",
+   "microarchitecture",
+   "instruction set",
+   "컴퓨터 구조",
+   "프로세서",
+   "마이크로아키텍처"
+  ]
  },
  {
   "id": "CSX-02",
@@ -4228,7 +6009,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "operating system",
+   "Linux kernel",
+   "Windows",
+   "kernel",
+   "scheduler",
+   "운영체제",
+   "커널"
+  ]
  },
  {
   "id": "CSX-03",
@@ -4241,7 +6031,17 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "programming language",
+   "Rust",
+   "Python",
+   "compiler",
+   "TypeScript",
+   "C++",
+   "프로그래밍 언어",
+   "컴파일러"
+  ]
  },
  {
   "id": "CSX-04",
@@ -4254,7 +6054,18 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "statistics",
+   "statistical",
+   "Bayesian",
+   "regression",
+   "data analysis",
+   "data science",
+   "통계",
+   "데이터 분석",
+   "베이지안"
+  ]
  },
  {
   "id": "CSX-05",
@@ -4267,6 +6078,16 @@
   ],
   "source": "arXiv · 학술지 · 기술 뉴스",
   "freq": "주 1회",
-  "star": true
+  "star": true,
+  "any": [
+   "game engine",
+   "Unreal Engine",
+   "Unity",
+   "game development",
+   "gamedev",
+   "게임 엔진",
+   "언리얼",
+   "게임 개발"
+  ]
  }
 ]
