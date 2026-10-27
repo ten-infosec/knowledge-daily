@@ -31,6 +31,9 @@ REQUEST_DELAY = 1
 MAX_RESULTS = 20
 # NCBI가 권장하는 "어떤 프로그램이 요청하는지" 표시
 TOOL_NAME = "knowledge-daily"
+# 정보·초록을 요청할 때 한 번에 보낼 PMID 수.
+# 주제가 많아 PMID가 700개쯤 되면 주소가 너무 길어 NCBI가 HTTP 414로 거절하고, 그러면 PubMed 결과가 통째로 비므로 나눠서 보냄
+CHUNK_SIZE = 150
 
 
 # ===== Request helper =====
@@ -82,35 +85,45 @@ def fetch_topic_ids(topic, days):
 
 
 # ===== Summaries =====
+def chunked(items, size=CHUNK_SIZE):
+    """목록을 size개씩 잘라 하나씩 돌려준다. (요청 주소가 너무 길어지지 않게)"""
+    for start in range(0, len(items), size):
+        yield items[start:start + size]
+
+
 def fetch_summaries(pmids):
-    """PMID 목록으로 제목·저자·학술지·날짜를 한 번에 받아 {PMID: 정보} 딕셔너리로 돌려준다."""
-    if not pmids:
-        return {}
-    # id: 쉼표로 이어 붙인 PMID 목록 (한 번 요청으로 여러 건)
-    data = get_json("esummary.fcgi", {"db": "pubmed", "id": ",".join(pmids)})
-    result = data["result"]
-    # result["uids"]: 응답에 들어 있는 PMID 목록
-    return {pmid: result[pmid] for pmid in result.get("uids", [])}
+    """PMID 목록으로 제목·저자·학술지·날짜를 받아 {PMID: 정보} 딕셔너리로 돌려준다. (CHUNK_SIZE개씩 나눠 요청)"""
+    summaries = {}
+    for i, part in enumerate(chunked(pmids)):
+        if i > 0:
+            time.sleep(REQUEST_DELAY)
+        # id: 쉼표로 이어 붙인 PMID 목록 (한 번 요청으로 여러 건)
+        data = get_json("esummary.fcgi", {"db": "pubmed", "id": ",".join(part)})
+        result = data["result"]
+        # result["uids"]: 응답에 들어 있는 PMID 목록
+        summaries.update({pmid: result[pmid] for pmid in result.get("uids", [])})
+    return summaries
 
 
 def fetch_abstracts(pmids):
-    """PMID 목록의 초록을 한 번에 받아 {PMID: 초록} 딕셔너리로 돌려준다. (efetch는 JSON이 없어 XML로 받음)"""
-    if not pmids:
-        return {}
-    response = requests.get(f"{BASE_URL}/efetch.fcgi",
-                            params={"db": "pubmed", "id": ",".join(pmids), "retmode": "xml", "tool": TOOL_NAME},
-                            headers={"User-Agent": USER_AGENT}, timeout=30)
-    response.raise_for_status()
-    # response.content(바이트)를 XML 나무 구조로 해석
-    root = ET.fromstring(response.content)
+    """PMID 목록의 초록을 받아 {PMID: 초록} 딕셔너리로 돌려준다. (efetch는 JSON이 없어 XML로 받고, CHUNK_SIZE개씩 나눠 요청)"""
     abstracts = {}
-    # 논문 하나 = <PubmedArticle> 하나
-    for article in root.iter("PubmedArticle"):
-        pmid = article.findtext("MedlineCitation/PMID")
-        # 초록은 "목적/방법/결과"처럼 여러 <AbstractText>로 나뉘어 있을 수 있어 이어 붙임
-        # itertext(): 태그 안의 글자를 (기울임 같은 안쪽 태그 포함) 전부 꺼냄
-        parts = ["".join(t.itertext()) for t in article.iterfind(".//Abstract/AbstractText")]
-        abstracts[pmid] = " ".join(" ".join(parts).split())
+    for i, part in enumerate(chunked(pmids)):
+        if i > 0:
+            time.sleep(REQUEST_DELAY)
+        response = requests.get(f"{BASE_URL}/efetch.fcgi",
+                                params={"db": "pubmed", "id": ",".join(part), "retmode": "xml", "tool": TOOL_NAME},
+                                headers={"User-Agent": USER_AGENT}, timeout=30)
+        response.raise_for_status()
+        # response.content(바이트)를 XML 나무 구조로 해석
+        root = ET.fromstring(response.content)
+        # 논문 하나 = <PubmedArticle> 하나
+        for article in root.iter("PubmedArticle"):
+            pmid = article.findtext("MedlineCitation/PMID")
+            # 초록은 "목적/방법/결과"처럼 여러 <AbstractText>로 나뉘어 있을 수 있어 이어 붙임
+            # itertext(): 태그 안의 글자를 (기울임 같은 안쪽 태그 포함) 전부 꺼냄
+            parts = ["".join(t.itertext()) for t in article.iterfind(".//Abstract/AbstractText")]
+            abstracts[pmid] = " ".join(" ".join(parts).split())
     return abstracts
     # → 초록 없는 논문은 빈 문자열로 두고, 요약은 제목만 보고 하게 하겠다
 
