@@ -84,11 +84,14 @@ def best_topic(topics, text, lang="en"):
         words = topic_terms(topic, lang)
         matched = matched_words(words, text)
         score = len(matched)
-        # 맞은 단어가 전부 흔한 단어면 이 주제는 아님
-        if all(w.lower() in GENERIC_WORDS for w in matched):
-            continue
-        # 기준 이상이고, 지금까지 찾은 것보다 더 많이 맞으면 교체
-        if score >= required_matches(words) and score > best_score:
+        # 맞은 단어가 없거나 전부 흔한 단어이거나 기준(required_matches)에 못 미치면 이 단계의 점수는 0
+        if not matched or all(w.lower() in GENERIC_WORDS for w in matched) or score < required_matches(words):
+            score = 0
+        # "any": 이 중 하나만 들어 있어도 이 주제로 보는 표현 목록 (복수형·한국어 표현 등)
+        # 예: 키워드에 "battery"만 있으면 "batteries"는 못 찾으므로 둘 다 적어 둔다
+        score = max(score, len(matched_words(topic.get("any", []), text)))
+        # 지금까지 찾은 것보다 더 많이 맞으면 교체
+        if score > best_score:
             best, best_score = topic, score
     return best
     # → 한 글이 여러 주제에 걸리면 가장 많이 맞는 주제 하나에만 넣겠다
