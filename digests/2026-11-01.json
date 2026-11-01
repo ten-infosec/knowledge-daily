@@ -1,0 +1,6154 @@
+[
+ {
+  "source": "pubmed",
+  "id": "42964133",
+  "topic_id": "BCI-01",
+  "title": "Offline and simulated-online fNIRS decoding of ankle movements for prospective exo-ankle control: a pilot study in healthy adults and ankle-impaired patients",
+  "authors": [
+   "Ahmad N",
+   "Nazeer H",
+   "Naseer N",
+   "Obaid Baig M",
+   "Shakil S",
+   "Kai-Yu Tong"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964133/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in neuroergonomics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964054",
+  "topic_id": "BCI-01",
+  "title": "Governing brain-computer interfaces as embodied autonomous neural systems: an ethical framework for neurorobotic governance in education",
+  "authors": [
+   "Gao J",
+   "Lin D",
+   "Hu J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964054/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in neurorobotics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962249",
+  "topic_id": "BCI-03",
+  "title": "Speckle-learned recognition of OAM through obstructed free-space optical channels",
+  "authors": [
+   "Jadi RK",
+   "Badavath PS",
+   "Sharma C",
+   "Kumar V"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962249/",
+  "published": "2026-11-01",
+  "venue": "Journal of the Optical Society of America. A, Optics, image science, and vision",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963713",
+  "topic_id": "BCI-03",
+  "title": "Pipelined spiking neural network equalizer architecture designed for CMOS implementation in IM/DD optical transmission systems",
+  "authors": [
+   "Li S",
+   "Scholl V",
+   "Böcherer G",
+   "Calabrò S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963713/",
+  "published": "2026-10-19",
+  "venue": "Optics express",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960226",
+  "topic_id": "AI-02",
+  "title": "Direct pathways from anthropomorphism to self-disclosure in artificial intelligence Chatbot use: a mixed-methods multi-study investigation",
+  "authors": [
+   "Rahman W"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960226/",
+  "published": "2026-10-20",
+  "venue": "Addictive behaviors reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961350",
+  "topic_id": "AI-02",
+  "title": "Admission Mechanisms for Scalable Federated Health Data Collaboration: Design and Proof-of-Concept Study",
+  "authors": [
+   "Fenoglio E",
+   "Nieroda M",
+   "Carvalho G",
+   "Smietanka M",
+   "Kalogeropoulos D",
+   "Treleaven P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961350/",
+  "published": "2026-10-30",
+  "venue": "JMIR medical informatics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958969",
+  "topic_id": "AI-02",
+  "title": "STRAND: a comprehensive subcellular-resolved spatial transcriptome RNA architecture and navigation database",
+  "authors": [
+   "Wu Z",
+   "Huo Y",
+   "Xu W",
+   "Li X",
+   "Li T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958969/",
+  "published": "2026-10-30",
+  "venue": "Nucleic acids research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42957762",
+  "topic_id": "AI-02",
+  "title": "An agentic framework for intelligent clinical laboratory medicine",
+  "authors": [
+   "Yang HS",
+   "Pan W",
+   "Cushing MM",
+   "Fleischut PM",
+   "Wang F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42957762/",
+  "published": "2026-10-28",
+  "venue": "npj health systems",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959378",
+  "topic_id": "AI-02",
+  "title": "Artificial intelligence and its influence on student engagement in higher education",
+  "authors": [
+   "Chen Y",
+   "Dong J",
+   "Ji G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959378/",
+  "published": "2026-10-15",
+  "venue": "Frontiers in psychology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963884",
+  "topic_id": "AI-03",
+  "title": "A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation",
+  "authors": [
+   "Xiao Z",
+   "Yao Q",
+   "Wang J",
+   "Liu B",
+   "Zhou F",
+   "Sun H",
+   "Ji Z",
+   "Jiang Y",
+   "Wang J",
+   "Wu Q"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963884/",
+  "published": "2026-11-01",
+  "venue": "Annals of the New York Academy of Sciences",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963949",
+  "topic_id": "AI-03",
+  "title": "EVLncRNAs 4.0: an updated database of experimentally validated functional long non-coding RNAs with evidence-grounded AI access",
+  "authors": [
+   "Zhou B",
+   "Ji B",
+   "Li Z",
+   "Li Z",
+   "Liu C",
+   "Zhang X",
+   "Yu X",
+   "Huang P",
+   "Kong L",
+   "Yang S",
+   "Zeng Q",
+   "Dou X",
+   "Cao Z",
+   "Xu S",
+   "Zhao H",
+   "Yang Y",
+   "Zhou Y",
+   "Wang J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963949/",
+  "published": "2026-10-31",
+  "venue": "Nucleic acids research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963943",
+  "topic_id": "AI-03",
+  "title": "PROTAC-DB 4.0: an expanded knowledgebase of targeted protein degradation modalities with AI-powered knowledge discovery",
+  "authors": [
+   "Ge J",
+   "Yin C",
+   "Li Y",
+   "Li S",
+   "Xu K",
+   "Tang R",
+   "Weng G",
+   "Luo H",
+   "Tang L",
+   "Qian Y",
+   "Gu S",
+   "Hsieh CY",
+   "Wu J",
+   "Li D",
+   "Sun H",
+   "Hou T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963943/",
+  "published": "2026-10-31",
+  "venue": "Nucleic acids research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964287",
+  "topic_id": "AI-05",
+  "title": "A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers",
+  "authors": [
+   "Wang K",
+   "Goel D",
+   "Shi JM",
+   "Rodriguez VJ",
+   "Brown DS",
+   "Yoo DW",
+   "Karkar R",
+   "Saha K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964287/",
+  "published": "2026-01-01",
+  "venue": "Ageing international",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964101",
+  "topic_id": "AI-06",
+  "title": "A quantum-inspired cross-attention fusion network for multi-class eye disease classification from retinal fundus images",
+  "authors": [
+   "P A",
+   "N K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964101/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in ophthalmology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962782",
+  "topic_id": "BIO-01",
+  "title": "Redox-Active Coumarin Derivatives: Chemico-Biological Mechanisms Linking Oxidative Stress, Mitochondrial Dysfunction and Regulated Cell Death",
+  "authors": [
+   "Kubrak TP",
+   "Bogucka-Kocka A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962782/",
+  "published": "2026-10-30",
+  "venue": "Chemico-biological interactions",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961490",
+  "topic_id": "BIO-01",
+  "title": "A phage-derived promoter SD13 enables strong and cross-host gene expression in Streptomyces and Escherichia coli",
+  "authors": [
+   "Lu N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961490/",
+  "published": "2026-08-04",
+  "venue": "Applied microbiology and biotechnology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42957862",
+  "topic_id": "BIO-01",
+  "title": "Entomopathogenic fungi as microbial platforms for tyrosine kinase-oriented inhibitor discovery",
+  "authors": [
+   "Chigozie VU",
+   "Ogunwa KI",
+   "Osuafor NG",
+   "Nduwimana LL",
+   "Oraekei DI"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42957862/",
+  "published": "2026-08-03",
+  "venue": "Applied microbiology and biotechnology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960353",
+  "topic_id": "BIO-01",
+  "title": "Reconstruction of a Self-sustaining System of Oscillating Glycolytic Reactions in Artificial Microreactors",
+  "authors": [
+   "Alekhina OM",
+   "Bashkirov PV",
+   "Silantyev AS",
+   "Dudik SP",
+   "Matyushkina DS",
+   "Shcherbakova OV",
+   "Govorun VM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960353/",
+  "published": "2026-07-01",
+  "venue": "Acta naturae",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963803",
+  "topic_id": "BIO-03",
+  "title": "Current strategies and challenges in vaccine platforms for Newcastle Disease Virus",
+  "authors": [
+   "Amoia CF",
+   "Misinzo G",
+   "Munir M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963803/",
+  "published": "2026-10-30",
+  "venue": "Tropical diseases, travel medicine and vaccines",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964296",
+  "topic_id": "BIO-05",
+  "title": "Encoding tactile stimuli for Braille recognition with organoids",
+  "authors": [
+   "Liu T",
+   "Philamore H",
+   "Ward-Cherrier B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964296/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in artificial intelligence",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964182",
+  "topic_id": "BIO-05",
+  "title": "Benzoylaconine suppresses colorectal cancer progression by modulating the CDK2/MMP2 signaling axis",
+  "authors": [
+   "Li F",
+   "Zhang K",
+   "Wang M",
+   "Su L",
+   "Yang L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964182/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in pharmacology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963553",
+  "topic_id": "BIO-05",
+  "title": "Stochasticity in response to rostrocaudal and mediolateral determinants influences inaccurate specification within kidney organoids",
+  "authors": [
+   "Wilson SB",
+   "Vanslambrouck JM",
+   "Er PX",
+   "Xie M",
+   "Baric H",
+   "Vidal Pitarch B",
+   "Agafonova A",
+   "Arora H",
+   "Muskovic W",
+   "Neavin D",
+   "Murphy A",
+   "Trusina A",
+   "Howden SE",
+   "Zylberberg AK",
+   "Lawlor KT",
+   "Powell JE",
+   "Little MH"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963553/",
+  "published": "2026-08-03",
+  "venue": "Genome biology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962911",
+  "topic_id": "BIO-06",
+  "title": "Single-cell chromatin accessibility atlas decodes bone development, diseases, and regeneration",
+  "authors": [
+   "Jin Y",
+   "Wu O",
+   "Hu D",
+   "Zhou H",
+   "Chen D",
+   "Chen L",
+   "You X",
+   "Chen Q",
+   "Hong Kwan KY",
+   "Makvandi P",
+   "Zheng X",
+   "Li YM",
+   "Chen K",
+   "Li B",
+   "Cao H",
+   "Liu S",
+   "Wu A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962911/",
+  "published": "2026-10-30",
+  "venue": "Journal of advanced research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963052",
+  "topic_id": "BIO-07",
+  "title": "Accelerometer-Based Step Counts May Be Confounded by Repetitive Motor Behaviors in Adults With Autism Spectrum Disorder",
+  "authors": [
+   "Malik MA",
+   "Fatima T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963052/",
+  "published": "2026-10-30",
+  "venue": "JMIR research protocols",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963047",
+  "topic_id": "BIO-07",
+  "title": "Authors' Reply: Accelerometer-Based Step Counts May Be Confounded by Repetitive Motor Behaviors in Adults With Autism Spectrum Disorder",
+  "authors": [
+   "Nunez-Gaunaurd A",
+   "Tovin MM",
+   "Hale M",
+   "Li T",
+   "Bhat A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963047/",
+  "published": "2026-10-30",
+  "venue": "JMIR research protocols",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964207",
+  "topic_id": "BIO-07",
+  "title": "Digital health technologies for myopia care: a systematic review",
+  "authors": [
+   "Xu H",
+   "He L",
+   "Pan Z",
+   "Lu X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964207/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in public health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963942",
+  "topic_id": "BIO-08",
+  "title": "DBAASP V4: condition-resolved bioactivity and chemical structures for data-driven peptide and peptidomimetic discovery",
+  "authors": [
+   "Pirtskhalava M",
+   "Alimbarashvili E",
+   "Grigolava M",
+   "Chubinidze M",
+   "Vishnepolsky B",
+   "Zaalishvili G",
+   "Karaputadze R",
+   "Samsonidze N",
+   "Rosenthal A",
+   "Hurt DE",
+   "Tartakovsky M",
+   "Gabrielian A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963942/",
+  "published": "2026-10-31",
+  "venue": "Nucleic acids research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962663",
+  "topic_id": "BIO-08",
+  "title": "ERIS2: A deep-learning platform for predicting mutation-induced protein stability changes",
+  "authors": [
+   "Ekambaram S",
+   "Kundu D",
+   "Ghosh S",
+   "Dokholyan NV"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962663/",
+  "published": "2026-10-30",
+  "venue": "Structure (London, England : 1993)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963908",
+  "topic_id": "BIO-09",
+  "title": "Isoform-specific roles of SKN-1/Nrf in Caenorhabditis elegans longevity via mTOR signaling",
+  "authors": [
+   "Ogawa T",
+   "Mizunuma M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963908/",
+  "published": "2026-10-31",
+  "venue": "Journal of biochemistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963494",
+  "topic_id": "BIO-09",
+  "title": "Lifespan and reproductive aging in captive Northern tree shrews (Tupaia belangeri)",
+  "authors": [
+   "Bynum JC",
+   "Biga PR",
+   "Grytz R",
+   "IISAGE Consortium",
+   "Riddle NC"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963494/",
+  "published": "2026-10-31",
+  "venue": "GeroScience",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963371",
+  "topic_id": "KMD-01",
+  "title": "Electroacupuncture alleviates chronic pain and comorbid depression through Gut-Metabolite-Brain axis remodeling to restore mPFC Glu/GABA balance",
+  "authors": [
+   "Li S",
+   "Huang J",
+   "Lin D",
+   "Luo D",
+   "Fu W",
+   "Liu J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963371/",
+  "published": "2026-10-30",
+  "venue": "Translational psychiatry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964269",
+  "topic_id": "KMD-01",
+  "title": "Traditional Chinese medicine-related interventions and the cGAS-STING axis in neuroinflammation: disease contexts and mechanisms of action",
+  "authors": [
+   "Zhang C",
+   "Li Q"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964269/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in neurology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964266",
+  "topic_id": "KMD-01",
+  "title": "Cumulative weight reduction across repeated acupoint catgut embedding sessions in obese women: a retrospective cohort study",
+  "authors": [
+   "Ji X",
+   "Xin X",
+   "Li D",
+   "Hou L",
+   "Ye Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964266/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964224",
+  "topic_id": "KMD-01",
+  "title": "Changes in plasma CGRP levels and clinical outcomes following acupuncture in episodic migraine: a prospective pilot study (the AcuCGRP study)",
+  "authors": [
+   "Favoni V",
+   "Giusti L",
+   "Bartiromo F",
+   "Poini A",
+   "Calabrò C",
+   "Merli E",
+   "Polischi B",
+   "Baccari F",
+   "Zenesini C",
+   "Mascarella D",
+   "Pierangeli G",
+   "Giovanardi CM",
+   "Cevoli S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964224/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in neurology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964068",
+  "topic_id": "KMD-01",
+  "title": "Needle-knife lumbosacral therapy for lumbar disc herniation: a single-center, outcome assessor-blinded randomized controlled trial",
+  "authors": [
+   "Zhang Y",
+   "Li R",
+   "Zhang X",
+   "Wang Z",
+   "Zhang Z",
+   "Xu H",
+   "Li X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964068/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in neurology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962944",
+  "topic_id": "KMD-02",
+  "title": "EWM-CRITIC-VIKOR framework reveals mechanistic insights of Buyang Huanwu Decoction in ischemic stroke with experimental validation",
+  "authors": [
+   "Qiao R",
+   "Liu C",
+   "Pan X",
+   "Tian Q",
+   "He F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962944/",
+  "published": "2026-10-30",
+  "venue": "Journal of ethnopharmacology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962945",
+  "topic_id": "KMD-02",
+  "title": "Exploring the therapeutic role of Chinses herbal medicine in the recurrence rate of uterine fibroids after conservative surgery: a systematic review and meta-analysis",
+  "authors": [
+   "Liu Z",
+   "Liu Y",
+   "Li S",
+   "Zhang X",
+   "Qiang R",
+   "Jin F",
+   "Guo L",
+   "Hou T",
+   "Fang J",
+   "Zhu Y",
+   "Liang J",
+   "Li J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962945/",
+  "published": "2026-09-02",
+  "venue": "Journal of ethnopharmacology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962292",
+  "topic_id": "PHM-01",
+  "title": "Sequence Scanning Improves Accuracy for Antibody-Antigen and Molecular Glue Ternary Complex Cofolding",
+  "authors": [
+   "Linker SM",
+   "Ploetz T",
+   "Evers A",
+   "Musil D",
+   "Kaiser J",
+   "Schindler C"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962292/",
+  "published": "2026-11-12",
+  "venue": "ChemMedChem",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963940",
+  "topic_id": "PHM-01",
+  "title": "MultiTargetDB: a comprehensive database of multitarget ligands for polypharmacology research and drug discovery",
+  "authors": [
+   "Pan J",
+   "Lin H",
+   "Zhu J",
+   "Xie W",
+   "Li Y",
+   "Xie J",
+   "Zhang S",
+   "Hong L",
+   "Lai L",
+   "Pei J",
+   "Dong G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963940/",
+  "published": "2026-10-31",
+  "venue": "Nucleic acids research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963027",
+  "topic_id": "PHM-01",
+  "title": "Dynamic structural adaptation of a conserved interaction hotspot in the respiratory syncytial virus fusion glycoprotein F",
+  "authors": [
+   "Kaushik R",
+   "Re S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963027/",
+  "published": "2026-10-30",
+  "venue": "International journal of biological macromolecules",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959600",
+  "topic_id": "PHM-01",
+  "title": "Shining a Light on the Mechanisms of Drug Resistance to Anti-PD-1 Therapy in Non-small Cell Lung Cancer",
+  "authors": [
+   "Guo H",
+   "Jiang M",
+   "Zhang H",
+   "Zhao J",
+   "Luo Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959600/",
+  "published": "2026-10-28",
+  "venue": "Human mutation",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959982",
+  "topic_id": "PHM-01",
+  "title": "6‑Chloropyridinyl Benzoate Fragments as Selective Anti-Melanoma Scaffolds Triggering ROS-Mediated Mitochondrial Apoptosis",
+  "authors": [
+   "La Monica G",
+   "Restivo I",
+   "Bono A",
+   "Alamia F",
+   "Tocco D",
+   "Attanzio A",
+   "Lauria A",
+   "Martorana A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959982/",
+  "published": "2026-10-12",
+  "venue": "ACS omega",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963077",
+  "topic_id": "PHM-02",
+  "title": "Serious Adverse Events in Adult ICU Patients: A Substudy of the PATIENCE Cohort",
+  "authors": [
+   "Crone V",
+   "Møller MH",
+   "Granholm A",
+   "Perner A",
+   "Alhazzani W",
+   "Al-Fares A",
+   "Hästbacka J",
+   "Ostermann M",
+   "Pfortmueller CA",
+   "Ferrer R",
+   "Blaser AR",
+   "Keus E",
+   "Szczeklik W",
+   "Krag M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963077/",
+  "published": "2027-01-01",
+  "venue": "Acta anaesthesiologica Scandinavica",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964321",
+  "topic_id": "PHM-02",
+  "title": "Low-dose prednisolone and B vitamins for post-COVID-19 syndrome in Germany: the PreVitaCOV randomised clinical trial",
+  "authors": [
+   "Gágyor I",
+   "Klug A",
+   "Schwager A",
+   "Gelbrich G",
+   "Joos S",
+   "Fießler C",
+   "Haeusler KG",
+   "Lunden L",
+   "Escales C",
+   "Döhring J",
+   "Kutterer C",
+   "Kaußner Y",
+   "Maetzler W",
+   "Zolk O",
+   "Förster C",
+   "Kaduszkiewicz H"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964321/",
+  "published": "2026-10-24",
+  "venue": "EClinicalMedicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962702",
+  "topic_id": "PHM-02",
+  "title": "Electrospun Fibers in the Biomedical Field: Where Drug Delivery Meets Tissue Repair and Regeneration",
+  "authors": [
+   "Pisani S",
+   "Dorarti R",
+   "Genta I",
+   "Conti B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962702/",
+  "published": "2026-11-01",
+  "venue": "Wiley interdisciplinary reviews. Nanomedicine and nanobiotechnology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963501",
+  "topic_id": "PHM-02",
+  "title": "MRGPRX2 in Allergic and Immune-Mediated Diseases: Mechanisms, Clinical Relevance, and Therapeutic Translation",
+  "authors": [
+   "Reinisch W",
+   "Li Y",
+   "Xiong P",
+   "Li H",
+   "Pan Q",
+   "Wu C",
+   "Yuan S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963501/",
+  "published": "2026-10-31",
+  "venue": "Clinical reviews in allergy & immunology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963204",
+  "topic_id": "PHM-02",
+  "title": "Mesoporous Silica Nanoplatforms: From Controllable Synthesis to Versatile Biomedical Applications",
+  "authors": [
+   "Gao Y",
+   "Liu Y",
+   "Chen D",
+   "Wu W"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963204/",
+  "published": "2026-10-30",
+  "venue": "Advanced healthcare materials",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962827",
+  "topic_id": "PHM-02",
+  "title": "Advancing extracellular vesicle therapeutics by chemical biology",
+  "authors": [
+   "Zhao C",
+   "Ge Y",
+   "Rao L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962827/",
+  "published": "2026-10-30",
+  "venue": "Journal of controlled release : official journal of the Controlled Release Society",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962308",
+  "topic_id": "PHM-02",
+  "title": "Liposomal and liposome-based formulations of pentacyclic triterpenoids in cancer nanomedicine: A critical appraisal of preclinical progress and future perspectives",
+  "authors": [
+   "Babaei M",
+   "Miroliaei M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962308/",
+  "published": "2026-10-30",
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963953",
+  "topic_id": "PHM-03",
+  "title": "Concomitant calcium supplementation does not compromise immunosuppressive dosing in kidney transplant recipients",
+  "authors": [
+   "Aftret LH",
+   "Ellingsen AØ",
+   "Midtvedt K",
+   "Heldal K",
+   "Reier-Nilsen M",
+   "Vethe NT",
+   "Robertsen I",
+   "Åsberg A",
+   "Dahle DO"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963953/",
+  "published": "2026-10-31",
+  "venue": "British journal of clinical pharmacology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963536",
+  "topic_id": "PHM-03",
+  "title": "PSMA Biology Through the Clinical Lens: Implications for Radioligand Therapy of Prostate Cancer with [(177)Lu]Lu-PSMA-617",
+  "authors": [
+   "Del Re M",
+   "Bauckneht M",
+   "Danesi R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963536/",
+  "published": "2026-10-31",
+  "venue": "Drugs",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962995",
+  "topic_id": "PHM-03",
+  "title": "A Bounded Stochastic Extended Boolean Model for Signal Amplification, Noise Propagation, and Feedback Oscillation in Cell Signaling Pathways",
+  "authors": [
+   "Kim M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962995/",
+  "published": "2026-10-30",
+  "venue": "Mathematical biosciences",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962918",
+  "topic_id": "PHM-03",
+  "title": "Association of Long-acting Bronchodilator Use with Cardiovascular Adverse Events in Patients with Asthma: A Population-based Cohort Study",
+  "authors": [
+   "Bai L",
+   "Xiao N",
+   "Zhao Q",
+   "Wang Z",
+   "Xu Y",
+   "Zhou X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962918/",
+  "published": "2026-10-30",
+  "venue": "The journal of allergy and clinical immunology. In practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964167",
+  "topic_id": "PHM-03",
+  "title": "An m(5)C-associated NSUN5-YBX1-CENPF programme marks melanoma cell states and immune features",
+  "authors": [
+   "Liu A",
+   "Yuan K",
+   "Yi S",
+   "Mao H",
+   "Xie X",
+   "Yin S",
+   "Fan H",
+   "Zhang A",
+   "Liu X",
+   "Hu Y",
+   "Xu A",
+   "Chen W",
+   "He Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964167/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in immunology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964084",
+  "topic_id": "PHM-03",
+  "title": "Enhancement without a rationale? Black pepper extract (piperine) in dietary supplements and the future of formulation: a perspective from Japan",
+  "authors": [
+   "Kaneko M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964084/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in nutrition",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963859",
+  "topic_id": "PHM-04",
+  "title": "Bayesian Additive Regression Trees modeling of pharmacogenomic and clinical data predicts amlodipine response in hypertension",
+  "authors": [
+   "Zhang F",
+   "Zhang Y",
+   "Zhang G",
+   "Tian Y",
+   "Yang H",
+   "Zhao HL",
+   "Zou X",
+   "Zhang C",
+   "Zhao Y",
+   "Zhao Q",
+   "Dong C",
+   "Fan J",
+   "Su X",
+   "Yuan H",
+   "Sun N",
+   "Hu S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963859/",
+  "published": "2026-10-30",
+  "venue": "Pharmacogenetics and genomics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962898",
+  "topic_id": "PHM-04",
+  "title": "Building on the 2025 National Academies Pharmacy Workshop: Preparing Pharmacists for Technology-Driven Roles",
+  "authors": [
+   "Bang KY",
+   "Strachan DA",
+   "Brummel G",
+   "Frick A",
+   "Schwartz A",
+   "Empey PE",
+   "Chun E",
+   "Rodriguez-Monguio R",
+   "Denton N",
+   "Chisholm-Burns M",
+   "Blash A",
+   "Dang A",
+   "Yadav R",
+   "Chun JK"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962898/",
+  "published": "2026-10-30",
+  "venue": "American journal of pharmaceutical education",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963492",
+  "topic_id": "PHM-05",
+  "title": "Cultural adaptation of nutritional recommendations in the comprehensive care of adults with type 2 diabetes: An updated transcultural diabetes nutrition algorithm (tDNA) framework",
+  "authors": [
+   "Hegazi RA",
+   "Hamdy O",
+   "Mechanick JI"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963492/",
+  "published": "2026-10-31",
+  "venue": "Reviews in endocrine & metabolic disorders",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963446",
+  "topic_id": "PHM-05",
+  "title": "Complement Activation-Related Pseudoallergy (CARPA): An Underrecognized Risk of Drugs, Drug Carriers, and Formulation Vehicles",
+  "authors": [
+   "Thanomkitti K",
+   "Tosti A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963446/",
+  "published": "2026-10-31",
+  "venue": "Clinical reviews in allergy & immunology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963812",
+  "topic_id": "PHM-05",
+  "title": "Costs of TB preventive treatment: insights from five sub-Saharan African countries",
+  "authors": [
+   "Shrestha SK",
+   "D'Silva O",
+   "Tazinya Asong RM",
+   "Vasiliu A",
+   "Mzizi NO",
+   "Vambe D",
+   "Kota N",
+   "Dlamini P",
+   "Steffy T",
+   "Lephosa M",
+   "Matchado J",
+   "Munthali A",
+   "O'Brien B",
+   "Ayuro MH",
+   "Elyanu P",
+   "Mugerwa M",
+   "Komba LB",
+   "Busigazi E",
+   "Kay A",
+   "Mandalakas A",
+   "Zwerling A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963812/",
+  "published": "2026-10-30",
+  "venue": "The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963467",
+  "topic_id": "PHM-05",
+  "title": "Nanomaterial applications and emerging trends in osteoarthritis from 2005 to 2025",
+  "authors": [
+   "Li D",
+   "Liu Z",
+   "Li J",
+   "Abulaiti A",
+   "Wahafu P",
+   "Maimaitiming M",
+   "Qiu S",
+   "Wang Z",
+   "Zhang Y",
+   "An Y",
+   "Abulikemu M",
+   "Baihetiyaer K",
+   "Guo J",
+   "Yakufu M",
+   "Shu L",
+   "Li G",
+   "Wang W"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963467/",
+  "published": "2026-10-30",
+  "venue": "Discover nano",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963024",
+  "topic_id": "PHM-05",
+  "title": "Hydrophobicity-tuned oleic acid-functionalized chitosan nanoparticles for sustained ocular delivery of dapagliflozin in diabetic cataract",
+  "authors": [
+   "Lin ZI",
+   "Yeh TC",
+   "Sun GC",
+   "Chen YY",
+   "Cheng PW"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963024/",
+  "published": "2026-10-30",
+  "venue": "International journal of biological macromolecules",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963020",
+  "topic_id": "PHM-05",
+  "title": "Lemon extracellular vesicle-integrated in-situ hydrogel: A multifunctional platform for the synergistic treatment of breast cancer via chemotherapy, photodynamic therapy, and immunotherapy",
+  "authors": [
+   "Gao J",
+   "Dong X",
+   "Gao X",
+   "Wu Y",
+   "Lu Y",
+   "Zhao Y",
+   "Cai X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963020/",
+  "published": "2026-10-30",
+  "venue": "International journal of biological macromolecules",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963009",
+  "topic_id": "PHM-05",
+  "title": "pH-regulated supersaturation enables nanonization of three model drugs for enhanced oral and transdermal delivery",
+  "authors": [
+   "Tan Y",
+   "Li K",
+   "Zhang B",
+   "Wu H",
+   "Zhou W"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963009/",
+  "published": "2026-10-30",
+  "venue": "International journal of pharmaceutics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962993",
+  "topic_id": "PHM-05",
+  "title": "Ivermectin Mass Drug Administration Coverage Against Onchocerciasis in Cameroon, 2000-2025: A Systematic Review and Meta-analysis",
+  "authors": [
+   "Nditanchou R",
+   "Minkat TMM",
+   "Djeunga HCN",
+   "Selby R",
+   "Kamgno J",
+   "Verhoeven V",
+   "Colebunders R",
+   "Fodjo JNS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962993/",
+  "published": "2026-10-30",
+  "venue": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962907",
+  "topic_id": "PHM-05",
+  "title": "Crosstalk between the cell cycle and ferroptosis in tumor cells",
+  "authors": [
+   "Zheng Z",
+   "Lin X",
+   "Wang X",
+   "Shen J",
+   "Lin N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962907/",
+  "published": "2026-10-30",
+  "venue": "Drug discovery today",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962861",
+  "topic_id": "PHM-05",
+  "title": "Surface-modified liposomes with polyvinyl alcohol derivatives improve mucus penetration and oral absorption: A potential alternative to polyethylene glycol",
+  "authors": [
+   "Yamazoe E",
+   "Morioka T",
+   "Ito T",
+   "Tahara K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962861/",
+  "published": "2026-10-30",
+  "venue": "European journal of pharmaceutics and biopharmaceutics : official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963301",
+  "topic_id": "PHM-06",
+  "title": "Acute multi-organ dysfunction (aMOD): Brighton Collaboration case definition and guidelines for data collection, analysis, and presentation of immunization safety data",
+  "authors": [
+   "O'Connor C",
+   "Jacob ST",
+   "Levy JH",
+   "Nwagha T",
+   "Ramesh D",
+   "Munoz FM",
+   "Farnon EC",
+   "Law B",
+   "Ali H"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963301/",
+  "published": "2026-10-30",
+  "venue": "Vaccine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962309",
+  "topic_id": "PHM-06",
+  "title": "Urinary tract and genital infections with dapagliflozin and empagliflozin across type 2 diabetes, heart failure, and chronic kidney disease: An indication- and sex-stratified disproportionality analysis of eudravigilance reports",
+  "authors": [
+   "Graziosi A",
+   "Riemma MA",
+   "Gurgone D",
+   "Schianchi A",
+   "Morroni F",
+   "Sita G",
+   "Baratta F",
+   "Veronese C",
+   "Pastori D",
+   "Gazzaniga G",
+   "Mele E",
+   "Oliva F",
+   "Pani A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962309/",
+  "published": "2026-10-30",
+  "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964105",
+  "topic_id": "PHM-06",
+  "title": "Clinical characteristics and pharmacovigilance signals of immune checkpoint inhibitor-associated cystitis and ureteritis: analysis of FAERS reports and published cases",
+  "authors": [
+   "Zhang Y",
+   "Yang J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964105/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in pharmacology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963482",
+  "topic_id": "PHM-07",
+  "title": "Influence of Gliricidia sepium living support on rhizosphere bacterial recruitment and fruit metabolomics in black pepper (Piper nigrum)",
+  "authors": [
+   "Chaves VA",
+   "Alegria OVC",
+   "Dantas CWD",
+   "Ferreira VBC",
+   "Martins DT",
+   "Joseph RC",
+   "Almeida LS",
+   "de Souza SD",
+   "Gomes PWP",
+   "da Silva JKR",
+   "Ramos RTJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963482/",
+  "published": "2026-10-31",
+  "venue": "World journal of microbiology & biotechnology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963827",
+  "topic_id": "PHM-07",
+  "title": "Rv0783c of Mycobacterium tuberculosis Acts as a Proton-Motive Force Dependent Multidrug Efflux Transporter Involved in the Efflux of Structurally Unrelated Antibiotics and Enhancing Biofilm Formation",
+  "authors": [
+   "Bhattacharyya D",
+   "Chatterjee D",
+   "Panda AP",
+   "Ghosh AS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963827/",
+  "published": "2026-10-30",
+  "venue": "Molecular microbiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963799",
+  "topic_id": "PHM-07",
+  "title": "Retrospective analysis of the transmission of difficult-to-treat resistant Pseudomonas aeruginosa - genotype beats phenotype",
+  "authors": [
+   "Jasuja JK",
+   "Maurer PM",
+   "Carlsen L",
+   "Klupp ET",
+   "Belmar Campos CE",
+   "Rohde H",
+   "Aepfelbacher M",
+   "Knobloch JK"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963799/",
+  "published": "2026-10-30",
+  "venue": "Antimicrobial resistance and infection control",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963442",
+  "topic_id": "PHM-07",
+  "title": "Irrational antibiotic prescriptions in pediatric care across Africa: a systematic review and meta-analysis",
+  "authors": [
+   "Demsie DG",
+   "Yismaw MB",
+   "Tafere C",
+   "Gebrie D",
+   "Siraj EA",
+   "Agmassie Z",
+   "Tefera BB",
+   "Bantie AT",
+   "Gebremariam Y",
+   "Balcha WF",
+   "Belachew A",
+   "Nigus MD",
+   "Addisu ZD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963442/",
+  "published": "2026-10-30",
+  "venue": "Pediatric research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963390",
+  "topic_id": "PHM-07",
+  "title": "Author Correction: Global genomic surveillance uncovers emergence and spatiotemporal patterns of World Health Organization priority antibiotic resistance in invasive Salmonella",
+  "authors": [
+   "Pei Y",
+   "Yang Z",
+   "Pang X",
+   "Xiayidan W",
+   "Huang M",
+   "Meng J",
+   "Qiu Y",
+   "Wang M",
+   "Yang H",
+   "Jing C",
+   "Zeng M",
+   "Liu Y",
+   "Wang W",
+   "Zhou Y",
+   "Ma S",
+   "Lyu N",
+   "Qu M",
+   "Zhao C",
+   "Wang J",
+   "Chen J",
+   "Zhu B",
+   "Gao GF",
+   "Xu X",
+   "Wang Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963390/",
+  "published": "2026-10-30",
+  "venue": "Nature communications",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963000",
+  "topic_id": "PHM-07",
+  "title": "Antibiotic resistance of bacteria isolated from microbiological control of gastrointestinal endoscopes",
+  "authors": [
+   "Picard J",
+   "Galakhoff N",
+   "Le Bars H",
+   "Payan C",
+   "Moalic E",
+   "Héry-Arnaud G",
+   "Baron R",
+   "Jézéquel J",
+   "Saliou P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963000/",
+  "published": "2026-10-30",
+  "venue": "The Journal of hospital infection",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962938",
+  "topic_id": "PHM-07",
+  "title": "Dual therapy is associated with synchronous gonococcal susceptible-zone MIC dynamics: Norway, 2013-2025",
+  "authors": [
+   "Campbell P",
+   "Finlow-Bates K",
+   "Simonsen GS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962938/",
+  "published": "2026-10-30",
+  "venue": "International journal of antimicrobial agents",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42957761",
+  "topic_id": "PHM-07",
+  "title": "Invisible shield: sprayable supramolecular antimicrobial microscale films for preventing wound and medical device infections",
+  "authors": [
+   "Li Y",
+   "Hathroubi S",
+   "Heck O",
+   "Lieu L",
+   "Petit L",
+   "Wurtz X",
+   "Rekiki A",
+   "Gaudin A",
+   "Canourgues N",
+   "Mercer D",
+   "Tunali M",
+   "Nowack B",
+   "Meier P",
+   "Reina G",
+   "Wick P",
+   "Safarzadeh M",
+   "Demircan A",
+   "Grossin D",
+   "Drouet C",
+   "Soubrié T",
+   "Goldanova T",
+   "Kremer M",
+   "Willem N",
+   "Jester S",
+   "Cès A",
+   "Calligaro C",
+   "Letellier B",
+   "Dupret-Bories A",
+   "Lavalle P",
+   "Vrana NE"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42957761/",
+  "published": "2026-10-28",
+  "venue": "npj biomedical innovations",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963977",
+  "topic_id": "PHM-08",
+  "title": "Community Pharmacists' Perspectives and Experiences of Deprescribing in Québec, Canada: Findings From a Survey",
+  "authors": [
+   "Campeau Calfat A",
+   "Martin B",
+   "Sirois C"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963977/",
+  "published": "2026-12-01",
+  "venue": "Basic & clinical pharmacology & toxicology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963875",
+  "topic_id": "PHM-08",
+  "title": "The Patient Perspectives of Clinical Pharmacist Services in Hospitals and Clinics: A Focused Narrative Review of Qualitative Studies",
+  "authors": [
+   "Henriksen BT",
+   "Gillespie U",
+   "Mathiesen L",
+   "Andersson Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963875/",
+  "published": "2026-12-01",
+  "venue": "Basic & clinical pharmacology & toxicology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963984",
+  "topic_id": "PHM-08",
+  "title": "Operationalizing quantitative neuromuscular monitoring in perioperative practice: A pharmacy-led framework for health systems",
+  "authors": [
+   "Linn DD",
+   "Freundlich RE",
+   "Renew JR"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963984/",
+  "published": "2026-10-31",
+  "venue": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962893",
+  "topic_id": "PHM-08",
+  "title": "Growth Mindset Drives Clinical Reasoning: New Evidence from Pharmacy Experiential Education to Inform Future Curricula",
+  "authors": [
+   "Frederick KD",
+   "Hohmeier KC",
+   "Larson S",
+   "Zhao C",
+   "Fowke JH",
+   "Goessling MC",
+   "Hinson J",
+   "Gabrick OP",
+   "Jasmin HM",
+   "Albrecht C",
+   "Cooley JH"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962893/",
+  "published": "2026-10-30",
+  "venue": "American journal of pharmaceutical education",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962869",
+  "topic_id": "PHM-08",
+  "title": "Polysubstance use among patients with opioid use disorder",
+  "authors": [
+   "White B",
+   "Skinner J",
+   "Hammonds T",
+   "Bhattacharyya P",
+   "Ali MM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962869/",
+  "published": "2026-10-30",
+  "venue": "American journal of preventive medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962822",
+  "topic_id": "PHM-08",
+  "title": "Pharmacist test-and-treat services: Bridging the gap from certification to practice integration",
+  "authors": [
+   "Egelund EF",
+   "Roane TE",
+   "McKitrick E",
+   "Curtis SD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962822/",
+  "published": "2026-10-30",
+  "venue": "Journal of the American Pharmacists Association : JAPhA",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963846",
+  "topic_id": "PHM-09",
+  "title": "LED Light-Induced Modulation of the Anticancer Activity of a [(2-(6-Bromopyridin-2-yl)-1H-benzo[d]imidazol-6-yl)(phenyl)methanone]-Based Iridium(III) Complex",
+  "authors": [
+   "Das U",
+   "Gutti P",
+   "Das R",
+   "Shanavas S",
+   "Mishra D",
+   "P SS",
+   "Bose B",
+   "Paira P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963846/",
+  "published": "2026-11-01",
+  "venue": "Chemistry, an Asian journal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963129",
+  "topic_id": "PHM-09",
+  "title": "Janus Kinase Inhibitor Use Among People With Inflammatory Disease in Australia",
+  "authors": [
+   "Deakin CT",
+   "Falster MO",
+   "Littlejohn GO",
+   "Youssef P",
+   "Liew D",
+   "Pratt NL",
+   "Pearson SA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963129/",
+  "published": "2026-11-01",
+  "venue": "Pharmacoepidemiology and drug safety",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963450",
+  "topic_id": "PHM-10",
+  "title": "Charcoal-Based Depletion Method to Improve Drug Tolerance in Neutralizing Antibody Assays for Therapeutic Peptides",
+  "authors": [
+   "Sanville M",
+   "Dambra R",
+   "Werth E",
+   "Oquendo E",
+   "Herrmann M",
+   "Saini G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963450/",
+  "published": "2026-10-30",
+  "venue": "The AAPS journal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962966",
+  "topic_id": "PHM-10",
+  "title": "The metabolic-brain axis: GLP-1 signaling, insulin resistance, and obesity pharmacotherapy in neurodegeneration",
+  "authors": [
+   "Santerre M",
+   "Shcherbik N",
+   "Sawaya BE"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962966/",
+  "published": "2026-10-30",
+  "venue": "Metabolism: clinical and experimental",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962687",
+  "topic_id": "PHM-10",
+  "title": "Efficacy and safety of oral orforglipron in Japanese participants with obesity disease (ATTAIN-J): a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial",
+  "authors": [
+   "Yokote K",
+   "Yamauchi T",
+   "Shingaki T",
+   "Chin R",
+   "Oura T",
+   "Nagai Y",
+   "Shimomura I",
+   "Kadowaki T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962687/",
+  "published": "2026-10-30",
+  "venue": "The lancet. Diabetes & endocrinology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962685",
+  "topic_id": "PHM-10",
+  "title": "Oral small-molecule GLP-1 receptor agonist for obesity in people from Japan",
+  "authors": [
+   "Tanday N",
+   "Miras AD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962685/",
+  "published": "2026-10-30",
+  "venue": "The lancet. Diabetes & endocrinology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958409",
+  "topic_id": "PHM-10",
+  "title": "Non-electrophilic TRPA1 modulator MNP-021 protects neuronal and glial function from diabetes-associated glucotoxicity and neuroinflammation",
+  "authors": [
+   "De Carli A",
+   "Filipponi C",
+   "Polini B",
+   "Sancho-Bornez V",
+   "Basso E",
+   "Filippini F",
+   "Dardano A",
+   "Sardelli F",
+   "Daniele S",
+   "Contestabile M",
+   "Folli F",
+   "Finzi G",
+   "De Martin S",
+   "Grieco GE",
+   "Dotta F",
+   "Sebastiani G",
+   "Chiellini G",
+   "Pineschi M",
+   "Lai M",
+   "Daniele G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958409/",
+  "published": "2026-10-27",
+  "venue": "Journal of translational medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962407",
+  "topic_id": "PHM-10",
+  "title": "Incretin-based therapies in psychiatry: A landscape analysis of ongoing randomized trials registered on ClinicalTrials.gov",
+  "authors": [
+   "Fagiolini A",
+   "Cuomo A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962407/",
+  "published": "2026-10-21",
+  "venue": "Journal of psychiatric research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962563",
+  "topic_id": "PHM-11",
+  "title": "Mapping off-label use and reimbursement pathways for oncology drugs in The Netherlands: a cross-sectional observational study",
+  "authors": [
+   "Timmer H",
+   "Huisman AH",
+   "Gelderblom H",
+   "Barjesteh van Waalwijk van Doorn-Khosrovani S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962563/",
+  "published": "2026-10-30",
+  "venue": "ESMO open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964333",
+  "topic_id": "MED-01",
+  "title": "Adipsic Hypernatremia Complicated by Hyperosmolar Hyperglycemic State and Extensive Venous Thromboembolism After Traumatic Brain Injury: A Case Report",
+  "authors": [
+   "Ghoddusi M",
+   "Shahverdi K",
+   "Zareshahi N",
+   "Shafizadeh Z",
+   "Talebian MT",
+   "Shokri A",
+   "Afra F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964333/",
+  "published": "2026-10-29",
+  "venue": "Clinical case reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963904",
+  "topic_id": "MED-01",
+  "title": "Do Adverse Intrauterine Environments Affect Body Mass Index in Infants and Preschool Children?",
+  "authors": [
+   "Koglin G",
+   "da Silva CH",
+   "Bandeira DR",
+   "Valentini NC",
+   "Goldani MZ",
+   "Bernardi JR"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963904/",
+  "published": "2026-11-01",
+  "venue": "American journal of human biology : the official journal of the Human Biology Council",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963201",
+  "topic_id": "MED-01",
+  "title": "Exercise-Based Management of Diabetic Cardiomyopathy: Preclinical Mechanisms, Clinical Evidence, and Translational Strategies",
+  "authors": [
+   "Li X",
+   "Wang Z",
+   "Liu J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963201/",
+  "published": "2026-11-01",
+  "venue": "Journal of diabetes",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963988",
+  "topic_id": "MED-01",
+  "title": "Prevalence of many comorbidities is similar irrespective of the time since HIV diagnosis in persons ageing with HIV who have survived to age 65 years",
+  "authors": [
+   "Zhabokritsky A",
+   "Lovblom LE",
+   "Boyachuk B",
+   "Falutz J",
+   "Klein M",
+   "Loutfy M",
+   "Smith G",
+   "Tan D",
+   "Harris M",
+   "Guillemi S",
+   "Adany N",
+   "Verway M",
+   "Arbess G",
+   "Guaraldi G",
+   "Walmsley S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963988/",
+  "published": "2026-10-31",
+  "venue": "HIV medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963974",
+  "topic_id": "MED-01",
+  "title": "Retinal capillary density in relation to diabetes duration and levels of glycaemia in young patients with type 1 diabetes",
+  "authors": [
+   "Torm MEW",
+   "Johannesen J",
+   "Christensen JL",
+   "Dahl VA",
+   "Hajari JN",
+   "Klefter ON",
+   "Larsen M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963974/",
+  "published": "2026-10-31",
+  "venue": "Acta ophthalmologica",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963952",
+  "topic_id": "MED-01",
+  "title": "Cost-effectiveness analysis comparing advanced hybrid closed-loop automated insulin delivery with multiple daily insulin injections and continuous glucose monitoring in adults with type 1 diabetes in Japan",
+  "authors": [
+   "Kodani N",
+   "Saltik AZO",
+   "Tone A",
+   "Field M",
+   "Pollock RF",
+   "Hill M",
+   "Hirota Y",
+   "de Portu S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963952/",
+  "published": "2026-10-31",
+  "venue": "Journal of diabetes investigation",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962759",
+  "topic_id": "MED-02",
+  "title": "Reduction in unnecessary oxytocin administration for elective first trimester suction dilation and curettage",
+  "authors": [
+   "Danesh G",
+   "Dephoure S",
+   "Elangainesan P",
+   "Wang S",
+   "Huszti E",
+   "Kirkham K",
+   "Jones CA",
+   "Thorne JG"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962759/",
+  "published": "2026-10-30",
+  "venue": "Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962590",
+  "topic_id": "MED-02",
+  "title": "Comparative prognostic performance of the FIGO 2023 and FIGO 2009 staging systems integrated with molecular classification in endometrial cancer: a retrospective single-centre cohort study",
+  "authors": [
+   "Xia W",
+   "Liu B",
+   "Kong R",
+   "Li Y",
+   "Zhang C",
+   "Liu H"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962590/",
+  "published": "2026-10-15",
+  "venue": "European journal of obstetrics, gynecology, and reproductive biology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964055",
+  "topic_id": "MED-03",
+  "title": "Geographic Distribution of Otolaryngologists and Disparities in the United States",
+  "authors": [
+   "Meyer M",
+   "Chestnut EH",
+   "Jagasia AA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964055/",
+  "published": "2026-10-29",
+  "venue": "Laryngoscope investigative otolaryngology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964307",
+  "topic_id": "MED-03",
+  "title": "Culturally adapted psychoeducation for bipolar disorder: a multicentre, assessor-masked, randomised controlled trial",
+  "authors": [
+   "Husain MI",
+   "Asif M",
+   "Khoso AB",
+   "Umer M",
+   "Shakoor S",
+   "Kiran T",
+   "Tahir MR",
+   "Rajput AH",
+   "Saqib M",
+   "Husain MO",
+   "Masood S",
+   "Mufti AA",
+   "Naeem F",
+   "Bhatia MR",
+   "Siddiqui KMS",
+   "Tamizuddin A",
+   "de Oliveira C",
+   "Wang W",
+   "Xue S",
+   "Zaheer J",
+   "Husain N",
+   "Chaudhry N",
+   "Mulsant BH",
+   "Chaudhry IB"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964307/",
+  "published": "2026-10-24",
+  "venue": "EClinicalMedicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963579",
+  "topic_id": "MED-03",
+  "title": "Barriers to Proactive Health Management Among Elderly Patients With Coronary Heart Disease in Rural Areas: A Qualitative Study",
+  "authors": [
+   "Tan J",
+   "Liu Q",
+   "Sun L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963579/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963522",
+  "topic_id": "MED-03",
+  "title": "Implementation of a Preoperative Nursing Consultation in Elective Paediatric Surgery: An Implementation Science Perspective",
+  "authors": [
+   "Pérez-Pozuelo JM",
+   "Hernández-Iglesias S",
+   "Clemente Gámez T",
+   "Mar Cuart Curtó MD",
+   "Felis Abadía G",
+   "Juaneda Font S",
+   "Giao Varela S",
+   "Gómez-Cantarino S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963522/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963496",
+  "topic_id": "MED-03",
+  "title": "Quality of Life, Self-Image, and Body Acceptance Among Mastectomized Women: A Questionnaire-Based Study in Maranhão, Brazil",
+  "authors": [
+   "Lucarelli AP",
+   "da Silva PCA",
+   "Martins MM",
+   "Teixeira VP",
+   "Molina LB",
+   "Tocantins MCC",
+   "Tiferes CR",
+   "Rea MS",
+   "Anna RSS",
+   "Martins R",
+   "Piato S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963496/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963345",
+  "topic_id": "MED-03",
+  "title": "Effects of a Nurse-Led Multicomponent Exercise Intervention for Haemodialysis Patients With Possible or Confirmed Sarcopenia: A Cluster Randomised Trial",
+  "authors": [
+   "Cai G",
+   "Zhang L",
+   "Zhang Y",
+   "Zhang J",
+   "Zhou J",
+   "Zhan B",
+   "Guo Q",
+   "Ying J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963345/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959526",
+  "topic_id": "MED-03",
+  "title": "Protein-bound Uremic Toxin Lowering Effects of Sevelamer in Hyperphosphatemic Hemodialysis Patients: A Multicenter Randomized Controlled Trial",
+  "authors": [
+   "Srifa N",
+   "Phannajit J",
+   "Tanateerapong P",
+   "Chongthanakorn K",
+   "Thamratnopkoon S",
+   "Wathanavasin W",
+   "Vanichakarn S",
+   "Lekhyananda S",
+   "Avihingsanon Y",
+   "Praditpornsilpa K",
+   "Eiam-Ong S",
+   "Susantitaphong P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959526/",
+  "published": "2026-09-11",
+  "venue": "Kidney medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963823",
+  "topic_id": "MED-04",
+  "title": "AAPM Medical Physics Practice Guideline 18.a: Superficial radiation therapy using low-energy kilovoltage x-rays",
+  "authors": [
+   "Lee YC",
+   "Lim SB",
+   "Mondalek PM",
+   "O Reilly S",
+   "Saez DG",
+   "Sheu RD",
+   "White GA",
+   "Stojadinovic S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963823/",
+  "published": "2026-11-01",
+  "venue": "Journal of applied clinical medical physics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963433",
+  "topic_id": "MED-04",
+  "title": "Are patient education materials for scalp cooling therapy accessible? A readability and suitability perspective",
+  "authors": [
+   "Khuhro A",
+   "Seng M",
+   "Dulmage B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963433/",
+  "published": "2026-10-31",
+  "venue": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962925",
+  "topic_id": "MED-04",
+  "title": "The use of Artificial Intelligence-Generated Diagrams in Dermatological Conference Presentations",
+  "authors": [
+   "Bulluss J",
+   "Verheyden MJ",
+   "Smith A",
+   "Parsi K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962925/",
+  "published": "2026-10-30",
+  "venue": "Journal of the American Academy of Dermatology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962919",
+  "topic_id": "MED-04",
+  "title": "Pre-Rituximab Immunoglobulin Testing and Baseline Hypogammaglobulinemia Across Rituximab Indications in Adults: A Multisite Retrospective Study",
+  "authors": [
+   "Chong AC",
+   "Hough VF",
+   "Irene Yum JE",
+   "Diaz-Menindez M",
+   "Mead-Harvey C",
+   "Pappu A",
+   "Chung K",
+   "Wingerchuk DM",
+   "Rosenthal AC",
+   "Sullivan M",
+   "Nagaraja V",
+   "Rank MA",
+   "Gonzalez-Estrada A",
+   "Wonnaparhown AM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962919/",
+  "published": "2026-10-30",
+  "venue": "The journal of allergy and clinical immunology. In practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960523",
+  "topic_id": "MED-04",
+  "title": "Nasal methicillin-resistant Staphylococcus aureus in adult atopic dermatitis: Severity and virulence associations-A cross-sectional study",
+  "authors": [
+   "Jomah AA",
+   "Alshammari Y",
+   "Al-Fadhli AH",
+   "Al-Dhafiri SA",
+   "Al Benwan K",
+   "Allafi A",
+   "Alenezi M",
+   "Al Banaw A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960523/",
+  "published": "2026-10-01",
+  "venue": "The Journal of international medical research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960034",
+  "topic_id": "MED-04",
+  "title": "Clinical and Dermoscopic Evaluation of Patients With Disorders of Hypopigmentation and Depigmentation",
+  "authors": [
+   "Goel A",
+   "Mahendra A",
+   "Gupta S",
+   "Shah HV",
+   "Goyal N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960034/",
+  "published": "2026-09-29",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963314",
+  "topic_id": "MED-05",
+  "title": "Pediatric Recurrent Croup: An International Delphi Consensus Statement",
+  "authors": [
+   "Crotty TJ",
+   "Cleere EF",
+   "Alhyari F",
+   "McBride A",
+   "Schaefer S",
+   "Heffernan CB"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963314/",
+  "published": "2026-10-30",
+  "venue": "The Laryngoscope",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964038",
+  "topic_id": "MED-05",
+  "title": "Clinical significance and discriminatory performance of the serum KL-6 level as a biomarker for severe Chlamydia pneumoniae infection in children",
+  "authors": [
+   "Ding L",
+   "Chen S",
+   "Song H",
+   "Cheng S",
+   "Shao M",
+   "Zhang H",
+   "Hua J",
+   "Gao F",
+   "Xu J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964038/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in cellular and infection microbiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963340",
+  "topic_id": "MED-05",
+  "title": "Prevalence and epidemiologic features of adult upper gastrointestinal Crohn's disease over the last 30 years: a scoping review",
+  "authors": [
+   "Lupas D",
+   "Natt N",
+   "Elzaanoun R",
+   "Yuan Y",
+   "Taylor P",
+   "Mortuza R",
+   "Vuyyuru S",
+   "Hanzel J",
+   "Ma C",
+   "Crowley E",
+   "Narula N",
+   "Danese S",
+   "Peyrin-Biroulet L",
+   "Singh S",
+   "Jairath V",
+   "Sedano R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963340/",
+  "published": "2026-10-09",
+  "venue": "Journal of Crohn's & colitis",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960028",
+  "topic_id": "MED-05",
+  "title": "Monitoring neuromuscular block in infants and children",
+  "authors": [
+   "Tobias JD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960028/",
+  "published": "2026-10-01",
+  "venue": "Saudi journal of anaesthesia",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959775",
+  "topic_id": "MED-05",
+  "title": "Physician Knowledge, Attitudes, and Practices Regarding Viral Exanthem Diagnosis and Mandatory Reporting Requirements in Major Metropolitan Regions of Florida, USA",
+  "authors": [
+   "Chen W",
+   "Ballarin S",
+   "Fioletova M",
+   "Bhosale CR",
+   "Matthews T",
+   "Blavo C",
+   "Forbes J",
+   "Potter AK"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959775/",
+  "published": "2026-09-29",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959231",
+  "topic_id": "MED-05",
+  "title": "Diagnostic Challenge of Primary Psychiatric Catatonia Versus Seronegative Autoimmune Encephalitis in Pediatrics: A Case Report",
+  "authors": [
+   "Ohabuenyi S",
+   "Kunta C",
+   "Udom K",
+   "Bhagi N",
+   "Ebere-Bank D"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959231/",
+  "published": "2026-09-28",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959573",
+  "topic_id": "MED-05",
+  "title": "Serum magnesium levels and the risk of acute viral cardiomyopathy in children: A case-control study",
+  "authors": [
+   "Doost-Mohammadi F",
+   "Anjomshoaa F",
+   "Derakhshan R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959573/",
+  "published": "2026-01-01",
+  "venue": "ARYA atherosclerosis",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964001",
+  "topic_id": "MED-06",
+  "title": "Fontan-associated liver disease: a Croatian national experience and current clinical practice",
+  "authors": [
+   "Šeša V",
+   "Marić Bešić K",
+   "Ćutić B",
+   "Domislović V",
+   "Ivanac Vranešić I",
+   "Košuta I",
+   "Martinčić P",
+   "Miličić D",
+   "Sremac M",
+   "Mrzljak A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964001/",
+  "published": "2026-10-31",
+  "venue": "Croatian medical journal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963452",
+  "topic_id": "MED-06",
+  "title": "Regional Divergence in Infective Endocarditis Prophylaxis: A Multi-center Analysis of Clinical Practice vs. International Guidelines from the Pan Arab Congenital Heart Disease Association (PACHDA)",
+  "authors": [
+   "Al Akhfash A",
+   "Dahdah N",
+   "El-Segaier M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963452/",
+  "published": "2026-10-31",
+  "venue": "Pediatric cardiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963111",
+  "topic_id": "MED-06",
+  "title": "Physicochemical stability of furosemide in elastomeric devices at 1 and 10 mg/mL",
+  "authors": [
+   "d'Huart E",
+   "Blaise F",
+   "Marquet C",
+   "Sobalak N",
+   "Demoré B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963111/",
+  "published": "2026-10-30",
+  "venue": "European journal of hospital pharmacy : science and practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962953",
+  "topic_id": "MED-06",
+  "title": "Sodium-Glucose Cotransporter-2 Inhibitors in Chronic Kidney Disease and Type 2 Diabetes: A Narrative Review",
+  "authors": [
+   "Banga A",
+   "Deedwania P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962953/",
+  "published": "2026-10-30",
+  "venue": "The American journal of medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962503",
+  "topic_id": "MED-06",
+  "title": "Evolution of diagnostic reference levels in paediatric cardiac interventional procedures: a narrative review",
+  "authors": [
+   "Ubeda C",
+   "Cabanas A",
+   "Nocetti D",
+   "Cubillos Y",
+   "Miranda P",
+   "Franco MC",
+   "Donoso-Aguirre S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962503/",
+  "published": "2026-10-28",
+  "venue": "Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961234",
+  "topic_id": "MED-06",
+  "title": "Percutaneous Axillary Intra-Aortic Balloon Pump Implantation in Patients Hospitalized with Heart Failure: Initial Brazilian Experience",
+  "authors": [
+   "Rocha BADM",
+   "Melo PHMC",
+   "Mapa L",
+   "Oliveira RN",
+   "Freire AF",
+   "Mejía HPG",
+   "Bellini VC",
+   "Kopel L",
+   "Lage SG",
+   "Marcondes-Braga FG",
+   "Mangini S",
+   "Ávila MS",
+   "Campos IW",
+   "Bacal F",
+   "Brito FS Jr",
+   "Abizaid AA",
+   "Nicz PFG"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961234/",
+  "published": "2026-10-26",
+  "venue": "Arquivos brasileiros de cardiologia",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964155",
+  "topic_id": "MED-06",
+  "title": "Gender sensitivity and its implementation in inpatient cardiology: a mixed-methods study of patient and healthcare professional perspectives",
+  "authors": [
+   "Sgraja S",
+   "Mollenhauer J",
+   "Kloepfer M",
+   "Seeland U",
+   "Kurscheid C",
+   "Amelung VE"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964155/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in global women's health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964056",
+  "topic_id": "MED-06",
+  "title": "Time as an indispensable causal dimension in cardiovascular diseases: toward a four-dimensional biology",
+  "authors": [
+   "Caluori G",
+   "Chaigne S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964056/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in cardiovascular medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961836",
+  "topic_id": "MED-06",
+  "title": "Expanding interventional cardiology in sub-Saharan Africa: Progress, barriers, and a path forward",
+  "authors": [
+   "Marzouk S",
+   "Tamirisa K",
+   "Rahim F",
+   "Kanaan Y",
+   "Mahatara E",
+   "Kisenge P",
+   "Khanbhai K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961836/",
+  "published": "2026-10-02",
+  "venue": "Cardiovascular journal of Africa",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961803",
+  "topic_id": "MED-06",
+  "title": "Expanding interventional cardiology in sub-Saharan Africa: Progress, barriers, and a path forward",
+  "authors": [
+   "Marzouk S",
+   "Tamirisa K",
+   "Rahim F",
+   "Kanaan Y",
+   "Mahatara E",
+   "Kisenge P",
+   "Khanbhai K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961803/",
+  "published": "2026-10-02",
+  "venue": "Cardiovascular journal of Africa",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963069",
+  "topic_id": "MED-07",
+  "title": "Orbital and neuro-ophthalmic manifestations of Lyme disease",
+  "authors": [
+   "Labkovich M",
+   "Mitchell J",
+   "Dempsey KS",
+   "Pomeranz HD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963069/",
+  "published": "2026-10-30",
+  "venue": "BMJ case reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963065",
+  "topic_id": "MED-07",
+  "title": "Life-threatening delayed intrathecal baclofen overdose following catheter contrast study",
+  "authors": [
+   "Elmowafy R",
+   "Pinto A",
+   "Falzon A",
+   "Dalton C"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963065/",
+  "published": "2026-10-30",
+  "venue": "BMJ case reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962700",
+  "topic_id": "MED-07",
+  "title": "Workup of Encephalopathy in Patients Receiving Cancer Immunotherapy",
+  "authors": [
+   "Sielski N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962700/",
+  "published": "2026-10-30",
+  "venue": "Seminars in neurology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962240",
+  "topic_id": "MED-07",
+  "title": "Constantin von Economo (1876-1931): cytoarchitectonic roots of modern network neuroscience",
+  "authors": [
+   "Can F",
+   "Ozturk S",
+   "Sahin C",
+   "Yavuz AY"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962240/",
+  "published": "2026-10-30",
+  "venue": "Journal of neurosurgery",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962440",
+  "topic_id": "MED-07",
+  "title": "Beyond the liver: Hepatitis E virus-associated Guillain-Barré syndrome with respiratory failure in an adolescent, a case report",
+  "authors": [
+   "Fatma BT",
+   "Anwer A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962440/",
+  "published": "2026-10-17",
+  "venue": "Journal of the National Medical Association",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964260",
+  "topic_id": "MED-07",
+  "title": "The History of Child Neurology in Iran: From Ancient Times to the Present",
+  "authors": [
+   "Mohammadi M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964260/",
+  "published": "2026-09-01",
+  "venue": "Iranian journal of child neurology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963476",
+  "topic_id": "MED-08",
+  "title": "Enhancing Psychiatry Residents' Knowledge of Community Resources: A Targeted Educational Intervention",
+  "authors": [
+   "Ghaffari-Rafi S",
+   "Liu V",
+   "Nguyen S",
+   "Morris S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963476/",
+  "published": "2026-10-30",
+  "venue": "Academic psychiatry : the journal of the American Association of Directors of Psychiatric Residency Training and the Association for Academic Psychiatry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962961",
+  "topic_id": "MED-08",
+  "title": "Sex Chromosome Aneuploidies and the Brain: from Neurodevelopmental Risk to Fundamental Biology",
+  "authors": [
+   "Pavlinek A",
+   "Davis S",
+   "Ingason A",
+   "Mollerstuen S",
+   "Levitis E",
+   "Legue M",
+   "Rau S",
+   "Liu S",
+   "Werge T",
+   "Tartaglia N",
+   "Raznahan A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962961/",
+  "published": "2026-10-30",
+  "venue": "Biological psychiatry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962478",
+  "topic_id": "MED-08",
+  "title": "Predictors of quality of life in older adults with major psychiatric disorders: A prospective multicenter study",
+  "authors": [
+   "Golda A",
+   "Sánchez-Rico M",
+   "Ramsay-Hellawell E",
+   "Fayad M",
+   "Leleu E",
+   "Limosin F",
+   "Hoertel N",
+   "CSA Study group"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962478/",
+  "published": "2026-10-26",
+  "venue": "Psychiatry research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962321",
+  "topic_id": "MED-08",
+  "title": "Predictive value of EEG/ECG biomarkers for treatment response in depression",
+  "authors": [
+   "Provaznikova B",
+   "de Bardeci M",
+   "Altamiranda E",
+   "Ip CT",
+   "Monn A",
+   "Weber S",
+   "Jungwirth J",
+   "Rohde J",
+   "Prinz S",
+   "Kronenberg G",
+   "Brühl A",
+   "Bracht T",
+   "Olbrich S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962321/",
+  "published": "2026-10-26",
+  "venue": "Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964351",
+  "topic_id": "MED-08",
+  "title": "Real-world clinical outcomes under intravenous and subcutaneous esketamine protocols for treatment-resistant depression: a multicenter, retrospective study",
+  "authors": [
+   "Alves GS",
+   "Dos Santos HMM",
+   "Damasceno SD",
+   "Maciel LM",
+   "da Silva OAFS",
+   "Fe CSM",
+   "Santana JG",
+   "de Freitas MBL",
+   "Carvalho AF",
+   "Monteiro D"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964351/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in psychiatry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959082",
+  "topic_id": "MED-08",
+  "title": "Microbiome-driven precision psychiatry: integrating multi-omics, artificial intelligence, and personalized interventions along the gut-brain axis",
+  "authors": [
+   "Zhang Y",
+   "Pei C",
+   "Zhang D",
+   "Liu J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959082/",
+  "published": "2026-10-15",
+  "venue": "Frontiers in medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960306",
+  "topic_id": "MED-08",
+  "title": "Delayed Recognition of Autism Spectrum Disorder and Off-Label Lurasidone After Intolerance to Risperidone and Aripiprazole in a Latin American Child: A Case Report",
+  "authors": [
+   "Orellana Banegas L",
+   "Urbina R",
+   "Flores Antúnez YII",
+   "Mejia JA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960306/",
+  "published": "2026-09-29",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958340",
+  "topic_id": "MED-08",
+  "title": "Psychometric properties of the Farsi version of the Night Eating Disorder Questionnaire",
+  "authors": [
+   "Khalkhali M",
+   "Fatemi S",
+   "Yazdanipour M",
+   "Khalkhali P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958340/",
+  "published": "2026-08-03",
+  "venue": "Journal of eating disorders",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964339",
+  "topic_id": "MED-09",
+  "title": "Camrelizumab plus famitinib as first-line treatment for locally advanced or metastatic pulmonary sarcomatoid carcinomas (CAPSTONE): a multi-center, single-arm, phase 2 trial",
+  "authors": [
+   "Jiang J",
+   "Wei Y",
+   "Yang B",
+   "Liu X",
+   "Cang S",
+   "Song Q",
+   "Wang H",
+   "Jin Z",
+   "Wang J",
+   "Ye F",
+   "She F",
+   "Kou H",
+   "Zhu B",
+   "Chu Q"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964339/",
+  "published": "2026-10-24",
+  "venue": "EClinicalMedicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963380",
+  "topic_id": "MED-09",
+  "title": "Mapping peer-support programs in French oncology hospitals: A mixed-method study",
+  "authors": [
+   "Rollet A",
+   "Busnel Y",
+   "Panse L",
+   "Thual G",
+   "Termoz A",
+   "Pomey MP",
+   "Haesebaert J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963380/",
+  "published": "2026-10-31",
+  "venue": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963249",
+  "topic_id": "MED-09",
+  "title": "A roadmap for quantifying metabolism in patients with cancer",
+  "authors": [
+   "Meghdadi B",
+   "Wahl DR",
+   "Nagrath D"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963249/",
+  "published": "2026-10-30",
+  "venue": "Trends in cancer",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964227",
+  "topic_id": "MED-10",
+  "title": "Association Between Hepatitis C Virus Infection and Coronary Artery Disease: A Systematic Review and Meta-Analysis",
+  "authors": [
+   "Alhashli A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964227/",
+  "published": "2026-10-24",
+  "venue": "Cardiology research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963996",
+  "topic_id": "MED-10",
+  "title": "Associations Between Self-Reported Previous Hepatitis C Diagnosis, Hepatitis C Treatment, and Current Binge Drinking Among Persons Who Inject Drugs-National HIV Behavioural Surveillance, 2015-2024",
+  "authors": [
+   "Feelemyer J",
+   "Hershow R",
+   "De Leon J",
+   "Broz D",
+   "NHBS Study Group"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963996/",
+  "published": "2026-12-01",
+  "venue": "Journal of viral hepatitis",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963989",
+  "topic_id": "MED-10",
+  "title": "Clinical Significance of Indeterminate Antibody to Hepatitis C in Cancer Patients",
+  "authors": [
+   "Pascucci JA",
+   "Mustafayev K",
+   "Jiang Y",
+   "Raad I",
+   "Guevara EY",
+   "Torres HA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963989/",
+  "published": "2026-12-01",
+  "venue": "Journal of viral hepatitis",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959407",
+  "topic_id": "MED-10",
+  "title": "Demodex-infected qualitative index based on meibomian gland dropout in Demodex blepharitis",
+  "authors": [
+   "Fu L",
+   "Chen XY",
+   "Wang S",
+   "Yao SL",
+   "Lian HL",
+   "Fu YN",
+   "Yu XX",
+   "Zhang ZH",
+   "Dai Q"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959407/",
+  "published": "2026-11-18",
+  "venue": "International journal of ophthalmology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962368",
+  "topic_id": "MED-10",
+  "title": "Sequence-Engineered Multifunctional Peptide Nanozyme Gel for Catalytic Microenvironment Regulation in Diabetic Infected Wounds",
+  "authors": [
+   "Shen Y",
+   "Wang K",
+   "Xu X",
+   "Sun Y",
+   "Ge H",
+   "Min J",
+   "Yuan W",
+   "Chen Z",
+   "Du W",
+   "Su R",
+   "Cui M",
+   "Qi W",
+   "Zhang C",
+   "Wang Y",
+   "Wang Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962368/",
+  "published": "2026-11-02",
+  "venue": "ACS applied materials & interfaces",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964036",
+  "topic_id": "MED-12",
+  "title": "No Effect of Preoperative Mepolizumab on Early Postoperative Healing After ESS for Severe CRSwNP",
+  "authors": [
+   "Homøe AS",
+   "Høxbro M",
+   "Tidemandsen J",
+   "Backer V",
+   "Kiaer E",
+   "Scott S",
+   "Rubek N",
+   "Aanæs K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964036/",
+  "published": "2026-10-29",
+  "venue": "Laryngoscope investigative otolaryngology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963932",
+  "topic_id": "MED-12",
+  "title": "A Robotic Laparoscope Holder With High Bending Curvature Based on an Origami Metamaterial",
+  "authors": [
+   "Zhao H",
+   "Li J",
+   "Yu Y",
+   "Sun Q",
+   "Wang Z",
+   "Zeng S",
+   "Pan L",
+   "Zhao J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963932/",
+  "published": "2026-12-01",
+  "venue": "The international journal of medical robotics + computer assisted surgery : MRCAS",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963147",
+  "topic_id": "MED-12",
+  "title": "Perioperative Care of Heart Failure, Arrhythmias, and Valvular Heart Disease",
+  "authors": [
+   "O'Glasser AY",
+   "Manjarrez EC"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963147/",
+  "published": "2026-12-01",
+  "venue": "Cardiac electrophysiology clinics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959628",
+  "topic_id": "MED-12",
+  "title": "Fundus autofluorescence patterns in highly myopic eyes received macular buckling surgery for myopic maculoschisis with macular detachment",
+  "authors": [
+   "Li J",
+   "Chen C",
+   "Huang X",
+   "Chen SD",
+   "Lu L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959628/",
+  "published": "2026-11-18",
+  "venue": "International journal of ophthalmology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962819",
+  "topic_id": "MED-13",
+  "title": "STUDY OF THE PREVALENCE OF HEREDITARY HEMOCHROMATOSIS (HFE) AND SECONDARY CAUSES OF HYPERFERRITINEMIA IN PATIENTS TREATED IN A BLOODLETTING PROGRAMME",
+  "authors": [
+   "Castiella A",
+   "Arteaga A",
+   "Garaizabal I",
+   "Sánchez-Iturri MJ",
+   "Urreta I",
+   "Zapata E"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962819/",
+  "published": "2026-10-30",
+  "venue": "Clinics and research in hepatology and gastroenterology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964123",
+  "topic_id": "MED-13",
+  "title": "Incidentally Detected Persistent Helicobacter heilmannii Gastritis in a Korean Woman With a Normal Endoscopic Examination: Successful Eradication After Salvage Therapy",
+  "authors": [
+   "Flanagan MG",
+   "Herman M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964123/",
+  "published": "2026-09-29",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963209",
+  "topic_id": "MED-13",
+  "title": "Improving Inpatient Gastroenterology Percutaneous Endoscopic Gastrostomy (PEG) Tube Referrals and Outcomes",
+  "authors": [
+   "Seltzer ES",
+   "Knorr IV",
+   "Park E",
+   "Neelam A",
+   "Arosemena PM",
+   "Bilani N",
+   "Smith MS",
+   "Simoes P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963209/",
+  "published": "2026-08-16",
+  "venue": "Joint Commission journal on quality and patient safety",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963202",
+  "topic_id": "MED-14",
+  "title": "A Retrospective Study of Ophthalmic Diseases in Companion Rabbits (Oryctolagus cuniculus): 297 Eyes From 205 Rabbits (2007-2022)",
+  "authors": [
+   "Ohara T",
+   "Kato K",
+   "Miwa Y",
+   "Nakata M",
+   "Sekiguchi S",
+   "Naganobu K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963202/",
+  "published": "2026-11-01",
+  "venue": "Veterinary ophthalmology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963100",
+  "topic_id": "MED-14",
+  "title": "Vision screening programmes for school-aged children in select high-income countries: a scoping review protocol",
+  "authors": [
+   "Rathod S",
+   "Findlay R",
+   "Black J",
+   "Edlin R",
+   "Silwal PR"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963100/",
+  "published": "2026-10-30",
+  "venue": "BMJ open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963074",
+  "topic_id": "MED-14",
+  "title": "Macular oedema with serous detachment after uncomplicated second-eye phacoemulsification surgery with administration of intracameral cefuroxime",
+  "authors": [
+   "Tocheny CE",
+   "Ramsey DJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963074/",
+  "published": "2026-10-30",
+  "venue": "BMJ case reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962856",
+  "topic_id": "MED-14",
+  "title": "Risk-Stratified Outcomes of Prophylactic Laser Versus Observation for Pediatric Peripheral Retinal Lesions",
+  "authors": [
+   "Meshkin RS",
+   "Abidi M",
+   "Altamirano F",
+   "Ha S",
+   "Chaaya C",
+   "Alahmadi R",
+   "Gonzalez E",
+   "Patel NA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962856/",
+  "published": "2026-10-30",
+  "venue": "Ophthalmology. Retina",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964045",
+  "topic_id": "MED-14",
+  "title": "Correction: Genetic testing and reproductive decision-making in Chinese families with inherited retinal disease: a cross-sectional study",
+  "authors": [
+   "Gu VY",
+   "Guo J",
+   "Zhang X",
+   "Zhang W",
+   "Liu H",
+   "Xiao H",
+   "Jiao D",
+   "Yin J",
+   "Tian T",
+   "Zhao P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964045/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964037",
+  "topic_id": "MED-15",
+  "title": "Opioid Prescription Trends by Otolaryngologists for Medicare Part D Patients",
+  "authors": [
+   "Wang LW",
+   "Peterson J",
+   "Zhang J",
+   "Sriram N",
+   "Smith SS",
+   "Wang JC"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964037/",
+  "published": "2026-10-29",
+  "venue": "Laryngoscope investigative otolaryngology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962592",
+  "topic_id": "MED-16",
+  "title": "Long-term outcomes and direct surgical cost of robot-assisted versus laparoscopic pyeloplasty in children",
+  "authors": [
+   "Nguyen QT",
+   "Nguyen VD",
+   "Vu HX",
+   "Do HM",
+   "Nguyen NLK",
+   "Nguyen HV",
+   "Le DA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962592/",
+  "published": "2026-10-23",
+  "venue": "Journal of pediatric urology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964301",
+  "topic_id": "MED-17",
+  "title": "Spontaneous spinal cerebrospinal fluid leak in very early pregnancy following frozen embryo transfer: A case report",
+  "authors": [
+   "Salam Y",
+   "El Moussa H",
+   "Obeid M",
+   "Chehade Z",
+   "Shaar S",
+   "Nasr A",
+   "Ghazeeri G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964301/",
+  "published": "2026-10-21",
+  "venue": "Case reports in women's health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963142",
+  "topic_id": "MED-17",
+  "title": "Modulating Perioperative Ventricular Excitability",
+  "authors": [
+   "Howard-Quijano K",
+   "Kuwabara Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963142/",
+  "published": "2026-12-01",
+  "venue": "Cardiac electrophysiology clinics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963495",
+  "topic_id": "MED-17",
+  "title": "Regional Anesthesia in Low- and Middle-Income Countries: Current Landscape and Future Directions",
+  "authors": [
+   "Sargent T",
+   "Mua FH",
+   "Dobrowski A",
+   "Chang C"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963495/",
+  "published": "2026-10-31",
+  "venue": "Current pain and headache reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963481",
+  "topic_id": "MED-17",
+  "title": "Effects of perioperative dexmedetomidine on postoperative delirium in older surgical patients: an updated meta-analysis of randomized controlled trials",
+  "authors": [
+   "Shi CG",
+   "Guo XJ",
+   "Wang XL",
+   "Wang CM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963481/",
+  "published": "2026-10-30",
+  "venue": "European geriatric medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963061",
+  "topic_id": "MED-17",
+  "title": "Effectiveness of supraclavicular brachial plexus block for the cutaneous innervation of the medial elbow region: a prospective, observational study",
+  "authors": [
+   "Orebaugh SL",
+   "Bachar JL",
+   "Bouye C"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963061/",
+  "published": "2026-10-30",
+  "venue": "Regional anesthesia and pain medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962988",
+  "topic_id": "MED-17",
+  "title": "Pediatric Endothelial Keratoplasty: A Modified Delphi Consensus by the EKLG Study Group on Indications, Surgical Techniques, and Postoperative Care",
+  "authors": [
+   "Gupta N",
+   "Ramappa M",
+   "Serafino M",
+   "Ali A",
+   "Conner E",
+   "Hamada S",
+   "Pineda R",
+   "Busin M",
+   "Cremona F",
+   "Gimeno FL",
+   "Pereira NC",
+   "Prescott C",
+   "Romano V",
+   "Trief D",
+   "Watson SL",
+   "Wylegala E",
+   "Zaidman G",
+   "Mehta JS",
+   "Nischal KK"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962988/",
+  "published": "2026-10-30",
+  "venue": "American journal of ophthalmology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962975",
+  "topic_id": "MED-17",
+  "title": "Implementing Image-Guided Brachytherapy (IGBT) For Cervical Cancer in Resource-Limited Settings: An International Multicentric Cross-Sectional Study of Resource and Workflow Impact",
+  "authors": [
+   "Hande V",
+   "Ndarukwa S",
+   "Rubio AP",
+   "Berger D",
+   "Anacak Y",
+   "Sucharski M",
+   "Flores JAS",
+   "Agarwal JP",
+   "Msadabwe SC",
+   "Gamboa E",
+   "Mwaiselage JD",
+   "Vanchinbazar E",
+   "Sanaa EM",
+   "Batyrkanova C",
+   "Shami A",
+   "Alanyali S",
+   "Sabaddin NA",
+   "Sukhin V",
+   "Jaksic B",
+   "Tamaki T",
+   "Chopra S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962975/",
+  "published": "2026-10-30",
+  "venue": "International journal of radiation oncology, biology, physics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962765",
+  "topic_id": "MED-17",
+  "title": "Surveillance of C. auris and Other Potentially Pathogenic Yeast Among Anesthesia Workspace Reservoirs, Multicenter Study",
+  "authors": [
+   "Loftus RW",
+   "Dexter F",
+   "Brindeiro CT",
+   "Oneill CJ",
+   "Kumar PN",
+   "Kumar RN",
+   "Charnin JE",
+   "Brown JR"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962765/",
+  "published": "2026-10-30",
+  "venue": "American journal of infection control",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962745",
+  "topic_id": "MED-17",
+  "title": "Effects of an opioid-free versus two opioid-based anesthetic protocols on intraoperative cardiovascular variables and postoperative pain in rabbits (Oryctolagus cuniculus) undergoing elective ovariohysterectomy: a prospective, randomized, blinded clinical study",
+  "authors": [
+   "Surita LE",
+   "Monteiro ER",
+   "Correia BS",
+   "Queiroga LB",
+   "Picoli R",
+   "Prado TW",
+   "Alievi MM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962745/",
+  "published": "2026-10-30",
+  "venue": "Veterinary journal (London, England : 1997)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962496",
+  "topic_id": "MED-17",
+  "title": "Anterior inferior psoas epimysial injection: a cadaveric feasibility study of an anterior pathway to the lumbar plexus",
+  "authors": [
+   "Interrante J",
+   "Takalo E",
+   "Lee SH",
+   "Grant S",
+   "Nanda M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962496/",
+  "published": "2026-10-30",
+  "venue": "Journal of clinical anesthesia",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962495",
+  "topic_id": "MED-17",
+  "title": "Processed electroencephalogram-guided anesthesia and its impact on postoperative delirium and perioperative efficiency: A systematic review and meta-analysis",
+  "authors": [
+   "Hormis A",
+   "Centimole Z",
+   "Saunders SJ",
+   "Ahmed Y",
+   "Hafermann J",
+   "Saunders R",
+   "Villinger J",
+   "Moll V"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962495/",
+  "published": "2026-10-30",
+  "venue": "Journal of clinical anesthesia",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962225",
+  "topic_id": "MED-17",
+  "title": "Iliohypogastric and Ilioinguinal Nerve Block for Awake ECPella Cannulation in Pediatric Patients With Nonpostcardiotomy Cardiogenic Shock",
+  "authors": [
+   "Di Nardo M",
+   "Perdichizzi S",
+   "Sperotto F",
+   "Rebonato M",
+   "Trezzi M",
+   "Brancaccio G",
+   "Zilli M",
+   "Adorisio R",
+   "Amodeo A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962225/",
+  "published": "2026-10-30",
+  "venue": "ASAIO journal (American Society for Artificial Internal Organs : 1992)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962222",
+  "topic_id": "MED-17",
+  "title": "Patients as Partners: A New Article Type in Anesthesia & Analgesia Extending Perspectives in Practice and Research",
+  "authors": [
+   "Weller JM",
+   "Pandit JJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962222/",
+  "published": "2026-10-30",
+  "venue": "Anesthesia and analgesia",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962714",
+  "topic_id": "MED-18",
+  "title": "Predicting for Malignancy in Congenital Lung Malformations: A Single-Center Study of the \"At Risk\" Pediatric and Adult Population",
+  "authors": [
+   "Rao MS",
+   "Bradley E",
+   "Haddad A",
+   "Lawther S",
+   "Dick A",
+   "Doherty G",
+   "Boyd C",
+   "Shields M",
+   "Eastwood MP"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962714/",
+  "published": "2026-11-01",
+  "venue": "Thoracic cancer",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963216",
+  "topic_id": "MED-18",
+  "title": "Work Stress, Burnout and Depression among Radiology Residents: The Moderating Effect of Environment",
+  "authors": [
+   "Gong P",
+   "Wang P",
+   "Yang Z",
+   "Zheng J",
+   "Zhang J",
+   "Zhu J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963216/",
+  "published": "2026-10-30",
+  "venue": "Academic radiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963070",
+  "topic_id": "MED-18",
+  "title": "Intramuscular venous malformation of the popliteus muscle presenting as chronic exertional leg pain",
+  "authors": [
+   "Ferrara D",
+   "Perre E",
+   "Martino M",
+   "Zeccolini M",
+   "Esposito F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963070/",
+  "published": "2026-10-30",
+  "venue": "BMJ case reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962920",
+  "topic_id": "MED-18",
+  "title": "Sex differences in the clinical phenotype of difficult-to-treat asthma in adults",
+  "authors": [
+   "Ahsan Z",
+   "Freeman A",
+   "Moyses HE",
+   "Charles D",
+   "Ainsworth B",
+   "Wei L",
+   "Michael Haitchi H",
+   "Eames C",
+   "Hudson-Colby JJ",
+   "Lewis A",
+   "Varkonyi-Sepp J",
+   "Rupani H",
+   "Dennison P",
+   "Arshad SH",
+   "Djukanovic R",
+   "Dabrio-Reina E",
+   "Vladimirovna Vorobeva E",
+   "Kurukulaaratchy R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962920/",
+  "published": "2026-10-30",
+  "venue": "The journal of allergy and clinical immunology. In practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962779",
+  "topic_id": "MED-18",
+  "title": "AI in Radiology in Pakistan: A Willing Workforce in an Unprepared System",
+  "authors": [
+   "Hilal K",
+   "Sajjad Z",
+   "Samnani S",
+   "Saeed Z",
+   "Nadeem N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962779/",
+  "published": "2026-10-30",
+  "venue": "Journal of the American College of Radiology : JACR",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963254",
+  "topic_id": "MED-19",
+  "title": "The Singing Voice Rehabilitation Specialist (SVRS) and Aligning Modern Practice with Updated Terminology: An Editorial",
+  "authors": [
+   "Ragan K",
+   "Rosenberg M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963254/",
+  "published": "2028-05-22",
+  "venue": "Journal of voice : official journal of the Voice Foundation",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962209",
+  "topic_id": "MED-19",
+  "title": "Conductive Composite-Based Wearable Sensors for Sports Science: Intelligent Data Analysis and Emerging Applications",
+  "authors": [
+   "Wang Y",
+   "Ji C",
+   "Shi H",
+   "Wang W",
+   "Qi Q",
+   "Li Y",
+   "Liang X",
+   "Guan Q",
+   "Zheng M",
+   "Gao X",
+   "Cao L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962209/",
+  "published": "2026-11-02",
+  "venue": "ACS applied materials & interfaces",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963343",
+  "topic_id": "MED-19",
+  "title": "Association Between Exercise Adherence and Long-Term Quality of Life in Ischemic Stroke Survivors: A 2-Year Prospective Cohort Study",
+  "authors": [
+   "Ziyuan J",
+   "Hong Z",
+   "Zhili L",
+   "Yanchun W",
+   "Hongchun L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963343/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963975",
+  "topic_id": "MED-19",
+  "title": "Volumetric stability and patient-reported outcomes after soft-tissue augmentation: A case series",
+  "authors": [
+   "Di Battista R",
+   "Salzillo A",
+   "Pizzolante T",
+   "Mummolo S",
+   "Balice G",
+   "Marchetti E"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963975/",
+  "published": "2026-10-31",
+  "venue": "Clinical advances in periodontics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963900",
+  "topic_id": "MED-19",
+  "title": "Geographical Location and Response to Trismus Rehabilitation Following Head and Neck Cancer Treatment: A Secondary Analysis of the Restorabite Trials",
+  "authors": [
+   "Ricketts V",
+   "Charters E",
+   "Frowen J",
+   "Poke S",
+   "Gleeson S",
+   "Pryor L",
+   "Heng C",
+   "Adshead B",
+   "Lai M",
+   "Boehm J",
+   "Natsis L",
+   "Dunn M",
+   "Clark JR"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963900/",
+  "published": "2026-10-30",
+  "venue": "Head & neck",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963595",
+  "topic_id": "MED-19",
+  "title": "The effect of early rehabilitation nursing on the recovery of cardiac function in patients with acute myocardial infarction",
+  "authors": [
+   "Feng Z",
+   "Zhang M",
+   "Qin Q"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963595/",
+  "published": "2026-10-30",
+  "venue": "Journal of health, population, and nutrition",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963588",
+  "topic_id": "MED-19",
+  "title": "Stroke-CORE: master study protocol of the national cohort of the specialty network stroke within the network university medicine in Germany",
+  "authors": [
+   "Wiegand FN",
+   "Alonso A",
+   "Audebert HJ",
+   "Barlinn J",
+   "Bendszus M",
+   "Brinkmann F",
+   "Cheng B",
+   "Dzietko M",
+   "Feil K",
+   "Flöel A",
+   "Franzisket C",
+   "Gerstl L",
+   "Grefkes C",
+   "Günther K",
+   "Harringa K",
+   "Jiru-Hillmann S",
+   "Kanwisch JL",
+   "Kerti L",
+   "Köhrmann M",
+   "Kopczak A",
+   "Kunze C",
+   "Linn J",
+   "Mengel A",
+   "Michalski D",
+   "Minnerup J",
+   "Nolte CH",
+   "Otte C",
+   "Purrucker J",
+   "Saur D",
+   "Schäbitz W",
+   "Schwab S",
+   "Szabo K",
+   "Uphaus T",
+   "Wachter R",
+   "Wagner M",
+   "Heuschmann PU",
+   "Gertz K",
+   "Thomalla G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963588/",
+  "published": "2026-10-30",
+  "venue": "Neurological research and practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963460",
+  "topic_id": "MED-19",
+  "title": "Longitudinal relationship between sleep and emotional/behavioral problems in autism spectrum disorders: a cross-lagged panel analysis",
+  "authors": [
+   "Dong H",
+   "Zhang Y",
+   "Yu X",
+   "Du L",
+   "Jia F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963460/",
+  "published": "2026-10-30",
+  "venue": "European journal of pediatrics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963280",
+  "topic_id": "MED-19",
+  "title": "Preservation of the preexisting occlusal plane and vertical dimension in subtotal maxillectomy reconstruction using Jaw-in-a-Day protocol",
+  "authors": [
+   "Gupta A",
+   "Joo D",
+   "Yampolsky A",
+   "Chang BM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963280/",
+  "published": "2026-10-30",
+  "venue": "The Journal of prosthetic dentistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963483",
+  "topic_id": "MED-20",
+  "title": "Point-of-care ultrasound in Ireland: a cross-sectional survey of practice, education and governance among healthcare professionals",
+  "authors": [
+   "Lunney A",
+   "Cronin K",
+   "McDermott C",
+   "Foley S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963483/",
+  "published": "2026-10-31",
+  "venue": "Irish journal of medical science",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963073",
+  "topic_id": "MED-20",
+  "title": "Diffuse alveolar haemorrhage mimicking fluid overload in a patient with immune thrombocytopenia and chronic kidney disease",
+  "authors": [
+   "Imran MN",
+   "Pillai S Sr",
+   "V T A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963073/",
+  "published": "2026-10-30",
+  "venue": "BMJ case reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959085",
+  "topic_id": "MED-20",
+  "title": "Logistics of clinical xenotransplantation: from donor pig production to global organ distribution",
+  "authors": [
+   "Fischer K",
+   "Denner J",
+   "Tönjes RR",
+   "Felgendreff P",
+   "Rahmel A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959085/",
+  "published": "2026-10-15",
+  "venue": "Transplant international : official journal of the European Society for Organ Transplantation",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961238",
+  "topic_id": "MED-20",
+  "title": "Diagnostic accuracy of point-of-care ultrasound for proximal lower-extremity deep vein thrombosis in emergency settings: A systematic review and meta-analysis",
+  "authors": [
+   "Huang L",
+   "Xu P",
+   "Chen Y",
+   "Chen W",
+   "Du C",
+   "Ye Y",
+   "Wu X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961238/",
+  "published": "2026-10-01",
+  "venue": "Science progress",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959797",
+  "topic_id": "MED-20",
+  "title": "Competence and Readiness of Physicians in Saudi Arabia in Managing In-Flight Medical Emergencies: A Systematic Review",
+  "authors": [
+   "Almutairi M",
+   "Alharbi T",
+   "Aljunaid MA",
+   "Alharbi S",
+   "Alsulami SE",
+   "Albishi N",
+   "Alhatimi Z",
+   "Khared S",
+   "Alharbi A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959797/",
+  "published": "2026-09-29",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958053",
+  "topic_id": "MED-20",
+  "title": "Preoperative risk factors and 180-day postoperative mortality in type a aortic dissection: a cohort study",
+  "authors": [
+   "Lai J",
+   "Wang W",
+   "Wang F",
+   "Yang X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958053/",
+  "published": "2026-08-04",
+  "venue": "BMC cardiovascular disorders",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963075",
+  "topic_id": "MED-21",
+  "title": "Triangular Prism (TriP) external fixator: an innovative solution for postoperative care of flaps in lower limb",
+  "authors": [
+   "Karmakar S",
+   "Ibrahimpur SS",
+   "Jacob AM",
+   "Choudhary L",
+   "Kala PC"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963075/",
+  "published": "2026-10-30",
+  "venue": "BMJ case reports",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962550",
+  "topic_id": "MED-21",
+  "title": "Exceptional referral protocol: Primary vetting outcomes in the East of Scotland following the introduction of clinical photography",
+  "authors": [
+   "Bonner RJ",
+   "Sanmugam K",
+   "Hapca A",
+   "Jordan DJ",
+   "Hogg FJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962550/",
+  "published": "2026-10-23",
+  "venue": "Journal of plastic, reconstructive & aesthetic surgery : JPRAS",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963338",
+  "topic_id": "MED-22",
+  "title": "Short-Term Risk of Pneumonia After Fracture by Anatomical Site in Adults Aged 65 Years or Older: A Propensity Score-Matched TriNetX Cohort Study",
+  "authors": [
+   "Hiyoshi T",
+   "Takeoka H",
+   "Hashimoto R",
+   "Sechi Y",
+   "Suzuyama H",
+   "Nabeshima S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963338/",
+  "published": "2026-11-01",
+  "venue": "Geriatrics & gerontology international",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963999",
+  "topic_id": "MED-22",
+  "title": "Large language models in spirometry interpretation: impact of guideline-based prompting",
+  "authors": [
+   "Özkan ME",
+   "Unat DS",
+   "Unat ÖS",
+   "Güçsav MO",
+   "Özgen MH",
+   "Özdemir D",
+   "İlhan E",
+   "Meral O",
+   "Akçay O"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963999/",
+  "published": "2026-10-31",
+  "venue": "Croatian medical journal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962968",
+  "topic_id": "MED-22",
+  "title": "Thoracic Outlet Syndrome in Athletes: A Narrative Review of Diagnostic Challenges, Management Strategies, and Return-to-Play Outcomes",
+  "authors": [
+   "Kakamd FH",
+   "Abdulkarim MM",
+   "Asaad SK",
+   "Ghafour AK",
+   "Ahmed HH",
+   "Raoof SS",
+   "Namiq HS",
+   "Hattam AS",
+   "Mohammed SS",
+   "Mustafa LJ",
+   "Hussein OM",
+   "Omer CS",
+   "Ahmed AT"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962968/",
+  "published": "2026-10-30",
+  "venue": "Annals of vascular surgery",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962922",
+  "topic_id": "MED-22",
+  "title": "Development and Implementation of an Integrated Early Lung Cancer Detection Program in Ethiopia: A Scalable Framework for Resource-Constrained Settings",
+  "authors": [
+   "Bonsa M",
+   "Mengistu Z",
+   "Yip R",
+   "Avila RS",
+   "Yankelevitz DF",
+   "Henschke CI",
+   "Ethiopia International Early Lung Cancer Action Program (Ethiopia-IELCAP) Investigators"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962922/",
+  "published": "2026-10-30",
+  "venue": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962880",
+  "topic_id": "MED-22",
+  "title": "An anatomical framework for cutaneous sympathetic organization in mice reveals overlapping ganglionic territories and long-range stellate projections",
+  "authors": [
+   "Tilley L",
+   "Shwartz Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962880/",
+  "published": "2026-10-30",
+  "venue": "The Journal of investigative dermatology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962229",
+  "topic_id": "MED-22",
+  "title": "The association between preoperative cervical degeneration in adult patients with spinal deformity and poor postoperative cervical sagittal alignment after thoracolumbar deformity correction",
+  "authors": [
+   "Coury Whalley JR",
+   "Hassan FM",
+   "Reyes JL",
+   "Lewerenz E",
+   "Sevensky R",
+   "Lombardi JM",
+   "Jackson TJ",
+   "Zhang AS",
+   "Strong MJ",
+   "Lehman RA",
+   "Riew KD",
+   "Sardar ZM",
+   "Lenke LG"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962229/",
+  "published": "2026-10-30",
+  "venue": "Journal of neurosurgery. Spine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963316",
+  "topic_id": "MED-23",
+  "title": "Integrative Evolutionary and Structural Analysis of GBA1 Provides Insights Into Mutation-Specific Effects Associated With Parkinson's Disease",
+  "authors": [
+   "Mustafa S",
+   "Abbasi AN",
+   "Mughal KA",
+   "Batool F",
+   "Malik MF",
+   "Khalid RR",
+   "Abbasi AA",
+   "Bao Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963316/",
+  "published": "2026-11-01",
+  "venue": "The European journal of neuroscience",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960903",
+  "topic_id": "MED-23",
+  "title": "Clinical efficacy of recombinant human bone morphogenetic protein-2 loaded acellular dermal matrix for horizontal ridge augmentation",
+  "authors": [
+   "Seo H",
+   "Pak H",
+   "Park E",
+   "Son J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960903/",
+  "published": "2026-11-01",
+  "venue": "Medicina oral, patologia oral y cirugia bucal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960896",
+  "topic_id": "MED-23",
+  "title": "The 100 most cited scientific articles authored by Brazilian researchers in Oral Pathology/Medicine: A bibliometric analysis",
+  "authors": [
+   "Meira SM",
+   "de Sousa ÁA",
+   "de Souza MT",
+   "Santana PG",
+   "Coletta RD",
+   "Martelli DR",
+   "Oliveira EA",
+   "Martelli-Júnior H"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960896/",
+  "published": "2026-11-01",
+  "venue": "Medicina oral, patologia oral y cirugia bucal",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959872",
+  "topic_id": "MED-23",
+  "title": "Stuck in the Traffic-Light: Moving Past Color Signals to Real Decisions in Mitral Transcatheter Edge-to-Edge Therapy Management",
+  "authors": [
+   "Agarwal V",
+   "Zahr F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959872/",
+  "published": "2026-07-17",
+  "venue": "Structural heart : the journal of the Heart Team",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963924",
+  "topic_id": "MED-24",
+  "title": "Macular OCTA Biomarkers of Ocular Involvement in Patients With Primary Central Nervous System Lymphoma",
+  "authors": [
+   "Zhu T",
+   "Li Q",
+   "Zhang Y",
+   "Peng G",
+   "Wang Z",
+   "Zhang Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963924/",
+  "published": "2026-11-01",
+  "venue": "Hematological oncology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959445",
+  "topic_id": "MED-24",
+  "title": "Atherosclerosis: From Pathogenesis to Therapeutic Interventions",
+  "authors": [
+   "Zhou E",
+   "Zhan C",
+   "Li Y",
+   "Zeng Y",
+   "Luo R",
+   "Ouyang X",
+   "Liu S",
+   "Yang R",
+   "Yan N",
+   "Jiang L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959445/",
+  "published": "2026-10-29",
+  "venue": "MedComm",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958928",
+  "topic_id": "MED-24",
+  "title": "Integrating Machine Learning to Identify Prognostic Subtypes and the Cisplatin Resistance Gene RRM2 in Lung Adenocarcinoma",
+  "authors": [
+   "Huang H",
+   "Tao T",
+   "Li Z",
+   "Zhai K",
+   "Cui B",
+   "Feng H",
+   "Li P",
+   "Li B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958928/",
+  "published": "2026-11-01",
+  "venue": "Thoracic cancer",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963334",
+  "topic_id": "MED-25",
+  "title": "Association Between Intolerance of Uncertainty and Coping Behaviours Among Pregnant Women With Fear of Childbirth: A Cross-Sectional Study",
+  "authors": [
+   "Ji K",
+   "Li Z",
+   "Min H",
+   "Sun L",
+   "You H",
+   "Zhao Y"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963334/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963134",
+  "topic_id": "MED-25",
+  "title": "Changes in Demographic and Clinical Characteristics of MuSK Myasthenia Gravis",
+  "authors": [
+   "Falso S",
+   "Marini S",
+   "Marini M",
+   "Habetswallner F",
+   "Evoli A",
+   "Iorio R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963134/",
+  "published": "2026-11-01",
+  "venue": "European journal of neurology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963508",
+  "topic_id": "MED-25",
+  "title": "Dietary patterns and cardiovascular risk in adult survivors of childhood cancer: findings from the SCCSS-Nutrition Study",
+  "authors": [
+   "Li R",
+   "Revuelta Iniesta R",
+   "Barker AR",
+   "Chatelan A",
+   "Leuenberger LM",
+   "Shoman Y",
+   "Spycher BD",
+   "Belle FN"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963508/",
+  "published": "2026-10-31",
+  "venue": "Journal of cancer survivorship : research and practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963894",
+  "topic_id": "MED-25",
+  "title": "Applicability of the Modified Brief Diagnostic Criteria for Temporomandibular Disorders in a Population-Based Study: A Retrospective Evaluation",
+  "authors": [
+   "Lohilahti T",
+   "Nykänen L",
+   "Vuollo V",
+   "Näpänkangas R",
+   "Sipilä K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963894/",
+  "published": "2026-10-30",
+  "venue": "Journal of oral rehabilitation",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963874",
+  "topic_id": "MED-25",
+  "title": "Weather-driven infection events as indicators of severe wheat stripe rust",
+  "authors": [
+   "De Wolf E",
+   "Vicentin E",
+   "Dias da Silva C Jr",
+   "Sharma P",
+   "Andersen Onofre K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963874/",
+  "published": "2026-10-30",
+  "venue": "Plant disease",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963872",
+  "topic_id": "MED-25",
+  "title": "Squash bug host preference is associated with cucurbit yellow vine disease incidence across cucurbit species",
+  "authors": [
+   "Rodriguez-Herrera K",
+   "Nelson EM",
+   "Day CTC",
+   "Nault B",
+   "Smart CD"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963872/",
+  "published": "2026-10-30",
+  "venue": "Plant disease",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963838",
+  "topic_id": "MED-25",
+  "title": "Global Burden, Temporal Trends, and Risk Factors of Low Back Pain Among People Aged 15-49 Years",
+  "authors": [
+   "Lei Y",
+   "Tang T",
+   "Huang C",
+   "Zhou Z"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963838/",
+  "published": "2026-10-30",
+  "venue": "Orthopaedic surgery",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963585",
+  "topic_id": "MED-25",
+  "title": "Stroke care in Germany: evidence gaps and priorities for health services research and quality assurance",
+  "authors": [
+   "Wiegand FN",
+   "Bartig D",
+   "Faiss J",
+   "Gumbinger C",
+   "Kaendler S",
+   "Knieß T",
+   "Kolominsky-Rabas P",
+   "Montellano FA",
+   "Lieb A",
+   "Neumann-Haefelin T",
+   "Schwarzbach CJ",
+   "Soda H",
+   "Stein M",
+   "Sünkeler I",
+   "Thomalla G",
+   "Wagner M",
+   "Misselwitz B",
+   "Heuschmann P",
+   "Commission Health Services Research and Quality Assurance of the German Stroke Society (“Deutsche Schlaganfall Gesellschaft, DSG”)"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963585/",
+  "published": "2026-10-30",
+  "venue": "Neurological research and practice",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963532",
+  "topic_id": "MED-25",
+  "title": "Types of adult intensive care units and admissions in Türkiye between 2018 and 2023: a nationwide cohort study",
+  "authors": [
+   "Yildirim M",
+   "Halacli B",
+   "Gemcioglu E",
+   "Baser S",
+   "Kaya EK",
+   "Bozkus R",
+   "Ata N",
+   "Birinci S",
+   "Topeli A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963532/",
+  "published": "2026-10-30",
+  "venue": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963087",
+  "topic_id": "MED-26",
+  "title": "Rationale and design of the predictive models of beryllium sensitisation and chronic beryllium disease (PROBe): study protocol",
+  "authors": [
+   "Li L",
+   "Mroz MM",
+   "Vestal B",
+   "Macaluso JD",
+   "Epperson LE",
+   "Griffin TJ",
+   "Jagtap PD",
+   "Weise DO",
+   "Maier LA",
+   "Bhargava M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963087/",
+  "published": "2026-10-30",
+  "venue": "BMJ open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962868",
+  "topic_id": "MED-26",
+  "title": "Ergonomic workplace injuries as predictors of opioid-related outcomes in New York",
+  "authors": [
+   "Chemmacheril C",
+   "Malvasi O",
+   "Williams AA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962868/",
+  "published": "2026-10-30",
+  "venue": "American journal of preventive medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962748",
+  "topic_id": "MED-26",
+  "title": "Cardiometabolic Abnormalities among Normal-Weight Adults: Prevalence and Associated Sociodemographic and Lifestyle Factors in a Large Spanish Cohort",
+  "authors": [
+   "Riutord-Sbert P",
+   "Ramírez-Manent JI",
+   "López PJT",
+   "Busquets-Cortes C",
+   "Campayo IC",
+   "López-González ÁA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962748/",
+  "published": "2026-10-30",
+  "venue": "Revista clinica espanola",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960800",
+  "topic_id": "MED-26",
+  "title": "Enhancing Universal Design Through Co-Design: Realising the Potential of Disability Lived Experience",
+  "authors": [
+   "Watchorn V",
+   "Tucker R",
+   "Frawley P",
+   "Hitch D"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960800/",
+  "published": "2026-10-28",
+  "venue": "Studies in health technology and informatics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958574",
+  "topic_id": "MED-26",
+  "title": "Effect of a breathing mask on type 2 mediator responses to subzero exercise in individuals without asthma",
+  "authors": [
+   "Hanstock H",
+   "Ainegren M",
+   "Andersson EP",
+   "Bäckebjörk E",
+   "Stenfors N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958574/",
+  "published": "2026-10-28",
+  "venue": "BMC research notes",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961205",
+  "topic_id": "MED-26",
+  "title": "Work instability, musculoskeletal disorders and absenteeism among Primary Care nurses",
+  "authors": [
+   "Santos HECD",
+   "Petersen RS",
+   "Rocha FLR",
+   "Santin Júnior LJ",
+   "Marziale MHP"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961205/",
+  "published": "2026-10-19",
+  "venue": "Revista latino-americana de enfermagem",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964200",
+  "topic_id": "MED-26",
+  "title": "Prevalence and factors associated with suicidal ideation and suicidal behavior among police personnel in Kerala, India: a cross-sectional study",
+  "authors": [
+   "Sasi A",
+   "Ravi R",
+   "Olickal JJ",
+   "Thankappan KR"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964200/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in public health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959822",
+  "topic_id": "MED-26",
+  "title": "Cross-sectional assessment of anxiety and insomnia of Spanish veterinarians following African swine fever wild boar detection in Spain",
+  "authors": [
+   "Schambow RA",
+   "Guerra P",
+   "Aviles MM",
+   "Iglesias I",
+   "Yagüe AP",
+   "Higuera MA",
+   "Perez AD",
+   "Perez AM"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959822/",
+  "published": "2026-10-15",
+  "venue": "Frontiers in veterinary science",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959270",
+  "topic_id": "MED-26",
+  "title": "Parasitological study of animals maintained under human care at a Zoobotanical Park in Bahia, Northeastern Brazil",
+  "authors": [
+   "Batista AIV",
+   "Gurgel JVO",
+   "Pereira LMF",
+   "Ferreira PRB",
+   "Gomes MC",
+   "Brasil AWL",
+   "Lima VFS",
+   "Coelho WAC",
+   "Carvalho LRRA",
+   "Pereira JS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959270/",
+  "published": "2026-10-15",
+  "venue": "Frontiers in parasitology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959135",
+  "topic_id": "MED-26",
+  "title": "Health-related factors among seafarers based on the health ecology model: a cross-sectional study",
+  "authors": [
+   "Wu D",
+   "Chen S",
+   "Zheng H",
+   "Yu X",
+   "Yan B"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959135/",
+  "published": "2026-10-15",
+  "venue": "Frontiers in public health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959117",
+  "topic_id": "MED-26",
+  "title": "The cognition of dynamic evaluation of operating room environmental quality among medical staff: a qualitative study",
+  "authors": [
+   "Li Y",
+   "Zhang T",
+   "Bian D"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959117/",
+  "published": "2026-10-15",
+  "venue": "Frontiers in public health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959087",
+  "topic_id": "MED-26",
+  "title": "The need for supportive policies: connecting individual placement and support to the domains of employment and mental health care",
+  "authors": [
+   "van Weeghel J",
+   "Fioritti A",
+   "Jaeckel D",
+   "Johnston G",
+   "Mazzetti G",
+   "Ahola M",
+   "Bejerholm U",
+   "Bergmans C",
+   "Debroas F",
+   "de Winter L",
+   "Einarsdottir SE",
+   "Guglielmi D",
+   "Jónasson H",
+   "Kárníková A",
+   "Koatz D",
+   "Kropeit J",
+   "Lunder Arvesen AL",
+   "Manchisi D",
+   "Markerink J",
+   "Nan Lium K",
+   "Sipilä N",
+   "Twomey U",
+   "Van Audenhove C"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959087/",
+  "published": "2026-10-15",
+  "venue": "Public health reviews",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42959040",
+  "topic_id": "MED-26",
+  "title": "Stimulus over expertise: what governs clinical visual attention in early health-vocational students",
+  "authors": [
+   "Yuksel B",
+   "Tayyare BÇ",
+   "Eryilmaz N"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42959040/",
+  "published": "2026-10-15",
+  "venue": "Frontiers in medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961068",
+  "topic_id": "MED-26",
+  "title": "Cultural Influences and Help-Seeking Among South Asian Expatriate Men in the Gulf: A Qualitative Study of Tradition and Transformation",
+  "authors": [
+   "Adnani N",
+   "Azhar H"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961068/",
+  "published": "2026-09-01",
+  "venue": "American journal of men's health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963213",
+  "topic_id": "MED-27",
+  "title": "Corrigendum to \"Optimizing dosimeter placement for radiation protection in nuclear medicine: A Monte Carlo simulation study\" [Appl. Radiat. Isotop., 239, (2027), Article 113038]",
+  "authors": [
+   "Aryan F",
+   "Rajabi H",
+   "Saraei P",
+   "Hasnaki A",
+   "Dalvand S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963213/",
+  "published": "2026-10-30",
+  "venue": "Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962974",
+  "topic_id": "MED-27",
+  "title": "Meeting the Need: Development of a Theranostics-Focused Nuclear Oncology Physics Fellowship",
+  "authors": [
+   "Walter YA",
+   "Wu HT",
+   "Lokitz S",
+   "Springer A",
+   "Wang CJ",
+   "Stec G",
+   "Dugas J",
+   "Rosen L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962974/",
+  "published": "2026-10-30",
+  "venue": "International journal of radiation oncology, biology, physics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964248",
+  "topic_id": "MED-27",
+  "title": "Cascaded deep learning for synthesis of (18)F-FDG PET from (18)F-octreotide: model parameter optimization and performance evaluation",
+  "authors": [
+   "Chang R",
+   "Yang L",
+   "Gao J",
+   "Liu X",
+   "Wang B",
+   "Li Y",
+   "Duan X"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964248/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in nuclear medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964047",
+  "topic_id": "MED-27",
+  "title": "Nocturnal sleep duration, clinical activity score, and thyroid functional remission after radioactive iodine therapy in Graves' disease with thyroid-associated ophthalmopathy",
+  "authors": [
+   "Liao K",
+   "Wei X",
+   "Chen Y",
+   "Meng D",
+   "Mo S",
+   "Sun Z",
+   "Song F",
+   "Lu L",
+   "Huang W"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964047/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in endocrinology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962738",
+  "topic_id": "MED-28",
+  "title": "Anti-USAG-1 therapy for teeth agenesis and biological tooth regeneration: review of current evidence and future directions",
+  "authors": [
+   "Tawfik AM",
+   "Aboulyazeed AM",
+   "Abdelsattar RM",
+   "Elazizi H",
+   "Hazem M",
+   "Amer M",
+   "Morsi RA",
+   "Badr BA"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962738/",
+  "published": "2026-10-30",
+  "venue": "Gene",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961229",
+  "topic_id": "MED-28",
+  "title": "Association between demarcated opacities in primary canines and hypomineralized second primary molars",
+  "authors": [
+   "Ribeiro MKS",
+   "Costa LL",
+   "Lemos LM",
+   "Dantas JFS",
+   "Santos PB"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961229/",
+  "published": "2026-10-23",
+  "venue": "Brazilian oral research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964187",
+  "topic_id": "MED-28",
+  "title": "Editorial: Current trends in oral surgery and implantology",
+  "authors": [
+   "Antonelli A",
+   "Apaza Alccayhuaman KA",
+   "Correia F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964187/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in oral health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964150",
+  "topic_id": "MED-28",
+  "title": "Impact of an undergraduate dental research training program on evidence-based research outcomes",
+  "authors": [
+   "Chelikani P",
+   "Kelekis-Cholakis A",
+   "Bhullar RP"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964150/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in dental medicine",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961017",
+  "topic_id": "MED-28",
+  "title": "Special Issue: Abstracts of the 30th Congress of the International Association of Paediatric Dentistry - Refresh, Refocus, Renew, October 22-25, 2025, Cape Town, South Africa",
+  "authors": [],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961017/",
+  "published": "2026-10-01",
+  "venue": "International journal of paediatric dentistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42961006",
+  "topic_id": "MED-28",
+  "title": "Special Issue: Abstracts of the 30th Congress of the International Association of Paediatric Dentistry - Refresh, Refocus, Renew, October 22-25, 2025, Cape Town, South Africa",
+  "authors": [],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42961006/",
+  "published": "2026-10-01",
+  "venue": "International journal of paediatric dentistry",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960040",
+  "topic_id": "MED-28",
+  "title": "Digital Glide Path© for Fibre Post Retrieval Through Guided Endodontics in a Patient With Factor VIII Deficiency",
+  "authors": [
+   "Jaiswal S",
+   "Gupta S",
+   "Sharma A",
+   "Khan J",
+   "Chaturvedi P"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960040/",
+  "published": "2026-09-29",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42960014",
+  "topic_id": "MED-28",
+  "title": "Passive Fit in Digital Full-Arch Implant Rehabilitation: A Clinical Application of an Adaptive Titanium Base",
+  "authors": [
+   "Heimke J",
+   "Kurtzman GM",
+   "Blood WS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42960014/",
+  "published": "2026-09-29",
+  "venue": "Cureus",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958315",
+  "topic_id": "MED-28",
+  "title": "Tensile bond strength of soft and hard reline materials to conventional heat-polymerized, CAD-CAM milled, and 3D-printed denture base resins: an in vitro comparative study",
+  "authors": [
+   "Akman Sürücü B",
+   "Kazazoğlu E"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958315/",
+  "published": "2026-08-04",
+  "venue": "BMC oral health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42958565",
+  "topic_id": "MED-28",
+  "title": "Effects of early primary molar loss on immature permanent molar mechanics: a finite element comparison of transpalatal arch and nance appliances",
+  "authors": [
+   "Muttepe SN",
+   "Güner Z"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42958565/",
+  "published": "2026-07-28",
+  "venue": "BMC oral health",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963864",
+  "topic_id": "MED-29",
+  "title": "Nursing Student Led Blood Pressure Education in a Community Mental Health Setting: A Pre Post Test Study",
+  "authors": [
+   "Stephen C",
+   "Yousiph T",
+   "Halcomb E",
+   "Jay EK",
+   "Smith B",
+   "Patterson C",
+   "Curtis E",
+   "Mullan J",
+   "Moxham L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963864/",
+  "published": "2026-12-01",
+  "venue": "International journal of mental health nursing",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963596",
+  "topic_id": "MED-29",
+  "title": "Person-Centred Climate Despite Unmet Fundamental Care Needs: Findings From inCHARGE Using a Convergent Parallel Mixed Methods Design",
+  "authors": [
+   "Hauffman A",
+   "Nyholm L",
+   "Jangland E",
+   "Avallin T",
+   "Fröjd C",
+   "Gunnarsson AK",
+   "Edfeldt K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963596/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963341",
+  "topic_id": "MED-29",
+  "title": "The Effect of Implementing Orem's Self-Care Model on Balance and Fatigue in Patients With Diabetic Neuropathy: A Clinical Trial",
+  "authors": [
+   "Sadeghi A",
+   "Malekzadeh M",
+   "Dehbanizadeh A",
+   "Sadat SJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963341/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963337",
+  "topic_id": "MED-29",
+  "title": "Identification of Issues Contributing to Longer Length of Stay and Higher Readmission Rates for Parkinson's Patients Admitted to Hospital",
+  "authors": [
+   "Williams S",
+   "Dinh HM",
+   "Imbriotis V",
+   "Sargeant C",
+   "Lubomski M",
+   "Silberstein P",
+   "Prior SJ"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963337/",
+  "published": "2026-11-01",
+  "venue": "Nursing open",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963819",
+  "topic_id": "MED-29",
+  "title": "TB nurses are key partners in building a TB-free world",
+  "authors": [
+   "Lowbridge C",
+   "Foster J",
+   "Christensen A",
+   "Shaw KA",
+   "Massey PD",
+   "Devlin S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963819/",
+  "published": "2026-10-30",
+  "venue": "The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963739",
+  "topic_id": "MED-29",
+  "title": "Staff experiences of person-centred care and quality of life in nursing homes as influenced by leadership and work situation: a qualitative study",
+  "authors": [
+   "Eldskott H",
+   "Lindkvist M",
+   "Niklasson J",
+   "Backman A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963739/",
+  "published": "2026-10-30",
+  "venue": "BMC geriatrics",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963329",
+  "topic_id": "MED-29",
+  "title": "A Cross-Sectional Study Exploring the Nature, Contributing Factors and Consequences of Violence Against Nurses in Emergency Departments",
+  "authors": [
+   "Hou Y",
+   "Corbally M",
+   "Timmins F"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963329/",
+  "published": "2026-10-30",
+  "venue": "Journal of clinical nursing",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963277",
+  "topic_id": "MED-29",
+  "title": "Using the Lens of Frailty to Examine Falls and Safe Patient Handling in Adult Patients with Cancer",
+  "authors": [
+   "Brosnan P",
+   "Mannino JE",
+   "Carmody C",
+   "Barton-Burke M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963277/",
+  "published": "2026-10-30",
+  "venue": "Seminars in oncology nursing",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963276",
+  "topic_id": "MED-29",
+  "title": "Exploring playful nursing care in pediatric wards: A qualitative study using participant observation and interview",
+  "authors": [
+   "Tokumura A",
+   "Muramoto M",
+   "Morisaki-Nakamura M",
+   "Fukui M",
+   "Sato I",
+   "Yamaji N",
+   "Ikeda M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963276/",
+  "published": "2026-10-30",
+  "venue": "Journal of pediatric nursing",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963191",
+  "topic_id": "MED-29",
+  "title": "Moral Residue as Structural Burden: A Critical Ethnography of Palliative Care Nurses in Family-Centred End-of-Life Care in Chinese Tertiary Hospitals",
+  "authors": [
+   "Wang R",
+   "Wu Y",
+   "Lu Y",
+   "He W"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963191/",
+  "published": "2026-10-30",
+  "venue": "Journal of clinical nursing",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962897",
+  "topic_id": "MED-29",
+  "title": "Pre-Matriculation and Bridging Programs in Health Professions Education to Support Student Success",
+  "authors": [
+   "Renaud A",
+   "Chahine EB",
+   "Larose-Pierre M",
+   "Hughes J"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962897/",
+  "published": "2026-10-30",
+  "venue": "American journal of pharmaceutical education",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963811",
+  "topic_id": "MED-30",
+  "title": "Phosphorylation of RpoD upregulates suilysin and enhances Streptococcus suis virulence",
+  "authors": [
+   "Tian Y",
+   "Zhao Z",
+   "Yin H",
+   "Liu X",
+   "Fu J",
+   "Gao L",
+   "Li Y",
+   "Fang R",
+   "Peng L"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963811/",
+  "published": "2026-10-30",
+  "venue": "Veterinary research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963516",
+  "topic_id": "MED-30",
+  "title": "The Next Era in Cerebrovascular Autoregulation Assessment?",
+  "authors": [
+   "Brasil S",
+   "Frigieri G",
+   "Taccone FS"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963516/",
+  "published": "2026-10-30",
+  "venue": "Neurocritical care",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962872",
+  "topic_id": "MED-30",
+  "title": "Corrigendum to \"Resilience and motor skill learning: An exploratory fNIRS study of behavioral and prefrontal activation patterns\" [Physiology & Behavior 313 (2026) 115364]",
+  "authors": [
+   "Lee S",
+   "Kim T"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962872/",
+  "published": "2026-10-30",
+  "venue": "Physiology & behavior",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962730",
+  "topic_id": "MED-30",
+  "title": "Scallops as an emerging platform toward functional reproductive endocrinology",
+  "authors": [
+   "Nagasawa K",
+   "Yoon J",
+   "Osada M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962730/",
+  "published": "2026-10-30",
+  "venue": "General and comparative endocrinology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962708",
+  "topic_id": "MED-30",
+  "title": "Revisiting Recipient Vessel Physiology: Intraoperative Evidence of Flow Coupling in Free Flaps",
+  "authors": [
+   "Ruta MR",
+   "Liu S",
+   "Egro FM",
+   "Buntic R",
+   "Safa B",
+   "Odobescu A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962708/",
+  "published": "2026-10-30",
+  "venue": "Journal of reconstructive microsurgery",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962658",
+  "topic_id": "MED-30",
+  "title": "Age-dependent structural evolution of a functional amyloid contributes to memory impairment in Drosophila",
+  "authors": [
+   "Ou S",
+   "Guillen-Poza PA",
+   "Ng KK",
+   "Xu L",
+   "Cheng BY",
+   "Yi Y",
+   "Ho LY",
+   "Franco-Fernández A",
+   "Khaki PSS",
+   "Mukhi M",
+   "Cheung KC",
+   "Sharma R",
+   "Oroz J",
+   "Hirano Y",
+   "Hervas R"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962658/",
+  "published": "2026-10-30",
+  "venue": "Cell",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962613",
+  "topic_id": "MED-30",
+  "title": "Association of Neutrophil-to-Prognostic Nutritional Index Ratio With Prognosis in Critically Ill Patients Undergoing Gastric Procedures",
+  "authors": [
+   "Xiang F",
+   "Qiu Y",
+   "Huang J",
+   "Lan M"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962613/",
+  "published": "2026-10-30",
+  "venue": "The Journal of surgical research",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962295",
+  "topic_id": "MED-30",
+  "title": "DT4ECG: a subject-aware ECG monitoring framework for joint user attribution and human activity recognition",
+  "authors": [
+   "You S",
+   "Gu B",
+   "Yang Y",
+   "Cheng S",
+   "Yu S",
+   "Guo S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962295/",
+  "published": "2026-10-30",
+  "venue": "Biomedical physics & engineering express",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964311",
+  "topic_id": "VET-01",
+  "title": "Development and validation of a novel scale to evaluate dog owners' knowledge and awareness of ticks and tick-borne diseases",
+  "authors": [
+   "Zarrabi Ahrabi S",
+   "Karaçam Yilmaz ZD",
+   "Merey G",
+   "Alizade S",
+   "Su S",
+   "Vatansever I",
+   "Akyildiz G",
+   "Gargili Keleş A"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964311/",
+  "published": "2026-10-17",
+  "venue": "One health (Amsterdam, Netherlands)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964305",
+  "topic_id": "VET-01",
+  "title": "Urgent but isolated: Public perception and understanding of One Health in daily life",
+  "authors": [
+   "Saria P",
+   "Bartl EM",
+   "Winkler S",
+   "Liermann R",
+   "Ernst D",
+   "Kau-Strebinger S"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964305/",
+  "published": "2026-10-16",
+  "venue": "One health (Amsterdam, Netherlands)",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42963938",
+  "topic_id": "VET-01",
+  "title": "Evaluation of the Effects of Isoflurane Anaesthesia on Gastrointestinal Transit Time, Feed Intake and Defecation in Rabbits",
+  "authors": [
+   "Zarein A",
+   "Rostami A",
+   "Masoudifard M",
+   "Farzad-Mohajeri S",
+   "Bahonar A",
+   "Liyeh HN",
+   "Sohani Z"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42963938/",
+  "published": "2026-11-01",
+  "venue": "Veterinary medicine and science",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962783",
+  "topic_id": "VET-01",
+  "title": "Occurrence of macrolide antibiotics in drinking water sources and their potential health risks",
+  "authors": [
+   "Gu D",
+   "Ai L",
+   "Wang C",
+   "Miao X",
+   "Mao G",
+   "Chen Y",
+   "Ding Y",
+   "Yang L",
+   "Wu X",
+   "Feng W"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962783/",
+  "published": "2026-10-30",
+  "venue": "Chemico-biological interactions",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964254",
+  "topic_id": "VET-01",
+  "title": "Occurrence and molecular characteristics of carbapenem-resistant Enterobacteriaceae recovered from wildlife: a systematic review and meta-analysis",
+  "authors": [
+   "Yim JH",
+   "Tanveer M",
+   "Ntakiyisumba E",
+   "Hur J",
+   "Won G"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964254/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in microbiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962336",
+  "topic_id": "VET-02",
+  "title": "The world's first isolation of multidrug-resistant Yersinia enterocolitica strains from Shetland ponies",
+  "authors": [
+   "Bancerz-Kisiel A",
+   "Odyniec M",
+   "Troshchynskyi K"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962336/",
+  "published": "2026-10-27",
+  "venue": "Veterinary microbiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42964080",
+  "topic_id": "VET-02",
+  "title": "Host interaction functions of LIC_10902 and LIC_20185 highlight the multifactorial nature of Leptospira interrogans pathogenesis",
+  "authors": [
+   "Gaspar JP",
+   "Paixao JEL",
+   "Surdel MC",
+   "Coburn J",
+   "Teixeira AF",
+   "Nascimento ALTO"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42964080/",
+  "published": "2026-10-16",
+  "venue": "Frontiers in cellular and infection microbiology",
+  "section": "main"
+ },
+ {
+  "source": "pubmed",
+  "id": "42962337",
+  "topic_id": "VET-02",
+  "title": "Microbiome-based survey of pathogenic bacteria at the chimpanzee-human-livestock interface, Uganda",
+  "authors": [
+   "Dias-Alves A",
+   "Marco I",
+   "Jasso MV",
+   "García-Ulloa M",
+   "Asiimwe C",
+   "Hobaiter C",
+   "Akankwasa JW",
+   "Babweteera F",
+   "Kayaga E",
+   "Malavé A",
+   "Migura-Garcia L",
+   "Aguilar XF",
+   "Martínez-Urtaza J",
+   "Cabezón O"
+  ],
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42962337/",
+  "published": "2026-10-15",
+  "venue": "Veterinary microbiology",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://spectrum.ieee.org/early-electric-vehicles",
+  "topic_id": "MOB-04",
+  "title": "When Electric Cars Were for Women",
+  "authors": [],
+  "link": "https://spectrum.ieee.org/early-electric-vehicles",
+  "published": "2026-10-31",
+  "venue": "IEEE Spectrum",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
+  "topic_id": "QNT-05",
+  "title": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
+  "authors": [],
+  "link": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
+  "published": "2026-10-31",
+  "venue": "The Quantum Insider",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+  "topic_id": "SEC-14",
+  "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+  "authors": [],
+  "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+  "published": "2026-10-31",
+  "venue": "The Hacker News",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+  "topic_id": "SEC-14",
+  "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+  "authors": [],
+  "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+  "published": "2026-10-31",
+  "venue": "BleepingComputer",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261029000445",
+  "topic_id": "QNT-07",
+  "title": "'2026 국제광융합엑스포' 성황리 폐막…광융합산업 미래 성장 가능성 확인",
+  "authors": [],
+  "link": "https://www.etnews.com/20261029000445",
+  "published": "2026-11-01",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261030000288",
+  "topic_id": "MED-04",
+  "title": "[무엇이든 리뷰] 오늘은 진정, 내일은 보습…GS샵 뷰티 PB '스킨핏 마스크' 써보니",
+  "authors": [],
+  "link": "https://www.etnews.com/20261030000288",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261030000229",
+  "topic_id": "MED-01",
+  "title": "비만치료제 '주 1회→월 1회' 시대 열린다…내년 임상결과 '주목'",
+  "authors": [],
+  "link": "https://www.etnews.com/20261030000229",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261031000009",
+  "topic_id": "MED-12",
+  "title": "“새 부리 달고 자신감 되찾았다”… 세계 최초 3D 프린팅 수술받은 코뿔새",
+  "authors": [],
+  "link": "https://www.etnews.com/20261031000009",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261030000350",
+  "topic_id": "MED-11",
+  "title": "사람의 손기술을 복사한다...로봇 학습용 '장갑'",
+  "authors": [],
+  "link": "https://www.etnews.com/20261030000350",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261031000037",
+  "topic_id": "SEM-01",
+  "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의",
+  "authors": [],
+  "link": "https://www.etnews.com/20261031000037",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261030000098",
+  "topic_id": "PHM-02",
+  "title": "챗GPT 말 믿고 뇌전증약 끊었다가… 美 30대 여성 사망, 오픈AI 피소",
+  "authors": [],
+  "link": "https://www.etnews.com/20261030000098",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261031000029",
+  "topic_id": "MED-14",
+  "title": "[의정 브리프] AI 데이터센터 전력망 정비·산업용 전기요금 개선 필요",
+  "authors": [],
+  "link": "https://www.etnews.com/20261031000029",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261031000026",
+  "topic_id": "SEM-10",
+  "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보",
+  "authors": [],
+  "link": "https://www.etnews.com/20261031000026",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261031000024",
+  "topic_id": "SEC-14",
+  "title": "FBI, 바이낸스 63억달러 해킹 수사…북한 연계 조직 배후 지목",
+  "authors": [],
+  "link": "https://www.etnews.com/20261031000024",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261031000023",
+  "topic_id": "ECO-01",
+  "title": "코스피 급등락에…레버리지 '음의 복리' 평년 9배 뛰었다",
+  "authors": [],
+  "link": "https://www.etnews.com/20261031000023",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.etnews.com/20261030000209",
+  "topic_id": "SEM-02",
+  "title": "[반도체 라이징 스타]&lt;8&gt;코스모크, 차세대 메모리·센서 비파괴 분석…“제조라인 장비 개발 속도”",
+  "authors": [],
+  "link": "https://www.etnews.com/20261030000209",
+  "published": "2026-10-31",
+  "venue": "전자신문 오늘의뉴스",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
+  "topic_id": "SEM-01",
+  "title": "Intel shifts production capacity from consumer to server CPUs in face of 'unprecedented' AI demand",
+  "authors": [],
+  "link": "https://www.tomshardware.com/pc-components/cpus/intel-shifts-production-capacity-from-consumer-to-server-cpus-in-face-of-unprecedented-ai-demand-company-navigating-one-of-the-most-significant-supply-shortages-in-history",
+  "published": "2026-10-31",
+  "venue": "Tom's Hardware",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
+  "topic_id": "CSX-02",
+  "title": "Tech sleuth claims to have found the oldest GUI application that still works with Windows 11",
+  "authors": [],
+  "link": "https://www.tomshardware.com/software/windows/tech-sleuth-claims-to-have-found-the-oldest-gui-application-that-still-works-with-windows-11-cdplayer-exe-from-windows-nt-in-november-1992-wins-the-prize",
+  "published": "2026-10-31",
+  "venue": "Tom's Hardware",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+  "topic_id": "MED-13",
+  "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
+  "authors": [],
+  "link": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
+  "published": "2026-10-31",
+  "venue": "ScienceDaily Health & Medicine",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+  "topic_id": "MED-07",
+  "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+  "authors": [],
+  "link": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm",
+  "published": "2026-10-31",
+  "venue": "ScienceDaily Health & Medicine",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+  "topic_id": "MED-10",
+  "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+  "authors": [],
+  "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+  "published": "2026-10-31",
+  "venue": "ScienceDaily Health & Medicine",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+  "topic_id": "MED-14",
+  "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+  "authors": [],
+  "link": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+  "published": "2026-10-31",
+  "venue": "ScienceDaily Health & Medicine",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
+  "topic_id": "MED-09",
+  "title": "Reversing radiation-activated immune suppression in cancer",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-reversing-immune-suppression-cancer.html",
+  "published": "2026-10-31",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html",
+  "topic_id": "MED-08",
+  "title": "Twin study links artistic, but not scientific, creativity to poorer mental health",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-twin-links-artistic-scientific-creativity.html",
+  "published": "2026-10-31",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html",
+  "topic_id": "MED-10",
+  "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html",
+  "published": "2026-10-31",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-treatment-norrin-healthy-blood-vessels.html",
+  "topic_id": "MED-14",
+  "title": "Treatment with norrin helps maintain healthy blood vessels and preserve vision in diabetic rats",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-treatment-norrin-healthy-blood-vessels.html",
+  "published": "2026-10-31",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-personalized-score-ten-blood-markers.html",
+  "topic_id": "MED-30",
+  "title": "Personalized score uses ten blood markers to flag disease risk and assess healthy aging",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-personalized-score-ten-blood-markers.html",
+  "published": "2026-10-31",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://medicalxpress.com/news/2026-10-swab-women-painful-biopsy-endometrial.html",
+  "topic_id": "MED-09",
+  "title": "New swab test could spare some women a painful biopsy for endometrial cancer",
+  "authors": [],
+  "link": "https://medicalxpress.com/news/2026-10-swab-women-painful-biopsy-endometrial.html",
+  "published": "2026-10-31",
+  "venue": "Medical Xpress",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044187",
+  "topic_id": "KMD-03",
+  "title": "의협 대의원회 의장단 \"특별감사 요구는 정치적 목적\" 비판",
+  "authors": [],
+  "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044187",
+  "published": "2026-10-31",
+  "venue": "청년의사",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044184",
+  "topic_id": "KMD-03",
+  "title": "의협 종합학술대회 특별감사 무산…대의원 정족수 미달로 산회",
+  "authors": [],
+  "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044184",
+  "published": "2026-10-31",
+  "venue": "청년의사",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044180",
+  "topic_id": "MED-04",
+  "title": "누베파마, PQQ 기반 스킨케어 제품 국내 판매 확대",
+  "authors": [],
+  "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044180",
+  "published": "2026-10-31",
+  "venue": "청년의사",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044179",
+  "topic_id": "KMD-03",
+  "title": "의료계도 환자도 불만…개정 의료분쟁조정법, 누구를 위한 법인가",
+  "authors": [],
+  "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044179",
+  "published": "2026-10-31",
+  "venue": "청년의사",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044178",
+  "topic_id": "KMD-03",
+  "title": "의료사고 형사특례 기준 윤곽…고위험 필수의료행위 1440건 추려",
+  "authors": [],
+  "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044178",
+  "published": "2026-10-31",
+  "venue": "청년의사",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031035600017",
+  "topic_id": "PHM-11",
+  "title": "중국 8개·인도 9개·한국 0개…바이오시밀러 내년엔 반격할까",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031035600017",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 건강",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261030165800017",
+  "topic_id": "MED-29",
+  "title": "[가보니] CCTV 안 봐도 낙상 위험 감지…AI가 돕는 요양원",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261030165800017",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 건강",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031035800017",
+  "topic_id": "PHM-10",
+  "title": "국산 비만약 에페 가격 나왔다…마운자로보다 40% 저렴",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031035800017",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 건강",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261030079000053",
+  "topic_id": "MED-04",
+  "title": "[청송소식] 보건의료원 6일부터 1·3주 금요일 피부과 진료",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261030079000053",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 건강",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261030158800530",
+  "topic_id": "MED-08",
+  "title": "국민 70% \"최근 1년 정신건강 문제경험\"…도움 요청은 30%뿐",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261030158800530",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 건강",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031040900371",
+  "topic_id": "MED-29",
+  "title": "60년 전 독일로 떠난 간호사들, AI 배우는 후배들과 만났다",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031040900371",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 건강",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+  "topic_id": "PHY-02",
+  "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+  "authors": [],
+  "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+  "published": "2026-10-31",
+  "venue": "ScienceDaily Physics",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101014400003",
+  "topic_id": "ECO-03",
+  "title": "[속보] 10월 무역수지 425억달러 흑자…2개월 연속 400억달러대",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101014400003",
+  "published": "2026-11-01",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101014000003",
+  "topic_id": "ECO-03",
+  "title": "[속보] 반도체 10월 수출 564억달러…2개월 연속 500억달러대",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101014000003",
+  "published": "2026-11-01",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261030166300002",
+  "topic_id": "ECO-03",
+  "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261030166300002",
+  "published": "2026-11-01",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101013600003",
+  "topic_id": "ECO-03",
+  "title": "[1보] 10월 수출 1천153억달러…2개월 연속 1천100억달러대",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101013600003",
+  "published": "2026-11-01",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261030162700061",
+  "topic_id": "ECO-02",
+  "title": "경기도, '드론·3D 기술'로 중대결함 교량 21곳 실태점검",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261030162700061",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031026200008",
+  "topic_id": "ECO-01",
+  "title": "다시 변동성 커지는 증시…코스피 지난달 -16%, 역대 일곱번째",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031026200008",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031000200008",
+  "topic_id": "ECO-01",
+  "title": "10일중 8일 주가 같은 방향 삼전닉스…3분기 실적 땐 엇갈려",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031000200008",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261030139400530",
+  "topic_id": "ECO-03",
+  "title": "코로나 같은 전국 고용위기, 5개 지표로 감지해 신속 대응",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261030139400530",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031026300008",
+  "topic_id": "ECO-01",
+  "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031026300008",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031038300002",
+  "topic_id": "ECO-04",
+  "title": "미래에셋, 디지털엑스 오세진 대표 교체 가닥",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031038300002",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031042800002",
+  "topic_id": "ECO-01",
+  "title": "금감원 불법공매도 긴급점검…\"5개 안팎 종목 조사\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031042800002",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031044700002",
+  "topic_id": "ECO-02",
+  "title": "은행 부실채권 1년만에 1.3조 늘었다…8년6개월만에 최대",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031044700002",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031045300002",
+  "topic_id": "ECO-02",
+  "title": "3분기 은행 중기 대출 등 연체율 '빨간불'…9년 반만에 최고",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031045300002",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031024600002",
+  "topic_id": "ECO-02",
+  "title": "연 4%대 예금 비중 2년 9개월 만에 최고…3%대 대출은 씨말라",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031024600002",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031021700060",
+  "topic_id": "ECO-02",
+  "title": "[고양소식] 퓨리오사AI·엑스페릭스와 AI선도 도시 MOU",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031021700060",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 경제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+  "topic_id": "GEO-03",
+  "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+  "authors": [],
+  "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-31",
+  "venue": "BBC World",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+  "topic_id": "GEO-03",
+  "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+  "authors": [],
+  "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+  "published": "2026-10-31",
+  "venue": "BBC World",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101006400071",
+  "topic_id": "GEO-03",
+  "title": "[속보] 美FBI \"북한, 바이낸스 60억달러 가상화폐 탈취 배후\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101006400071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101005100071",
+  "topic_id": "GEO-01",
+  "title": "美국무 \"중간선거 패해도 트럼프 외교정책 바꾸지 못한다\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101005100071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101003200071",
+  "topic_id": "GEO-01",
+  "title": "美·日·호주·인도, 中겨냥 \"공급망 교란\"…공동 대응키로",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101003200071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101002600071",
+  "topic_id": "GEO-03",
+  "title": "버지니아·워싱턴DC, '트럼프 개선문' 건설 금지 소송",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101002600071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101002700071",
+  "topic_id": "GEO-03",
+  "title": "美국무 \"트럼프, 이란 공격 재개 아직 결정 안 내렸다\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101002700071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101002000071",
+  "topic_id": "GEO-03",
+  "title": "美국무, 韓의원 비자 문제에 \"수십년전 행동 관련…해결할 것\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101002000071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101001900108",
+  "topic_id": "GEO-03",
+  "title": "젤렌스키, 에르도안 만나 \"러, 흑해 상황 악화시켜\" 비난",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101001900108",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101001700071",
+  "topic_id": "GEO-03",
+  "title": "美국무 \"트럼프, 김정은과 대화 준비돼…아직 회담 일정 없어\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101001700071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101000500108",
+  "topic_id": "GEO-04",
+  "title": "러 정보기관 \"美, 모스크바 테러 첩보 전달\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101000500108",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261101000200071",
+  "topic_id": "GEO-03",
+  "title": "\"개처럼 일한다\"는 트럼프, 10월에만 26차례 중간선거 유세",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261101000200071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031044400009",
+  "topic_id": "GEO-03",
+  "title": "트럼프 마러라고 리조트에 방공미사일 배치…'어벤저' 포착",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031044400009",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031043000009",
+  "topic_id": "GEO-03",
+  "title": "트럼프 핼러윈 파티가 공포로…에어포스원 등장에 \"테러냐\" 소동",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031043000009",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031042200009",
+  "topic_id": "GEO-03",
+  "title": "'美도주' 보우소나루 인스타 등장…\"핍박 탓에 브라질 떠났다\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031042200009",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031041800082",
+  "topic_id": "GEO-04",
+  "title": "폴란드 인프라 사진 25만장 촬영…러시아 스파이 적발",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031041800082",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031039300104",
+  "topic_id": "GEO-03",
+  "title": "차기 필리핀 대선은 친중 대 반중?…강경파 국방장관 출마 시사",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031039300104",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031038400073",
+  "topic_id": "GEO-06",
+  "title": "'쿼드' 외교장관, 美서 회동…북한 정세와 동·남중국해 논의",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031038400073",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031034700009",
+  "topic_id": "GEO-03",
+  "title": "트럼프, 엘살바도르 스트롱맨과도 밀착 행보…아이티 파병 묵인",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031034700009",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031029500009",
+  "topic_id": "GEO-03",
+  "title": "\"트럼프, '지쳤다' 보도에 격분해 쉬려던 주말유세 재개\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031029500009",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031000351071",
+  "topic_id": "GEO-03",
+  "title": "트럼프, 위기의 캔자스·아이오와 유세 취소 번복…'다시 간다'(종합)",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031000351071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031026800009",
+  "topic_id": "GEO-06",
+  "title": "中, 대만 해역 정밀조사 가속…\"수중작전용 데이터 축적\"",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031026800009",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031017251071",
+  "topic_id": "GEO-01",
+  "title": "한미일 외교장관 \"한반도 비핵화 노력 지속\"…北 긴장완화 촉구(종합)",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031017251071",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031019900072",
+  "topic_id": "GEO-01",
+  "title": "두달 남은 유엔 사무총장 경쟁에 튀르키예도 합류…8파전으로",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031019900072",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ },
+ {
+  "source": "rss",
+  "id": "https://www.yna.co.kr/view/AKR20261031019300009",
+  "topic_id": "GEO-03",
+  "title": "\"북한 외화벌이 절반\"…바이낸스 사태에 '코인 도둑질 산업화' 주목",
+  "authors": [],
+  "link": "https://www.yna.co.kr/view/AKR20261031019300009",
+  "published": "2026-10-31",
+  "venue": "연합뉴스 국제",
+  "section": "main"
+ }
+]
